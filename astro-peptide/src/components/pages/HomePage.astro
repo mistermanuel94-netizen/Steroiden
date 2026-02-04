@@ -13,7 +13,7 @@ const { lang } = Astro.props;
 const market = getMarket(lang);
 const siteCopy = await getEntry('site', lang === 'en' ? 'en' : lang);
 const siteData = siteCopy?.data;
-const seoName = siteData?.seo?.homeName ?? `Peptide Shop - Buy Peptides ${market.marketName} & Europe`;
+const seoName = siteData?.seo?.homeName ?? `Best-Peptides - Buy Peptides ${market.marketName} & Europe`;
 const seoDescription = siteData?.seo?.homeDescription ?? `Buy peptides ${market.marketName} & Europe. Premium research peptides for sale with 99% purity. Fast delivery, COA included. Semaglutide, BPC-157, Tirzepatide & more.`;
 const organizationDescription = siteData?.seo?.organizationDescription ?? `Buy peptides ${market.marketName} & Europe. Leading supplier of research peptides with 99% purity. Fast delivery across ${market.geoPlacename} and Europe.`;
 
@@ -107,8 +107,8 @@ const websiteSchema = {
 const organizationSchema = {
   "@context": "https://schema.org",
   "@type": "Organization",
-  "name": "Peptide Shop",
-  "alternateName": `PeptideShop ${market.marketName}`,
+  "name": "Best-Peptides",
+  "alternateName": `Best-Peptides ${market.marketName}`,
   "url": "https://peptide-shop.net",
   "logo": "https://peptide-shop.net/favicon.png",
   "description": organizationDescription,
@@ -146,7 +146,7 @@ const homeSchema = {
 ---
 
 <Layout 
-  title={t('home.heroTitle') + ' | ' + t('home.heroTitleHighlight') + ' | Peptide Shop'}
+  title={t('home.heroTitle') + ' | ' + t('home.heroTitleHighlight') + ' | Best-Peptides'}
   description={t('home.heroSubtitle')}
   schema={homeSchema}
 >
@@ -154,8 +154,8 @@ const homeSchema = {
   <!-- SHOPCART-INSPIRED E-COMMERCE STYLES -->
   <style is:global>
     :root {
-      --shop-primary: #0077b6;
-      --shop-primary-light: rgba(0, 119, 182, 0.1);
+      --shop-primary: var(--accent-primary);
+      --shop-primary-light: rgba(227, 27, 35, 0.1);
       --shop-secondary: #1e293b;
       --shop-accent: #f59e0b;
       --shop-bg: #ffffff;
@@ -228,7 +228,7 @@ const homeSchema = {
       right: -10%;
       width: 80%;
       height: 200%;
-      background: radial-gradient(circle, rgba(0, 119, 182, 0.05) 0%, transparent 60%);
+      background: radial-gradient(circle, rgba(227, 27, 35, 0.05) 0%, transparent 60%);
       border-radius: 50%;
     }
 
@@ -292,10 +292,10 @@ const homeSchema = {
     }
 
     .btn-shop-primary:hover {
-      background: #15503a;
+      background: var(--btn-primary-end);
       color: white;
       transform: translateY(-2px);
-      box-shadow: 0 8px 20px rgba(0, 119, 182, 0.25);
+      box-shadow: 0 8px 20px rgba(227, 27, 35, 0.25);
     }
 
     .btn-shop-outline {
@@ -402,7 +402,7 @@ const homeSchema = {
 
     .hero-image-container {
       position: relative;
-      background: linear-gradient(135deg, rgba(0, 119, 182, 0.1) 0%, rgba(0, 119, 182, 0.05) 100%);
+      background: linear-gradient(135deg, rgba(227, 27, 35, 0.1) 0%, rgba(227, 27, 35, 0.05) 100%);
       border-radius: 24px;
       padding: 40px;
       display: flex;
@@ -626,7 +626,7 @@ const homeSchema = {
 
     /* CTA Section - Green Theme */
     .cta-full-section {
-      background: linear-gradient(135deg, #0077b6 0%, #023e8a 100%);
+      background: linear-gradient(135deg, var(--btn-primary-start) 0%, var(--btn-primary-end) 100%);
     }
 
     .cta-box {
@@ -752,6 +752,65 @@ const homeSchema = {
       grid-column: span 2;
     }
 
+    /* About Transformation Slider Styles */
+    .about-slider {
+      border-radius: 16px;
+      overflow: hidden;
+    }
+
+    .about-slider .slide-item {
+      outline: none;
+    }
+
+    .about-slider .slide-item img {
+      width: 100%;
+      height: auto;
+      min-height: 400px;
+      object-fit: cover;
+    }
+
+    .about-slider .slick-dots {
+      bottom: 15px;
+    }
+
+    .about-slider .slick-dots li button:before {
+      color: white;
+      font-size: 10px;
+      opacity: 0.7;
+    }
+
+    .about-slider .slick-dots li.slick-active button:before {
+      color: white;
+      opacity: 1;
+    }
+
+    .about-slider .slick-prev,
+    .about-slider .slick-next {
+      z-index: 10;
+      width: 40px;
+      height: 40px;
+    }
+
+    .about-slider .slick-prev {
+      left: 15px;
+    }
+
+    .about-slider .slick-next {
+      right: 15px;
+    }
+
+    .about-slider .slick-prev:before,
+    .about-slider .slick-next:before {
+      font-size: 24px;
+      opacity: 0.9;
+    }
+
+    @media (max-width: 768px) {
+      .about-slider .slide-item img {
+        min-height: 300px;
+      }
+    }
+
     .about-image-secondary {
       grid-column: span 1;
     }
@@ -760,12 +819,12 @@ const homeSchema = {
       position: absolute;
       bottom: 20px;
       right: 20px;
-      background: #0077b6;
+      background: var(--accent-primary);
       color: white;
       padding: 20px 24px;
       border-radius: 12px;
       text-align: center;
-      box-shadow: 0 8px 24px rgba(0, 119, 182, 0.3);
+      box-shadow: 0 8px 24px rgba(227, 27, 35, 0.3);
     }
 
     .about-badge-number {
@@ -954,7 +1013,7 @@ const homeSchema = {
       /* Ensure focus states are visible for accessibility */
       .btn-shop-primary:focus-visible,
       .btn-shop-outline:focus-visible {
-        outline: 3px solid rgba(0, 119, 182, 0.4);
+        outline: 3px solid rgba(227, 27, 35, 0.4);
         outline-offset: 2px;
       }
 
@@ -1020,7 +1079,7 @@ const homeSchema = {
       
       .stat-item {
         padding: 16px 12px;
-        background: rgba(0, 119, 182, 0.03);
+        background: rgba(227, 27, 35, 0.03);
         border-radius: 12px;
         text-align: center;
       }
@@ -1375,12 +1434,12 @@ const homeSchema = {
       /* Active states for touch feedback */
       .btn-shop-primary:active {
         transform: scale(0.98);
-        background: #005a8c;
+        background: var(--btn-primary-end);
       }
       
       .btn-shop-outline:active {
         transform: scale(0.98);
-        background: rgba(0, 119, 182, 0.08);
+        background: rgba(227, 27, 35, 0.08);
       }
       
       .category-card:active,
@@ -1419,12 +1478,12 @@ const homeSchema = {
         <div class="col-lg-6 d-none d-lg-block">
           <div class="hero-image-wrapper">
             <div class="hero-image-container">
-              <img src="/images/hero-image.webp" alt={t('home.heroTitle') + ' - ' + t('home.heroTitleHighlight') + ' - Peptide Shop'} class="hero-main-image">
+              <img src="/images/hero-image.webp" alt={t('home.heroTitle') + ' - ' + t('home.heroTitleHighlight') + ' - Best-Peptides'} class="hero-main-image">
               <!-- Floating Product Cards -->
               <div class="floating-card floating-card-1">
                 <div class="d-flex align-items-center gap-3">
                   <div class="floating-icon">
-                    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#0077b6" stroke-width="2">
+                    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="var(--accent-primary)" stroke-width="2">
                       <path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"></path>
                       <polyline points="9 12 11 14 15 10"></polyline>
                     </svg>
@@ -1437,7 +1496,7 @@ const homeSchema = {
               </div>
               <div class="floating-card floating-card-2">
                 <div class="d-flex align-items-center gap-2">
-                  <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#0077b6" stroke-width="2">
+                  <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="var(--accent-primary)" stroke-width="2">
                     <rect x="1" y="3" width="15" height="13" rx="2" ry="2"></rect>
                     <polyline points="16 8 20 8 23 11 23 16 16 16 16 8"></polyline>
                     <circle cx="5.5" cy="18.5" r="2.5"></circle>
@@ -1572,7 +1631,18 @@ const homeSchema = {
         <div class="col-lg-6">
           <div class="about-image-grid">
             <div class="about-image-main">
-              <img src="/images/about/about-peptide-shop.jpg" alt="About Peptide Shop - Premium Research Peptides Supplier" class="img-fluid" loading="lazy" decoding="async" style="border-radius: 16px; width: 100%; height: 100%; object-fit: cover;">
+              <!-- Transformation Results Slider -->
+              <div class="about-slider" id="about-transformation-slider">
+                <div class="slide-item">
+                  <img src="/images/about/female.jpg" alt="Female Transformation Results" class="img-fluid" loading="lazy" decoding="async" style="border-radius: 16px; width: 100%; height: 100%; object-fit: cover;">
+                </div>
+                <div class="slide-item">
+                  <img src="/images/about/female2.jpg" alt="Female Transformation Results 2" class="img-fluid" loading="lazy" decoding="async" style="border-radius: 16px; width: 100%; height: 100%; object-fit: cover;">
+                </div>
+                <div class="slide-item">
+                  <img src="/images/about/male.jpg" alt="Male Transformation Results" class="img-fluid" loading="lazy" decoding="async" style="border-radius: 16px; width: 100%; height: 100%; object-fit: cover;">
+                </div>
+              </div>
             </div>
             <!-- Experience Badge -->
             <div class="about-badge">
@@ -1599,7 +1669,7 @@ const homeSchema = {
             <div class="col-6">
               <div class="about-stat">
                 <div class="about-stat-icon">
-                  <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#0077b6" stroke-width="2">
+                  <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="var(--accent-primary)" stroke-width="2">
                     <path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"></path>
                     <polyline points="9 12 11 14 15 10"></polyline>
                   </svg>
@@ -1613,7 +1683,7 @@ const homeSchema = {
             <div class="col-6">
               <div class="about-stat">
                 <div class="about-stat-icon">
-                  <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#0077b6" stroke-width="2">
+                  <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="var(--accent-primary)" stroke-width="2">
                     <circle cx="12" cy="12" r="10"></circle>
                     <polyline points="12 6 12 12 16 14"></polyline>
                   </svg>
@@ -1627,7 +1697,7 @@ const homeSchema = {
             <div class="col-6">
               <div class="about-stat">
                 <div class="about-stat-icon">
-                  <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#0077b6" stroke-width="2">
+                  <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="var(--accent-primary)" stroke-width="2">
                     <path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"></path>
                     <circle cx="9" cy="7" r="4"></circle>
                     <path d="M23 21v-2a4 4 0 0 0-3-3.87"></path>
@@ -1643,7 +1713,7 @@ const homeSchema = {
             <div class="col-6">
               <div class="about-stat">
                 <div class="about-stat-icon">
-                  <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#0077b6" stroke-width="2">
+                  <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="var(--accent-primary)" stroke-width="2">
                     <circle cx="12" cy="12" r="10"></circle>
                     <line x1="2" y1="12" x2="22" y2="12"></line>
                     <path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"></path>
@@ -1693,7 +1763,7 @@ const homeSchema = {
                 <a href={blogPath} style="text-decoration: none; color: inherit; display: block;">
                   <img src={post.data.image} alt={post.data.title} class="blog-image" style="width: 100%; height: 240px; object-fit: cover;">
                   <div class="p-4">
-                    <span class="badge mb-3" style="background: rgba(0, 119, 182, 0.1); color: #0077b6; padding: 6px 14px; border-radius: 10px; font-size: 12px; font-weight: 600;">
+                    <span class="badge mb-3" style="background: rgba(227, 27, 35, 0.1); color: var(--accent-primary); padding: 6px 14px; border-radius: 10px; font-size: 12px; font-weight: 600;">
                       {post.data.category?.toUpperCase() || 'RESEARCH'}
                     </span>
                     <h3 style="font-size: 1.25rem; font-weight: 600; margin-bottom: 12px; color: #1e293b; line-height: 1.4;">
@@ -1728,7 +1798,7 @@ const homeSchema = {
         {testimonials.map(testimonial => (
           <div class="col-lg-4">
             <div class="testimonial-card">
-              <div class="star-rating mb-3">{'★'.repeat(testimonial.rating)}</div>
+              <div class="star-rating mb-3">{'â˜…'.repeat(testimonial.rating)}</div>
               <p style="font-size: 1rem; line-height: 1.7; color: #374151; margin-bottom: 20px; font-style: italic;">
                 "{testimonial.text}"
               </p>
@@ -1761,7 +1831,7 @@ const homeSchema = {
           <div class="faq-item">
             <div class="faq-question">
               <span>{t('home.faq.q1')}</span>
-              <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#0077b6" stroke-width="2">
+              <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="var(--accent-primary)" stroke-width="2">
                 <line x1="12" y1="5" x2="12" y2="19"></line>
                 <line x1="5" y1="12" x2="19" y2="12"></line>
               </svg>
@@ -1774,7 +1844,7 @@ const homeSchema = {
           <div class="faq-item">
             <div class="faq-question">
               <span>{t('home.faq.q2')}</span>
-              <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#0077b6" stroke-width="2">
+              <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="var(--accent-primary)" stroke-width="2">
                 <line x1="12" y1="5" x2="12" y2="19"></line>
                 <line x1="5" y1="12" x2="19" y2="12"></line>
               </svg>
@@ -1787,7 +1857,7 @@ const homeSchema = {
           <div class="faq-item">
             <div class="faq-question">
               <span>{t('home.faq.q3')}</span>
-              <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#0077b6" stroke-width="2">
+              <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="var(--accent-primary)" stroke-width="2">
                 <line x1="12" y1="5" x2="12" y2="19"></line>
                 <line x1="5" y1="12" x2="19" y2="12"></line>
               </svg>
@@ -1800,7 +1870,7 @@ const homeSchema = {
           <div class="faq-item">
             <div class="faq-question">
               <span>{t('home.faq.q4')}</span>
-              <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#0077b6" stroke-width="2">
+              <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="var(--accent-primary)" stroke-width="2">
                 <line x1="12" y1="5" x2="12" y2="19"></line>
                 <line x1="5" y1="12" x2="19" y2="12"></line>
               </svg>
@@ -1813,7 +1883,7 @@ const homeSchema = {
           <div class="faq-item">
             <div class="faq-question">
               <span>{t('home.faq.q5')}</span>
-              <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#0077b6" stroke-width="2">
+              <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="var(--accent-primary)" stroke-width="2">
                 <line x1="12" y1="5" x2="12" y2="19"></line>
                 <line x1="5" y1="12" x2="19" y2="12"></line>
               </svg>
@@ -1826,7 +1896,7 @@ const homeSchema = {
           <div class="faq-item">
             <div class="faq-question">
               <span>{t('home.faq.q6')}</span>
-              <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#0077b6" stroke-width="2">
+              <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="var(--accent-primary)" stroke-width="2">
                 <line x1="12" y1="5" x2="12" y2="19"></line>
                 <line x1="5" y1="12" x2="19" y2="12"></line>
               </svg>
@@ -1839,7 +1909,7 @@ const homeSchema = {
           <div class="faq-item">
             <div class="faq-question">
               <span>{t('home.faq.q7')}</span>
-              <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#0077b6" stroke-width="2">
+              <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="var(--accent-primary)" stroke-width="2">
                 <line x1="12" y1="5" x2="12" y2="19"></line>
                 <line x1="5" y1="12" x2="19" y2="12"></line>
               </svg>
@@ -1852,7 +1922,7 @@ const homeSchema = {
           <div class="faq-item">
             <div class="faq-question">
               <span>{t('home.faq.q8')}</span>
-              <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#0077b6" stroke-width="2">
+              <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="var(--accent-primary)" stroke-width="2">
                 <line x1="12" y1="5" x2="12" y2="19"></line>
                 <line x1="5" y1="12" x2="19" y2="12"></line>
               </svg>
@@ -1927,7 +1997,7 @@ const homeSchema = {
             <input type="email" class="cta-input" placeholder={t('home.cta.placeholder')}>
             <button type="submit" class="cta-button">{t('home.cta.button')}</button>
           </form>
-          <p class="cta-privacy">🔒 We respect your privacy. Unsubscribe anytime.</p>
+          <p class="cta-privacy">ðŸ”’ We respect your privacy. Unsubscribe anytime.</p>
         </div>
         <div class="cta-decoration">
           <div class="cta-circle cta-circle-1"></div>
@@ -1939,6 +2009,21 @@ const homeSchema = {
 
   <script is:inline>
     document.addEventListener('DOMContentLoaded', () => {
+      // Initialize About Transformation Slider
+      if (typeof jQuery !== 'undefined' && jQuery.fn.slick) {
+        jQuery('#about-transformation-slider').slick({
+          dots: true,
+          arrows: true,
+          infinite: true,
+          speed: 500,
+          fade: true,
+          cssEase: 'linear',
+          autoplay: true,
+          autoplaySpeed: 4000,
+          pauseOnHover: true
+        });
+      }
+
       // FAQ Accordion
       const faqItems = document.querySelectorAll('.faq-item');
       faqItems.forEach(item => {

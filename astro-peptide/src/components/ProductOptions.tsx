@@ -202,9 +202,9 @@ export default function ProductOptions({ id, title, basePrice, packageSizes, ima
                   flex: '1 1 calc(20% - 8px)',
                   minWidth: '100px',
                   padding: '12px 4px',
-                  border: packQuantity === qty ? '2px solid #0077b6' : '2px solid #e2e8f0',
+                  border: packQuantity === qty ? '2px solid var(--accent-primary)' : '2px solid #e2e8f0',
                   borderRadius: '10px',
-                  background: packQuantity === qty ? 'rgba(0, 119, 182, 0.1)' : 'white',
+                  background: packQuantity === qty ? 'rgba(227, 27, 35, 0.10)' : 'white',
                   cursor: 'pointer',
                   transition: 'all 0.2s ease',
                   textAlign: 'center',
@@ -223,7 +223,7 @@ export default function ProductOptions({ id, title, basePrice, packageSizes, ima
                     {t(lang, (qty > 1 ? `product.${packLabel}s` : `product.${packLabel}`) as any)}
                   </span>
                 </div>
-                <div className="pack-price" style={{ color: packMeetsThreshold ? '#0077b6' : '#64748b', fontWeight: '600' }}>
+                <div className="pack-price" style={{ color: packMeetsThreshold ? 'var(--accent-primary)' : '#64748b', fontWeight: '600' }}>
                   {formatPrice(packFinalPrice, currency)}
                 </div>
                 {packMeetsThreshold && packDiscount > 0 && (
@@ -391,12 +391,12 @@ export default function ProductOptions({ id, title, basePrice, packageSizes, ima
         }
         
         .pack-btn:hover {
-          border-color: #0077b6 !important;
-          background: rgba(0, 119, 182, 0.05) !important;
+          border-color: var(--accent-primary) !important;
+          background: rgba(227, 27, 35, 0.06) !important;
         }
         
         .pack-btn.active {
-          box-shadow: 0 0 0 3px rgba(0, 119, 182, 0.2);
+          box-shadow: 0 0 0 3px rgba(227, 27, 35, 0.20);
         }
         
         .text-decoration-line-through {
@@ -404,13 +404,13 @@ export default function ProductOptions({ id, title, basePrice, packageSizes, ima
         }
         
         .btn-main {
-          background: #0077b6;
+          background: var(--btn-primary-start);
           border: none;
           color: white;
         }
         
         .btn-main:hover:not(:disabled) {
-          background: #023e8a;
+          background: var(--btn-primary-end);
           color: white;
         }
         
@@ -442,7 +442,7 @@ export default function ProductOptions({ id, title, basePrice, packageSizes, ima
         <div className="d-flex align-items-center justify-content-between gap-3">
           <div className="d-flex flex-column">
             <span style={{ fontSize: '0.75rem', color: '#64748b' }}>{t(lang, 'cart.total')}</span>
-            <span style={{ fontSize: '1.25rem', fontWeight: 700, color: '#0077b6', lineHeight: 1 }}>
+            <span style={{ fontSize: '1.25rem', fontWeight: 700, color: 'var(--accent-primary)', lineHeight: 1 }}>
               {formatPrice(totalPrice, currency)}
             </span>
           </div>
@@ -468,8 +468,8 @@ export default function ProductOptions({ id, title, basePrice, packageSizes, ima
               style={{ 
                 height: '48px', 
                 minWidth: '140px',
-                backgroundColor: added ? '#22c55e' : '#0077b6', 
-                borderColor: added ? '#22c55e' : '#0077b6',
+                backgroundColor: added ? '#22c55e' : 'var(--btn-primary-start)', 
+                borderColor: added ? '#22c55e' : 'var(--btn-primary-start)',
                 borderRadius: '12px',
                 fontWeight: 600
               }}

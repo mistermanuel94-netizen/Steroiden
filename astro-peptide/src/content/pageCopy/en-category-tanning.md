@@ -4,7 +4,7 @@ page: category-tanning
 copy:
   title: "Tanning Peptides"
   h1: "Buy Tanning Peptides UK & Europe"
-  metaTitle: "Buy Melanotan 2 UK | Tanning Peptides for Sale | Peptide Shop"
+  metaTitle: "Buy Melanotan 2 UK | Tanning Peptides for Sale | Best-Peptides"
   metaDescription: "Buy Melanotan 2 UK & Europe. Tanning peptides for melanocortin research. 99% purity, COA provided. Fast UK & EU delivery."
   primaryKeyword: "buy melanotan 2 uk"
   searchVolume: "3200"

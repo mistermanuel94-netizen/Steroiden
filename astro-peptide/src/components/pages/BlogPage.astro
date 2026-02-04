@@ -91,24 +91,24 @@ function formatDate(date: string): string {
 
 // Category icons mapping
 const categoryIcons: Record<string, string> = {
-  'research': '🔬',
-  'lab-techniques': '🧪',
-  'peptide-science': '⚗️',
-  'buying-guides': '📋',
-  'product-guides': '📦',
-  'health-wellness': '💊',
-  'news': '📰',
-  'tutorials': '📚',
+  'research': 'ðŸ”¬',
+  'lab-techniques': 'ðŸ§ª',
+  'peptide-science': 'âš—ï¸',
+  'buying-guides': 'ðŸ“‹',
+  'product-guides': 'ðŸ“¦',
+  'health-wellness': 'ðŸ’Š',
+  'news': 'ðŸ“°',
+  'tutorials': 'ðŸ“š',
 };
 
 function getCategoryIcon(category: string): string {
   const key = category.toLowerCase().replace(/\s+/g, '-');
-  return categoryIcons[key] || '📄';
+  return categoryIcons[key] || 'ðŸ“„';
 }
 ---
 
 <Layout 
-  title={`${copy.title ?? t(currentLang, 'blogPage.title')} | Peptide Shop`}
+  title={`${copy.title ?? t(currentLang, 'blogPage.title')} | Best-Peptides`}
   description={copy.description ?? t(currentLang, 'blogPage.description')}
   lang={currentLang}
   breadcrumbs={[
@@ -282,7 +282,7 @@ function getCategoryIcon(category: string): string {
                     </h4>
                     <div class="list-meta">
                       <span>{post.data.author}</span>
-                      <span class="dot">•</span>
+                      <span class="dot">â€¢</span>
                       <span>{formatDate(post.data.publishDate)}</span>
                     </div>
                   </div>
@@ -401,7 +401,7 @@ function getCategoryIcon(category: string): string {
 
   /* Hero Section */
   .blog-hero {
-    background: linear-gradient(135deg, #023e8a 0%, #0077b6 50%, #00b4d8 100%);
+    background: linear-gradient(135deg, var(--btn-primary-end) 0%, var(--btn-primary-start) 50%, var(--btn-primary-end) 100%);
     padding: 5rem 0 4rem;
     position: relative;
     overflow: hidden;
@@ -567,7 +567,7 @@ function getCategoryIcon(category: string): string {
   }
 
   .featured-category {
-    color: #0077b6;
+    color: var(--accent-primary);
     font-size: 0.875rem;
     font-weight: 600;
     text-decoration: none;
@@ -576,7 +576,7 @@ function getCategoryIcon(category: string): string {
     gap: 0.375rem;
   }
 
-  .featured-category:hover { color: #023e8a; }
+  .featured-category:hover { color: var(--btn-primary-end); }
 
   .featured-title {
     font-size: 1.875rem;
@@ -591,7 +591,7 @@ function getCategoryIcon(category: string): string {
     transition: color 0.2s;
   }
 
-  .featured-title a:hover { color: #0077b6; }
+  .featured-title a:hover { color: var(--accent-primary); }
 
   .featured-excerpt {
     color: #64748b;
@@ -618,7 +618,7 @@ function getCategoryIcon(category: string): string {
     width: 44px;
     height: 44px;
     border-radius: 50%;
-    background: linear-gradient(135deg, #0077b6, #00b4d8);
+    background: linear-gradient(135deg, var(--btn-primary-start), var(--btn-primary-end));
     color: white;
     display: flex;
     align-items: center;
@@ -635,7 +635,7 @@ function getCategoryIcon(category: string): string {
     display: inline-flex;
     align-items: center;
     gap: 0.5rem;
-    background: linear-gradient(135deg, #0077b6, #00b4d8);
+    background: linear-gradient(135deg, var(--btn-primary-start), var(--btn-primary-end));
     color: white;
     padding: 0.75rem 1.5rem;
     border-radius: 50px;
@@ -647,7 +647,7 @@ function getCategoryIcon(category: string): string {
 
   .read-more-btn:hover {
     transform: translateX(4px);
-    box-shadow: 0 10px 25px rgba(0, 119, 182, 0.3);
+    box-shadow: 0 10px 25px rgba(227, 27, 35, 0.3);
     color: white;
   }
 
@@ -677,7 +677,7 @@ function getCategoryIcon(category: string): string {
     width: 48px;
     height: 48px;
     border-radius: 12px;
-    background: linear-gradient(135deg, #0077b6, #00b4d8);
+    background: linear-gradient(135deg, var(--btn-primary-start), var(--btn-primary-end));
     color: white;
     display: flex;
     align-items: center;
@@ -775,7 +775,7 @@ function getCategoryIcon(category: string): string {
   }
 
   .card-category {
-    color: #0077b6;
+    color: var(--accent-primary);
     font-size: 0.75rem;
     font-weight: 600;
     text-transform: uppercase;
@@ -783,7 +783,7 @@ function getCategoryIcon(category: string): string {
     text-decoration: none;
   }
 
-  .card-category:hover { color: #023e8a; }
+  .card-category:hover { color: var(--btn-primary-end); }
   .card-date { color: #94a3b8; font-size: 0.8125rem; }
 
   .card-title {
@@ -801,7 +801,7 @@ function getCategoryIcon(category: string): string {
     transition: color 0.2s;
   }
 
-  .card-title a:hover { color: #0077b6; }
+  .card-title a:hover { color: var(--accent-primary); }
 
   .card-excerpt {
     color: #64748b;
@@ -832,14 +832,14 @@ function getCategoryIcon(category: string): string {
     display: inline-flex;
     align-items: center;
     gap: 0.375rem;
-    color: #0077b6;
+    color: var(--accent-primary);
     font-size: 0.875rem;
     font-weight: 600;
     text-decoration: none;
     transition: gap 0.2s;
   }
 
-  .card-link:hover { gap: 0.625rem; color: #023e8a; }
+  .card-link:hover { gap: 0.625rem; color: var(--btn-primary-end); }
 
   /* More Articles */
   .more-articles {
@@ -893,7 +893,7 @@ function getCategoryIcon(category: string): string {
   .list-content { flex: 1; min-width: 0; }
 
   .list-category {
-    color: #0077b6;
+    color: var(--accent-primary);
     font-size: 0.75rem;
     font-weight: 600;
     text-transform: uppercase;
@@ -914,7 +914,7 @@ function getCategoryIcon(category: string): string {
     transition: color 0.2s;
   }
 
-  .list-title a:hover { color: #0077b6; }
+  .list-title a:hover { color: var(--accent-primary); }
 
   .list-meta {
     display: flex;
@@ -939,7 +939,7 @@ function getCategoryIcon(category: string): string {
     flex-shrink: 0;
   }
 
-  .list-article:hover .list-arrow { background: #0077b6; color: white; }
+  .list-article:hover .list-arrow { background: var(--accent-primary); color: white; }
 
   /* Categories Section */
   .categories-section {
@@ -967,8 +967,8 @@ function getCategoryIcon(category: string): string {
 
   .category-card:hover {
     background: white;
-    border-color: #0077b6;
-    box-shadow: 0 10px 25px -5px rgba(0, 119, 182, 0.15);
+    border-color: var(--accent-primary);
+    box-shadow: 0 10px 25px -5px rgba(227, 27, 35, 0.15);
     transform: translateY(-2px);
   }
 
@@ -985,7 +985,7 @@ function getCategoryIcon(category: string): string {
   }
 
   .category-card:hover .category-icon {
-    background: linear-gradient(135deg, #0077b6, #00b4d8);
+    background: linear-gradient(135deg, var(--btn-primary-start), var(--btn-primary-end));
   }
 
   .category-info { flex: 1; }
@@ -1003,13 +1003,13 @@ function getCategoryIcon(category: string): string {
     transition: all 0.3s ease;
   }
 
-  .category-card:hover .category-arrow { color: #0077b6; transform: translateX(4px); }
+  .category-card:hover .category-arrow { color: var(--accent-primary); transform: translateX(4px); }
 
   /* Products Silo */
   .products-silo { padding: 4rem 0; }
 
   .silo-card {
-    background: linear-gradient(135deg, #023e8a 0%, #0077b6 100%);
+    background: linear-gradient(135deg, var(--btn-primary-end) 0%, var(--btn-primary-start) 100%);
     border-radius: 24px;
     padding: 3rem;
     position: relative;
@@ -1066,7 +1066,7 @@ function getCategoryIcon(category: string): string {
     align-items: center;
     gap: 0.5rem;
     background: white;
-    color: #0077b6;
+    color: var(--accent-primary);
     padding: 1rem 2rem;
     border-radius: 50px;
     font-weight: 600;
@@ -1077,7 +1077,7 @@ function getCategoryIcon(category: string): string {
   .silo-btn:hover {
     transform: translateX(4px);
     box-shadow: 0 10px 25px rgba(255, 255, 255, 0.2);
-    color: #023e8a;
+    color: var(--btn-primary-end);
   }
 
   .silo-decoration {
@@ -1112,7 +1112,7 @@ function getCategoryIcon(category: string): string {
     width: 80px;
     height: 80px;
     border-radius: 20px;
-    background: linear-gradient(135deg, #0077b6, #00b4d8);
+    background: linear-gradient(135deg, var(--btn-primary-start), var(--btn-primary-end));
     color: white;
     display: flex;
     align-items: center;
@@ -1149,10 +1149,10 @@ function getCategoryIcon(category: string): string {
     transition: border-color 0.3s;
   }
 
-  .newsletter-form input:focus { outline: none; border-color: #0077b6; }
+  .newsletter-form input:focus { outline: none; border-color: var(--accent-primary); }
 
   .newsletter-form button {
-    background: linear-gradient(135deg, #0077b6, #00b4d8);
+    background: linear-gradient(135deg, var(--btn-primary-start), var(--btn-primary-end));
     color: white;
     padding: 1rem 2rem;
     border: none;
@@ -1166,7 +1166,7 @@ function getCategoryIcon(category: string): string {
 
   .newsletter-form button:hover {
     transform: scale(1.05);
-    box-shadow: 0 10px 25px rgba(0, 119, 182, 0.3);
+    box-shadow: 0 10px 25px rgba(227, 27, 35, 0.3);
   }
 
   /* Responsive */

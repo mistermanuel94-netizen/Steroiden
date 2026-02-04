@@ -8,12 +8,12 @@ urlPath: "/peptides/buy-5-amino-1mq"
 aliases: ["5-Amino-1-Methylquinolinium", "NNMT Inhibitor"]
 cas: "42464-99-1"
 molecular_weight: "240.3 g/mol"
-purity: "≥ 99%"
+purity: "â‰¥ 99%"
 storage: "Room temperature, protected from light"
 package_sizes: ["30 caps"]
 moq: 200
 price: 40
-price_range: "£40 per bottle"
+price_range: "Â£40 per bottle"
 coa_url: "/coa/5-amino-1mq.pdf"
 short_description: "Buy 5-Amino-1MQ. Available as oral capsules (50mg) or high-purity powder (99%). NNMT inhibitor for metabolism and longevity research. Fast UK delivery."
 category: "weight-loss"
@@ -34,17 +34,17 @@ faqs:
   - question: "How should 5-Amino-1MQ be stored?"
     answer: "Store at room temperature, protected from light and moisture. Both capsule and powder forms are stable at ambient conditions when kept dry. Capsules should be kept in their original container."
   - question: "What purity is your 5-Amino-1MQ?"
-    answer: "Our 5-Amino-1MQ is ≥99% pure as verified by HPLC. Both capsule and powder forms meet this purity standard. Each batch includes a Certificate of Analysis with purity and identity data."
+    answer: "Our 5-Amino-1MQ is â‰¥99% pure as verified by HPLC. Both capsule and powder forms meet this purity standard. Each batch includes a Certificate of Analysis with purity and identity data."
   - question: "What is the difference between capsules and powder?"
     answer: "Oral Capsules (50mg) offer precise, pre-measured doses ideal for consistent research protocols. High-Purity Powder (99%) provides flexibility for custom concentration preparation and larger-scale studies."
   - question: "What is the minimum order requirement?"
-    answer: "A minimum purchase of £200 is required for 5-Amino-1MQ orders. This applies to any combination of capsules or powder forms."
+    answer: "A minimum purchase of Â£200 is required for 5-Amino-1MQ orders. This applies to any combination of capsules or powder forms."
 reviews:
   - author: "Dr. Helen Foster"
     rating: 5
     date: "2024-12-10"
     title: "Excellent for NAD+ research"
-    content: "Our NNMT inhibition studies require high-purity compounds. Peptide Shop delivers excellent quality with thorough documentation."
+    content: "Our NNMT inhibition studies require high-purity compounds. Best-Peptides delivers excellent quality with thorough documentation."
     verified: true
   - author: "Cambridge Metabolism Lab"
     rating: 5
@@ -62,7 +62,7 @@ reviews:
     rating: 5
     date: "2024-11-19"
     title: "Reliable supplier"
-    content: "Consistent quality for our longevity studies. Peptide Shop has become our preferred supplier."
+    content: "Consistent quality for our longevity studies. Best-Peptides has become our preferred supplier."
     verified: true
   - author: "Dr. Robert Clarke"
     rating: 5
@@ -120,7 +120,7 @@ reviews:
 
 NNMT catalyses the N-methylation of nicotinamide (a NAD+ precursor) using SAM (S-adenosylmethionine) as a methyl donor. By inhibiting this enzyme, 5-Amino-1MQ enables researchers to investigate how NNMT modulation affects cellular metabolism, NAD+ availability, and metabolic health.
 
-Peptide Shop supplies **research-grade 5-Amino-1MQ** with guaranteed ≥99% purity, verified through comprehensive HPLC analysis.
+Best-Peptides supplies **research-grade 5-Amino-1MQ** with guaranteed â‰¥99% purity, verified through comprehensive HPLC analysis.
 
 ## How Does 5-Amino-1MQ Work?
 
@@ -164,7 +164,7 @@ Peptide Shop supplies **research-grade 5-Amino-1MQ** with guaranteed ≥99% puri
 |--------------|--------|
 | **CAS Number** | 42464-99-1 |
 | **Molecular Weight** | 240.3 g/mol |
-| **Purity** | ≥99% (HPLC) |
+| **Purity** | â‰¥99% (HPLC) |
 | **Appearance** | White to off-white powder |
 | **Solubility** | Soluble in water, DMSO |
 
@@ -176,10 +176,10 @@ Store at room temperature, protected from light and moisture.
 
 | Size | Price |
 |------|-------|
-| **100 mg** | From £38 |
-| **250 mg** | From £85 |
+| **100 mg** | From Â£38 |
+| **250 mg** | From Â£85 |
 
-**Minimum order: £200** | **10% discount on orders over £200**
+**Minimum order: Â£200** | **10% discount on orders over Â£200**
 
 ## Research Use Statement
 

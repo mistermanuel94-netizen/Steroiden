@@ -1,11 +1,11 @@
 ---
 lang: it
-email: "peptideshop@zohomail.com"
+email: "Best-Peptides@zohomail.com"
 telegram: "@Nebelzee"
 country: "Italia"
 countryCode: "IT"
 currency: "EUR"
-currencySymbol: "€"
+currencySymbol: "â‚¬"
 seo:
   homeName: "Acquistare Peptidi Italia | BPC 157, Semaglutide & Altro"
   homeDescription: "Acquistare peptidi Italia - Peptidi di ricerca premium con purezza HPLC del 99%. BPC 157, Semaglutide, Tirzepatide, Collagene & altro. Consegna veloce, COA incluso. Peptidi acquisto online."
@@ -32,5 +32,5 @@ seo:
   shopTitle: "Negozio Peptidi Italia | Acquistare Peptidi di Ricerca"
   shopDescription: "Acquistare peptidi Italia - BPC 157, Semaglutide, Tirzepatide, TB-500 & altro. 99% purezza HPLC, COA incluso, consegna veloce."
   aboutTitle: "Chi Siamo | Fornitore di Peptidi Italia"
-  aboutDescription: "Scopri Peptide Shop Italia. Peptidi di ricerca premium con 99% purezza HPLC. Acquistare BPC 157, Semaglutide & altro. Fiducia di 5000+ ricercatori."
+  aboutDescription: "Scopri Best-Peptides Italia. Peptidi di ricerca premium con 99% purezza HPLC. Acquistare BPC 157, Semaglutide & altro. Fiducia di 5000+ ricercatori."
 ---

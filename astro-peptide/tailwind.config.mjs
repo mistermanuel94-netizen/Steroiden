@@ -4,10 +4,12 @@ export default {
 	theme: {
 		extend: {
 			colors: {
-				primary: '#0f2d52', // Deep Medical Blue
-				secondary: '#334155', // Slate 700
-				accent: '#00bfa5', // Medical Teal
-        surface: '#f8fafc', // Clinical White
+				primary: '#0B0F14', // Luxury Black
+				secondary: '#18222E', // Graphite Surface
+				accent: '#E1062C', // Performance Red
+				surface: '#F5F7FA', // Frost Surface
+				luxGold: '#C8A96A', // Champagne Gold
+				highlight: '#C6FF00', // Electric Lime
 			},
 			fontFamily: {
 				sans: ['Inter', 'system-ui', 'sans-serif'],

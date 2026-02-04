@@ -44,7 +44,7 @@ export default function CartIcon({ lang = 'en' }: CartIconProps) {
           position: 'absolute',
           top: '2px',
           right: '2px',
-          background: '#0077b6',
+          background: 'var(--accent-primary)',
           color: 'white',
           fontSize: '10px',
           fontWeight: 700,

@@ -25,6 +25,7 @@ const marketForMeta = getMarket(langForMeta);
 
 const canonicalURL = new URL(Astro.url.pathname, Astro.site);
 const siteUrl = Astro.site?.origin || 'https://peptide-shop.net';
+const SITE_NAME = 'Best-Peptides';
 
 const normalizeWhitespace = (value: string) => value.replace(/\s+/g, ' ').trim();
 
@@ -33,18 +34,18 @@ const clampText = (value: string, min: number, max: number, suffix: string) => {
 	if (!text) return '';
 	if (text.length < min) {
 		const withSuffix = normalizeWhitespace(`${text} ${suffix}`);
-		text = withSuffix.length <= max ? withSuffix : withSuffix.slice(0, max - 1).trimEnd() + '…';
+		text = withSuffix.length <= max ? withSuffix : withSuffix.slice(0, max - 1).trimEnd() + 'â€¦';
 	}
 	if (text.length > max) {
-		text = text.slice(0, max - 1).trimEnd() + '…';
+		text = text.slice(0, max - 1).trimEnd() + 'â€¦';
 	}
 	return text;
 };
 
 // Default title/description if none provided - optimized for local SEO
-const fallbackTitle = `${marketForMeta.primaryKeywords[0]} | Peptide Shop`;
-const baseTitle = normalizeWhitespace(title || fallbackTitle);
-const metaTitle = clampText(baseTitle, 25, 60, 'Peptide Shop');
+const fallbackTitle = `${marketForMeta.primaryKeywords[0]} | ${SITE_NAME}`;
+const baseTitle = normalizeWhitespace((title || fallbackTitle).replace(/Best-Peptides/g, SITE_NAME));
+const metaTitle = clampText(baseTitle, 25, 60, SITE_NAME);
 
 const defaultDescription = `${marketForMeta.primaryKeywords[0]} - Premium research peptides with 99% HPLC purity. Fast ${marketForMeta.countryName} delivery, COA included. Semaglutide, BPC-157, Tirzepatide & more.`;
 const baseDescription = normalizeWhitespace(description || defaultDescription);
@@ -79,7 +80,7 @@ const currentDate = new Date().toISOString();
 <link rel="icon" type="image/png" href="/favicon.png" />
 <link rel="apple-touch-icon" href="/favicon.png" />
 <meta name="generator" content={Astro.generator} />
-<meta name="theme-color" content="#0077b6" />
+<meta name="theme-color" content="#0b0f14" />
 {keywords && <meta name="keywords" content={keywords} />}
 
 <!-- Canonical URL -->
@@ -97,7 +98,7 @@ const currentDate = new Date().toISOString();
 <title>{metaTitle}</title>
 <meta name="title" content={metaTitle} />
 <meta name="description" content={metaDescription} />
-<meta name="author" content={author || "Peptide Shop"} />
+<meta name="author" content={author || SITE_NAME} />
 
 <!-- Geo Meta Tags for Local SEO -->
 <meta name="geo.region" content={marketForMeta.geoRegion} />
@@ -109,12 +110,12 @@ const currentDate = new Date().toISOString();
 <!-- Open Graph / Facebook -->
 <meta property="og:type" content={article ? 'article' : 'website'} />
 <meta property="og:url" content={Astro.url} />
-<meta property="og:title" content={title} />
+<meta property="og:title" content={metaTitle} />
 <meta property="og:description" content={metaDescription} />
 <meta property="og:image" content={new URL(ogImage, siteUrl)} />
 <meta property="og:image:width" content="1200" />
 <meta property="og:image:height" content="630" />
-<meta property="og:site_name" content="Peptide Shop" />
+<meta property="og:site_name" content={SITE_NAME} />
 <meta property="og:locale" content={marketForMeta.hreflang.replace('-', '_')} />
 {languages.filter(l => l !== langForMeta).map((langCode) => {
 	const hreflang = getMarket(langCode).hreflang;
@@ -124,17 +125,17 @@ const currentDate = new Date().toISOString();
 <!-- Article specific Open Graph tags -->
 {article && publishedTime && <meta property="article:published_time" content={publishedTime} />}
 {article && modifiedTime && <meta property="article:modified_time" content={modifiedTime} />}
-{article && <meta property="article:author" content={author || "Peptide Shop"} />}
+{article && <meta property="article:author" content={author || SITE_NAME} />}
 {article && <meta property="article:section" content="Research Peptides" />}
 
 <!-- Twitter -->
 <meta property="twitter:card" content="summary_large_image" />
 <meta property="twitter:url" content={Astro.url} />
-<meta property="twitter:title" content={title} />
+<meta property="twitter:title" content={metaTitle} />
 <meta property="twitter:description" content={metaDescription} />
 <meta property="twitter:image" content={new URL(ogImage, siteUrl)} />
-<meta name="twitter:creator" content="@peptideshop" />
-<meta name="twitter:site" content="@peptideshop" />
+<meta name="twitter:creator" content="@Best-Peptides" />
+<meta name="twitter:site" content="@Best-Peptides" />
 
 <!-- Robots - Enhanced for AI crawlers -->
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1" />

@@ -1,27 +1,27 @@
 ---
 lang: "ru"
 id: "peptide-selank"
-title: "Купить Selank UK | Anxiolytic Nootropic Пептид"
-primary_keyword: "Купить selank uk"
+title: "ÐšÑƒÐ¿Ð¸Ñ‚ÑŒ Selank UK | Anxiolytic Nootropic ÐŸÐµÐ¿Ñ‚Ð¸Ð´"
+primary_keyword: "ÐšÑƒÐ¿Ð¸Ñ‚ÑŒ selank uk"
 search_volume: "2800"
 urlPath: "/peptides/buy-selank"
 aliases:  ["Selank", "TP-7"]
 cas: "129954-34-3"
 molecular_weight: "751.9 g/mol"
-purity: "≥ 99%"
-storage: "-20°C рекомендуется (только для исследований)"
-package_sizes:  ["10 × 5 mg vials"]
+purity: "â‰¥ 99%"
+storage: "-20Â°C Ñ€ÐµÐºÐ¾Ð¼ÐµÐ½Ð´ÑƒÐµÑ‚ÑÑ (Ñ‚Ð¾Ð»ÑŒÐºÐ¾ Ð´Ð»Ñ Ð¸ÑÑÐ»ÐµÐ´Ð¾Ð²Ð°Ð½Ð¸Ð¹)"
+package_sizes:  ["10 Ã— 5 mg vials"]
 moq: 200
 price: 250
-price_range: "£250 per pack"
+price_range: "Â£250 per pack"
 coa_url: "/coa/selank.pdf"
-short_description: "Купить Selank UK. Anxiolytic nootropic Пептид for cognitive research. ≥99% purity. Быстрая доставка."
+short_description: "ÐšÑƒÐ¿Ð¸Ñ‚ÑŒ Selank UK. Anxiolytic nootropic ÐŸÐµÐ¿Ñ‚Ð¸Ð´ for cognitive research. â‰¥99% purity. Ð‘Ñ‹ÑÑ‚Ñ€Ð°Ñ Ð´Ð¾ÑÑ‚Ð°Ð²ÐºÐ°."
 category: "cognitive"
-tags:  ["research-Пептид", "selank-uk", "nootropic", "buy-Пептидs-uk", "cognitive", "anxiolytic"]
+tags:  ["research-ÐŸÐµÐ¿Ñ‚Ð¸Ð´", "selank-uk", "nootropic", "buy-ÐŸÐµÐ¿Ñ‚Ð¸Ð´s-uk", "cognitive", "anxiolytic"]
 images: ["/images/products/selank.png"]
 meta:
-  title: "Купить Selank UK | Nootropic Пептид | Fast Delivery"
-  description: "Buy Selank UK. Premium anxiolytic peptide for research. ≥99% purity, COA included. Fast UK delivery."
+  title: "ÐšÑƒÐ¿Ð¸Ñ‚ÑŒ Selank UK | Nootropic ÐŸÐµÐ¿Ñ‚Ð¸Ð´ | Fast Delivery"
+  description: "Buy Selank UK. Premium anxiolytic peptide for research. â‰¥99% purity, COA included. Fast UK delivery."
 faqs:
 - question: "What is Selank used for in research?"
   answer: "Selank is studied for anxiolytic effects, cognitive enhancement, immune modulation, and neurotransmitter regulation. It's based on the natural peptide tuftsin."
@@ -30,9 +30,9 @@ faqs:
 - question: "How is Selank different from Semax?"
   answer: "Selank is primarily anxiolytic with cognitive benefits, while Semax is more focused on cognitive enhancement. Selank is based on tuftsin; Semax on ACTH."
 - question: "How should Selank be stored?"
-  answer: "Store lyophilised Selank at -20°C. Once reconstituted, keep at 2-8°C and use within 3-4 weeks."
+  answer: "Store lyophilised Selank at -20Â°C. Once reconstituted, keep at 2-8Â°C and use within 3-4 weeks."
 - question: "What purity is your Selank?"
-  answer: "Our Selank is ≥99% pure as verified by HPLC. Each batch includes a Certificate of Analysis."
+  answer: "Our Selank is â‰¥99% pure as verified by HPLC. Each batch includes a Certificate of Analysis."
 - question: "What is tuftsin?"
   answer: "Tuftsin is a naturally occurring immunomodulatory tetrapeptide. Selank extends tuftsin with additional amino acids for enhanced stability and activity."
 - question: "How do I reconstitute Selank?"
@@ -44,7 +44,7 @@ reviews:
   rating: 5
   date: "2024-12-09"
   title: "Excellent for cognitive research"
-  content: "Our anxiety and cognition studies depend on quality Selank. Peptide Shop delivers consistently."
+  content: "Our anxiety and cognition studies depend on quality Selank. Best-Peptides delivers consistently."
   verified: true
 - author: "Cambridge Neuroscience Lab"
   rating: 5
@@ -91,7 +91,7 @@ reviews:
 - author: "Dr. Helen Foster"
   rating: 5
   date: "2024-10-14"
-  title: "Premium Исследовательский пептид"
+  title: "Premium Ð˜ÑÑÐ»ÐµÐ´Ð¾Ð²Ð°Ñ‚ÐµÐ»ÑŒÑÐºÐ¸Ð¹ Ð¿ÐµÐ¿Ñ‚Ð¸Ð´"
   content: "Excellent for anxiolytic mechanism studies."
   verified: true
 - author: "Newcastle Neuroscience Lab"
@@ -122,11 +122,11 @@ reviews:
 
 ## What is Selank?
 
-**Selank** (TP-7) is a synthetic heptaПептид developed in Russia as a modified analogue of tuftsin, a naturally occurring immunomodulatory Пептид. Selank has been extensively studied for its anxiolytic, nootropic, and immunomodulatory properties.
+**Selank** (TP-7) is a synthetic heptaÐŸÐµÐ¿Ñ‚Ð¸Ð´ developed in Russia as a modified analogue of tuftsin, a naturally occurring immunomodulatory ÐŸÐµÐ¿Ñ‚Ð¸Ð´. Selank has been extensively studied for its anxiolytic, nootropic, and immunomodulatory properties.
 
 Unlike benzodiazepines, Selank does not produce sedation or dependence, making it a valuable tool for researching anxiety mechanisms and novel therapeutic approaches.
 
-Пептид Shop supplies **research-grade Selank** with guaranteed ≥99% purity.
+ÐŸÐµÐ¿Ñ‚Ð¸Ð´ Shop supplies **research-grade Selank** with guaranteed â‰¥99% purity.
 
 ## How Does Selank Work?
 
@@ -166,26 +166,26 @@ Unlike benzodiazepines, Selank does not produce sedation or dependence, making i
 | Specification | Detail |
 |--------------|--------|
 | **CAS Number** | 129954-34-3 |
-| **Молекулярная масса** | 751.9 g/mol |
-| **Последовательность** | Thr-Lys-Pro-Arg-Pro-Gly-Pro |
-| **Purity** | ≥99% (HPLC) |
-| **Внешний вид** | White lyophilised powder |
+| **ÐœÐ¾Ð»ÐµÐºÑƒÐ»ÑÑ€Ð½Ð°Ñ Ð¼Ð°ÑÑÐ°** | 751.9 g/mol |
+| **ÐŸÐ¾ÑÐ»ÐµÐ´Ð¾Ð²Ð°Ñ‚ÐµÐ»ÑŒÐ½Ð¾ÑÑ‚ÑŒ** | Thr-Lys-Pro-Arg-Pro-Gly-Pro |
+| **Purity** | â‰¥99% (HPLC) |
+| **Ð’Ð½ÐµÑˆÐ½Ð¸Ð¹ Ð²Ð¸Ð´** | White lyophilised powder |
 
 ## Storage
 
 | Condition | Temperature | Duration |
 |-----------|-------------|----------|
-| **Lyophilised** | -20°C | Up to 24 months |
-| **восстановленный** | 2-8°C | Up to 3-4 weeks |
+| **Lyophilised** | -20Â°C | Up to 24 months |
+| **Ð²Ð¾ÑÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½Ð½Ñ‹Ð¹** | 2-8Â°C | Up to 3-4 weeks |
 
 ## Ordering Information
 
 | Size | Price |
 |------|-------|
-| **5 mg** | From £35 |
-| **10 mg** | From £75 |
+| **5 mg** | From Â£35 |
+| **10 mg** | From Â£75 |
 
-**Minimum order: £200** | **10% discount on orders over £200**
+**Minimum order: Â£200** | **10% discount on orders over Â£200**
 
 ## Research Use Statement
 

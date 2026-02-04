@@ -54,12 +54,12 @@ const blogPosts = localizedPosts.length > 0
 // Section titles per language
 const sectionTitles = {
   en: { main: 'Main Pages', products: 'Products', categories: 'Product Categories', blog: 'Recent Blog Posts', legal: 'Legal & Policies' },
-  nl: { main: 'Hoofdpagina\'s', products: 'Producten', categories: 'Productcategorieën', blog: 'Recente Blogberichten', legal: 'Juridisch & Beleid' },
-  de: { main: 'Hauptseiten', products: 'Produkte', categories: 'Produktkategorien', blog: 'Neueste Blogbeiträge', legal: 'Rechtliches & Richtlinien' },
-  fr: { main: 'Pages Principales', products: 'Produits', categories: 'Catégories de Produits', blog: 'Articles de Blog Récents', legal: 'Mentions Légales' },
-  es: { main: 'Páginas Principales', products: 'Productos', categories: 'Categorías de Productos', blog: 'Artículos de Blog Recientes', legal: 'Legal y Políticas' },
+  nl: { main: 'Hoofdpagina\'s', products: 'Producten', categories: 'ProductcategorieÃ«n', blog: 'Recente Blogberichten', legal: 'Juridisch & Beleid' },
+  de: { main: 'Hauptseiten', products: 'Produkte', categories: 'Produktkategorien', blog: 'Neueste BlogbeitrÃ¤ge', legal: 'Rechtliches & Richtlinien' },
+  fr: { main: 'Pages Principales', products: 'Produits', categories: 'CatÃ©gories de Produits', blog: 'Articles de Blog RÃ©cents', legal: 'Mentions LÃ©gales' },
+  es: { main: 'PÃ¡ginas Principales', products: 'Productos', categories: 'CategorÃ­as de Productos', blog: 'ArtÃ­culos de Blog Recientes', legal: 'Legal y PolÃ­ticas' },
   it: { main: 'Pagine Principali', products: 'Prodotti', categories: 'Categorie di Prodotti', blog: 'Articoli del Blog Recenti', legal: 'Legale e Politiche' },
-  ru: { main: 'Главные страницы', products: 'Продукты', categories: 'Категории продуктов', blog: 'Свежие статьи', legal: 'Юридическая информация' },
+  ru: { main: 'Ð“Ð»Ð°Ð²Ð½Ñ‹Ðµ ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ñ‹', products: 'ÐŸÑ€Ð¾Ð´ÑƒÐºÑ‚Ñ‹', categories: 'ÐšÐ°Ñ‚ÐµÐ³Ð¾Ñ€Ð¸Ð¸ Ð¿Ñ€Ð¾Ð´ÑƒÐºÑ‚Ð¾Ð²', blog: 'Ð¡Ð²ÐµÐ¶Ð¸Ðµ ÑÑ‚Ð°Ñ‚ÑŒÐ¸', legal: 'Ð®Ñ€Ð¸Ð´Ð¸Ñ‡ÐµÑÐºÐ°Ñ Ð¸Ð½Ñ„Ð¾Ñ€Ð¼Ð°Ñ†Ð¸Ñ' },
 };
 
 const titles = sectionTitles[lang];
@@ -101,16 +101,16 @@ const breadcrumbs = [
 ];
 
 const pageTitle = t(lang, 'footer.sitemap');
-const pageDescription = lang === 'en' ? 'Complete site map of Peptide Shop. Navigate to all pages, products, categories, and resources.' :
-  lang === 'nl' ? 'Volledige sitemap van Peptide Shop. Navigeer naar alle pagina\'s, producten, categorieën en bronnen.' :
-  lang === 'de' ? 'Vollständige Seitenübersicht von Peptide Shop. Navigieren Sie zu allen Seiten, Produkten, Kategorien und Ressourcen.' :
-  lang === 'fr' ? 'Plan du site complet de Peptide Shop. Accédez à toutes les pages, produits, catégories et ressources.' :
-  lang === 'es' ? 'Mapa del sitio completo de Peptide Shop. Navegue a todas las páginas, productos, categorías y recursos.' :
-  'Mappa del sito completa di Peptide Shop. Naviga verso tutte le pagine, prodotti, categorie e risorse.';
+const pageDescription = lang === 'en' ? 'Complete site map of Best-Peptides. Navigate to all pages, products, categories, and resources.' :
+  lang === 'nl' ? 'Volledige sitemap van Best-Peptides. Navigeer naar alle pagina\'s, producten, categorieÃ«n en bronnen.' :
+  lang === 'de' ? 'VollstÃ¤ndige SeitenÃ¼bersicht von Best-Peptides. Navigieren Sie zu allen Seiten, Produkten, Kategorien und Ressourcen.' :
+  lang === 'fr' ? 'Plan du site complet de Best-Peptides. AccÃ©dez Ã  toutes les pages, produits, catÃ©gories et ressources.' :
+  lang === 'es' ? 'Mapa del sitio completo de Best-Peptides. Navegue a todas las pÃ¡ginas, productos, categorÃ­as y recursos.' :
+  'Mappa del sito completa di Best-Peptides. Naviga verso tutte le pagine, prodotti, categorie e risorse.';
 ---
 
 <Layout 
-  title={`${pageTitle} | Peptide Shop`}
+  title={`${pageTitle} | Best-Peptides`}
   description={pageDescription}
   breadcrumbs={breadcrumbs}
 >
@@ -296,7 +296,7 @@ const pageDescription = lang === 'en' ? 'Complete site map of Peptide Shop. Navi
   }
 
   .sitemap-list a::before {
-    content: '→';
+    content: 'â†’';
     color: var(--accent-color, #0096c7);
     font-size: 0.875rem;
   }

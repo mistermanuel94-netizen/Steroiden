@@ -1,27 +1,27 @@
 ---
 lang: "ru"
 id: "peptide-epitalon"
-title: "Купить Epitalon | Epithalon Telomerase Пептид"
-primary_keyword: "Купить epitalon"
+title: "ÐšÑƒÐ¿Ð¸Ñ‚ÑŒ Epitalon | Epithalon Telomerase ÐŸÐµÐ¿Ñ‚Ð¸Ð´"
+primary_keyword: "ÐšÑƒÐ¿Ð¸Ñ‚ÑŒ epitalon"
 search_volume: "3600"
 urlPath: "/peptides/buy-epitalon"
-aliases:  ["Epithalon", "Epithalone", "AEDG Пептид"]
+aliases:  ["Epithalon", "Epithalone", "AEDG ÐŸÐµÐ¿Ñ‚Ð¸Ð´"]
 cas: "307297-39-8"
 molecular_weight: "390.3 g/mol"
-purity: "≥ 99%"
-storage: "-20°C рекомендуется (только для исследований)"
-package_sizes:  ["10 × 10 mg vials"]
+purity: "â‰¥ 99%"
+storage: "-20Â°C Ñ€ÐµÐºÐ¾Ð¼ÐµÐ½Ð´ÑƒÐµÑ‚ÑÑ (Ñ‚Ð¾Ð»ÑŒÐºÐ¾ Ð´Ð»Ñ Ð¸ÑÑÐ»ÐµÐ´Ð¾Ð²Ð°Ð½Ð¸Ð¹)"
+package_sizes:  ["10 Ã— 10 mg vials"]
 moq: 200
 price: 200
-price_range: "£200 per pack"
+price_range: "Â£200 per pack"
 coa_url: "/coa/epitalon.pdf"
-short_description: "Купить Epitalon. Telomerase-activating Пептид for longevity research. ≥99% purity. Fast UK & EU delivery."
+short_description: "ÐšÑƒÐ¿Ð¸Ñ‚ÑŒ Epitalon. Telomerase-activating ÐŸÐµÐ¿Ñ‚Ð¸Ð´ for longevity research. â‰¥99% purity. Fast UK & EU delivery."
 category: "cognitive"
-tags:  ["research-Пептид", "epitalon-uk", "longevity", "buy-Пептидs-uk", "cognitive", "telomerase"]
+tags:  ["research-ÐŸÐµÐ¿Ñ‚Ð¸Ð´", "epitalon-uk", "longevity", "buy-ÐŸÐµÐ¿Ñ‚Ð¸Ð´s-uk", "cognitive", "telomerase"]
 images: ["/images/products/epitalon.png"]
 meta:
-  title: "Купить Epitalon | Longevity Пептид | Fast Delivery"
-  description: "Buy Epitalon. Premium telomerase peptide for research. ≥99% purity, COA included. Fast UK & EU delivery."
+  title: "ÐšÑƒÐ¿Ð¸Ñ‚ÑŒ Epitalon | Longevity ÐŸÐµÐ¿Ñ‚Ð¸Ð´ | Fast Delivery"
+  description: "Buy Epitalon. Premium telomerase peptide for research. â‰¥99% purity, COA included. Fast UK & EU delivery."
 faqs:
 - question: "What is Epitalon used for in research?"
   answer: "Epitalon is studied for telomerase activation, cellular ageing, melatonin regulation, and longevity mechanisms. It was developed from pineal gland research."
@@ -30,9 +30,9 @@ faqs:
 - question: "What is the origin of Epitalon?"
   answer: "Epitalon is a synthetic tetrapeptide based on epithalamin, a pineal gland extract studied by Russian researchers for its anti-ageing properties."
 - question: "How should Epitalon be stored?"
-  answer: "Store lyophilised Epitalon at -20°C. Once reconstituted, keep at 2-8°C and use within 4 weeks."
+  answer: "Store lyophilised Epitalon at -20Â°C. Once reconstituted, keep at 2-8Â°C and use within 4 weeks."
 - question: "What purity is your Epitalon?"
-  answer: "Our Epitalon is ≥99% pure as verified by HPLC. Each batch includes a Certificate of Analysis."
+  answer: "Our Epitalon is â‰¥99% pure as verified by HPLC. Each batch includes a Certificate of Analysis."
 - question: "What are telomeres?"
   answer: "Telomeres are protective DNA caps at chromosome ends that shorten with each cell division. Telomerase can extend them."
 - question: "How do I reconstitute Epitalon?"
@@ -44,7 +44,7 @@ reviews:
   rating: 5
   date: "2024-12-10"
   title: "Essential for longevity research"
-  content: "Our telomere studies depend on quality Epitalon. Peptide Shop delivers exceptional purity."
+  content: "Our telomere studies depend on quality Epitalon. Best-Peptides delivers exceptional purity."
   verified: true
 - author: "Cambridge Ageing Lab"
   rating: 5
@@ -91,7 +91,7 @@ reviews:
 - author: "Dr. Robert Clarke"
   rating: 5
   date: "2024-10-15"
-  title: "Premium Исследовательский пептид"
+  title: "Premium Ð˜ÑÑÐ»ÐµÐ´Ð¾Ð²Ð°Ñ‚ÐµÐ»ÑŒÑÐºÐ¸Ð¹ Ð¿ÐµÐ¿Ñ‚Ð¸Ð´"
   content: "Excellent for telomerase activation studies."
   verified: true
 - author: "Newcastle Ageing Lab"
@@ -128,11 +128,11 @@ reviews:
 
 ## What is Epitalon?
 
-**Epitalon** (Epithalon, AEDG Пептид) is a synthetic tetraПептид based on epithalamin, a pineal gland extract extensively studied for its effects on telomerase activation and cellular ageing. Developed from decades of Russian research, Epitalon has become a key tool in longevity and anti-ageing research.
+**Epitalon** (Epithalon, AEDG ÐŸÐµÐ¿Ñ‚Ð¸Ð´) is a synthetic tetraÐŸÐµÐ¿Ñ‚Ð¸Ð´ based on epithalamin, a pineal gland extract extensively studied for its effects on telomerase activation and cellular ageing. Developed from decades of Russian research, Epitalon has become a key tool in longevity and anti-ageing research.
 
-The Пептид's primary interest lies in its reported ability to activate telomerase, potentially influencing cellular lifespan and age-related changes.
+The ÐŸÐµÐ¿Ñ‚Ð¸Ð´'s primary interest lies in its reported ability to activate telomerase, potentially influencing cellular lifespan and age-related changes.
 
-Пептид Shop supplies **research-grade Epitalon** with guaranteed ≥99% purity.
+ÐŸÐµÐ¿Ñ‚Ð¸Ð´ Shop supplies **research-grade Epitalon** with guaranteed â‰¥99% purity.
 
 ## How Does Epitalon Work?
 
@@ -168,28 +168,28 @@ The Пептид's primary interest lies in its reported ability to activate tel
 | Specification | Detail |
 |--------------|--------|
 | **CAS Number** | 307297-39-8 |
-| **Molecular Формула** | C14H22N4O9 |
-| **Молекулярная масса** | 390.3 g/mol |
-| **Последовательность** | Ala-Glu-Asp-Gly |
-| **Purity** | ≥99% (HPLC) |
-| **Внешний вид** | White lyophilised powder |
+| **Molecular Ð¤Ð¾Ñ€Ð¼ÑƒÐ»Ð°** | C14H22N4O9 |
+| **ÐœÐ¾Ð»ÐµÐºÑƒÐ»ÑÑ€Ð½Ð°Ñ Ð¼Ð°ÑÑÐ°** | 390.3 g/mol |
+| **ÐŸÐ¾ÑÐ»ÐµÐ´Ð¾Ð²Ð°Ñ‚ÐµÐ»ÑŒÐ½Ð¾ÑÑ‚ÑŒ** | Ala-Glu-Asp-Gly |
+| **Purity** | â‰¥99% (HPLC) |
+| **Ð’Ð½ÐµÑˆÐ½Ð¸Ð¹ Ð²Ð¸Ð´** | White lyophilised powder |
 
 ## Storage
 
 | Condition | Temperature | Duration |
 |-----------|-------------|----------|
-| **Lyophilised** | -20°C | Up to 24 months |
-| **восстановленный** | 2-8°C | Up to 4 weeks |
+| **Lyophilised** | -20Â°C | Up to 24 months |
+| **Ð²Ð¾ÑÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½Ð½Ñ‹Ð¹** | 2-8Â°C | Up to 4 weeks |
 
 ## Ordering Information
 
 | Size | Price |
 |------|-------|
-| **10 mg** | From £42 |
-| **20 mg** | From £78 |
-| **50 mg** | From £160 |
+| **10 mg** | From Â£42 |
+| **20 mg** | From Â£78 |
+| **50 mg** | From Â£160 |
 
-**Minimum order: £200** | **10% discount on orders over £200**
+**Minimum order: Â£200** | **10% discount on orders over Â£200**
 
 ## Research Use Statement
 

@@ -1,15 +1,15 @@
 ---
 lang: fr
-email: "peptideshop@zohomail.com"
+email: "Best-Peptides@zohomail.com"
 telegram: "@Nebelzee"
 country: "France"
 countryCode: "FR"
 currency: "EUR"
-currencySymbol: "€"
+currencySymbol: "â‚¬"
 seo:
-  homeName: "Acheter Peptides France | BPC 157, Sémaglutide & Plus"
-  homeDescription: "Acheter peptides France - Peptides de recherche premium avec 99% de pureté HPLC. BPC 157, Sémaglutide, TB 500, GHK-Cu & plus. Livraison rapide, COA inclus. Peptide achat en ligne."
-  organizationDescription: "Fournisseur leader de peptides de recherche en France. Acheter peptides en France avec 99% de pureté HPLC. TB 500 peptide achat, Sémaglutide, BPC-157 en ligne avec livraison rapide."
+  homeName: "Acheter Peptides France | BPC 157, SÃ©maglutide & Plus"
+  homeDescription: "Acheter peptides France - Peptides de recherche premium avec 99% de puretÃ© HPLC. BPC 157, SÃ©maglutide, TB 500, GHK-Cu & plus. Livraison rapide, COA inclus. Peptide achat en ligne."
+  organizationDescription: "Fournisseur leader de peptides de recherche en France. Acheter peptides en France avec 99% de puretÃ© HPLC. TB 500 peptide achat, SÃ©maglutide, BPC-157 en ligne avec livraison rapide."
   primaryKeyword: "peptide achat"
   searchVolume: 4400
   secondaryKeywords:
@@ -34,7 +34,7 @@ seo:
     - keyword: "acheter tb 500 peptide"
       volume: 590
   shopTitle: "Boutique Peptides France | Acheter Peptides de Recherche"
-  shopDescription: "Acheter peptides France - BPC 157, Sémaglutide, TB 500, Tirzepatide & plus. 99% pureté HPLC, COA inclus, livraison rapide."
-  aboutTitle: "À Propos de Peptide Shop | Fournisseur de Peptides France"
-  aboutDescription: "Découvrez Peptide Shop France. Peptides de recherche premium avec 99% de pureté HPLC. Acheter BPC 157, Sémaglutide & plus. Confiance de 5000+ chercheurs."
+  shopDescription: "Acheter peptides France - BPC 157, SÃ©maglutide, TB 500, Tirzepatide & plus. 99% puretÃ© HPLC, COA inclus, livraison rapide."
+  aboutTitle: "Ã€ Propos de Best-Peptides | Fournisseur de Peptides France"
+  aboutDescription: "DÃ©couvrez Best-Peptides France. Peptides de recherche premium avec 99% de puretÃ© HPLC. Acheter BPC 157, SÃ©maglutide & plus. Confiance de 5000+ chercheurs."
 ---

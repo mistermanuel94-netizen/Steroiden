@@ -53,9 +53,9 @@ const getCategoryUrl = (category: string) => {
 			<!-- Logo -->
 			<a class="nav-logo" href={getLocalizedPath('/', currentLang)}>
 				<div class="logo-icon">
-					<img src="/favicon.png" alt="Peptide Shop" width="32" height="32" />
+					<img src="/favicon.png" alt="Best-Peptides" width="32" height="32" />
 				</div>
-				<span class="logo-text">Peptide<span class="logo-highlight">Shop</span></span>
+				<span class="logo-text">Best-<span class="logo-highlight">Peptides</span></span>
 			</a>
 
 			<!-- Desktop Navigation Links -->
@@ -267,8 +267,8 @@ const getCategoryUrl = (category: string) => {
 		--radius-lg: 16px;
 		--transition-fast: 0.15s ease;
 		--transition-smooth: 0.3s cubic-bezier(0.4, 0, 0.2, 1);
-		--color-primary: #0077b6;
-		--color-primary-dark: #023e8a;
+		--color-primary: var(--btn-primary-start);
+		--color-primary-dark: var(--btn-primary-end);
 		--color-text: #1e293b;
 		--color-text-muted: #64748b;
 		--color-border: #e2e8f0;

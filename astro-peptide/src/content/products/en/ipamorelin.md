@@ -8,20 +8,20 @@ urlPath: "/peptides/buy-ipamorelin"
 aliases: ["Ipamorelin Acetate", "NNC 26-0161"]
 cas: "170851-70-4"
 molecular_weight: "711.9 g/mol"
-purity: "≥ 99%"
-storage: "-20°C recommended (research-only)"
-package_sizes: ["10 × 5 mg vials"]
+purity: "â‰¥ 99%"
+storage: "-20Â°C recommended (research-only)"
+package_sizes: ["10 Ã— 5 mg vials"]
 moq: 200
 price: 250
-price_range: "£250 per pack"
+price_range: "Â£250 per pack"
 coa_url: "/coa/ipamorelin.pdf"
-short_description: "Buy Ipamorelin UK. Selective growth hormone secretagogue for GH research. ≥99% purity. Fast UK delivery."
+short_description: "Buy Ipamorelin UK. Selective growth hormone secretagogue for GH research. â‰¥99% purity. Fast UK delivery."
 category: "growth-hormone"
 tags: ["research-peptide", "ipamorelin-uk", "ghrp", "buy-peptides-uk", "growth-hormone"]
 images: ["/images/products/ipamorelin.png"]
 meta:
   title: "Buy Ipamorelin UK | GHRP Peptide | Fast Delivery"
-  description: "Buy Ipamorelin UK. Selective growth hormone releasing peptide for research. ≥99% purity, COA included. Fast UK delivery."
+  description: "Buy Ipamorelin UK. Selective growth hormone releasing peptide for research. â‰¥99% purity, COA included. Fast UK delivery."
 faqs:
   - question: "What is Ipamorelin used for in research?"
     answer: "Ipamorelin is used to study growth hormone secretion, ghrelin receptor (GHS-R) activation, and somatotrope cell function. It's valued for its selectivity, causing minimal effects on cortisol and prolactin compared to other GHRPs."
@@ -30,11 +30,11 @@ faqs:
   - question: "What is the mechanism of action?"
     answer: "Ipamorelin acts as a ghrelin mimetic, binding to growth hormone secretagogue receptors (GHS-R) in the pituitary to stimulate GH release. It works synergistically with GHRH in research models."
   - question: "How should Ipamorelin be stored?"
-    answer: "Store lyophilised Ipamorelin at -20°C for long-term stability. Once reconstituted, keep at 2-8°C and use within 4 weeks. Avoid freeze-thaw cycles."
+    answer: "Store lyophilised Ipamorelin at -20Â°C for long-term stability. Once reconstituted, keep at 2-8Â°C and use within 4 weeks. Avoid freeze-thaw cycles."
   - question: "What purity is your Ipamorelin?"
-    answer: "Our Ipamorelin is ≥99% pure as verified by HPLC. Each batch includes a Certificate of Analysis with purity data and mass spectrometry identity confirmation."
+    answer: "Our Ipamorelin is â‰¥99% pure as verified by HPLC. Each batch includes a Certificate of Analysis with purity data and mass spectrometry identity confirmation."
   - question: "Can Ipamorelin be studied with CJC-1295?"
-    answer: "Yes, researchers often study ipamorelin combined with CJC-1295 to investigate GHRP-GHRH synergy. Both peptides are available from Peptide Shop."
+    answer: "Yes, researchers often study ipamorelin combined with CJC-1295 to investigate GHRP-GHRH synergy. Both peptides are available from Best-Peptides."
   - question: "How do I reconstitute Ipamorelin?"
     answer: "Reconstitute in sterile bacteriostatic water. Add solvent slowly along the vial wall and gently swirl to dissolve. Ipamorelin dissolves readily in water."
   - question: "What sizes are available?"
@@ -44,13 +44,13 @@ reviews:
     rating: 5
     date: "2024-12-14"
     title: "Excellent for GH research"
-    content: "Our pituitary function studies require selective GHRPs. Peptide Shop' Ipamorelin is perfect - high purity with minimal cortisol effects in our assays."
+    content: "Our pituitary function studies require selective GHRPs. Best-Peptides' Ipamorelin is perfect - high purity with minimal cortisol effects in our assays."
     verified: true
   - author: "Cambridge Endocrine Lab"
     rating: 5
     date: "2024-12-07"
     title: "Premium quality"
-    content: "Ipamorelin selectivity is crucial for our research. Quality from Peptide Shop is consistently excellent."
+    content: "Ipamorelin selectivity is crucial for our research. Quality from Best-Peptides is consistently excellent."
     verified: true
   - author: "James Foster"
     rating: 5
@@ -62,7 +62,7 @@ reviews:
     rating: 5
     date: "2024-11-23"
     title: "Reliable supplier"
-    content: "Consistent quality for our secretagogue research. Peptide Shop is our preferred source."
+    content: "Consistent quality for our secretagogue research. Best-Peptides is our preferred source."
     verified: true
   - author: "Dr. Sarah Mitchell"
     rating: 5
@@ -134,7 +134,7 @@ reviews:
     rating: 5
     date: "2024-08-31"
     title: "Excellent quality"
-    content: "Our pituitary cell assays require pure peptides. Peptide Shop delivers."
+    content: "Our pituitary cell assays require pure peptides. Best-Peptides delivers."
     verified: true
   - author: "Dr. Andrew Foster"
     rating: 5
@@ -156,7 +156,7 @@ reviews:
 
 Developed as a ghrelin receptor (GHS-R) agonist, ipamorelin represents one of the most selective GH releasing peptides (GHRPs) available for research. Its clean pharmacological profile enables researchers to study GH axis physiology without the confounding effects seen with less selective compounds.
 
-Peptide Shop supplies **research-grade Ipamorelin** with guaranteed ≥99% purity, verified through comprehensive HPLC and mass spectrometry analysis.
+Best-Peptides supplies **research-grade Ipamorelin** with guaranteed â‰¥99% purity, verified through comprehensive HPLC and mass spectrometry analysis.
 
 ## How Does Ipamorelin Work?
 
@@ -164,7 +164,7 @@ Ipamorelin activates growth hormone secretagogue receptors (GHS-R) in the anteri
 
 ### Receptor Activation
 - **GHS-R binding** - High-affinity ghrelin receptor agonism
-- **Calcium signalling** - Intracellular Ca²⁺ elevation in somatotropes
+- **Calcium signalling** - Intracellular CaÂ²âº elevation in somatotropes
 - **cAMP pathway** - Secondary signalling cascade activation
 - **GH exocytosis** - Stimulated hormone granule release
 
@@ -205,8 +205,8 @@ Research often combines ipamorelin with GHRH analogs:
 | **CAS Number** | 170851-70-4 |
 | **Molecular Formula** | C38H49N9O5 |
 | **Molecular Weight** | 711.9 g/mol |
-| **Sequence** | Aib-His-D-2-Nal-D-Phe-Lys-NH₂ |
-| **Purity** | ≥99% (HPLC) |
+| **Sequence** | Aib-His-D-2-Nal-D-Phe-Lys-NHâ‚‚ |
+| **Purity** | â‰¥99% (HPLC) |
 | **Appearance** | White lyophilised powder |
 | **Solubility** | Freely soluble in water |
 | **Identity** | Confirmed by mass spectrometry |
@@ -215,9 +215,9 @@ Research often combines ipamorelin with GHRH analogs:
 
 | Condition | Temperature | Duration |
 |-----------|-------------|----------|
-| **Lyophilised** | -20°C | Up to 24 months |
-| **Reconstituted** | 2-8°C | Up to 4 weeks |
-| **Frozen aliquots** | -20°C | Up to 3 months |
+| **Lyophilised** | -20Â°C | Up to 24 months |
+| **Reconstituted** | 2-8Â°C | Up to 4 weeks |
+| **Frozen aliquots** | -20Â°C | Up to 3 months |
 
 ## Ordering Information
 
@@ -226,7 +226,7 @@ Research often combines ipamorelin with GHRH analogs:
 | **2 mg** | Pilot studies |
 | **5 mg** | Standard research |
 
-**Minimum order: £200** | **10% discount on orders over £200**
+**Minimum order: Â£200** | **10% discount on orders over Â£200**
 
 ## Research Use Statement
 

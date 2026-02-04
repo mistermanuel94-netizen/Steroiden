@@ -1,15 +1,15 @@
 ---
 lang: de
-email: "peptideshop@zohomail.com"
+email: "Best-Peptides@zohomail.com"
 telegram: "@Nebelzee"
 country: "Deutschland"
 countryCode: "DE"
 currency: "EUR"
-currencySymbol: "€"
+currencySymbol: "â‚¬"
 seo:
   homeName: "Peptide Kaufen Deutschland | BPC 157, Semaglutid & Mehr"
   homeDescription: "Peptide kaufen Deutschland - Premium Forschungspeptide mit 99% HPLC Reinheit. BPC 157, Semaglutid, Tirzepatid, GHK-Cu & mehr. Schnelle Lieferung, COA inklusive. Peptide online kaufen legal."
-  organizationDescription: "Deutschlands führender Anbieter für Forschungspeptide. Peptide kaufen legal mit 99% HPLC Reinheit. BPC 157 Peptide kaufen, Semaglutid, TB-500 online mit schneller Lieferung nach Deutschland und Europa."
+  organizationDescription: "Deutschlands fÃ¼hrender Anbieter fÃ¼r Forschungspeptide. Peptide kaufen legal mit 99% HPLC Reinheit. BPC 157 Peptide kaufen, Semaglutid, TB-500 online mit schneller Lieferung nach Deutschland und Europa."
   primaryKeyword: "peptide kaufen"
   searchVolume: 8100
   secondaryKeywords:
@@ -33,8 +33,8 @@ seo:
       volume: 1000
     - keyword: "peptide online kaufen"
       volume: 880
-  shopTitle: "Peptide Shop Deutschland | Forschungspeptide Kaufen Online"
+  shopTitle: "Best-Peptides Deutschland | Forschungspeptide Kaufen Online"
   shopDescription: "Peptide kaufen Deutschland - BPC 157, Semaglutid, GHK-Cu, Tirzepatid & mehr. 99% HPLC Reinheit, COA inklusive, schnelle Lieferung."
-  aboutTitle: "Über Peptide Shop | Vertrauenswürdiger Peptide Anbieter Deutschland"
-  aboutDescription: "Erfahren Sie mehr über Peptide Shop Deutschland. Premium Forschungspeptide mit 99% HPLC Reinheit. BPC 157 kaufen, Semaglutid & mehr. Vertraut von 5000+ Forschern."
+  aboutTitle: "Ãœber Best-Peptides | VertrauenswÃ¼rdiger Peptide Anbieter Deutschland"
+  aboutDescription: "Erfahren Sie mehr Ã¼ber Best-Peptides Deutschland. Premium Forschungspeptide mit 99% HPLC Reinheit. BPC 157 kaufen, Semaglutid & mehr. Vertraut von 5000+ Forschern."
 ---

@@ -32,11 +32,11 @@ interface OrderEmailData {
   lang: string;
 }
 
-const SITE_EMAIL = 'peptideshop@zohomail.com';
+const SITE_EMAIL = 'Best-Peptides@zohomail.com';
 const OWNER_EMAIL = import.meta.env.OWNER_EMAIL || SITE_EMAIL;
-const SITE_NAME = 'Peptide Shop';
+const SITE_NAME = 'Best-Peptides';
 // Default to the domain email since it is verified. Fallback to env var if set.
-const SENDER_EMAIL = import.meta.env.SENDER_EMAIL || `Peptide Shop <noreply@peptide-shop.net>`;
+const SENDER_EMAIL = import.meta.env.SENDER_EMAIL || `Best-Peptides <noreply@peptide-shop.net>`;
 
 // Send email using Resend API
 async function sendEmail(
@@ -82,7 +82,7 @@ async function sendEmail(
 
 function formatCurrency(amount: number, currency: string): string {
   const symbols: Record<string, string> = {
-    GBP: '£', EUR: '€', USD: '$'
+    GBP: 'Â£', EUR: 'â‚¬', USD: '$'
   };
   return `${symbols[currency] || currency}${amount.toFixed(2)}`;
 }
@@ -103,7 +103,7 @@ function generateCustomerEmailHtml(data: OrderEmailData): string {
   
   const bankDetails = isBankTransfer ? `
     <div style="background: #fef3c7; border: 1px solid #f59e0b; border-radius: 8px; padding: 20px; margin: 24px 0;">
-      <h3 style="color: #92400e; margin: 0 0 12px 0; font-size: 16px;">⚠️ Payment Required</h3>
+      <h3 style="color: #92400e; margin: 0 0 12px 0; font-size: 16px;">âš ï¸ Payment Required</h3>
       <p style="color: #78350f; margin: 0 0 16px 0;">Please transfer the exact amount to our bank account:</p>
       <table style="width: 100%; font-size: 14px;">
         <tr><td style="padding: 4px 0; color: #78350f;"><strong>Bank:</strong></td><td style="color: #78350f;">Sparkasse</td></tr>
@@ -114,12 +114,12 @@ function generateCustomerEmailHtml(data: OrderEmailData): string {
         <tr><td style="padding: 4px 0; color: #78350f;"><strong>Amount:</strong></td><td style="color: #78350f;"><strong>${formatCurrency(data.total, data.currency)}</strong></td></tr>
       </table>
       <div style="background: #fbbf24; border-radius: 6px; padding: 12px; margin-top: 16px;">
-        <p style="color: #78350f; margin: 0; font-weight: 600;">📸 IMPORTANT: Please send a screenshot of your payment confirmation to peptideshop@zohomail.com to speed up order processing.</p>
+        <p style="color: #78350f; margin: 0; font-weight: 600;">ðŸ“¸ IMPORTANT: Please send a screenshot of your payment confirmation to Best-Peptides@zohomail.com to speed up order processing.</p>
       </div>
     </div>
   ` : `
     <div style="background: #ecfdf5; border: 1px solid #10b981; border-radius: 8px; padding: 20px; margin: 24px 0;">
-      <h3 style="color: #065f46; margin: 0 0 8px 0; font-size: 16px;">₿ Bitcoin Payment</h3>
+      <h3 style="color: #065f46; margin: 0 0 8px 0; font-size: 16px;">â‚¿ Bitcoin Payment</h3>
       <p style="color: #047857; margin: 0;">You selected Bitcoin payment. Please complete payment using the details shown on the checkout page. Your order will be processed once payment is confirmed.</p>
     </div>
   `;
@@ -132,19 +132,19 @@ function generateCustomerEmailHtml(data: OrderEmailData): string {
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; line-height: 1.6; color: #1e293b; max-width: 600px; margin: 0 auto; padding: 20px;">
-  <div style="background: linear-gradient(135deg, #0077b6, #023e8a); padding: 32px; border-radius: 12px 12px 0 0; text-align: center;">
-    <h1 style="color: white; margin: 0; font-size: 24px;">Order Confirmed! ✓</h1>
+  <div style="background: linear-gradient(135deg, #0b0f14, #e1062c); padding: 32px; border-radius: 12px 12px 0 0; text-align: center;">
+    <h1 style="color: white; margin: 0; font-size: 24px;">Order Confirmed! âœ“</h1>
     <p style="color: rgba(255,255,255,0.9); margin: 8px 0 0 0;">Thank you for your order, ${data.customerName}</p>
   </div>
   
   <div style="background: white; border: 1px solid #e2e8f0; border-top: none; padding: 32px; border-radius: 0 0 12px 12px;">
-    <p style="background: #f0f9ff; padding: 16px; border-radius: 8px; text-align: center; font-size: 18px;">
-      Order ID: <strong style="color: #0077b6;">${data.orderId}</strong>
+    <p style="background: #f8fafc; padding: 16px; border-radius: 8px; text-align: center; font-size: 18px;">
+      Order ID: <strong style="color: #e1062c;">${data.orderId}</strong>
     </p>
     
     ${bankDetails}
     
-    <h3 style="color: #1e293b; border-bottom: 2px solid #0077b6; padding-bottom: 8px;">Order Summary</h3>
+    <h3 style="color: #1e293b; border-bottom: 2px solid #e1062c; padding-bottom: 8px;">Order Summary</h3>
     <table style="width: 100%; border-collapse: collapse;">
       <thead>
         <tr style="background: #f8fafc;">
@@ -163,10 +163,10 @@ function generateCustomerEmailHtml(data: OrderEmailData): string {
       <p style="margin: 4px 0;">Subtotal: ${formatCurrency(data.subtotal, data.currency)}</p>
       <p style="margin: 4px 0;">Shipping: ${data.shipping === 0 ? 'FREE' : formatCurrency(data.shipping, data.currency)}</p>
       ${data.discount > 0 ? `<p style="margin: 4px 0; color: #10b981;">Discount: -${formatCurrency(data.discount, data.currency)}</p>` : ''}
-      <p style="margin: 8px 0 0 0; font-size: 20px; font-weight: bold; color: #0077b6;">Total: ${formatCurrency(data.total, data.currency)}</p>
+      <p style="margin: 8px 0 0 0; font-size: 20px; font-weight: bold; color: #e1062c;">Total: ${formatCurrency(data.total, data.currency)}</p>
     </div>
     
-    <h3 style="color: #1e293b; border-bottom: 2px solid #0077b6; padding-bottom: 8px; margin-top: 32px;">Shipping Address</h3>
+    <h3 style="color: #1e293b; border-bottom: 2px solid #e1062c; padding-bottom: 8px; margin-top: 32px;">Shipping Address</h3>
     <p style="background: #f8fafc; padding: 16px; border-radius: 8px;">
       ${data.shippingAddress.firstName} ${data.shippingAddress.lastName}<br>
       ${data.shippingAddress.address}<br>
@@ -175,8 +175,8 @@ function generateCustomerEmailHtml(data: OrderEmailData): string {
     </p>
     
     <div style="margin-top: 32px; padding-top: 24px; border-top: 1px solid #e2e8f0; text-align: center; color: #64748b; font-size: 14px;">
-      <p>Questions? Reply to this email or contact us at peptideshop@zohomail.com</p>
-      <p style="margin-top: 16px;">© ${new Date().getFullYear()} ${SITE_NAME}. All rights reserved.</p>
+      <p>Questions? Reply to this email or contact us at Best-Peptides@zohomail.com</p>
+      <p style="margin-top: 16px;">Â© ${new Date().getFullYear()} ${SITE_NAME}. All rights reserved.</p>
     </div>
   </div>
 </body>
@@ -193,14 +193,14 @@ function generateOwnerEmailHtml(data: OrderEmailData): string {
 </head>
 <body style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; line-height: 1.6; color: #1e293b; max-width: 600px; margin: 0 auto; padding: 20px;">
   <div style="background: #10b981; padding: 24px; border-radius: 12px 12px 0 0;">
-    <h1 style="color: white; margin: 0; font-size: 20px;">🛒 New Order Received!</h1>
+    <h1 style="color: white; margin: 0; font-size: 20px;">ðŸ›’ New Order Received!</h1>
   </div>
   
   <div style="background: white; border: 1px solid #e2e8f0; border-top: none; padding: 24px; border-radius: 0 0 12px 12px;">
     <table style="width: 100%; margin-bottom: 24px;">
       <tr>
         <td style="padding: 8px 0;"><strong>Order ID:</strong></td>
-        <td style="color: #0077b6; font-weight: bold;">${data.orderId}</td>
+        <td style="color: #e1062c; font-weight: bold;">${data.orderId}</td>
       </tr>
       <tr>
         <td style="padding: 8px 0;"><strong>Customer:</strong></td>
@@ -208,7 +208,7 @@ function generateOwnerEmailHtml(data: OrderEmailData): string {
       </tr>
       <tr>
         <td style="padding: 8px 0;"><strong>Payment:</strong></td>
-        <td>${data.paymentMethod === 'bank-transfer' ? '🏦 Bank Transfer (Pending)' : '₿ Bitcoin'}</td>
+        <td>${data.paymentMethod === 'bank-transfer' ? 'ðŸ¦ Bank Transfer (Pending)' : 'â‚¿ Bitcoin'}</td>
       </tr>
       <tr>
         <td style="padding: 8px 0;"><strong>Total:</strong></td>
@@ -344,7 +344,7 @@ export async function sendOrderEmails(data: OrderEmailData, apiKey?: string): Pr
     // Send to owner
     const ownerSent = await sendEmail(
       OWNER_EMAIL,
-      `🛒 New Order: ${data.orderId} - ${formatCurrency(data.total, data.currency)}`,
+      `ðŸ›’ New Order: ${data.orderId} - ${formatCurrency(data.total, data.currency)}`,
       generateOwnerEmailHtml(data),
       generateOwnerText(data),
       finalApiKey,

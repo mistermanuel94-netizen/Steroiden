@@ -1,7 +1,7 @@
 import type { APIRoute } from 'astro';
 import { createClient } from '@supabase/supabase-js';
 
-const SITE_EMAIL = 'peptideshop@zohomail.com';
+const SITE_EMAIL = 'Best-Peptides@zohomail.com';
 
 interface ContactFormData {
   user_name: string;
@@ -78,7 +78,7 @@ export const POST: APIRoute = async ({ request, locals }) => {
             'Content-Type': 'application/json',
           },
           body: JSON.stringify({
-            from: 'Peptide Shop <noreply@peptide-shop.net>',
+            from: 'Best-Peptides <noreply@peptide-shop.net>',
             to: ownerEmail,
             reply_to: data.user_email,
             subject: `[Contact Form] ${data.subject || 'New Message'} from ${data.user_name}`,
@@ -107,13 +107,13 @@ export const POST: APIRoute = async ({ request, locals }) => {
             'Content-Type': 'application/json',
           },
           body: JSON.stringify({
-            from: 'Peptide Shop <noreply@peptide-shop.net>',
+            from: 'Best-Peptides <noreply@peptide-shop.net>',
             to: data.user_email,
-            subject: 'Thank you for contacting Peptide Shop',
+            subject: 'Thank you for contacting Best-Peptides',
             html: `
               <div style="font-family: Arial, sans-serif; max-width: 600px; margin: 0 auto;">
-                <div style="background: linear-gradient(90deg, #0077b6, #023e8a); padding: 30px; text-align: center;">
-                  <h1 style="color: white; margin: 0; font-size: 24px;">Peptide Shop</h1>
+                <div style="background: linear-gradient(90deg, #0b0f14, #e1062c); padding: 30px; text-align: center;">
+                  <h1 style="color: white; margin: 0; font-size: 24px;">Best-Peptides</h1>
                 </div>
                 <div style="padding: 30px; background: #f8fafc;">
                   <h2 style="color: #1e293b; margin-top: 0;">Thank you for your message, ${data.user_name}!</h2>
@@ -127,16 +127,16 @@ export const POST: APIRoute = async ({ request, locals }) => {
                   
                   <p style="color: #64748b; line-height: 1.6;">If you have any urgent questions, you can also reach us via:</p>
                   <ul style="color: #64748b; line-height: 1.8;">
-                    <li>Email: <a href="mailto:peptideshop@zohomail.com" style="color: #0077b6;">peptideshop@zohomail.com</a></li>
-                    <li>Telegram: <a href="https://t.me/Nebelzee" style="color: #0077b6;">@Nebelzee</a></li>
+                    <li>Email: <a href="mailto:Best-Peptides@zohomail.com" style="color: #e1062c;">Best-Peptides@zohomail.com</a></li>
+                    <li>Telegram: <a href="https://t.me/Nebelzee" style="color: #e1062c;">@Nebelzee</a></li>
                   </ul>
                 </div>
                 <div style="background: #1e293b; padding: 20px; text-align: center;">
-                  <p style="color: #94a3b8; margin: 0; font-size: 14px;">© 2026 Peptide Shop. All rights reserved.</p>
+                  <p style="color: #94a3b8; margin: 0; font-size: 14px;">Â© 2026 Best-Peptides. All rights reserved.</p>
                 </div>
               </div>
             `,
-            text: `Thank you for your message, ${data.user_name}!\n\nWe have received your inquiry and will get back to you within 24 hours.\n\nYour Message:\nSubject: ${data.subject || 'General Inquiry'}\n${data.user_message}\n\nIf you have any urgent questions, you can also reach us via:\n- Email: peptideshop@zohomail.com\n- Telegram: @Nebelzee\n\n© 2026 Peptide Shop. All rights reserved.`,
+            text: `Thank you for your message, ${data.user_name}!\n\nWe have received your inquiry and will get back to you within 24 hours.\n\nYour Message:\nSubject: ${data.subject || 'General Inquiry'}\n${data.user_message}\n\nIf you have any urgent questions, you can also reach us via:\n- Email: Best-Peptides@zohomail.com\n- Telegram: @Nebelzee\n\nÂ© 2026 Best-Peptides. All rights reserved.`,
           }),
         });
 

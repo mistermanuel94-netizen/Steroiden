@@ -159,7 +159,7 @@ export default function Dashboard({ lang = 'en' }: DashboardProps) {
               <div style={{
                 width: '80px',
                 height: '80px',
-                background: $currentUser?.avatar ? `url(${$currentUser.avatar})` : 'linear-gradient(135deg, #0077b6, #023e8a)',
+                background: $currentUser?.avatar ? `url(${$currentUser.avatar})` : 'linear-gradient(135deg, var(--btn-primary-start), var(--btn-primary-end))',
                 backgroundSize: 'cover',
                 backgroundPosition: 'center',
                 borderRadius: '50%',
@@ -170,7 +170,7 @@ export default function Dashboard({ lang = 'en' }: DashboardProps) {
                 fontSize: '32px',
                 fontWeight: '700',
                 color: 'white',
-                boxShadow: '0 4px 14px rgba(0, 119, 182, 0.3)'
+                boxShadow: '0 4px 14px rgba(225, 6, 44, 0.25)'
               }}>
                 {!$currentUser?.avatar && ($currentUser?.firstName?.[0] || 'U')}
               </div>
@@ -207,7 +207,7 @@ export default function Dashboard({ lang = 'en' }: DashboardProps) {
                     alignItems: 'center',
                     gap: '12px',
                     padding: '12px 16px',
-                    background: activeTab === tab.id ? 'linear-gradient(135deg, #0077b6, #023e8a)' : 'transparent',
+                    background: activeTab === tab.id ? 'linear-gradient(135deg, var(--btn-primary-start), var(--btn-primary-end))' : 'transparent',
                     color: activeTab === tab.id ? 'white' : '#64748b',
                     border: 'none',
                     borderRadius: '10px',
@@ -261,7 +261,7 @@ export default function Dashboard({ lang = 'en' }: DashboardProps) {
               {/* Welcome Card */}
               <div style={{ 
                 ...cardStyle, 
-                background: 'linear-gradient(135deg, #0077b6, #023e8a)',
+                background: 'linear-gradient(135deg, var(--btn-primary-start), var(--btn-primary-end))',
                 padding: '32px',
                 marginBottom: '24px'
               }}>
@@ -280,14 +280,14 @@ export default function Dashboard({ lang = 'en' }: DashboardProps) {
                     <div style={{ 
                       width: '48px', 
                       height: '48px', 
-                      background: 'linear-gradient(135deg, rgba(0, 119, 182, 0.1), rgba(0, 150, 199, 0.1))',
+                      background: 'linear-gradient(135deg, rgba(225, 6, 44, 0.08), rgba(212, 175, 55, 0.10))',
                       borderRadius: '12px',
                       display: 'flex',
                       alignItems: 'center',
                       justifyContent: 'center',
                       marginBottom: '16px'
                     }}>
-                      <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#0077b6" strokeWidth="2">
+                      <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="var(--accent-primary)" strokeWidth="2">
                         <path d="M6 2 3 6v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V6l-3-4Z"></path>
                         <path d="M3 6h18"></path>
                         <path d="M16 10a4 4 0 0 1-8 0"></path>
@@ -354,7 +354,7 @@ export default function Dashboard({ lang = 'en' }: DashboardProps) {
                     style={{
                       background: 'none',
                       border: 'none',
-                      color: '#0077b6',
+                      color: 'var(--accent-primary)',
                       fontWeight: '600',
                       cursor: 'pointer',
                       fontSize: '14px'
@@ -377,7 +377,7 @@ export default function Dashboard({ lang = 'en' }: DashboardProps) {
                         display: 'inline-flex',
                         alignItems: 'center',
                         gap: '8px',
-                        background: 'linear-gradient(135deg, #0077b6, #023e8a)',
+                        background: 'linear-gradient(135deg, var(--btn-primary-start), var(--btn-primary-end))',
                         color: 'white',
                         padding: '12px 24px',
                         borderRadius: '10px',
@@ -418,7 +418,7 @@ export default function Dashboard({ lang = 'en' }: DashboardProps) {
                               textTransform: 'capitalize',
                               marginBottom: '4px'
                             }}>{order.status}</span>
-                            <div style={{ fontWeight: '700', color: '#0077b6' }}>£{order.total.toFixed(2)}</div>
+                            <div style={{ fontWeight: '700', color: 'var(--accent-primary)' }}>£{order.total.toFixed(2)}</div>
                           </div>
                         </div>
                       );
@@ -448,7 +448,7 @@ export default function Dashboard({ lang = 'en' }: DashboardProps) {
                       display: 'inline-flex',
                       alignItems: 'center',
                       gap: '8px',
-                      background: 'linear-gradient(135deg, #0077b6, #023e8a)',
+                      background: 'linear-gradient(135deg, var(--btn-primary-start), var(--btn-primary-end))',
                       color: 'white',
                       padding: '14px 28px',
                       borderRadius: '12px',
@@ -512,7 +512,7 @@ export default function Dashboard({ lang = 'en' }: DashboardProps) {
                               borderBottom: idx < order.items.length - 1 ? '1px solid #f1f5f9' : 'none'
                             }}>
                               <span style={{ color: '#1e293b' }}>{item.title} × {item.quantity}</span>
-                              <span style={{ fontWeight: '600', color: '#0077b6' }}>£{(item.price * item.quantity).toFixed(2)}</span>
+                              <span style={{ fontWeight: '600', color: 'var(--accent-primary)' }}>£{(item.price * item.quantity).toFixed(2)}</span>
                             </div>
                           ))}
                           <div style={{ 
@@ -523,7 +523,7 @@ export default function Dashboard({ lang = 'en' }: DashboardProps) {
                             borderTop: '2px solid #e2e8f0'
                           }}>
                             <span style={{ fontWeight: '700', color: '#1e293b' }}>Total</span>
-                            <span style={{ fontWeight: '800', color: '#0077b6', fontSize: '1.25rem' }}>£{order.total.toFixed(2)}</span>
+                            <span style={{ fontWeight: '800', color: 'var(--accent-primary)', fontSize: '1.25rem' }}>£{order.total.toFixed(2)}</span>
                           </div>
                         </div>
                       </div>
@@ -553,14 +553,14 @@ export default function Dashboard({ lang = 'en' }: DashboardProps) {
                     <div key={address.id} className="col-md-6 mb-3">
                       <div style={{ 
                         padding: '20px',
-                        border: address.isDefault ? '2px solid #0077b6' : '1px solid #e2e8f0',
+                        border: address.isDefault ? '2px solid var(--accent-primary)' : '1px solid #e2e8f0',
                         borderRadius: '12px',
-                        background: address.isDefault ? 'rgba(0, 119, 182, 0.05)' : 'white'
+                        background: address.isDefault ? 'rgba(225, 6, 44, 0.06)' : 'white'
                       }}>
                         {address.isDefault && (
                           <span style={{
                             display: 'inline-block',
-                            background: 'linear-gradient(135deg, #0077b6, #023e8a)',
+                            background: 'linear-gradient(135deg, var(--btn-primary-start), var(--btn-primary-end))',
                             color: 'white',
                             padding: '2px 10px',
                             borderRadius: '10px',
@@ -644,7 +644,7 @@ export default function Dashboard({ lang = 'en' }: DashboardProps) {
                         onClick={handleSaveProfile}
                         style={{
                           padding: '12px 24px',
-                          background: 'linear-gradient(135deg, #0077b6, #023e8a)',
+                          background: 'linear-gradient(135deg, var(--btn-primary-start), var(--btn-primary-end))',
                           color: 'white',
                           border: 'none',
                           borderRadius: '10px',
@@ -695,7 +695,7 @@ export default function Dashboard({ lang = 'en' }: DashboardProps) {
                       style={{
                         marginTop: '20px',
                         padding: '12px 24px',
-                        background: 'linear-gradient(135deg, #0077b6, #023e8a)',
+                        background: 'linear-gradient(135deg, var(--btn-primary-start), var(--btn-primary-end))',
                         color: 'white',
                         border: 'none',
                         borderRadius: '10px',

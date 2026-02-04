@@ -4,7 +4,7 @@ page: category-muscle-recovery
 copy:
   title: "Muscle & Recovery Peptides"
   h1: "Buy Muscle Recovery Peptides UK & Europe"
-  metaTitle: "Buy Muscle Recovery Peptides UK | BPC-157, TB-500 for Sale | Peptide Shop"
+  metaTitle: "Buy Muscle Recovery Peptides UK | BPC-157, TB-500 for Sale | Best-Peptides"
   metaDescription: "Buy muscle recovery peptides UK & Europe. BPC-157, TB-500 for sale with 99% purity. Perfect for bodybuilding research. Fast UK & EU delivery."
   primaryKeyword: "buy muscle recovery peptides uk"
   searchVolume: "1800"

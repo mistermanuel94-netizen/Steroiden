@@ -17,8 +17,8 @@ const { faqs, lang = 'en' } = Astro.props;
 
 {faqs.length > 0 && (
   <div class="product-faqs">
-    <h3 class="mb-4 d-flex align-items-center" style="color: #023e8a;">
-      <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" class="mr-2" style="color: #0077b6;">
+	<h3 class="mb-4 d-flex align-items-center" style="color: var(--text-primary);">
+	  <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" class="mr-2" style="color: var(--accent-primary);">
         <circle cx="12" cy="12" r="10"></circle>
         <path d="M9.09 9a3 3 0 0 1 5.83 1c0 2-3 3-3 3"></path>
         <line x1="12" y1="17" x2="12.01" y2="17"></line>
@@ -96,7 +96,7 @@ const { faqs, lang = 'en' } = Astro.props;
   .faq-chevron {
     flex-shrink: 0;
     transition: transform 0.3s ease;
-    color: #0077b6;
+	color: var(--accent-primary);
   }
   
   .faq-question.active .faq-chevron {

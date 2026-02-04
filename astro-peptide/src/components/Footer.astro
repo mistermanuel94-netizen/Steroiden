@@ -22,8 +22,8 @@ const siteData = siteCopy?.data;
 		<!-- Mobile: Brand section at top -->
 		<div class="footer-brand-section">
 			<div class="footer-logo">
-				<img src="/favicon.png" alt="Peptide Shop" width="36" height="36" style="object-fit: contain;" />
-				<span class="footer-logo-text">Peptide<span class="highlight">Shop</span></span>
+				<img src="/favicon.png" alt="Best-Peptides" width="36" height="36" style="object-fit: contain;" />
+				<span class="footer-logo-text">Best-<span class="highlight">Peptides</span></span>
 			</div>
 			<p class="footer-description">
 				{t(currentLang, 'home.heroSubtitle')}
@@ -138,7 +138,7 @@ const siteData = siteCopy?.data;
 <style>
 	/* ===== MOBILE FIRST FOOTER - Modern Collapsible Design ===== */
 	.site-footer {
-		background: linear-gradient(180deg, #0a4d75 0%, #023047 100%);
+		background: linear-gradient(180deg, var(--bg-dark) 0%, var(--surface-dark) 100%);
 		color: #e2e8f0;
 		padding: 40px 0 0;
 		margin-top: 0;
@@ -173,7 +173,7 @@ const siteData = siteCopy?.data;
 	}
 
 	.footer-logo-text .highlight {
-		color: #48cae4;
+		color: var(--accent-secondary);
 	}
 
 	.footer-description {

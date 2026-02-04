@@ -168,7 +168,7 @@ export default function SearchBar({ lang = 'en', alwaysExpanded = false }: Searc
                       display: 'flex',
                       alignItems: 'center',
                       justifyContent: 'center',
-                      backgroundColor: result.type === 'product' ? '#0077b6' : result.type === 'blog' ? '#059669' : '#6366f1',
+                      backgroundColor: result.type === 'product' ? 'var(--accent-primary)' : result.type === 'blog' ? 'var(--accent-secondary)' : '#6366f1',
                       color: 'white',
                       flexShrink: 0
                     }}>

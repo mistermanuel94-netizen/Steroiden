@@ -1,27 +1,27 @@
 ---
 lang: "ru"
 id: "peptide-ghrp-2"
-title: "Купить GHRP-2 UK | Growth Hormone Releasing Пептид"
-primary_keyword: "Купить ghrp-2 uk"
+title: "ÐšÑƒÐ¿Ð¸Ñ‚ÑŒ GHRP-2 UK | Growth Hormone Releasing ÐŸÐµÐ¿Ñ‚Ð¸Ð´"
+primary_keyword: "ÐšÑƒÐ¿Ð¸Ñ‚ÑŒ ghrp-2 uk"
 search_volume: "2800"
 urlPath: "/peptides/buy-ghrp-2"
-aliases:  ["Growth Hormone Releasing Пептид 2", "GHRP2", "Pralmorelin"]
+aliases:  ["Growth Hormone Releasing ÐŸÐµÐ¿Ñ‚Ð¸Ð´ 2", "GHRP2", "Pralmorelin"]
 cas: "158861-67-7"
 molecular_weight: "817.9 g/mol"
-purity: "≥ 99%"
-storage: "-20°C рекомендуется (только для исследований)"
-package_sizes:  ["10 × 5 mg vials"]
+purity: "â‰¥ 99%"
+storage: "-20Â°C Ñ€ÐµÐºÐ¾Ð¼ÐµÐ½Ð´ÑƒÐµÑ‚ÑÑ (Ñ‚Ð¾Ð»ÑŒÐºÐ¾ Ð´Ð»Ñ Ð¸ÑÑÐ»ÐµÐ´Ð¾Ð²Ð°Ð½Ð¸Ð¹)"
+package_sizes:  ["10 Ã— 5 mg vials"]
 moq: 200
 price: 220
-price_range: "£220 per pack"
+price_range: "Â£220 per pack"
 coa_url: "/coa/ghrp-2.pdf"
-short_description: "Купить GHRP-2 UK. Growth hormone releasing Пептид for GH research. ≥99% purity. Быстрая доставка."
+short_description: "ÐšÑƒÐ¿Ð¸Ñ‚ÑŒ GHRP-2 UK. Growth hormone releasing ÐŸÐµÐ¿Ñ‚Ð¸Ð´ for GH research. â‰¥99% purity. Ð‘Ñ‹ÑÑ‚Ñ€Ð°Ñ Ð´Ð¾ÑÑ‚Ð°Ð²ÐºÐ°."
 category: "growth-hormone"
-tags:  ["research-Пептид", "ghrp-2-uk", "ghrp", "buy-Пептидs-uk", "growth-hormone"]
+tags:  ["research-ÐŸÐµÐ¿Ñ‚Ð¸Ð´", "ghrp-2-uk", "ghrp", "buy-ÐŸÐµÐ¿Ñ‚Ð¸Ð´s-uk", "growth-hormone"]
 images: ["/images/products/ghrp-2.png"]
 meta:
-  title: "Купить GHRP-2 UK | GH Пептид | Fast Delivery"
-  description: "Buy GHRP-2 UK. Premium growth hormone releasing peptide for research. ≥99% purity, COA included."
+  title: "ÐšÑƒÐ¿Ð¸Ñ‚ÑŒ GHRP-2 UK | GH ÐŸÐµÐ¿Ñ‚Ð¸Ð´ | Fast Delivery"
+  description: "Buy GHRP-2 UK. Premium growth hormone releasing peptide for research. â‰¥99% purity, COA included."
 faqs:
 - question: "What is GHRP-2 used for in research?"
   answer: "GHRP-2 is used to study growth hormone secretion, ghrelin receptor activation, and somatotrope function. It's considered more selective than GHRP-6 with less appetite stimulation."
@@ -30,9 +30,9 @@ faqs:
 - question: "What is another name for GHRP-2?"
   answer: "GHRP-2 is also known as Pralmorelin and was one of the first synthetic GH secretagogues studied clinically for GH deficiency research."
 - question: "How should GHRP-2 be stored?"
-  answer: "Store lyophilised GHRP-2 at -20°C. Once reconstituted, keep at 2-8°C and use within 4 weeks."
+  answer: "Store lyophilised GHRP-2 at -20Â°C. Once reconstituted, keep at 2-8Â°C and use within 4 weeks."
 - question: "What purity is your GHRP-2?"
-  answer: "Our GHRP-2 is ≥99% pure as verified by HPLC. Each batch includes a Certificate of Analysis."
+  answer: "Our GHRP-2 is â‰¥99% pure as verified by HPLC. Each batch includes a Certificate of Analysis."
 - question: "Can it be combined with GHRH analogs?"
   answer: "Yes, GHRP-2 with GHRH analogs is a common research combination for studying synergistic GH release mechanisms."
 - question: "How do I reconstitute GHRP-2?"
@@ -44,7 +44,7 @@ reviews:
   rating: 5
   date: "2024-12-08"
   title: "Excellent for GH research"
-  content: "GHRP-2's selectivity is valuable for our studies. Peptide Shop provides excellent quality."
+  content: "GHRP-2's selectivity is valuable for our studies. Best-Peptides provides excellent quality."
   verified: true
 - author: "Cambridge Endocrine Lab"
   rating: 5
@@ -91,7 +91,7 @@ reviews:
 - author: "Dr. Catherine Moore"
   rating: 5
   date: "2024-10-13"
-  title: "Premium Исследовательский пептид"
+  title: "Premium Ð˜ÑÑÐ»ÐµÐ´Ð¾Ð²Ð°Ñ‚ÐµÐ»ÑŒÑÐºÐ¸Ð¹ Ð¿ÐµÐ¿Ñ‚Ð¸Ð´"
   content: "Excellent for comparative GHRP studies."
   verified: true
 - author: "Newcastle Hormone Lab"
@@ -110,11 +110,11 @@ reviews:
 
 ## What is GHRP-2?
 
-**GHRP-2** (Growth Hormone Releasing Пептид-2, Pralmorelin) is a synthetic hexaПептид that stimulates growth hormone release through activation of the ghrelin receptor (GHS-R1a). GHRP-2 is considered more selective than GHRP-6, producing robust GH release with less pronounced effects on appetite, cortisol, and prolactin.
+**GHRP-2** (Growth Hormone Releasing ÐŸÐµÐ¿Ñ‚Ð¸Ð´-2, Pralmorelin) is a synthetic hexaÐŸÐµÐ¿Ñ‚Ð¸Ð´ that stimulates growth hormone release through activation of the ghrelin receptor (GHS-R1a). GHRP-2 is considered more selective than GHRP-6, producing robust GH release with less pronounced effects on appetite, cortisol, and prolactin.
 
-The Пептид's improved selectivity profile makes it valuable for Исследованиеing GH secretion mechanisms without confounding orexigenic effects.
+The ÐŸÐµÐ¿Ñ‚Ð¸Ð´'s improved selectivity profile makes it valuable for Ð˜ÑÑÐ»ÐµÐ´Ð¾Ð²Ð°Ð½Ð¸Ðµing GH secretion mechanisms without confounding orexigenic effects.
 
-Пептид Shop supplies **research-grade GHRP-2** with guaranteed ≥99% purity.
+ÐŸÐµÐ¿Ñ‚Ð¸Ð´ Shop supplies **research-grade GHRP-2** with guaranteed â‰¥99% purity.
 
 ## How Does GHRP-2 Work?
 
@@ -141,27 +141,27 @@ The Пептид's improved selectivity profile makes it valuable for Иссле
 | Specification | Detail |
 |--------------|--------|
 | **CAS Number** | 158861-67-7 |
-| **Molecular Формула** | C45H55N9O6 |
-| **Молекулярная масса** | 817.9 g/mol |
-| **Последовательность** | D-Ala-D-β-Nal-Ala-Trp-D-Phe-Lys-NH₂ |
-| **Purity** | ≥99% (HPLC) |
-| **Внешний вид** | White lyophilised powder |
+| **Molecular Ð¤Ð¾Ñ€Ð¼ÑƒÐ»Ð°** | C45H55N9O6 |
+| **ÐœÐ¾Ð»ÐµÐºÑƒÐ»ÑÑ€Ð½Ð°Ñ Ð¼Ð°ÑÑÐ°** | 817.9 g/mol |
+| **ÐŸÐ¾ÑÐ»ÐµÐ´Ð¾Ð²Ð°Ñ‚ÐµÐ»ÑŒÐ½Ð¾ÑÑ‚ÑŒ** | D-Ala-D-Î²-Nal-Ala-Trp-D-Phe-Lys-NHâ‚‚ |
+| **Purity** | â‰¥99% (HPLC) |
+| **Ð’Ð½ÐµÑˆÐ½Ð¸Ð¹ Ð²Ð¸Ð´** | White lyophilised powder |
 
 ## Storage
 
 | Condition | Temperature | Duration |
 |-----------|-------------|----------|
-| **Lyophilised** | -20°C | Up to 24 months |
-| **восстановленный** | 2-8°C | Up to 4 weeks |
+| **Lyophilised** | -20Â°C | Up to 24 months |
+| **Ð²Ð¾ÑÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½Ð½Ñ‹Ð¹** | 2-8Â°C | Up to 4 weeks |
 
 ## Ordering Information
 
 | Size | Price |
 |------|-------|
-| **5 mg** | From £28 |
-| **10 mg** | From £60 |
+| **5 mg** | From Â£28 |
+| **10 mg** | From Â£60 |
 
-**Minimum order: £200** | **10% discount on orders over £200**
+**Minimum order: Â£200** | **10% discount on orders over Â£200**
 
 ## Research Use Statement
 

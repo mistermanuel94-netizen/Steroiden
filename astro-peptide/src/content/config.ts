@@ -55,7 +55,7 @@ const blogCollection = defineCollection({
     title: z.string(),
     description: z.string(),
     publishDate: z.string(),
-    author: z.string().default('Peptide Shop Team'),
+    author: z.string().default('Best-Peptides Team'),
     category: z.string(),
     tags: z.array(z.string()).optional(),
     image: z.string().optional(),

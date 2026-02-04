@@ -51,7 +51,7 @@ export const GET: APIRoute = async ({ url }) => {
       .slice(0, 6)
       .map(product => ({
         id: `product-${product.data.id}`,
-        title: product.data.title.replace(' | Peptide Shop UK', '').replace('Buy ', ''),
+        title: product.data.title.replace(' | Best-Peptides UK', '').replace('Buy ', ''),
         slug: `/peptides/${cleanSlug(product.slug)}`,
         category: product.data.category?.replace(/-/g, ' ') || 'Peptide',
         type: 'product' as const

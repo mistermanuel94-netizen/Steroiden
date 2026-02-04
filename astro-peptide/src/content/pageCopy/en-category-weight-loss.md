@@ -4,7 +4,7 @@ page: category-weight-loss
 copy:
   title: "Weight Loss Peptides"
   h1: "Buy Weight Loss Peptides UK & Europe"
-  metaTitle: "Buy Weight Loss Peptides UK & Europe | Semaglutide, Tirzepatide | Peptide Shop"
+  metaTitle: "Buy Weight Loss Peptides UK & Europe | Semaglutide, Tirzepatide | Best-Peptides"
   metaDescription: "Buy weight loss peptides UK & Europe. Research-grade Semaglutide, Tirzepatide, Retatrutide, AOD-9604. 99% purity, COA included. Fast UK & EU delivery."
   primaryKeyword: "buy weight loss peptides uk"
   searchVolume: "2900"

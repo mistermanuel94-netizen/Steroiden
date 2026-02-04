@@ -40,7 +40,7 @@ const filtered = posts
 ---
 
 <Layout
-  title={`${category} | ${t(lang, 'blogPage.title')} | Peptide Shop`}
+  title={`${category} | ${t(lang, 'blogPage.title')} | Best-Peptides`}
   description={`${t(lang, 'blogPage.categories')}: ${category}`}
   breadcrumbs={[
     { name: t(lang, 'common.home'), url: getLocalizedPath('/', lang) },
@@ -76,7 +76,7 @@ const filtered = posts
       </div>
 
       <div style="margin-top: 28px;">
-        <a href={getLocalizedPath('/blog/', lang)} style="color: #0077b6; font-weight: 700; text-decoration: none;">{t(lang, 'blogPage.backToBlog')}</a>
+        <a href={getLocalizedPath('/blog/', lang)} style="color: var(--accent-primary); font-weight: 700; text-decoration: none;">{t(lang, 'blogPage.backToBlog')}</a>
       </div>
     </div>
   </section>

@@ -1,127 +1,127 @@
 ---
 lang: "es"
 id: "peptide-tesofensine"
-title: "Comprar Tesofensine | Inhibidor Triple Recaptación para Investigación"
+title: "Comprar Tesofensine | Inhibidor Triple RecaptaciÃ³n para InvestigaciÃ³n"
 primary_keyword: "tesofensine comprar"
 search_volume: "590"
 urlPath: "/es/peptides/tesofensine-comprar"
-aliases: ["NS2330", "Inhibidor Triple Recaptación"]
+aliases: ["NS2330", "Inhibidor Triple RecaptaciÃ³n"]
 cas: "402856-42-2"
 molecular_weight: "382.5 g/mol"
-purity: "≥ 99%"
+purity: "â‰¥ 99%"
 storage: "Temperatura ambiente, protegido de la luz"
-package_sizes: ["60 × 0.5 mg cáps"]
+package_sizes: ["60 Ã— 0.5 mg cÃ¡ps"]
 moq: 200
 price: 240
-price_range: "280€ por frasco"
+price_range: "280â‚¬ por frasco"
 coa_url: "/coa/tesofensine.pdf"
-short_description: "Compre Tesofensine. Inhibidor triple recaptación para investigación de peso y neurociencia. ≥99% pureza. Envío rápido UE."
+short_description: "Compre Tesofensine. Inhibidor triple recaptaciÃ³n para investigaciÃ³n de peso y neurociencia. â‰¥99% pureza. EnvÃ­o rÃ¡pido UE."
 category: "weight-loss"
-tags: ["compuesto-investigación", "tesofensine-españa", "pérdida-peso", "comprar-investigación", "triple-recaptación"]
+tags: ["compuesto-investigaciÃ³n", "tesofensine-espaÃ±a", "pÃ©rdida-peso", "comprar-investigaciÃ³n", "triple-recaptaciÃ³n"]
 images: ["/images/products/tesofensine.png"]
 meta:
-  title: "Comprar Tesofensine | Inhibidor Triple Recaptación | Envío Rápido"
-  description: "Compre Tesofensine. Inhibidor triple recaptación premium para investigación de peso. ≥99% pureza, COA incluido. Envío rápido UE."
+  title: "Comprar Tesofensine | Inhibidor Triple RecaptaciÃ³n | EnvÃ­o RÃ¡pido"
+  description: "Compre Tesofensine. Inhibidor triple recaptaciÃ³n premium para investigaciÃ³n de peso. â‰¥99% pureza, COA incluido. EnvÃ­o rÃ¡pido UE."
 faqs:
-  - question: "¿Para qué se usa la Tesofensine en investigación?"
-    answer: "La Tesofensine se usa en neurociencia e investigación de obesidad para estudiar la inhibición triple de la recaptación de monoaminas. Bloquea la recaptación de norepinefrina, dopamina y serotonina, permitiendo investigar los mecanismos de regulación del apetito y gasto energético."
-  - question: "¿Cómo difiere la Tesofensine de los supresores del apetito tradicionales?"
-    answer: "La Tesofensine inhibe la recaptación de tres neurotransmisores (NE, DA, 5-HT) en lugar de afectar principalmente un sistema. Este mecanismo triple permite investigar la regulación compleja del apetito monoaminérgico."
-  - question: "¿Para qué se desarrolló originalmente la Tesofensine?"
-    answer: "La Tesofensine se desarrolló inicialmente como tratamiento potencial para las enfermedades de Parkinson y Alzheimer. La pérdida de peso observada en los ensayos llevó a aplicaciones de investigación en obesidad."
-  - question: "¿Cómo debe almacenarse la Tesofensine?"
-    answer: "Almacenar la Tesofensine a temperatura ambiente, protegida de la luz y la humedad. A diferencia de los péptidos, no requiere almacenamiento en frío. Mantener en un lugar fresco y seco."
-  - question: "¿Cuál es la pureza de su Tesofensine?"
-    answer: "Nuestra Tesofensine es ≥99% pura según verificación por análisis HPLC. Cada lote incluye un Certificado de Análisis con confirmación de pureza e identidad."
-  - question: "¿Cuál es el mecanismo de acción?"
-    answer: "La Tesofensine inhibe la recaptación presináptica de norepinefrina, dopamina y serotonina, aumentando las concentraciones sinápticas de estos neurotransmisores para afectar el apetito, la saciedad y el gasto energético."
+  - question: "Â¿Para quÃ© se usa la Tesofensine en investigaciÃ³n?"
+    answer: "La Tesofensine se usa en neurociencia e investigaciÃ³n de obesidad para estudiar la inhibiciÃ³n triple de la recaptaciÃ³n de monoaminas. Bloquea la recaptaciÃ³n de norepinefrina, dopamina y serotonina, permitiendo investigar los mecanismos de regulaciÃ³n del apetito y gasto energÃ©tico."
+  - question: "Â¿CÃ³mo difiere la Tesofensine de los supresores del apetito tradicionales?"
+    answer: "La Tesofensine inhibe la recaptaciÃ³n de tres neurotransmisores (NE, DA, 5-HT) en lugar de afectar principalmente un sistema. Este mecanismo triple permite investigar la regulaciÃ³n compleja del apetito monoaminÃ©rgico."
+  - question: "Â¿Para quÃ© se desarrollÃ³ originalmente la Tesofensine?"
+    answer: "La Tesofensine se desarrollÃ³ inicialmente como tratamiento potencial para las enfermedades de Parkinson y Alzheimer. La pÃ©rdida de peso observada en los ensayos llevÃ³ a aplicaciones de investigaciÃ³n en obesidad."
+  - question: "Â¿CÃ³mo debe almacenarse la Tesofensine?"
+    answer: "Almacenar la Tesofensine a temperatura ambiente, protegida de la luz y la humedad. A diferencia de los pÃ©ptidos, no requiere almacenamiento en frÃ­o. Mantener en un lugar fresco y seco."
+  - question: "Â¿CuÃ¡l es la pureza de su Tesofensine?"
+    answer: "Nuestra Tesofensine es â‰¥99% pura segÃºn verificaciÃ³n por anÃ¡lisis HPLC. Cada lote incluye un Certificado de AnÃ¡lisis con confirmaciÃ³n de pureza e identidad."
+  - question: "Â¿CuÃ¡l es el mecanismo de acciÃ³n?"
+    answer: "La Tesofensine inhibe la recaptaciÃ³n presinÃ¡ptica de norepinefrina, dopamina y serotonina, aumentando las concentraciones sinÃ¡pticas de estos neurotransmisores para afectar el apetito, la saciedad y el gasto energÃ©tico."
 reviews:
-  - author: "Dr. Carlos Martín"
+  - author: "Dr. Carlos MartÃ­n"
     rating: 5
     date: "2024-12-12"
-    title: "Excelente para investigación neurocientífica"
-    content: "Nuestros estudios de recaptación de monoaminas requieren compuestos de alta pureza. Peptide Shop entrega excelente calidad con documentación apropiada."
+    title: "Excelente para investigaciÃ³n neurocientÃ­fica"
+    content: "Nuestros estudios de recaptaciÃ³n de monoaminas requieren compuestos de alta pureza. Best-Peptides entrega excelente calidad con documentaciÃ³n apropiada."
     verified: true
-  - author: "Neurofarmacología Madrid"
+  - author: "NeurofarmacologÃ­a Madrid"
     rating: 5
     date: "2024-12-05"
     title: "Calidad premium"
-    content: "La pureza de Tesofensine es excepcional. Los resultados en nuestros ensayos de unión a receptores son altamente reproducibles."
+    content: "La pureza de Tesofensine es excepcional. Los resultados en nuestros ensayos de uniÃ³n a receptores son altamente reproducibles."
     verified: true
-  - author: "Miguel García"
+  - author: "Miguel GarcÃ­a"
     rating: 5
     date: "2024-11-28"
     title: "Gran producto"
-    content: "Envío rápido, excelente calidad. Perfecto para nuestra investigación de regulación del apetito."
+    content: "EnvÃ­o rÃ¡pido, excelente calidad. Perfecto para nuestra investigaciÃ³n de regulaciÃ³n del apetito."
     verified: true
   - author: "Laboratorio Neurociencias Barcelona"
     rating: 5
     date: "2024-11-21"
     title: "Proveedor confiable"
-    content: "Calidad constante para nuestros estudios monoaminérgicos. Peptide Shop es nuestro proveedor preferido."
+    content: "Calidad constante para nuestros estudios monoaminÃ©rgicos. Best-Peptides es nuestro proveedor preferido."
     verified: true
-  - author: "Dra. Ana López"
+  - author: "Dra. Ana LÃ³pez"
     rating: 5
     date: "2024-11-14"
     title: "Pureza excepcional"
-    content: "La pureza verificada supera las afirmaciones. Esencial para investigación neurofarmacológica seria."
+    content: "La pureza verificada supera las afirmaciones. Esencial para investigaciÃ³n neurofarmacolÃ³gica seria."
     verified: true
-  - author: "Investigación Obesidad Valencia"
+  - author: "InvestigaciÃ³n Obesidad Valencia"
     rating: 5
     date: "2024-11-07"
     title: "Servicio excelente"
-    content: "Envío rápido, excelente calidad. El tamaño de 25mg dura bien para nuestros estudios."
+    content: "EnvÃ­o rÃ¡pido, excelente calidad. El tamaÃ±o de 25mg dura bien para nuestros estudios."
     verified: true
 ---
 
-## ¿Qué es la Tesofensine?
+## Â¿QuÃ© es la Tesofensine?
 
-La **Tesofensine** (NS2330) es un inhibidor triple de la recaptación de monoaminas que bloquea la recaptación presináptica de norepinefrina, dopamina y serotonina. Desarrollada originalmente para la investigación de enfermedades neurodegenerativas, la tesofensine se ha convertido en una herramienta importante para estudiar las bases neurológicas de la regulación del apetito y la homeostasis energética.
+La **Tesofensine** (NS2330) es un inhibidor triple de la recaptaciÃ³n de monoaminas que bloquea la recaptaciÃ³n presinÃ¡ptica de norepinefrina, dopamina y serotonina. Desarrollada originalmente para la investigaciÃ³n de enfermedades neurodegenerativas, la tesofensine se ha convertido en una herramienta importante para estudiar las bases neurolÃ³gicas de la regulaciÃ³n del apetito y la homeostasis energÃ©tica.
 
-A diferencia de los compuestos de objetivo único, el mecanismo triple de la tesofensine permite a los investigadores estudiar la interacción compleja entre los sistemas monoaminérgicos en el control de la ingesta de alimentos y la tasa metabólica. Esto la hace valiosa para comprender la neurofarmacología de la obesidad y los trastornos alimentarios.
+A diferencia de los compuestos de objetivo Ãºnico, el mecanismo triple de la tesofensine permite a los investigadores estudiar la interacciÃ³n compleja entre los sistemas monoaminÃ©rgicos en el control de la ingesta de alimentos y la tasa metabÃ³lica. Esto la hace valiosa para comprender la neurofarmacologÃ­a de la obesidad y los trastornos alimentarios.
 
-Peptide Shop suministra **Tesofensine de calidad de investigación** con pureza garantizada ≥99%, verificada mediante análisis HPLC exhaustivo.
+Best-Peptides suministra **Tesofensine de calidad de investigaciÃ³n** con pureza garantizada â‰¥99%, verificada mediante anÃ¡lisis HPLC exhaustivo.
 
-## ¿Cómo funciona la Tesofensine?
+## Â¿CÃ³mo funciona la Tesofensine?
 
-La Tesofensine aumenta las concentraciones sinápticas de tres neurotransmisores clave:
+La Tesofensine aumenta las concentraciones sinÃ¡pticas de tres neurotransmisores clave:
 
 ### Efectos de la Norepinefrina
-- **Activación simpática** - Tasa metabólica aumentada
-- **Supresión del apetito** - Señales de hambre reducidas
-- **Gasto energético** - Termogénesis mejorada
-- **Estimulación de lipólisis** - Efectos de movilización de grasa
+- **ActivaciÃ³n simpÃ¡tica** - Tasa metabÃ³lica aumentada
+- **SupresiÃ³n del apetito** - SeÃ±ales de hambre reducidas
+- **Gasto energÃ©tico** - TermogÃ©nesis mejorada
+- **EstimulaciÃ³n de lipÃ³lisis** - Efectos de movilizaciÃ³n de grasa
 
 ### Efectos de la Dopamina
-- **Modulación de la vía de recompensa** - Recompensa alimentaria alterada
-- **Efectos motivacionales** - Cambios en el comportamiento de búsqueda de alimentos
-- **Mejora de la saciedad** - Terminación más temprana de las comidas
-- **Alimentación hedónica** - Consumo reducido impulsado por el placer
+- **ModulaciÃ³n de la vÃ­a de recompensa** - Recompensa alimentaria alterada
+- **Efectos motivacionales** - Cambios en el comportamiento de bÃºsqueda de alimentos
+- **Mejora de la saciedad** - TerminaciÃ³n mÃ¡s temprana de las comidas
+- **AlimentaciÃ³n hedÃ³nica** - Consumo reducido impulsado por el placer
 
 ### Efectos de la Serotonina
-- **Señalización de saciedad** - Percepción de plenitud mejorada
-- **Efectos del estado de ánimo** - Modulación de la alimentación emocional
+- **SeÃ±alizaciÃ³n de saciedad** - PercepciÃ³n de plenitud mejorada
+- **Efectos del estado de Ã¡nimo** - ModulaciÃ³n de la alimentaciÃ³n emocional
 - **Preferencia de carbohidratos** - Elecciones de macronutrientes alteradas
 
-## Aplicaciones de investigación
+## Aplicaciones de investigaciÃ³n
 
-### Investigación de obesidad
-- **Mecanismos del apetito** - Comprensión hambre/saciedad
-- **Balance energético** - Estudios de tasa metabólica
-- **Comportamiento alimentario** - Investigación de elección de alimentos
+### InvestigaciÃ³n de obesidad
+- **Mecanismos del apetito** - ComprensiÃ³n hambre/saciedad
+- **Balance energÃ©tico** - Estudios de tasa metabÃ³lica
+- **Comportamiento alimentario** - InvestigaciÃ³n de elecciÃ³n de alimentos
 
 ### Neurociencias
-- **Sistemas monoaminérgicos** - Estudios de inhibición de recaptación
-- **Farmacología de receptores** - Investigación de transportadores
-- **Neurociencia conductual** - Motivación y recompensa
+- **Sistemas monoaminÃ©rgicos** - Estudios de inhibiciÃ³n de recaptaciÃ³n
+- **FarmacologÃ­a de receptores** - InvestigaciÃ³n de transportadores
+- **Neurociencia conductual** - MotivaciÃ³n y recompensa
 
 ## Especificaciones
 
-| Especificación | Detalle |
+| EspecificaciÃ³n | Detalle |
 |----------------|---------|
-| **Número CAS** | 402856-42-2 |
+| **NÃºmero CAS** | 402856-42-2 |
 | **Peso molecular** | 382.5 g/mol |
-| **Pureza** | ≥99% (HPLC) |
+| **Pureza** | â‰¥99% (HPLC) |
 | **Apariencia** | Polvo blanco a blanquecino |
 | **Solubilidad** | Soluble en DMSO, metanol |
 
@@ -129,15 +129,15 @@ La Tesofensine aumenta las concentraciones sinápticas de tres neurotransmisores
 
 Almacenar a temperatura ambiente, protegido de la luz y la humedad.
 
-## Información de pedido
+## InformaciÃ³n de pedido
 
-| Tamaño | Precio |
+| TamaÃ±o | Precio |
 |--------|--------|
-| **10 mg** | Desde 49€ |
-| **25 mg** | Desde 110€ |
+| **10 mg** | Desde 49â‚¬ |
+| **25 mg** | Desde 110â‚¬ |
 
-**Pedido mínimo: 200€** | **10% de descuento en pedidos superiores a 200€**
+**Pedido mÃ­nimo: 200â‚¬** | **10% de descuento en pedidos superiores a 200â‚¬**
 
-## Declaración de investigación
+## DeclaraciÃ³n de investigaciÃ³n
 
-**Solo para investigación de laboratorio.** No destinado para uso humano o veterinario.
+**Solo para investigaciÃ³n de laboratorio.** No destinado para uso humano o veterinario.

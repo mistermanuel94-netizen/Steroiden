@@ -1,185 +1,185 @@
 ---
 lang: "es"
 id: "peptide-ghk-cu"
-title: "Comprar GHK-Cu | Péptido de Cobre para Investigación"
+title: "Comprar GHK-Cu | PÃ©ptido de Cobre para InvestigaciÃ³n"
 primary_keyword: "ghk-cu comprar"
 search_volume: "4200"
 urlPath: "/es/peptides/ghk-cu-comprar"
-aliases: ["Péptido de Cobre", "GHK Cobre", "Tripéptido-1"]
+aliases: ["PÃ©ptido de Cobre", "GHK Cobre", "TripÃ©ptido-1"]
 cas: "49557-75-7"
 molecular_weight: "403.9 g/mol"
-purity: "≥ 99%"
-storage: "-20°C recomendado (solo investigación)"
+purity: "â‰¥ 99%"
+storage: "-20Â°C recomendado (solo investigaciÃ³n)"
 package_sizes: ["500 mg polvo"]
 moq: 200
 price: 200
-price_range: "€200 por unidad"
+price_range: "â‚¬200 por unidad"
 coa_url: "/coa/ghk-cu.pdf"
-short_description: "Comprar GHK-Cu. Péptido de cobre para investigación cutánea y tisular. ≥99% pureza. Entrega rápida."
+short_description: "Comprar GHK-Cu. PÃ©ptido de cobre para investigaciÃ³n cutÃ¡nea y tisular. â‰¥99% pureza. Entrega rÃ¡pida."
 category: "muscle-recovery"
-tags: ["research-peptide", "ghk-cu-es", "copper-peptide", "comprar-peptidos", "piel", "colágeno"]
+tags: ["research-peptide", "ghk-cu-es", "copper-peptide", "comprar-peptidos", "piel", "colÃ¡geno"]
 images: ["/images/products/ghk-cu.png"]
 meta:
-  title: "Comprar GHK-Cu | Péptido de Cobre | Entrega Rápida"
-  description: "Comprar GHK-Cu. Péptido de cobre premium para investigación. ≥99% pureza, COA incluido. Entrega rápida."
+  title: "Comprar GHK-Cu | PÃ©ptido de Cobre | Entrega RÃ¡pida"
+  description: "Comprar GHK-Cu. PÃ©ptido de cobre premium para investigaciÃ³n. â‰¥99% pureza, COA incluido. Entrega rÃ¡pida."
 faqs:
-  - question: "¿Para qué se usa el GHK-Cu en investigación?"
-    answer: "El GHK-Cu se estudia para la cicatrización de heridas, regeneración cutánea, síntesis de colágeno y efectos antiinflamatorios. Es un tripéptido natural con unión al cobre."
-  - question: "¿Cómo funciona el GHK-Cu?"
-    answer: "El GHK-Cu quela iones de cobre y los entrega a los tejidos, estimulando la síntesis de colágeno, producción de glicosaminoglicanos y apoyando los procesos de cicatrización."
-  - question: "¿Cuál es el origen del GHK-Cu?"
-    answer: "El GHK es un tripéptido natural que se encuentra en el plasma humano, saliva y orina. Los niveles disminuyen con la edad, lo que ha generado interés en sus propiedades regenerativas."
-  - question: "¿Cómo se debe almacenar el GHK-Cu?"
-    answer: "Almacene el GHK-Cu liofilizado a -20°C. Las soluciones reconstituidas deben mantenerse a 2-8°C y usarse dentro de 4 semanas."
-  - question: "¿Qué pureza tiene su GHK-Cu?"
-    answer: "Nuestro GHK-Cu tiene ≥99% de pureza verificada por HPLC. Cada lote incluye un Certificado de Análisis."
-  - question: "¿Puede el GHK-Cu afectar la expresión génica?"
-    answer: "La investigación sugiere que el GHK-Cu influye en la expresión de numerosos genes relacionados con la reparación tisular, actividad antioxidante y producción de colágeno."
-  - question: "¿Cómo reconstituyo el GHK-Cu?"
-    answer: "Reconstituir en agua estéril. El GHK-Cu es altamente soluble y se disuelve fácilmente."
-  - question: "¿Qué tamaños están disponibles?"
-    answer: "El GHK-Cu está disponible en cantidades de 50mg, 100mg y 500mg."
+  - question: "Â¿Para quÃ© se usa el GHK-Cu en investigaciÃ³n?"
+    answer: "El GHK-Cu se estudia para la cicatrizaciÃ³n de heridas, regeneraciÃ³n cutÃ¡nea, sÃ­ntesis de colÃ¡geno y efectos antiinflamatorios. Es un tripÃ©ptido natural con uniÃ³n al cobre."
+  - question: "Â¿CÃ³mo funciona el GHK-Cu?"
+    answer: "El GHK-Cu quela iones de cobre y los entrega a los tejidos, estimulando la sÃ­ntesis de colÃ¡geno, producciÃ³n de glicosaminoglicanos y apoyando los procesos de cicatrizaciÃ³n."
+  - question: "Â¿CuÃ¡l es el origen del GHK-Cu?"
+    answer: "El GHK es un tripÃ©ptido natural que se encuentra en el plasma humano, saliva y orina. Los niveles disminuyen con la edad, lo que ha generado interÃ©s en sus propiedades regenerativas."
+  - question: "Â¿CÃ³mo se debe almacenar el GHK-Cu?"
+    answer: "Almacene el GHK-Cu liofilizado a -20Â°C. Las soluciones reconstituidas deben mantenerse a 2-8Â°C y usarse dentro de 4 semanas."
+  - question: "Â¿QuÃ© pureza tiene su GHK-Cu?"
+    answer: "Nuestro GHK-Cu tiene â‰¥99% de pureza verificada por HPLC. Cada lote incluye un Certificado de AnÃ¡lisis."
+  - question: "Â¿Puede el GHK-Cu afectar la expresiÃ³n gÃ©nica?"
+    answer: "La investigaciÃ³n sugiere que el GHK-Cu influye en la expresiÃ³n de numerosos genes relacionados con la reparaciÃ³n tisular, actividad antioxidante y producciÃ³n de colÃ¡geno."
+  - question: "Â¿CÃ³mo reconstituyo el GHK-Cu?"
+    answer: "Reconstituir en agua estÃ©ril. El GHK-Cu es altamente soluble y se disuelve fÃ¡cilmente."
+  - question: "Â¿QuÃ© tamaÃ±os estÃ¡n disponibles?"
+    answer: "El GHK-Cu estÃ¡ disponible en cantidades de 50mg, 100mg y 500mg."
 reviews:
-  - author: "Dr. Carlos García"
+  - author: "Dr. Carlos GarcÃ­a"
     rating: 5
     date: "2024-12-09"
-    title: "Excelente péptido de cobre"
-    content: "La calidad del GHK-Cu es excepcional para nuestra investigación cutánea. Efectos de síntesis de colágeno claramente observables."
+    title: "Excelente pÃ©ptido de cobre"
+    content: "La calidad del GHK-Cu es excepcional para nuestra investigaciÃ³n cutÃ¡nea. Efectos de sÃ­ntesis de colÃ¡geno claramente observables."
     verified: true
-  - author: "Laboratorio Dermatología Madrid"
+  - author: "Laboratorio DermatologÃ­a Madrid"
     rating: 5
     date: "2024-12-02"
     title: "Calidad premium"
-    content: "Los ensayos de cicatrización muestran excelente actividad. Calidad de grado investigación."
+    content: "Los ensayos de cicatrizaciÃ³n muestran excelente actividad. Calidad de grado investigaciÃ³n."
     verified: true
-  - author: "Miguel Fernández"
+  - author: "Miguel FernÃ¡ndez"
     rating: 5
     date: "2024-11-25"
     title: "Excelente producto"
-    content: "Entrega rápida, excelente calidad. Los estudios de fibroblastos progresan bien."
+    content: "Entrega rÃ¡pida, excelente calidad. Los estudios de fibroblastos progresan bien."
     verified: true
-  - author: "Laboratorio Cutáneo Barcelona"
+  - author: "Laboratorio CutÃ¡neo Barcelona"
     rating: 5
     date: "2024-11-18"
     title: "Proveedor confiable"
-    content: "Calidad consistente para nuestra investigación de colágeno."
+    content: "Calidad consistente para nuestra investigaciÃ³n de colÃ¡geno."
     verified: true
-  - author: "Dr. Ana Martínez"
+  - author: "Dr. Ana MartÃ­nez"
     rating: 5
     date: "2024-11-11"
     title: "Pureza excepcional"
-    content: "Contenido de cobre y pureza del péptido verificados. Excelente producto."
+    content: "Contenido de cobre y pureza del pÃ©ptido verificados. Excelente producto."
     verified: true
   - author: "Laboratorio Tisular Valencia"
     rating: 5
     date: "2024-11-04"
     title: "Excelente servicio"
-    content: "Entrega rápida, gran calidad. Los estudios de expresión génica van bien."
+    content: "Entrega rÃ¡pida, gran calidad. Los estudios de expresiÃ³n gÃ©nica van bien."
     verified: true
-  - author: "Sofía López"
+  - author: "SofÃ­a LÃ³pez"
     rating: 5
     date: "2024-10-28"
-    title: "Entrega rápida"
-    content: "El envío exprés fue puntual. Calidad excelente."
+    title: "Entrega rÃ¡pida"
+    content: "El envÃ­o exprÃ©s fue puntual. Calidad excelente."
     verified: true
-  - author: "Investigación Cicatrización Sevilla"
+  - author: "InvestigaciÃ³n CicatrizaciÃ³n Sevilla"
     rating: 5
     date: "2024-10-21"
     title: "Muy bueno"
-    content: "La calidad es excelente para investigación de cicatrización."
+    content: "La calidad es excelente para investigaciÃ³n de cicatrizaciÃ³n."
     verified: true
-  - author: "Dr. Carmen Rodríguez"
+  - author: "Dr. Carmen RodrÃ­guez"
     rating: 5
     date: "2024-10-14"
-    title: "Péptido de investigación premium"
-    content: "Excelente para estudios de fibroblastos y colágeno."
+    title: "PÃ©ptido de investigaciÃ³n premium"
+    content: "Excelente para estudios de fibroblastos y colÃ¡geno."
     verified: true
-  - author: "Laboratorio Cutáneo Bilbao"
+  - author: "Laboratorio CutÃ¡neo Bilbao"
     rating: 5
     date: "2024-10-07"
     title: "Calidad confiable"
-    content: "Múltiples pedidos, consistentemente excelente."
+    content: "MÃºltiples pedidos, consistentemente excelente."
     verified: true
-  - author: "Pablo Sánchez"
+  - author: "Pablo SÃ¡nchez"
     rating: 5
     date: "2024-09-30"
     title: "Gran experiencia"
-    content: "Pedido fácil, entrega rápida."
+    content: "Pedido fÃ¡cil, entrega rÃ¡pida."
     verified: true
   - author: "Laboratorio Regenerativo Zaragoza"
     rating: 5
     date: "2024-09-23"
     title: "Excelente proveedor"
-    content: "GHK-Cu de alta calidad con documentación apropiada."
+    content: "GHK-Cu de alta calidad con documentaciÃ³n apropiada."
     verified: true
 ---
 
-## ¿Qué es el GHK-Cu?
+## Â¿QuÃ© es el GHK-Cu?
 
-**GHK-Cu** (Tripéptido de Cobre-1) es un complejo péptido-cobre natural compuesto por tres aminoácidos (glicina-histidina-lisina) unidos a un ion de cobre. Presente en el plasma humano, saliva y orina, las concentraciones de GHK-Cu disminuyen naturalmente con la edad.
+**GHK-Cu** (TripÃ©ptido de Cobre-1) es un complejo pÃ©ptido-cobre natural compuesto por tres aminoÃ¡cidos (glicina-histidina-lisina) unidos a un ion de cobre. Presente en el plasma humano, saliva y orina, las concentraciones de GHK-Cu disminuyen naturalmente con la edad.
 
-El interés de la investigación en el GHK-Cu proviene de sus notables efectos sobre la regeneración tisular, cicatrización de heridas y modulación de la expresión génica. Los estudios sugieren que influye en más de 4,000 genes relacionados con la reparación y regeneración tisular.
+El interÃ©s de la investigaciÃ³n en el GHK-Cu proviene de sus notables efectos sobre la regeneraciÃ³n tisular, cicatrizaciÃ³n de heridas y modulaciÃ³n de la expresiÃ³n gÃ©nica. Los estudios sugieren que influye en mÃ¡s de 4,000 genes relacionados con la reparaciÃ³n y regeneraciÃ³n tisular.
 
-Peptide Shop suministra **GHK-Cu de grado investigación** con pureza garantizada ≥99%.
+Best-Peptides suministra **GHK-Cu de grado investigaciÃ³n** con pureza garantizada â‰¥99%.
 
-## ¿Cómo Funciona el GHK-Cu?
+## Â¿CÃ³mo Funciona el GHK-Cu?
 
 ### Entrega de Cobre
-- **Quelación metálica** - Unión estable al cobre
+- **QuelaciÃ³n metÃ¡lica** - UniÃ³n estable al cobre
 - **Entrega tisular** - Transporte dirigido de cobre
-- **Soporte enzimático** - Enzimas dependientes de cobre
+- **Soporte enzimÃ¡tico** - Enzimas dependientes de cobre
 
-### Colágeno & MEC
-- **Síntesis de colágeno** - Tipos I y III
-- **Glicosaminoglicanos** - Producción de MEC
-- **Soporte de elastina** - Elasticidad cutánea
+### ColÃ¡geno & MEC
+- **SÃ­ntesis de colÃ¡geno** - Tipos I y III
+- **Glicosaminoglicanos** - ProducciÃ³n de MEC
+- **Soporte de elastina** - Elasticidad cutÃ¡nea
 - **Fibronectina** - Estructura tisular
 
-### Expresión Génica
-- **>4000 genes afectados** - Modulación amplia
-- **Vías de reparación** - Regulación positiva
-- **Genes antioxidantes** - Protección mejorada
+### ExpresiÃ³n GÃ©nica
+- **>4000 genes afectados** - ModulaciÃ³n amplia
+- **VÃ­as de reparaciÃ³n** - RegulaciÃ³n positiva
+- **Genes antioxidantes** - ProtecciÃ³n mejorada
 
-## Aplicaciones de Investigación
+## Aplicaciones de InvestigaciÃ³n
 
-### Investigación Cutánea
-- **Cicatrización** - Regeneración dérmica
-- **Estudios de envejecimiento** - Declive del colágeno
-- **Actividad de fibroblastos** - Función celular
+### InvestigaciÃ³n CutÃ¡nea
+- **CicatrizaciÃ³n** - RegeneraciÃ³n dÃ©rmica
+- **Estudios de envejecimiento** - Declive del colÃ¡geno
+- **Actividad de fibroblastos** - FunciÃ³n celular
 
-### Reparación Tisular
-- **Folículo piloso** - Estimulación del crecimiento
-- **Regeneración ósea** - Soporte de osteoblastos
-- **Reparación nerviosa** - Estudios de regeneración
+### ReparaciÃ³n Tisular
+- **FolÃ­culo piloso** - EstimulaciÃ³n del crecimiento
+- **RegeneraciÃ³n Ã³sea** - Soporte de osteoblastos
+- **ReparaciÃ³n nerviosa** - Estudios de regeneraciÃ³n
 
 ## Especificaciones del GHK-Cu
 
-| Especificación | Detalle |
+| EspecificaciÃ³n | Detalle |
 |----------------|---------|
-| **Número CAS** | 49557-75-7 |
+| **NÃºmero CAS** | 49557-75-7 |
 | **Peso Molecular** | 403.9 g/mol |
 | **Contenido de Cobre** | ~15.6% |
-| **Pureza** | ≥99% (HPLC) |
+| **Pureza** | â‰¥99% (HPLC) |
 | **Apariencia** | Polvo azul |
 | **Solubilidad** | Muy soluble en agua |
 
 ## Almacenamiento
 
-| Condición | Temperatura | Duración |
+| CondiciÃ³n | Temperatura | DuraciÃ³n |
 |-----------|-------------|----------|
-| **Liofilizado** | -20°C | Hasta 24 meses |
-| **Reconstituido** | 2-8°C | Hasta 4 semanas |
+| **Liofilizado** | -20Â°C | Hasta 24 meses |
+| **Reconstituido** | 2-8Â°C | Hasta 4 semanas |
 
-## Información de Pedido
+## InformaciÃ³n de Pedido
 
-| Tamaño | Precio |
+| TamaÃ±o | Precio |
 |--------|--------|
-| **50 mg** | Desde €28 |
-| **100 mg** | Desde €50 |
-| **500 mg** | Desde €120 |
+| **50 mg** | Desde â‚¬28 |
+| **100 mg** | Desde â‚¬50 |
+| **500 mg** | Desde â‚¬120 |
 
-**Pedido mínimo: €200** | **10% de descuento en pedidos superiores a €200**
+**Pedido mÃ­nimo: â‚¬200** | **10% de descuento en pedidos superiores a â‚¬200**
 
-## Declaración de Uso para Investigación
+## DeclaraciÃ³n de Uso para InvestigaciÃ³n
 
-**Solo para investigación de laboratorio.** No destinado para uso humano o veterinario.
+**Solo para investigaciÃ³n de laboratorio.** No destinado para uso humano o veterinario.

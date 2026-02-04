@@ -28,7 +28,7 @@ const faqCategoriesRaw = [
         answer: "Our research peptides are strictly for laboratory and research use only - they are NOT intended for human consumption. All products are clearly labeled for their intended purpose. Researchers must comply with all applicable laws and regulations."
       },
       {
-        question: "Who can purchase from Peptide Shop?",
+        question: "Who can purchase from Best-Peptides?",
         answer: "Our products are available to researchers, laboratories, academic institutions, and qualified individuals conducting legitimate research. By placing an order, you confirm that products will be used solely for research purposes."
       },
       {
@@ -36,7 +36,7 @@ const faqCategoriesRaw = [
         answer: "Requirements vary by country and jurisdiction. In most European countries, research peptides can be purchased without a special license for legitimate research purposes. However, we recommend checking your local regulations before ordering."
       },
       {
-        question: "What makes Peptide Shop different from other suppliers?",
+        question: "What makes Best-Peptides different from other suppliers?",
         answer: "We offer 98%+ purity guaranteed on all peptides, verified by HPLC and Mass Spectrometry analysis. Every order includes a Certificate of Analysis (COA), we provide same-day dispatch before 4PM, and we offer secure payment options including Bitcoin."
       },
       {
@@ -75,7 +75,7 @@ const faqCategoriesRaw = [
       },
       {
         question: "Are your peptides pharmaceutical grade?",
-        answer: "Our peptides are research-grade with pharmaceutical-level purity (≥98%). They are synthesized using the same methods as pharmaceutical peptides but are intended for research purposes only, not therapeutic use."
+        answer: "Our peptides are research-grade with pharmaceutical-level purity (â‰¥98%). They are synthesized using the same methods as pharmaceutical peptides but are intended for research purposes only, not therapeutic use."
       },
       {
         question: "How do you ensure batch-to-batch consistency?",
@@ -131,7 +131,7 @@ const faqCategoriesRaw = [
       },
       {
         question: "Do you offer free shipping?",
-        answer: "Yes! We offer free standard shipping on orders over £150 (or €175 equivalent) within the UK and EU. Express shipping options are available at checkout for an additional fee."
+        answer: "Yes! We offer free standard shipping on orders over Â£150 (or â‚¬175 equivalent) within the UK and EU. Express shipping options are available at checkout for an additional fee."
       },
       {
         question: "How are peptides packaged for shipping?",
@@ -195,11 +195,11 @@ const faqCategoriesRaw = [
     faqs: [
       {
         question: "How should I store my peptides?",
-        answer: "Lyophilized (freeze-dried) peptides should be stored at -20°C for long-term storage. Short-term storage at 4°C (refrigerator) is acceptable. Keep peptides away from light and moisture. Reconstituted peptides should be stored at 4°C and used within the timeframe specified on the COA."
+        answer: "Lyophilized (freeze-dried) peptides should be stored at -20Â°C for long-term storage. Short-term storage at 4Â°C (refrigerator) is acceptable. Keep peptides away from light and moisture. Reconstituted peptides should be stored at 4Â°C and used within the timeframe specified on the COA."
       },
       {
         question: "How long do peptides remain stable?",
-        answer: "Lyophilized peptides stored at -20°C typically remain stable for 2+ years. At 4°C, stability is generally 6-12 months. Reconstituted peptides have shorter stability, typically 2-4 weeks when refrigerated. Always check the expiration date on your COA."
+        answer: "Lyophilized peptides stored at -20Â°C typically remain stable for 2+ years. At 4Â°C, stability is generally 6-12 months. Reconstituted peptides have shorter stability, typically 2-4 weeks when refrigerated. Always check the expiration date on your COA."
       },
       {
         question: "Do you provide reconstitution instructions?",
@@ -287,7 +287,7 @@ const contactPath = getLocalizedPath('/contact/', lang);
 ---
 
 <Layout 
-  title={`${title} | Peptide Shop`}
+  title={`${title} | Best-Peptides`}
   description={copy.description ?? t(lang, 'faqPage.description')}
   schema={faqSchema}
   breadcrumbs={[
@@ -333,7 +333,7 @@ const contactPath = getLocalizedPath('/contact/', lang);
     
     .faq-nav-link:hover {
       background: #f1f5f9;
-      color: #0077b6;
+      color: var(--accent-primary);
     }
     
     .faq-category {
@@ -356,7 +356,7 @@ const contactPath = getLocalizedPath('/contact/', lang);
     .faq-category-icon {
       width: 48px;
       height: 48px;
-      background: linear-gradient(135deg, #0077b6, #023e8a);
+      background: linear-gradient(135deg, var(--btn-primary-start), var(--btn-primary-end));
       border-radius: 12px;
       display: flex;
       align-items: center;
@@ -422,7 +422,7 @@ const contactPath = getLocalizedPath('/contact/', lang);
     }
     
     .faq-item.active .faq-toggle {
-      background: #0077b6;
+      background: var(--accent-primary);
     }
     
     .faq-item.active .faq-toggle svg {
@@ -443,7 +443,7 @@ const contactPath = getLocalizedPath('/contact/', lang);
     }
     
     .faq-cta {
-      background: linear-gradient(135deg, #0077b6 0%, #023e8a 100%);
+      background: linear-gradient(135deg, var(--btn-primary-start) 0%, var(--btn-primary-end) 100%);
       border-radius: 16px;
       padding: 48px;
       text-align: center;
@@ -465,7 +465,7 @@ const contactPath = getLocalizedPath('/contact/', lang);
     .faq-cta-btn {
       display: inline-block;
       background: white;
-      color: #0077b6;
+      color: var(--accent-primary);
       padding: 14px 32px;
       border-radius: 8px;
       font-weight: 600;

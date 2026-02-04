@@ -14,7 +14,7 @@ const copy = pageCopy?.data.copy ?? {};
 const tiers = [
   {
     name: "Starter",
-    minOrder: "£500",
+    minOrder: "Â£500",
     discount: "10%",
     features: [
       t(lang, 'wholesalePage.tiers.starter.feature1'),
@@ -22,11 +22,11 @@ const tiers = [
       t(lang, 'wholesalePage.tiers.starter.feature3'),
       t(lang, 'wholesalePage.tiers.starter.feature4'),
     ],
-    color: "#0077b6"
+    color: "var(--btn-primary-start)"
   },
   {
     name: "Professional",
-    minOrder: "£1,000",
+    minOrder: "Â£1,000",
     discount: "15%",
     features: [
       t(lang, 'wholesalePage.tiers.professional.feature1'),
@@ -35,12 +35,12 @@ const tiers = [
       t(lang, 'wholesalePage.tiers.professional.feature4'),
       t(lang, 'wholesalePage.tiers.professional.feature5'),
     ],
-    color: "#023e8a",
+    color: "var(--btn-primary-end)",
     popular: true
   },
   {
     name: "Enterprise",
-    minOrder: "£2,500+",
+    minOrder: "Â£2,500+",
     discount: "20%+",
     features: [
       t(lang, 'wholesalePage.tiers.enterprise.feature1'),
@@ -89,7 +89,7 @@ const benefits = [
 ---
 
 <Layout 
-  title={`${copy.title ?? t(lang, 'wholesalePage.title')} | Peptide Shop`}
+  title={`${copy.title ?? t(lang, 'wholesalePage.title')} | Best-Peptides`}
   description={copy.description ?? t(lang, 'wholesalePage.description')}
   breadcrumbs={[
     { name: t(lang, 'nav.home'), url: getLocalizedPath('/', lang) },
@@ -98,7 +98,7 @@ const benefits = [
 >
   <style>
     .wholesale-hero {
-      background: linear-gradient(135deg, #0077b6 0%, #023e8a 100%);
+      background: linear-gradient(135deg, var(--btn-primary-start) 0%, var(--btn-primary-end) 100%);
       padding: 100px 0 80px;
       position: relative;
       overflow: hidden;
@@ -150,7 +150,7 @@ const benefits = [
     .hero-cta {
       display: inline-block;
       background: white;
-      color: #0077b6;
+      color: var(--accent-primary);
       padding: 16px 32px;
       border-radius: 8px;
       font-weight: 700;
@@ -174,7 +174,7 @@ const benefits = [
     }
     
     .section-label {
-      color: #0077b6;
+      color: var(--accent-primary);
       font-weight: 600;
       font-size: 14px;
       text-transform: uppercase;
@@ -223,7 +223,7 @@ const benefits = [
     }
     
     .tier-card.popular {
-      border: 2px solid #0077b6;
+      border: 2px solid var(--accent-primary);
       transform: scale(1.05);
     }
     
@@ -232,7 +232,7 @@ const benefits = [
       top: -12px;
       left: 50%;
       transform: translateX(-50%);
-      background: #0077b6;
+      background: var(--accent-primary);
       color: white;
       padding: 6px 16px;
       border-radius: 20px;
@@ -303,7 +303,7 @@ const benefits = [
     }
     
     .tier-btn-primary {
-      background: #0077b6;
+      background: var(--accent-primary);
       color: white;
     }
     
@@ -349,7 +349,7 @@ const benefits = [
     .benefit-icon {
       width: 56px;
       height: 56px;
-      background: linear-gradient(135deg, #0077b6, #023e8a);
+      background: linear-gradient(135deg, var(--btn-primary-start), var(--btn-primary-end));
       border-radius: 12px;
       display: flex;
       align-items: center;
@@ -432,7 +432,7 @@ const benefits = [
     .form-select:focus,
     .form-textarea:focus {
       outline: none;
-      border-color: #0077b6;
+      border-color: var(--accent-primary);
     }
     
     .form-textarea {
@@ -443,7 +443,7 @@ const benefits = [
     .submit-btn {
       width: 100%;
       padding: 16px;
-      background: linear-gradient(135deg, #0077b6, #023e8a);
+      background: linear-gradient(135deg, var(--btn-primary-start), var(--btn-primary-end));
       color: white;
       border: none;
       border-radius: 8px;
@@ -456,7 +456,7 @@ const benefits = [
     
     .submit-btn:hover {
       transform: translateY(-2px);
-      box-shadow: 0 10px 30px rgba(0, 119, 182, 0.3);
+      box-shadow: 0 10px 30px rgba(227, 27, 35, 0.3);
     }
     
     .form-note {
@@ -614,10 +614,10 @@ const benefits = [
               <label class="form-label">{t(lang, 'wholesalePage.form.volume')} *</label>
               <select name="volume" class="form-select" required>
                 <option value="">{t(lang, 'wholesalePage.form.selectVolume')}</option>
-                <option value="500-1000">£500 - £1,000</option>
-                <option value="1000-2500">£1,000 - £2,500</option>
-                <option value="2500-5000">£2,500 - £5,000</option>
-                <option value="5000+">£5,000+</option>
+                <option value="500-1000">Â£500 - Â£1,000</option>
+                <option value="1000-2500">Â£1,000 - Â£2,500</option>
+                <option value="2500-5000">Â£2,500 - Â£5,000</option>
+                <option value="5000+">Â£5,000+</option>
               </select>
             </div>
           </div>

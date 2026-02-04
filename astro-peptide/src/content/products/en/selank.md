@@ -8,20 +8,20 @@ urlPath: "/peptides/buy-selank"
 aliases: ["Selank", "TP-7"]
 cas: "129954-34-3"
 molecular_weight: "751.9 g/mol"
-purity: "≥ 99%"
-storage: "-20°C recommended (research-only)"
-package_sizes: ["10 × 5 mg vials"]
+purity: "â‰¥ 99%"
+storage: "-20Â°C recommended (research-only)"
+package_sizes: ["10 Ã— 5 mg vials"]
 moq: 200
 price: 250
-price_range: "£250 per pack"
+price_range: "Â£250 per pack"
 coa_url: "/coa/selank.pdf"
-short_description: "Buy Selank UK. Anxiolytic nootropic peptide for cognitive research. ≥99% purity. Fast UK delivery."
+short_description: "Buy Selank UK. Anxiolytic nootropic peptide for cognitive research. â‰¥99% purity. Fast UK delivery."
 category: "cognitive"
 tags: ["research-peptide", "selank-uk", "nootropic", "buy-peptides-uk", "cognitive", "anxiolytic"]
 images: ["/images/products/selank.png"]
 meta:
   title: "Buy Selank UK | Nootropic Peptide | Fast Delivery"
-  description: "Buy Selank UK. Premium anxiolytic peptide for research. ≥99% purity, COA included. Fast UK delivery."
+  description: "Buy Selank UK. Premium anxiolytic peptide for research. â‰¥99% purity, COA included. Fast UK delivery."
 faqs:
   - question: "What is Selank used for in research?"
     answer: "Selank is studied for anxiolytic effects, cognitive enhancement, immune modulation, and neurotransmitter regulation. It's based on the natural peptide tuftsin."
@@ -30,9 +30,9 @@ faqs:
   - question: "How is Selank different from Semax?"
     answer: "Selank is primarily anxiolytic with cognitive benefits, while Semax is more focused on cognitive enhancement. Selank is based on tuftsin; Semax on ACTH."
   - question: "How should Selank be stored?"
-    answer: "Store lyophilised Selank at -20°C. Once reconstituted, keep at 2-8°C and use within 3-4 weeks."
+    answer: "Store lyophilised Selank at -20Â°C. Once reconstituted, keep at 2-8Â°C and use within 3-4 weeks."
   - question: "What purity is your Selank?"
-    answer: "Our Selank is ≥99% pure as verified by HPLC. Each batch includes a Certificate of Analysis."
+    answer: "Our Selank is â‰¥99% pure as verified by HPLC. Each batch includes a Certificate of Analysis."
   - question: "What is tuftsin?"
     answer: "Tuftsin is a naturally occurring immunomodulatory tetrapeptide. Selank extends tuftsin with additional amino acids for enhanced stability and activity."
   - question: "How do I reconstitute Selank?"
@@ -44,7 +44,7 @@ reviews:
     rating: 5
     date: "2024-12-09"
     title: "Excellent for cognitive research"
-    content: "Our anxiety and cognition studies depend on quality Selank. Peptide Shop delivers consistently."
+    content: "Our anxiety and cognition studies depend on quality Selank. Best-Peptides delivers consistently."
     verified: true
   - author: "Cambridge Neuroscience Lab"
     rating: 5
@@ -120,7 +120,7 @@ reviews:
 
 Unlike benzodiazepines, Selank does not produce sedation or dependence, making it a valuable tool for researching anxiety mechanisms and novel therapeutic approaches.
 
-Peptide Shop supplies **research-grade Selank** with guaranteed ≥99% purity.
+Best-Peptides supplies **research-grade Selank** with guaranteed â‰¥99% purity.
 
 ## How Does Selank Work?
 
@@ -162,24 +162,24 @@ Peptide Shop supplies **research-grade Selank** with guaranteed ≥99% purity.
 | **CAS Number** | 129954-34-3 |
 | **Molecular Weight** | 751.9 g/mol |
 | **Sequence** | Thr-Lys-Pro-Arg-Pro-Gly-Pro |
-| **Purity** | ≥99% (HPLC) |
+| **Purity** | â‰¥99% (HPLC) |
 | **Appearance** | White lyophilised powder |
 
 ## Storage
 
 | Condition | Temperature | Duration |
 |-----------|-------------|----------|
-| **Lyophilised** | -20°C | Up to 24 months |
-| **Reconstituted** | 2-8°C | Up to 3-4 weeks |
+| **Lyophilised** | -20Â°C | Up to 24 months |
+| **Reconstituted** | 2-8Â°C | Up to 3-4 weeks |
 
 ## Ordering Information
 
 | Size | Price |
 |------|-------|
-| **5 mg** | From £35 |
-| **10 mg** | From £75 |
+| **5 mg** | From Â£35 |
+| **10 mg** | From Â£75 |
 
-**Minimum order: £200** | **10% discount on orders over £200**
+**Minimum order: Â£200** | **10% discount on orders over Â£200**
 
 ## Research Use Statement
 

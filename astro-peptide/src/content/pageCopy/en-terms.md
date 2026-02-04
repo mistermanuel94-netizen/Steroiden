@@ -17,14 +17,14 @@ copy:
     acknowledgment: "You acknowledge that the products have not been tested for safety or efficacy in food, drug, medical device, cosmetic, commercial or any other use."
   purchaser:
     title: "3. Purchaser Representations"
-    intro: "By purchasing from Peptide Shop, you represent and warrant that:"
+    intro: "By purchasing from Best-Peptides, you represent and warrant that:"
     age: "You are at least 18 years of age."
     institution: "You are affiliated with a research institution, laboratory, or are a qualified researcher."
     hazards: "You are aware of the health and safety hazards associated with handling research chemicals."
     handling: "You will handle, store, and dispose of these products in accordance with all applicable laws and regulations."
   liability:
     title: "4. Limitation of Liability"
-    content: "Peptide Shop shall not be liable for any special, incidental, or consequential damages that result from the use of, or the inability to use, the materials on this site or the performance of the products."
+    content: "Best-Peptides shall not be liable for any special, incidental, or consequential damages that result from the use of, or the inability to use, the materials on this site or the performance of the products."
   governing:
     title: "5. Governing Law"
     content: "These terms shall be governed by and construed in accordance with the laws of the European Union."

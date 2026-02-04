@@ -1,38 +1,38 @@
 ---
 lang: "nl"
 id: "peptide-selank"
-title: "Selank Kopen | Anxiolytisch Noötroop Peptide"
+title: "Selank Kopen | Anxiolytisch NoÃ¶troop Peptide"
 primary_keyword: "selank kopen"
 search_volume: "1200"
 urlPath: "/nl/peptides/selank-kopen"
 aliases: ["Selank", "TP-7"]
 cas: "129954-34-3"
 molecular_weight: "751.9 g/mol"
-purity: "≥ 99%"
-storage: "-20°C aanbevolen (alleen voor onderzoek)"
-package_sizes: ["10 × 5 mg flacons"]
+purity: "â‰¥ 99%"
+storage: "-20Â°C aanbevolen (alleen voor onderzoek)"
+package_sizes: ["10 Ã— 5 mg flacons"]
 moq: 200
 price: 290
-price_range: "€290 per verpakking"
+price_range: "â‚¬290 per verpakking"
 coa_url: "/coa/selank.pdf"
-short_description: "Selank kopen. Anxiolytisch noötroop peptide voor cognitief onderzoek. ≥99% zuiverheid. Snelle levering."
+short_description: "Selank kopen. Anxiolytisch noÃ¶troop peptide voor cognitief onderzoek. â‰¥99% zuiverheid. Snelle levering."
 category: "cognitive"
 tags: ["onderzoek-peptide", "selank-nl", "nootropisch", "peptiden-kopen", "cognitief", "anxiolytisch"]
 images: ["/images/products/selank.png"]
 meta:
-  title: "Selank Kopen | Noötroop Peptide | Snelle Levering"
-  description: "Selank kopen. Premium anxiolytisch peptide voor onderzoek. ≥99% zuiverheid, COA inbegrepen. Snelle levering."
+  title: "Selank Kopen | NoÃ¶troop Peptide | Snelle Levering"
+  description: "Selank kopen. Premium anxiolytisch peptide voor onderzoek. â‰¥99% zuiverheid, COA inbegrepen. Snelle levering."
 faqs:
   - question: "Waarvoor wordt Selank gebruikt in onderzoek?"
     answer: "Selank wordt bestudeerd voor anxiolytische effecten, cognitieve verbetering, immuunmodulatie en neurotransmitterregulatie. Het is gebaseerd op het natuurlijke peptide tuftsin."
   - question: "Hoe werkt Selank?"
-    answer: "Selank moduleert GABA-, serotonine-, dopamine- en norepinefrinesystemen. Het beïnvloedt ook BDNF- en enkefaline-expressie."
+    answer: "Selank moduleert GABA-, serotonine-, dopamine- en norepinefrinesystemen. Het beÃ¯nvloedt ook BDNF- en enkefaline-expressie."
   - question: "Hoe verschilt Selank van Semax?"
     answer: "Selank is primair anxiolytisch met cognitieve voordelen, terwijl Semax meer gericht is op cognitieve verbetering. Selank is gebaseerd op tuftsin; Semax op ACTH."
   - question: "Hoe moet Selank worden bewaard?"
-    answer: "Bewaar gelyofiliseerde Selank bij -20°C. Na reconstitutie bewaren bij 2-8°C en binnen 3-4 weken gebruiken."
+    answer: "Bewaar gelyofiliseerde Selank bij -20Â°C. Na reconstitutie bewaren bij 2-8Â°C en binnen 3-4 weken gebruiken."
   - question: "Wat is de zuiverheid van jullie Selank?"
-    answer: "Onze Selank is ≥99% zuiver, geverifieerd door HPLC. Elke batch bevat een Analysecertificaat."
+    answer: "Onze Selank is â‰¥99% zuiver, geverifieerd door HPLC. Elke batch bevat een Analysecertificaat."
   - question: "Wat is tuftsin?"
     answer: "Tuftsin is een natuurlijk voorkomend immunomodulerend tetrapeptide. Selank breidt tuftsin uit met extra aminozuren voor verbeterde stabiliteit en activiteit."
   - question: "Hoe reconstitueer ik Selank?"
@@ -44,7 +44,7 @@ reviews:
     rating: 5
     date: "2024-12-09"
     title: "Uitstekend voor cognitief onderzoek"
-    content: "Onze angst- en cognitieonderzoeken zijn afhankelijk van kwaliteit Selank. Peptide Shop levert consistent."
+    content: "Onze angst- en cognitieonderzoeken zijn afhankelijk van kwaliteit Selank. Best-Peptides levert consistent."
     verified: true
   - author: "Universiteit Utrecht Neurowetenschap"
     rating: 5
@@ -74,7 +74,7 @@ reviews:
     rating: 5
     date: "2024-11-04"
     title: "Uitstekende service"
-    content: "Snelle levering, geweldige kwaliteit voor noötropische studies."
+    content: "Snelle levering, geweldige kwaliteit voor noÃ¶tropische studies."
     verified: true
   - author: "Sophie Bakker"
     rating: 5
@@ -116,11 +116,11 @@ reviews:
 
 ## Wat is Selank?
 
-**Selank** (TP-7) is een synthetisch heptapeptide ontwikkeld in Rusland als een gemodificeerde analoog van tuftsin, een natuurlijk voorkomend immunomodulerend peptide. Selank is uitgebreid bestudeerd voor zijn anxiolytische, noötropische en immunomodulerende eigenschappen.
+**Selank** (TP-7) is een synthetisch heptapeptide ontwikkeld in Rusland als een gemodificeerde analoog van tuftsin, een natuurlijk voorkomend immunomodulerend peptide. Selank is uitgebreid bestudeerd voor zijn anxiolytische, noÃ¶tropische en immunomodulerende eigenschappen.
 
 In tegenstelling tot benzodiazepines veroorzaakt Selank geen sedatie of afhankelijkheid, waardoor het een waardevol hulpmiddel is voor het onderzoeken van angstmechanismen en nieuwe therapeutische benaderingen.
 
-Peptide Shop levert **onderzoekskwaliteit Selank** met gegarandeerde ≥99% zuiverheid.
+Best-Peptides levert **onderzoekskwaliteit Selank** met gegarandeerde â‰¥99% zuiverheid.
 
 ## Hoe Werkt Selank?
 
@@ -136,7 +136,7 @@ Peptide Shop levert **onderzoekskwaliteit Selank** met gegarandeerde ≥99% zuiv
 
 ### Neuroprotectie
 - **BDNF-expressie** - Neuroplasticiteit
-- **Enkefalines** - Endogene opioïden
+- **Enkefalines** - Endogene opioÃ¯den
 - **Ontstekingsremmend** - CZS-bescherming
 
 ## Onderzoekstoepassingen
@@ -162,24 +162,24 @@ Peptide Shop levert **onderzoekskwaliteit Selank** met gegarandeerde ≥99% zuiv
 | **CAS-nummer** | 129954-34-3 |
 | **Molecuulgewicht** | 751.9 g/mol |
 | **Sequentie** | Thr-Lys-Pro-Arg-Pro-Gly-Pro |
-| **Zuiverheid** | ≥99% (HPLC) |
+| **Zuiverheid** | â‰¥99% (HPLC) |
 | **Uiterlijk** | Wit gelyofiliseerd poeder |
 
 ## Opslag
 
 | Conditie | Temperatuur | Duur |
 |----------|-------------|------|
-| **Gelyofiliseerd** | -20°C | Tot 24 maanden |
-| **Gereconstitueerd** | 2-8°C | Tot 3-4 weken |
+| **Gelyofiliseerd** | -20Â°C | Tot 24 maanden |
+| **Gereconstitueerd** | 2-8Â°C | Tot 3-4 weken |
 
 ## Bestelinformatie
 
 | Formaat | Prijs |
 |---------|-------|
-| **5 mg** | Vanaf €40 |
-| **10 mg** | Vanaf €85 |
+| **5 mg** | Vanaf â‚¬40 |
+| **10 mg** | Vanaf â‚¬85 |
 
-**Minimale bestelling: €200** | **10% korting op bestellingen boven €200**
+**Minimale bestelling: â‚¬200** | **10% korting op bestellingen boven â‚¬200**
 
 ## Verklaring Onderzoeksgebruik
 

@@ -8,20 +8,20 @@ urlPath: "/nl/peptides/cjc-1295-no-dac-kopen"
 aliases: ["Mod GRF 1-29", "Modified GRF", "CJC-1295 zonder DAC"]
 cas: "863288-34-0"
 molecular_weight: "3367.9 g/mol"
-purity: "≥ 99%"
-storage: "-20°C aanbevolen (alleen voor onderzoek)"
-package_sizes: ["10 × 5 mg flacons"]
+purity: "â‰¥ 99%"
+storage: "-20Â°C aanbevolen (alleen voor onderzoek)"
+package_sizes: ["10 Ã— 5 mg flacons"]
 moq: 200
 price: 250
-price_range: "€250 per verpakking"
+price_range: "â‚¬250 per verpakking"
 coa_url: "/coa/cjc-1295-no-dac.pdf"
-short_description: "CJC-1295 No DAC kopen. Modified GRF 1-29 voor GH-onderzoek. ≥99% zuiverheid. Snelle EU-levering."
+short_description: "CJC-1295 No DAC kopen. Modified GRF 1-29 voor GH-onderzoek. â‰¥99% zuiverheid. Snelle EU-levering."
 category: "growth-hormone"
 tags: ["onderzoek-peptide", "cjc-1295-nl", "ghrh", "peptiden-kopen", "groeihormoon"]
 images: ["/images/products/cjc-1295-no-dac.png"]
 meta:
   title: "CJC-1295 No DAC Kopen | Mod GRF | Snelle Levering"
-  description: "CJC-1295 No DAC kopen (Mod GRF 1-29). Premium GHRH-analoog voor onderzoek. ≥99% zuiverheid, COA inbegrepen."
+  description: "CJC-1295 No DAC kopen (Mod GRF 1-29). Premium GHRH-analoog voor onderzoek. â‰¥99% zuiverheid, COA inbegrepen."
 faqs:
   - question: "Waarvoor wordt CJC-1295 No DAC gebruikt in onderzoek?"
     answer: "CJC-1295 No DAC (Modified GRF 1-29) wordt gebruikt om GHRH-receptoractivatie en pulsatiele groeihormoonafgifte te bestuderen. Het is een gemodificeerde GHRH-analoog met verbeterde stabiliteit voor onderzoekstoepassingen."
@@ -30,11 +30,11 @@ faqs:
   - question: "Hoe werkt Mod GRF 1-29?"
     answer: "Het bindt aan GHRH-receptoren op hypofyse-somatotropen, stimuleert cAMP-productie en GH-afgifte. De modificaties op posities 2, 8, 15 en 27 zorgen voor verbeterde stabiliteit."
   - question: "Hoe moet CJC-1295 No DAC worden bewaard?"
-    answer: "Bewaar gelyofiliseerd bij -20°C. Na reconstitutie bewaren bij 2-8°C en binnen 2-3 weken gebruiken. De modificaties verbeteren maar elimineren degradatie niet."
+    answer: "Bewaar gelyofiliseerd bij -20Â°C. Na reconstitutie bewaren bij 2-8Â°C en binnen 2-3 weken gebruiken. De modificaties verbeteren maar elimineren degradatie niet."
   - question: "Welke zuiverheid heeft jullie CJC-1295 No DAC?"
-    answer: "Onze CJC-1295 No DAC is ≥99% zuiver, geverifieerd door HPLC. Elke batch bevat een Certificaat van Analyse met zuiverheid en massaspectrometriegegevens."
+    answer: "Onze CJC-1295 No DAC is â‰¥99% zuiver, geverifieerd door HPLC. Elke batch bevat een Certificaat van Analyse met zuiverheid en massaspectrometriegegevens."
   - question: "Kan het worden gecombineerd met GHRP's?"
-    answer: "Ja, onderzoekers bestuderen vaak Mod GRF 1-29 met GHRP's zoals Ipamorelin of GHRP-6 om GHRH-GHRP synergie te onderzoeken. Beide peptide-types zijn verkrijgbaar bij Peptide Shop."
+    answer: "Ja, onderzoekers bestuderen vaak Mod GRF 1-29 met GHRP's zoals Ipamorelin of GHRP-6 om GHRH-GHRP synergie te onderzoeken. Beide peptide-types zijn verkrijgbaar bij Best-Peptides."
   - question: "Hoe reconstitueer ik het?"
     answer: "Reconstitueer in steriel bacteriostatisch water. Voeg oplosmiddel langzaam toe langs de flaconwand en zwenk voorzichtig om op te lossen."
   - question: "Welke formaten zijn beschikbaar?"
@@ -44,7 +44,7 @@ reviews:
     rating: 5
     date: "2024-12-12"
     title: "Uitstekend voor GHRH-onderzoek"
-    content: "Onze hypofyse-studies vereisen hoogwaardige GHRH-analogen. Peptide Shop levert uitstekende Mod GRF 1-29."
+    content: "Onze hypofyse-studies vereisen hoogwaardige GHRH-analogen. Best-Peptides levert uitstekende Mod GRF 1-29."
     verified: true
   - author: "Amsterdam GH Studies"
     rating: 5
@@ -96,7 +96,7 @@ reviews:
 
 Het peptide vertegenwoordigt de eerste 29 aminozuren van GHRH met modificaties op posities 2, 8, 15 en 27 om de weerstand tegen enzymatische afbraak te verbeteren. Deze modificaties maken het een praktischer onderzoeksinstrument terwijl de GHRH-receptorbindingsactiviteit behouden blijft.
 
-Peptide Shop levert **onderzoeksgrade CJC-1295 No DAC** met gegarandeerde ≥99% zuiverheid, geverifieerd door uitgebreide HPLC- en massaspectrometrieanalyse.
+Best-Peptides levert **onderzoeksgrade CJC-1295 No DAC** met gegarandeerde â‰¥99% zuiverheid, geverifieerd door uitgebreide HPLC- en massaspectrometrieanalyse.
 
 ## Hoe Werkt CJC-1295 No DAC?
 
@@ -140,7 +140,7 @@ Zonder DAC produceert het peptide:
 |--------------|--------|
 | **CAS-nummer** | 863288-34-0 |
 | **Moleculair Gewicht** | 3367.9 g/mol |
-| **Zuiverheid** | ≥99% (HPLC) |
+| **Zuiverheid** | â‰¥99% (HPLC) |
 | **Uiterlijk** | Wit gelyofiliseerd poeder |
 | **Oplosbaarheid** | Oplosbaar in water |
 | **Identiteit** | Bevestigd door massaspectrometrie |
@@ -149,8 +149,8 @@ Zonder DAC produceert het peptide:
 
 | Conditie | Temperatuur | Duur |
 |----------|-------------|------|
-| **Gelyofiliseerd** | -20°C | Tot 24 maanden |
-| **Gereconstitueerd** | 2-8°C | Tot 2-3 weken |
+| **Gelyofiliseerd** | -20Â°C | Tot 24 maanden |
+| **Gereconstitueerd** | 2-8Â°C | Tot 2-3 weken |
 
 ## Bestelinformatie
 
@@ -159,7 +159,7 @@ Zonder DAC produceert het peptide:
 | **2 mg** | Pilootstudies |
 | **5 mg** | Standaard onderzoek |
 
-**Minimale bestelling: €200** | **10% korting op bestellingen boven €200**
+**Minimale bestelling: â‚¬200** | **10% korting op bestellingen boven â‚¬200**
 
 ## Verklaring voor Onderzoeksgebruik
 

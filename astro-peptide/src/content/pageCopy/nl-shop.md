@@ -2,7 +2,7 @@
 lang: nl
 page: shop
 seo:
-  title: "Peptide Shop Nederland | Onderzoekspeptiden Kopen Online"
+  title: "Best-Peptides Nederland | Onderzoekspeptiden Kopen Online"
   description: "Peptides kopen Nederland - BPC 157, Semaglutide, GHK-Cu, Tirzepatide & meer. 99% HPLC zuiverheid, COA inbegrepen, snelle levering."
   primaryKeyword: "peptides kopen"
 copy:

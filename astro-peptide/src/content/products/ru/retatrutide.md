@@ -1,36 +1,36 @@
 ---
 lang: "ru"
 id: "peptide-retatrutide"
-title: "Купить Retatrutide UK | Research Grade Triple Agonist"
-primary_keyword: "Купить retatrutide uk"
+title: "ÐšÑƒÐ¿Ð¸Ñ‚ÑŒ Retatrutide UK | Research Grade Triple Agonist"
+primary_keyword: "ÐšÑƒÐ¿Ð¸Ñ‚ÑŒ retatrutide uk"
 search_volume: "4400"
 urlPath: "/peptides/buy-retatrutide"
 aliases:  ["LY3437943", "Triple G", "GGG Agonist"]
 cas: "2381089-83-2"
 molecular_weight: "4156.48 g/mol"
-purity: "≥ 99%"
-storage: "-20°C рекомендуется (только для исследований)"
-package_sizes:  ["10 × 5 mg vials"]
+purity: "â‰¥ 99%"
+storage: "-20Â°C Ñ€ÐµÐºÐ¾Ð¼ÐµÐ½Ð´ÑƒÐµÑ‚ÑÑ (Ñ‚Ð¾Ð»ÑŒÐºÐ¾ Ð´Ð»Ñ Ð¸ÑÑÐ»ÐµÐ´Ð¾Ð²Ð°Ð½Ð¸Ð¹)"
+package_sizes:  ["10 Ã— 5 mg vials"]
 moq: 200
 price: 1800
-price_range: "£1800 per pack"
+price_range: "Â£1800 per pack"
 coa_url: "/coa/retatrutide.pdf"
-short_description: "Купить Retatrutide UK. Triple GLP-1/GIP/Glucagon agonist for metabolic research. ≥99% purity. Быстрая доставка."
+short_description: "ÐšÑƒÐ¿Ð¸Ñ‚ÑŒ Retatrutide UK. Triple GLP-1/GIP/Glucagon agonist for metabolic research. â‰¥99% purity. Ð‘Ñ‹ÑÑ‚Ñ€Ð°Ñ Ð´Ð¾ÑÑ‚Ð°Ð²ÐºÐ°."
 category: "weight-loss"
-tags:  ["research-Пептид", "triple-agonist", "retatrutide-uk", "buy-Пептидs-uk", "weight-loss"]
+tags:  ["research-ÐŸÐµÐ¿Ñ‚Ð¸Ð´", "triple-agonist", "retatrutide-uk", "buy-ÐŸÐµÐ¿Ñ‚Ð¸Ð´s-uk", "weight-loss"]
 images: ["/images/products/retatrutide.png"]
 meta:
-  title: "Купить Retatrutide UK | Triple Agonist Пептид | Fast Delivery"
-  description: "Buy Retatrutide UK. Premium triple GLP-1/GIP/Glucagon agonist for weight loss research. ≥99% purity, COA included."
+  title: "ÐšÑƒÐ¿Ð¸Ñ‚ÑŒ Retatrutide UK | Triple Agonist ÐŸÐµÐ¿Ñ‚Ð¸Ð´ | Fast Delivery"
+  description: "Buy Retatrutide UK. Premium triple GLP-1/GIP/Glucagon agonist for weight loss research. â‰¥99% purity, COA included."
 faqs:
 - question: "What makes Retatrutide unique compared to other incretin peptides?"
   answer: "Retatrutide is a triple agonist that activates GLP-1, GIP, and glucagon receptors simultaneously. This distinguishes it from dual agonists like tirzepatide (GIP/GLP-1) and mono-agonists like semaglutide (GLP-1 only), providing researchers a novel tool for studying multi-receptor metabolic effects."
 - question: "What is Retatrutide used for in research?"
   answer: "Retatrutide is used in metabolic research to study triple receptor activation effects on glucose homeostasis, weight management, energy expenditure, hepatic lipid metabolism, and appetite regulation. The glucagon component adds unique thermogenic and lipolytic research applications."
 - question: "How should Retatrutide be stored?"
-  answer: "Store lyophilised Retatrutide at -20°C for optimal stability. Once reconstituted, keep at 2-8°C and use within 3-4 weeks. Avoid repeated freeze-thaw cycles and protect from light exposure."
+  answer: "Store lyophilised Retatrutide at -20Â°C for optimal stability. Once reconstituted, keep at 2-8Â°C and use within 3-4 weeks. Avoid repeated freeze-thaw cycles and protect from light exposure."
 - question: "What purity is your Retatrutide?"
-  answer: "Our Retatrutide is ≥99% pure as verified by HPLC analysis. Each batch includes a Certificate of Analysis with purity data, mass spectrometry identity confirmation, and peptide content analysis."
+  answer: "Our Retatrutide is â‰¥99% pure as verified by HPLC analysis. Each batch includes a Certificate of Analysis with purity data, mass spectrometry identity confirmation, and peptide content analysis."
 - question: "How does the glucagon component contribute to research?"
   answer: "The glucagon receptor agonism provides unique research opportunities in studying hepatic glucose production, thermogenesis, lipolysis, and energy expenditure mechanisms not achievable with GLP-1/GIP dual agonists alone."
 - question: "What is the half-life of Retatrutide?"
@@ -44,13 +44,13 @@ reviews:
   rating: 5
   date: "2024-12-16"
   title: "Outstanding for triple agonist research"
-  content: "We're studying the unique glucagon component effects and Peptide Shop delivers exceptional quality. The purity is verified and results are highly reproducible."
+  content: "We're studying the unique glucagon component effects and Best-Peptides delivers exceptional quality. The purity is verified and results are highly reproducible."
   verified: true
 - author: "Bristol Metabolic Research"
   rating: 5
   date: "2024-12-10"
-  title: "Premium quality Пептид"
-  content: "Difficult to source reliable Retatrutide in the UK. Peptide Shop solved this with excellent purity and fast delivery. Essential for our comparative studies."
+  title: "Premium quality ÐŸÐµÐ¿Ñ‚Ð¸Ð´"
+  content: "Difficult to source reliable Retatrutide in the UK. Best-Peptides solved this with excellent purity and fast delivery. Essential for our comparative studies."
   verified: true
 - author: "James Morrison"
   rating: 5
@@ -61,8 +61,8 @@ reviews:
 - author: "Cambridge Triple Agonist Lab"
   rating: 5
   date: "2024-11-26"
-  title: "Best UK Источник"
-  content: "We've tested multiple suppliers. Peptide Shop offers the best Retatrutide quality and the most reliable service. Highly recommended."
+  title: "Best UK Ð˜ÑÑ‚Ð¾Ñ‡Ð½Ð¸Ðº"
+  content: "We've tested multiple suppliers. Best-Peptides offers the best Retatrutide quality and the most reliable service. Highly recommended."
   verified: true
 - author: "Dr. Robert Mitchell"
   rating: 4
@@ -74,7 +74,7 @@ reviews:
   rating: 5
   date: "2024-11-12"
   title: "Outstanding for metabolic research"
-  content: "The triple agonist profile provides unique research opportunities. Quality from Peptide Shop is consistently excellent."
+  content: "The triple agonist profile provides unique research opportunities. Quality from Best-Peptides is consistently excellent."
   verified: true
 - author: "Sophie Andrews"
   rating: 5
@@ -85,20 +85,20 @@ reviews:
 - author: "Edinburgh Obesity Studies"
   rating: 5
   date: "2024-10-29"
-  title: "Premium Исследовательский пептид"
+  title: "Premium Ð˜ÑÑÐ»ÐµÐ´Ð¾Ð²Ð°Ñ‚ÐµÐ»ÑŒÑÐºÐ¸Ð¹ Ð¿ÐµÐ¿Ñ‚Ð¸Ð´"
   content: "Excellent for studying glucagon-mediated effects alongside incretin signalling. Quality is research-grade throughout."
   verified: true
 - author: "Dr. Catherine Moore"
   rating: 5
   date: "2024-10-22"
   title: "Highly recommended"
-  content: "Our comparative studies between mono, dual, and triple agonists require high-quality peptides. Peptide Shop delivers consistently."
+  content: "Our comparative studies between mono, dual, and triple agonists require high-quality peptides. Best-Peptides delivers consistently."
   verified: true
 - author: "Newcastle Metabolism Lab"
   rating: 5
   date: "2024-10-15"
   title: "Reliable supplier"
-  content: "Been ordering from Peptide Shop for several months. Retatrutide quality is always excellent. Great documentation."
+  content: "Been ordering from Best-Peptides for several months. Retatrutide quality is always excellent. Great documentation."
   verified: true
 - author: "Michael Thompson"
   rating: 5
@@ -110,7 +110,7 @@ reviews:
   rating: 5
   date: "2024-10-01"
   title: "Top tier supplier"
-  content: "Essential for our multi-receptor studies. Peptide Shop provides the quality and documentation we need."
+  content: "Essential for our multi-receptor studies. Best-Peptides provides the quality and documentation we need."
   verified: true
 - author: "Dr. Andrew Foster"
   rating: 5
@@ -140,11 +140,11 @@ reviews:
 
 ## What is Retatrutide?
 
-**Retatrutide** (LY3437943) is a novel synthetic Пептид that functions as a triple agonist of three key metabolic receptors: glucagon-like Пептид-1 (GLP-1), glucose-dependent insulinotropic polyПептид (GIP), and glucagon receptors. This unprecedented triple Механизм действия makes Retatrutide the most comprehensive incretin-based research tool currently available.
+**Retatrutide** (LY3437943) is a novel synthetic ÐŸÐµÐ¿Ñ‚Ð¸Ð´ that functions as a triple agonist of three key metabolic receptors: glucagon-like ÐŸÐµÐ¿Ñ‚Ð¸Ð´-1 (GLP-1), glucose-dependent insulinotropic polyÐŸÐµÐ¿Ñ‚Ð¸Ð´ (GIP), and glucagon receptors. This unprecedented triple ÐœÐµÑ…Ð°Ð½Ð¸Ð·Ð¼ Ð´ÐµÐ¹ÑÑ‚Ð²Ð¸Ñ makes Retatrutide the most comprehensive incretin-based research tool currently available.
 
-The Пептид represents the next evolution beyond dual agonists like tirzepatide, adding glucagon receptor activation to the established GLP-1/GIP dual agonism. This triple receptor engagement enables researchers to Исследование the complex interplay between these metabolic signalling systems and their combined effects on glucose homeostasis, energy expenditure, and body weight regulation.
+The ÐŸÐµÐ¿Ñ‚Ð¸Ð´ represents the next evolution beyond dual agonists like tirzepatide, adding glucagon receptor activation to the established GLP-1/GIP dual agonism. This triple receptor engagement enables researchers to Ð˜ÑÑÐ»ÐµÐ´Ð¾Ð²Ð°Ð½Ð¸Ðµ the complex interplay between these metabolic signalling systems and their combined effects on glucose homeostasis, energy expenditure, and body weight regulation.
 
-Пептид Shop supplies **research-grade Retatrutide** with guaranteed ≥99% purity, verified through comprehensive HPLC and mass spectrometry analysis. Each order includes a detailed Certificate of Analysis, ensuring researchers receive properly characterised material for their studies.
+ÐŸÐµÐ¿Ñ‚Ð¸Ð´ Shop supplies **research-grade Retatrutide** with guaranteed â‰¥99% purity, verified through comprehensive HPLC and mass spectrometry analysis. Each order includes a detailed Certificate of Analysis, ensuring researchers receive properly characterised material for their studies.
 
 ## How Does Retatrutide Work?
 
@@ -177,7 +177,7 @@ The unique glucagon component provides:
 ### Synergistic Metabolic Effects
 
 The triple combination creates unique research opportunities:
-- **Enhanced Похудение mechanisms** - Multiple complementary pathways
+- **Enhanced ÐŸÐ¾Ñ…ÑƒÐ´ÐµÐ½Ð¸Ðµ mechanisms** - Multiple complementary pathways
 - **Improved metabolic flexibility** - Coordinated fuel utilisation
 - **Hepatic lipid reduction** - Potential effects on fatty liver
 - **Cardiovascular parameters** - Emerging research focus
@@ -204,7 +204,7 @@ The triple agonist provides comprehensive weight research tools:
 Glucagon's hepatic effects enable liver-focused studies:
 - **Hepatic lipid metabolism** - NAFLD/NASH research applications
 - **Glucose production** - Understanding hepatic glucose output
-- **Fatty acid oxidation** - Исследованиеing lipid utilisation pathways
+- **Fatty acid oxidation** - Ð˜ÑÑÐ»ÐµÐ´Ð¾Ð²Ð°Ð½Ð¸Ðµing lipid utilisation pathways
 
 ### Energy Expenditure Studies
 
@@ -213,23 +213,23 @@ The thermogenic component opens unique research directions:
 - **Metabolic rate changes** - Understanding energy expenditure
 - **Cold-induced thermogenesis** - Synergy with glucagon signalling
 
-## Retatrutide Пептид Specifications
+## Retatrutide ÐŸÐµÐ¿Ñ‚Ð¸Ð´ Specifications
 
 | Specification | Detail |
 |--------------|--------|
 | **CAS Number** | 2381089-83-2 |
-| **Молекулярная масса** | 4156.48 g/mol |
-| **Purity** | ≥99% (HPLC) |
-| **Внешний вид** | White to off-white lyophilised powder |
-| **Solubility** | Soluble in Вода; alkaline buffer recommended |
+| **ÐœÐ¾Ð»ÐµÐºÑƒÐ»ÑÑ€Ð½Ð°Ñ Ð¼Ð°ÑÑÐ°** | 4156.48 g/mol |
+| **Purity** | â‰¥99% (HPLC) |
+| **Ð’Ð½ÐµÑˆÐ½Ð¸Ð¹ Ð²Ð¸Ð´** | White to off-white lyophilised powder |
+| **Solubility** | Soluble in Ð’Ð¾Ð´Ð°; alkaline buffer recommended |
 | **Identity** | Confirmed by mass spectrometry |
 
 ## Reconstitution and Handling
 
-### Reconstitution Протокол
+### Reconstitution ÐŸÑ€Ð¾Ñ‚Ð¾ÐºÐ¾Ð»
 
 1. **Equilibrate to room temperature** before opening
-2. **Add Стерильный bacteriostatic Вода** or alkaline buffer slowly
+2. **Add Ð¡Ñ‚ÐµÑ€Ð¸Ð»ÑŒÐ½Ñ‹Ð¹ bacteriostatic Ð’Ð¾Ð´Ð°** or alkaline buffer slowly
 3. **Gently swirl** to dissolve - avoid shaking
 4. **Prepare aliquots** immediately for optimal stability
 
@@ -237,14 +237,14 @@ The thermogenic component opens unique research directions:
 
 | Condition | Temperature | Duration |
 |-----------|-------------|----------|
-| **Lyophilised** | -20°C | Up to 24 months |
-| **восстановленный** | 2-8°C | Up to 3-4 weeks |
-| **Frozen aliquots** | -20°C | Up to 3 months |
+| **Lyophilised** | -20Â°C | Up to 24 months |
+| **Ð²Ð¾ÑÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½Ð½Ñ‹Ð¹** | 2-8Â°C | Up to 3-4 weeks |
+| **Frozen aliquots** | -20Â°C | Up to 3 months |
 
-## Why Choose Пептид Shop for Retatrutide?
+## Why Choose ÐŸÐµÐ¿Ñ‚Ð¸Ð´ Shop for Retatrutide?
 
 ### Guaranteed Purity
-- ≥99% purity by HPLC
+- â‰¥99% purity by HPLC
 - Mass spectrometry identity confirmation
 - Comprehensive COA documentation
 
@@ -262,8 +262,8 @@ The thermogenic component opens unique research directions:
 | **5 mg** | Pilot studies |
 | **10 mg** | Standard research projects |
 
-**Minimum order: £200** | **10% discount on orders over £200**
+**Minimum order: Â£200** | **10% discount on orders over Â£200**
 
 ## Research Use Statement
 
-**This product is sold exclusively for laboratory research purposes.** Retatrutide from Пептид Shop is not intended for human or veterinary use.
+**This product is sold exclusively for laboratory research purposes.** Retatrutide from ÐŸÐµÐ¿Ñ‚Ð¸Ð´ Shop is not intended for human or veterinary use.

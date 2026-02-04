@@ -125,7 +125,7 @@ const productSchema = {
   "description": translatedShortDescription || localizedMetaDescription || `Buy ${productTitle} online. High purity research peptides.`,
   "brand": {
     "@type": "Brand",
-    "name": "Peptide Shop"
+    "name": "Best-Peptides"
   },
   "sku": productId,
   "mpn": productId,
@@ -280,7 +280,7 @@ const fullSchema = {
                 </div>
 
                 <div class="tab-pane fade" id="specs" role="tabpanel" aria-labelledby="specs-tab">
-                  <h4 class="mb-4" style="color: #023e8a;">{t(lang, 'product.specifications')}</h4>
+                  <h4 class="mb-4" style="color: var(--text-primary);">{t(lang, 'product.specifications')}</h4>
                   <table class="table table-striped">
                     <tbody>
                       <tr>
@@ -301,11 +301,11 @@ const fullSchema = {
                       </tr>
                       <tr>
                         <th scope="row">{t(lang, 'product.availableSizes')}</th>
-                        <td>{product.data.package_sizes?.map(size => translatePackageSize(size, lang)).join(', ') || '—'}</td>
+                        <td>{product.data.package_sizes?.map(size => translatePackageSize(size, lang)).join(', ') || 'â€”'}</td>
                       </tr>
                       <tr>
                         <th scope="row">{t(lang, 'product.priceRangeLabel')}</th>
-                        <td class="font-weight-bold" style="color: #0077b6;">{priceRange}</td>
+                        <td class="font-weight-bold" style="color: var(--accent-primary);">{priceRange}</td>
                       </tr>
                     </tbody>
                   </table>
@@ -326,7 +326,7 @@ const fullSchema = {
         <!-- Right: Purchase (sticky) -->
         <div class="col-lg-4">
           <div class="course-widget border py-4 px-3 mt-5 mt-lg-0 sticky-top bg-white rounded shadow-sm" style="top: 100px;">
-            <h3 class="text-center mb-4" style="color: #023e8a;">{t(lang, 'product.selectQuantity')}</h3>
+            <h3 class="text-center mb-4" style="color: var(--text-primary);">{t(lang, 'product.selectQuantity')}</h3>
 
             <ProductOptions 
               client:load
@@ -344,7 +344,7 @@ const fullSchema = {
               <ul class="list-unstyled mb-0">
                 <li class="d-flex justify-content-between align-items-center py-2 border-bottom">
                   <span class="text-muted">{t(lang, 'nav.categories')}</span>
-                  <a href={getCategoryUrl(product.data.category, lang)} class="text-capitalize" style="color: #0077b6;">
+                  <a href={getCategoryUrl(product.data.category, lang)} class="text-capitalize" style="color: var(--accent-primary);">
                     {categoryTitle}
                   </a>
                 </li>
@@ -399,14 +399,14 @@ const fullSchema = {
 
   .nav-tabs .nav-link:hover {
     border-color: transparent;
-    color: #0077b6;
+    color: var(--accent-primary);
     background: transparent;
   }
 
   .nav-tabs .nav-link.active {
-    color: #0077b6;
+    color: var(--accent-primary);
     background: transparent;
-    border-bottom: 3px solid #0077b6;
+    border-bottom: 3px solid var(--accent-primary);
   }
 
   .tab-badge {
@@ -420,7 +420,7 @@ const fullSchema = {
     font-size: 11px;
     font-weight: 600;
     color: white;
-    background-color: #0077b6;
+    background-color: var(--accent-primary);
     border-radius: 10px;
     vertical-align: middle;
   }
@@ -437,14 +437,14 @@ const fullSchema = {
   .product-description :global(h2),
   .product-description :global(h3),
   .product-description :global(h4) {
-    color: #023e8a;
+    color: var(--text-primary);
     margin-top: 1.5rem;
     margin-bottom: 1rem;
   }
 
   .product-description :global(h2) {
     font-size: 1.4rem;
-    border-bottom: 2px solid #0077b6;
+    border-bottom: 2px solid var(--accent-primary);
     padding-bottom: 0.5rem;
   }
 
@@ -466,7 +466,7 @@ const fullSchema = {
   }
 
   .product-description :global(strong) {
-    color: #023e8a;
+    color: var(--text-primary);
   }
 
   .product-description :global(table) {

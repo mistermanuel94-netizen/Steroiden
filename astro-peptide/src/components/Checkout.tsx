@@ -514,7 +514,7 @@ export default function Checkout({ lang = 'en' }: CheckoutProps) {
                   background: isCompleted 
                     ? 'linear-gradient(135deg, #10b981, #059669)'
                     : isActive 
-                      ? 'linear-gradient(135deg, #0077b6, #023e8a)'
+                      ? 'linear-gradient(135deg, var(--btn-primary-start), var(--btn-primary-end))'
                       : '#f1f5f9',
                   color: isCompleted || isActive ? 'white' : '#94a3b8',
                   display: 'flex',
@@ -522,7 +522,7 @@ export default function Checkout({ lang = 'en' }: CheckoutProps) {
                   justifyContent: 'center',
                   fontWeight: '700',
                   fontSize: '16px',
-                  boxShadow: isActive ? '0 4px 12px rgba(0, 119, 182, 0.3)' : 'none'
+                  boxShadow: isActive ? '0 4px 12px rgba(225, 6, 44, 0.3)' : 'none'
                 }}>
                   {isCompleted ? (
                     <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="3">
@@ -534,7 +534,7 @@ export default function Checkout({ lang = 'en' }: CheckoutProps) {
               </div>
               <span style={{ 
                 fontWeight: isActive ? '700' : '600', 
-                color: isActive ? '#0077b6' : isCompleted ? '#10b981' : '#94a3b8',
+                color: isActive ? 'var(--accent-primary)' : isCompleted ? '#10b981' : '#94a3b8',
                 fontSize: '15px'
               }}>
                 {stepLabelsMap[step]}
@@ -584,7 +584,7 @@ export default function Checkout({ lang = 'en' }: CheckoutProps) {
               </h3>
               <p style={{ color: '#64748b', marginBottom: '24px', fontSize: '1.1rem', maxWidth: '450px', margin: '0 auto 24px' }}>
                 Our minimum order value is <strong style={{ color: '#1e293b' }}>{formatPrice(MIN_ORDER_AMOUNT, currency)}</strong>.<br />
-                {t(lang, 'checkout.minOrder.currentTotal')} <strong style={{ color: '#0077b6' }}>{formatPrice(subtotal, currency)}</strong>.
+                {t(lang, 'checkout.minOrder.currentTotal')} <strong style={{ color: 'var(--accent-primary)' }}>{formatPrice(subtotal, currency)}</strong>.
               </p>
               <div style={{ 
                 background: 'linear-gradient(135deg, rgba(245, 158, 11, 0.1), rgba(217, 119, 6, 0.1))',
@@ -604,14 +604,14 @@ export default function Checkout({ lang = 'en' }: CheckoutProps) {
                   display: 'inline-flex',
                   alignItems: 'center',
                   gap: '8px',
-                  background: 'linear-gradient(135deg, #0077b6, #023e8a)',
+                  background: 'linear-gradient(135deg, var(--btn-primary-start), var(--btn-primary-end))',
                   color: 'white',
                   padding: '16px 32px',
                   borderRadius: '12px',
                   fontWeight: '700',
                   textDecoration: 'none',
                   fontSize: '16px',
-                  boxShadow: '0 4px 14px rgba(0, 119, 182, 0.4)'
+                  boxShadow: '0 4px 14px rgba(225, 6, 44, 0.35)'
                 }}
               >
                 {t(lang, 'checkout.actions.continueShopping')}
@@ -632,14 +632,14 @@ export default function Checkout({ lang = 'en' }: CheckoutProps) {
               <div style={{ 
                 width: '120px', 
                 height: '120px', 
-                background: 'linear-gradient(135deg, rgba(0, 119, 182, 0.1), rgba(0, 150, 199, 0.1))',
+                background: 'linear-gradient(135deg, rgba(225, 6, 44, 0.08), rgba(212, 175, 55, 0.10))',
                 borderRadius: '50%',
                 display: 'flex',
                 alignItems: 'center',
                 justifyContent: 'center',
                 margin: '0 auto 32px'
               }}>
-                <svg width="56" height="56" viewBox="0 0 24 24" fill="none" stroke="#0077b6" strokeWidth="1.5">
+                <svg width="56" height="56" viewBox="0 0 24 24" fill="none" stroke="var(--accent-primary)" strokeWidth="1.5">
                   <circle cx="8" cy="21" r="1"></circle>
                   <circle cx="19" cy="21" r="1"></circle>
                   <path d="M2.05 2.05h2l2.66 12.42a2 2 0 0 0 2 1.58h9.78a2 2 0 0 0 1.95-1.57l1.65-7.43H5.12"></path>
@@ -657,14 +657,14 @@ export default function Checkout({ lang = 'en' }: CheckoutProps) {
                   display: 'inline-flex',
                   alignItems: 'center',
                   gap: '8px',
-                  background: 'linear-gradient(135deg, #0077b6, #023e8a)',
+                  background: 'linear-gradient(135deg, var(--btn-primary-start), var(--btn-primary-end))',
                   color: 'white',
                   padding: '16px 32px',
                   borderRadius: '12px',
                   fontWeight: '700',
                   textDecoration: 'none',
                   fontSize: '16px',
-                  boxShadow: '0 4px 14px rgba(0, 119, 182, 0.4)'
+                  boxShadow: '0 4px 14px rgba(225, 6, 44, 0.35)'
                 }}
               >
                 {t(lang, 'checkout.actions.browsePeptides')}
@@ -704,7 +704,7 @@ export default function Checkout({ lang = 'en' }: CheckoutProps) {
                     <h3 style={{ color: '#1e293b', fontWeight: '700', marginBottom: '8px', fontSize: '1.75rem' }}>
                       {t(lang, 'checkout.bitcoin.paymentConfirmed') || 'Payment Confirmed!'}
                     </h3>
-                    <p style={{ color: '#64748b' }}>{t(lang, 'checkout.confirmation.orderId')}: <strong style={{ color: '#0077b6' }}>{orderId}</strong></p>
+                    <p style={{ color: '#64748b' }}>{t(lang, 'checkout.confirmation.orderId')}: <strong style={{ color: 'var(--accent-primary)' }}>{orderId}</strong></p>
                   </div>
                   
                   <div style={{ 
@@ -723,7 +723,7 @@ export default function Checkout({ lang = 'en' }: CheckoutProps) {
                           href={`https://mempool.space/tx/${paymentTxHash}`} 
                           target="_blank" 
                           rel="noopener noreferrer"
-                          style={{ color: '#0077b6', textDecoration: 'underline' }}
+                          style={{ color: 'var(--accent-primary)', textDecoration: 'underline' }}
                         >
                           {paymentTxHash.substring(0, 16)}...{paymentTxHash.substring(paymentTxHash.length - 8)}
                         </a>
@@ -760,14 +760,14 @@ export default function Checkout({ lang = 'en' }: CheckoutProps) {
                         display: 'inline-flex',
                         alignItems: 'center',
                         gap: '8px',
-                        background: 'linear-gradient(135deg, #0077b6, #023e8a)',
+                        background: 'linear-gradient(135deg, var(--btn-primary-start), var(--btn-primary-end))',
                         color: 'white',
                         padding: '16px 32px',
                         borderRadius: '12px',
                         fontWeight: '700',
                         textDecoration: 'none',
                         fontSize: '16px',
-                        boxShadow: '0 4px 14px rgba(0, 119, 182, 0.4)'
+                        boxShadow: '0 4px 14px rgba(225, 6, 44, 0.35)'
                       }}
                     >
                       {t(lang, 'checkout.actions.continueShopping')}
@@ -833,14 +833,14 @@ export default function Checkout({ lang = 'en' }: CheckoutProps) {
                         display: 'inline-flex',
                         alignItems: 'center',
                         gap: '8px',
-                        background: 'linear-gradient(135deg, #0077b6, #023e8a)',
+                        background: 'linear-gradient(135deg, var(--btn-primary-start), var(--btn-primary-end))',
                         color: 'white',
                         padding: '16px 32px',
                         borderRadius: '12px',
                         fontWeight: '700',
                         textDecoration: 'none',
                         fontSize: '16px',
-                        boxShadow: '0 4px 14px rgba(0, 119, 182, 0.4)'
+                        boxShadow: '0 4px 14px rgba(225, 6, 44, 0.35)'
                       }}
                     >
                       {t(lang, 'checkout.actions.tryAgain') || 'Try Again'}
@@ -899,7 +899,7 @@ export default function Checkout({ lang = 'en' }: CheckoutProps) {
                     <h3 style={{ color: '#1e293b', fontWeight: '700', marginBottom: '8px', fontSize: '1.75rem' }}>
                       {t(lang, 'checkout.bitcoin.paymentDetected') || 'Payment Detected!'}
                     </h3>
-                    <p style={{ color: '#64748b' }}>{t(lang, 'checkout.confirmation.orderId')}: <strong style={{ color: '#0077b6' }}>{orderId}</strong></p>
+                    <p style={{ color: '#64748b' }}>{t(lang, 'checkout.confirmation.orderId')}: <strong style={{ color: 'var(--accent-primary)' }}>{orderId}</strong></p>
                   </div>
                   
                   <div style={{ 
@@ -912,7 +912,7 @@ export default function Checkout({ lang = 'en' }: CheckoutProps) {
                     <p style={{ color: '#92400e', fontWeight: '600', marginBottom: '12px' }}>
                       {t(lang, 'checkout.bitcoin.waitingConfirmation') || 'Waiting for blockchain confirmation...'}
                     </p>
-                    <div style={{ 
+                    <div style={{
                       display: 'flex',
                       alignItems: 'center',
                       justifyContent: 'center',
@@ -936,7 +936,7 @@ export default function Checkout({ lang = 'en' }: CheckoutProps) {
                           href={`https://mempool.space/tx/${paymentTxHash}`} 
                           target="_blank" 
                           rel="noopener noreferrer"
-                          style={{ color: '#0077b6', textDecoration: 'underline' }}
+                          style={{ color: 'var(--accent-primary)', textDecoration: 'underline' }}
                         >
                           {paymentTxHash.substring(0, 16)}...{paymentTxHash.substring(paymentTxHash.length - 8)}
                         </a>
@@ -990,7 +990,7 @@ export default function Checkout({ lang = 'en' }: CheckoutProps) {
                   <h3 style={{ color: '#1e293b', fontWeight: '700', marginBottom: '8px', fontSize: '1.75rem' }}>
                     {t(lang, 'checkout.bitcoin.completePayment')}
                   </h3>
-                  <p style={{ color: '#64748b' }}>{t(lang, 'checkout.confirmation.orderId')}: <strong style={{ color: '#0077b6' }}>{orderId}</strong></p>
+                  <p style={{ color: '#64748b' }}>{t(lang, 'checkout.confirmation.orderId')}: <strong style={{ color: 'var(--accent-primary)' }}>{orderId}</strong></p>
                 </div>
                 
                 {/* Countdown Timer */}
@@ -1109,8 +1109,8 @@ export default function Checkout({ lang = 'en' }: CheckoutProps) {
                 
                 {/* Payment status indicator */}
                 <div style={{ 
-                  background: 'rgba(0, 119, 182, 0.05)',
-                  border: '2px solid rgba(0, 119, 182, 0.2)',
+                  background: 'rgba(225, 6, 44, 0.06)',
+                  border: '2px solid rgba(225, 6, 44, 0.25)',
                   borderRadius: '12px',
                   padding: '16px 20px',
                   display: 'flex',
@@ -1121,11 +1121,11 @@ export default function Checkout({ lang = 'en' }: CheckoutProps) {
                   <div style={{
                     width: '12px',
                     height: '12px',
-                    background: '#0077b6',
+                    background: 'var(--accent-primary)',
                     borderRadius: '50%',
                     animation: 'blink 1.5s infinite'
                   }}></div>
-                  <span style={{ color: '#0077b6', fontWeight: '500' }}>
+                  <span style={{ color: 'var(--accent-primary)', fontWeight: '500' }}>
                     {t(lang, 'checkout.bitcoin.monitoringPayment') || 'Monitoring blockchain for your payment...'}
                   </span>
                 </div>
@@ -1136,7 +1136,7 @@ export default function Checkout({ lang = 'en' }: CheckoutProps) {
                 
                 <div style={{ borderTop: '2px solid #f1f5f9', paddingTop: '24px', textAlign: 'center' }}>
                   <p style={{ color: '#64748b', marginBottom: '8px' }}>{t(lang, 'checkout.titles.orderSummary')}</p>
-                  <p style={{ color: '#0077b6', fontWeight: '800', fontSize: '1.5rem', margin: 0 }}>
+                  <p style={{ color: 'var(--accent-primary)', fontWeight: '800', fontSize: '1.5rem', margin: 0 }}>
                     {formatPrice(finalOrderTotal, currency)} <span style={{ color: '#64748b', fontWeight: '500', fontSize: '14px' }}>(≈ {bitcoinInvoice.amount} BTC)</span>
                   </p>
                 </div>
@@ -1179,12 +1179,12 @@ export default function Checkout({ lang = 'en' }: CheckoutProps) {
                 <h3 style={{ color: '#1e293b', fontWeight: '700', marginBottom: '8px', fontSize: '1.75rem' }}>
                   {t(lang, 'checkout.confirmation.orderConfirmed')}
                 </h3>
-                <p style={{ color: '#64748b', marginBottom: '4px' }}>{t(lang, 'checkout.confirmation.orderId')}: <strong style={{ color: '#0077b6' }}>{orderId}</strong></p>
+                <p style={{ color: '#64748b', marginBottom: '4px' }}>{t(lang, 'checkout.confirmation.orderId')}: <strong style={{ color: 'var(--accent-primary)' }}>{orderId}</strong></p>
                 <p style={{ color: '#64748b' }}>{t(lang, 'checkout.confirmation.confirmationSent')} <strong>{shippingInfo.email}</strong></p>
               </div>
               
               <div style={{ 
-                background: 'linear-gradient(135deg, rgba(0, 119, 182, 0.05), rgba(0, 150, 199, 0.05))',
+                background: 'linear-gradient(135deg, rgba(225, 6, 44, 0.04), rgba(212, 175, 55, 0.06))',
                 borderRadius: '16px',
                 padding: '32px',
                 marginBottom: '24px'
@@ -1197,7 +1197,7 @@ export default function Checkout({ lang = 'en' }: CheckoutProps) {
                   alignItems: 'center',
                   gap: '10px'
                 }}>
-                  <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#0077b6" strokeWidth="2">
+                  <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="var(--accent-primary)" strokeWidth="2">
                     <rect width="20" height="16" x="2" y="4" rx="2"></rect>
                     <path d="m22 7-8.97 5.7a1.94 1.94 0 0 1-2.06 0L2 7"></path>
                   </svg>
@@ -1216,14 +1216,14 @@ export default function Checkout({ lang = 'en' }: CheckoutProps) {
                     <div style={{
                       width: '40px',
                       height: '40px',
-                      background: 'linear-gradient(135deg, rgba(0, 119, 182, 0.1), rgba(0, 150, 199, 0.1))',
+                      background: 'linear-gradient(135deg, rgba(225, 6, 44, 0.08), rgba(212, 175, 55, 0.10))',
                       borderRadius: '10px',
                       display: 'flex',
                       alignItems: 'center',
                       justifyContent: 'center',
                       flexShrink: 0
                     }}>
-                      <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#0077b6" strokeWidth="2">
+                      <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="var(--accent-primary)" strokeWidth="2">
                         <path d="M12 22c5.523 0 10-4.477 10-10S17.523 2 12 2 2 6.477 2 12s4.477 10 10 10z"></path>
                         <path d="M12 6v6l4 2"></path>
                       </svg>
@@ -1265,14 +1265,14 @@ export default function Checkout({ lang = 'en' }: CheckoutProps) {
                       display: 'inline-flex',
                       alignItems: 'center',
                       gap: '8px',
-                      background: 'linear-gradient(135deg, #0077b6, #023e8a)',
+                      background: 'linear-gradient(135deg, var(--btn-primary-start), var(--btn-primary-end))',
                       color: 'white',
                       padding: '16px 32px',
                       borderRadius: '12px',
                       fontWeight: '700',
                       textDecoration: 'none',
                       fontSize: '16px',
-                      boxShadow: '0 4px 14px rgba(0, 119, 182, 0.4)'
+                      boxShadow: '0 4px 14px rgba(225, 6, 44, 0.35)'
                     }}
                   >
                     <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
@@ -1288,14 +1288,14 @@ export default function Checkout({ lang = 'en' }: CheckoutProps) {
                       display: 'inline-flex',
                       alignItems: 'center',
                       gap: '8px',
-                      background: 'linear-gradient(135deg, #0077b6, #023e8a)',
+                      background: 'linear-gradient(135deg, var(--btn-primary-start), var(--btn-primary-end))',
                       color: 'white',
                       padding: '16px 32px',
                       borderRadius: '12px',
                       fontWeight: '700',
                       textDecoration: 'none',
                       fontSize: '16px',
-                      boxShadow: '0 4px 14px rgba(0, 119, 182, 0.4)'
+                      boxShadow: '0 4px 14px rgba(225, 6, 44, 0.35)'
                     }}
                   >
                     {t(lang, 'checkout.actions.continueShopping')}
@@ -1323,13 +1323,13 @@ export default function Checkout({ lang = 'en' }: CheckoutProps) {
                 <div style={{
                   width: '72px',
                   height: '72px',
-                  background: 'linear-gradient(135deg, #0077b6, #023e8a)',
+                    background: 'linear-gradient(135deg, var(--btn-primary-start), var(--btn-primary-end))',
                   borderRadius: '18px',
                   display: 'flex',
                   alignItems: 'center',
                   justifyContent: 'center',
                   margin: '0 auto 20px',
-                  boxShadow: '0 8px 24px rgba(0, 119, 182, 0.3)'
+                    boxShadow: '0 8px 24px rgba(225, 6, 44, 0.25)'
                 }}>
                   <svg width="36" height="36" viewBox="0 0 24 24" fill="none" stroke="white" strokeWidth="2">
                     <path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"></path>
@@ -1355,8 +1355,8 @@ export default function Checkout({ lang = 'en' }: CheckoutProps) {
                     alignItems: 'center',
                     gap: '16px',
                     padding: '20px 24px',
-                    background: checkoutMode === 'guest' ? 'rgba(0, 119, 182, 0.05)' : 'white',
-                    border: checkoutMode === 'guest' ? '2px solid #0077b6' : '2px solid #e2e8f0',
+                    background: checkoutMode === 'guest' ? 'rgba(225, 6, 44, 0.06)' : 'white',
+                    border: checkoutMode === 'guest' ? '2px solid var(--accent-primary)' : '2px solid #e2e8f0',
                     borderRadius: '12px',
                     cursor: 'pointer',
                     textAlign: 'left',
@@ -1397,8 +1397,8 @@ export default function Checkout({ lang = 'en' }: CheckoutProps) {
                     alignItems: 'center',
                     gap: '16px',
                     padding: '20px 24px',
-                    background: checkoutMode === 'login' ? 'rgba(0, 119, 182, 0.05)' : 'white',
-                    border: checkoutMode === 'login' ? '2px solid #0077b6' : '2px solid #e2e8f0',
+                    background: checkoutMode === 'login' ? 'rgba(225, 6, 44, 0.06)' : 'white',
+                    border: checkoutMode === 'login' ? '2px solid var(--accent-primary)' : '2px solid #e2e8f0',
                     borderRadius: '12px',
                     cursor: 'pointer',
                     textAlign: 'left',
@@ -1408,14 +1408,14 @@ export default function Checkout({ lang = 'en' }: CheckoutProps) {
                   <div style={{
                     width: '48px',
                     height: '48px',
-                    background: 'linear-gradient(135deg, rgba(0, 119, 182, 0.1), rgba(0, 150, 199, 0.1))',
+                    background: 'linear-gradient(135deg, rgba(225, 6, 44, 0.08), rgba(212, 175, 55, 0.10))',
                     borderRadius: '12px',
                     display: 'flex',
                     alignItems: 'center',
                     justifyContent: 'center',
                     flexShrink: 0
                   }}>
-                    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#0077b6" strokeWidth="2">
+                    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="var(--accent-primary)" strokeWidth="2">
                       <path d="M15 3h4a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2h-4"></path>
                       <polyline points="10 17 15 12 10 7"></polyline>
                       <line x1="15" x2="3" y1="12" y2="12"></line>
@@ -1654,14 +1654,14 @@ export default function Checkout({ lang = 'en' }: CheckoutProps) {
                       style={{
                         width: '100%',
                         padding: '16px',
-                        background: $isAuthLoading ? '#94a3b8' : 'linear-gradient(135deg, #0077b6, #023e8a)',
+                        background: $isAuthLoading ? '#94a3b8' : 'linear-gradient(135deg, var(--btn-primary-start), var(--btn-primary-end))',
                         color: 'white',
                         border: 'none',
                         borderRadius: '12px',
                         fontWeight: '700',
                         fontSize: '16px',
                         cursor: $isAuthLoading ? 'not-allowed' : 'pointer',
-                        boxShadow: '0 4px 14px rgba(0, 119, 182, 0.4)',
+                        boxShadow: '0 4px 14px rgba(225, 6, 44, 0.35)',
                         display: 'flex',
                         alignItems: 'center',
                         justifyContent: 'center',
@@ -1705,7 +1705,7 @@ export default function Checkout({ lang = 'en' }: CheckoutProps) {
                         style={{
                           background: 'none',
                           border: 'none',
-                          color: '#0077b6',
+                          color: 'var(--accent-primary)',
                           fontWeight: '600',
                           cursor: 'pointer',
                           marginLeft: '6px'
@@ -1731,7 +1731,7 @@ export default function Checkout({ lang = 'en' }: CheckoutProps) {
                 alignItems: 'center',
                 gap: '12px'
               }}>
-                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#0077b6" strokeWidth="2">
+                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="var(--accent-primary)" strokeWidth="2">
                   <path d="M20 10c0 6-8 12-8 12s-8-6-8-12a8 8 0 0 1 16 0Z"></path>
                   <circle cx="12" cy="10" r="3"></circle>
                 </svg>
@@ -1787,7 +1787,7 @@ export default function Checkout({ lang = 'en' }: CheckoutProps) {
                   alignItems: 'center',
                   gap: '10px'
                 }}>
-                  <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#0077b6" strokeWidth="2">
+                  <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="var(--accent-primary)" strokeWidth="2">
                     <path d="M14 18V6a2 2 0 0 0-2-2H4a2 2 0 0 0-2 2v11a1 1 0 0 0 1 1h2"></path>
                     <path d="M15 18H9"></path>
                     <path d="M19 18h2a1 1 0 0 0 1-1v-3.65a1 1 0 0 0-.22-.624l-3.48-4.35A1 1 0 0 0 17.52 8H14"></path>
@@ -1801,8 +1801,8 @@ export default function Checkout({ lang = 'en' }: CheckoutProps) {
                   style={{ 
                     padding: '20px',
                     borderRadius: '12px',
-                    border: shippingMethod === 'standard' ? '2px solid #0077b6' : '2px solid #e2e8f0',
-                    background: shippingMethod === 'standard' ? 'rgba(0, 119, 182, 0.05)' : 'white',
+                    border: shippingMethod === 'standard' ? '2px solid var(--accent-primary)' : '2px solid #e2e8f0',
+                    background: shippingMethod === 'standard' ? 'rgba(225, 6, 44, 0.06)' : 'white',
                     cursor: 'pointer',
                     marginBottom: '12px',
                     transition: 'all 0.2s ease'
@@ -1813,21 +1813,21 @@ export default function Checkout({ lang = 'en' }: CheckoutProps) {
                       width: '20px',
                       height: '20px',
                       borderRadius: '50%',
-                      border: shippingMethod === 'standard' ? '6px solid #0077b6' : '2px solid #cbd5e1',
+                      border: shippingMethod === 'standard' ? '6px solid var(--accent-primary)' : '2px solid #cbd5e1',
                       marginRight: '16px',
                       flexShrink: 0
                     }}></div>
                     <div style={{ 
                       width: '48px', 
                       height: '48px', 
-                      background: 'linear-gradient(135deg, rgba(0, 119, 182, 0.1), rgba(0, 150, 199, 0.1))',
+                      background: 'linear-gradient(135deg, rgba(225, 6, 44, 0.08), rgba(212, 175, 55, 0.10))',
                       borderRadius: '10px',
                       display: 'flex',
                       alignItems: 'center',
                       justifyContent: 'center',
                       marginRight: '16px'
                     }}>
-                      <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#0077b6" strokeWidth="2">
+                      <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="var(--accent-primary)" strokeWidth="2">
                         <path d="M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z"></path>
                       </svg>
                     </div>
@@ -1835,7 +1835,7 @@ export default function Checkout({ lang = 'en' }: CheckoutProps) {
                       <div style={{ fontWeight: '700', color: '#1e293b', marginBottom: '4px' }}>{t(lang, 'checkout.shipping.standard')}</div>
                       <div style={{ color: '#64748b', fontSize: '14px' }}>{t(lang, 'checkout.shipping.standardTime')}</div>
                     </div>
-                    <div style={{ fontWeight: '700', color: qualifiesForFreeDelivery ? '#10b981' : '#0077b6', fontSize: '1.1rem' }}>
+                    <div style={{ fontWeight: '700', color: qualifiesForFreeDelivery ? '#10b981' : 'var(--accent-primary)', fontSize: '1.1rem' }}>
                       {qualifiesForFreeDelivery ? (
                         <span style={{ display: 'flex', alignItems: 'center', gap: '6px' }}>
                           <span style={{ textDecoration: 'line-through', color: '#94a3b8', fontSize: '0.85rem' }}>{formatPrice(SHIPPING_COSTS.standard.price, currency)}</span>
@@ -1852,8 +1852,8 @@ export default function Checkout({ lang = 'en' }: CheckoutProps) {
                   style={{ 
                     padding: '20px',
                     borderRadius: '12px',
-                    border: shippingMethod === 'express' ? '2px solid #0077b6' : '2px solid #e2e8f0',
-                    background: shippingMethod === 'express' ? 'rgba(0, 119, 182, 0.05)' : 'white',
+                    border: shippingMethod === 'express' ? '2px solid var(--accent-primary)' : '2px solid #e2e8f0',
+                    background: shippingMethod === 'express' ? 'rgba(225, 6, 44, 0.06)' : 'white',
                     cursor: 'pointer',
                     marginBottom: '28px',
                     transition: 'all 0.2s ease'
@@ -1864,7 +1864,7 @@ export default function Checkout({ lang = 'en' }: CheckoutProps) {
                       width: '20px',
                       height: '20px',
                       borderRadius: '50%',
-                      border: shippingMethod === 'express' ? '6px solid #0077b6' : '2px solid #cbd5e1',
+                      border: shippingMethod === 'express' ? '6px solid var(--accent-primary)' : '2px solid #cbd5e1',
                       marginRight: '16px',
                       flexShrink: 0
                     }}></div>
@@ -1897,7 +1897,7 @@ export default function Checkout({ lang = 'en' }: CheckoutProps) {
                       </div>
                       <div style={{ color: '#64748b', fontSize: '14px' }}>{t(lang, 'checkout.shipping.expressTime')}</div>
                     </div>
-                    <div style={{ fontWeight: '700', color: qualifiesForFreeDelivery ? '#10b981' : '#0077b6', fontSize: '1.1rem' }}>
+                    <div style={{ fontWeight: '700', color: qualifiesForFreeDelivery ? '#10b981' : 'var(--accent-primary)', fontSize: '1.1rem' }}>
                       {qualifiesForFreeDelivery ? (
                         <span style={{ display: 'flex', alignItems: 'center', gap: '6px' }}>
                           <span style={{ textDecoration: 'line-through', color: '#94a3b8', fontSize: '0.85rem' }}>{formatPrice(SHIPPING_COSTS.express.price, currency)}</span>
@@ -1918,7 +1918,7 @@ export default function Checkout({ lang = 'en' }: CheckoutProps) {
                     justifyContent: 'center',
                     gap: '10px',
                     width: '100%',
-                    background: 'linear-gradient(135deg, #0077b6, #023e8a)',
+                    background: 'linear-gradient(135deg, var(--btn-primary-start), var(--btn-primary-end))',
                     color: 'white',
                     padding: '18px 24px',
                     borderRadius: '12px',
@@ -1926,7 +1926,7 @@ export default function Checkout({ lang = 'en' }: CheckoutProps) {
                     fontWeight: '700',
                     fontSize: '16px',
                     cursor: 'pointer',
-                    boxShadow: '0 4px 14px rgba(0, 119, 182, 0.4)'
+                    boxShadow: '0 4px 14px rgba(225, 6, 44, 0.35)'
                   }}
                 >
                   {t(lang, 'checkout.actions.continue')}
@@ -1950,7 +1950,7 @@ export default function Checkout({ lang = 'en' }: CheckoutProps) {
                 alignItems: 'center',
                 gap: '12px'
               }}>
-                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#0077b6" strokeWidth="2">
+                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="var(--accent-primary)" strokeWidth="2">
                   <rect width="20" height="14" x="2" y="5" rx="2"></rect>
                   <line x1="2" x2="22" y1="10" y2="10"></line>
                 </svg>
@@ -1964,8 +1964,8 @@ export default function Checkout({ lang = 'en' }: CheckoutProps) {
                   style={{ 
                     padding: '24px',
                     borderRadius: '12px',
-                    border: paymentMethod === 'bank-transfer' ? '2px solid #0077b6' : '2px solid #e2e8f0',
-                    background: paymentMethod === 'bank-transfer' ? 'rgba(0, 119, 182, 0.05)' : 'white',
+                    border: paymentMethod === 'bank-transfer' ? '2px solid var(--accent-primary)' : '2px solid #e2e8f0',
+                    background: paymentMethod === 'bank-transfer' ? 'rgba(225, 6, 44, 0.06)' : 'white',
                     cursor: 'pointer',
                     marginBottom: '16px',
                     transition: 'all 0.2s ease'
@@ -1976,21 +1976,21 @@ export default function Checkout({ lang = 'en' }: CheckoutProps) {
                       width: '20px',
                       height: '20px',
                       borderRadius: '50%',
-                      border: paymentMethod === 'bank-transfer' ? '6px solid #0077b6' : '2px solid #cbd5e1',
+                      border: paymentMethod === 'bank-transfer' ? '6px solid var(--accent-primary)' : '2px solid #cbd5e1',
                       marginRight: '16px',
                       flexShrink: 0
                     }}></div>
                     <div style={{ 
                       width: '56px', 
                       height: '56px', 
-                      background: 'linear-gradient(135deg, rgba(0, 119, 182, 0.1), rgba(0, 150, 199, 0.1))',
+                      background: 'linear-gradient(135deg, rgba(225, 6, 44, 0.08), rgba(212, 175, 55, 0.10))',
                       borderRadius: '12px',
                       display: 'flex',
                       alignItems: 'center',
                       justifyContent: 'center',
                       marginRight: '20px'
                     }}>
-                      <svg width="28" height="28" viewBox="0 0 24 24" fill="#0077b6">
+                      <svg width="28" height="28" viewBox="0 0 24 24" fill="var(--accent-primary)">
                         <path d="M12.5 1.5l10 5v1H1.5v-1l10-5h1zM4.5 9h2v7h-2V9zm5 0h2v7h-2V9zm5 0h2v7h-2V9zm5 0h2v7h-2V9zM2.5 17.5h19v2h-19v-2z"/>
                       </svg>
                     </div>
@@ -2044,8 +2044,8 @@ export default function Checkout({ lang = 'en' }: CheckoutProps) {
                   style={{ 
                     padding: '24px',
                     borderRadius: '12px',
-                    border: paymentMethod === 'bitcoin' ? '2px solid #0077b6' : '2px solid #e2e8f0',
-                    background: paymentMethod === 'bitcoin' ? 'rgba(0, 119, 182, 0.05)' : 'white',
+                    border: paymentMethod === 'bitcoin' ? '2px solid var(--accent-primary)' : '2px solid #e2e8f0',
+                    background: paymentMethod === 'bitcoin' ? 'rgba(225, 6, 44, 0.06)' : 'white',
                     cursor: 'pointer',
                     marginBottom: '28px',
                     transition: 'all 0.2s ease'
@@ -2056,7 +2056,7 @@ export default function Checkout({ lang = 'en' }: CheckoutProps) {
                       width: '20px',
                       height: '20px',
                       borderRadius: '50%',
-                      border: paymentMethod === 'bitcoin' ? '6px solid #0077b6' : '2px solid #cbd5e1',
+                      border: paymentMethod === 'bitcoin' ? '6px solid var(--accent-primary)' : '2px solid #cbd5e1',
                       marginRight: '16px',
                       flexShrink: 0
                     }}></div>
@@ -2144,7 +2144,7 @@ export default function Checkout({ lang = 'en' }: CheckoutProps) {
                       display: 'flex',
                       alignItems: 'center',
                       gap: '10px',
-                      background: 'linear-gradient(135deg, #0077b6, #023e8a)',
+                      background: 'linear-gradient(135deg, var(--btn-primary-start), var(--btn-primary-end))',
                       color: 'white',
                       padding: '14px 32px',
                       borderRadius: '12px',
@@ -2152,7 +2152,7 @@ export default function Checkout({ lang = 'en' }: CheckoutProps) {
                       fontWeight: '700',
                       fontSize: '16px',
                       cursor: 'pointer',
-                      boxShadow: '0 4px 14px rgba(0, 119, 182, 0.4)'
+                      boxShadow: '0 4px 14px rgba(225, 6, 44, 0.35)'
                     }}
                   >
                     {t(lang, 'checkout.actions.reviewOrder')}
@@ -2177,7 +2177,7 @@ export default function Checkout({ lang = 'en' }: CheckoutProps) {
                 alignItems: 'center',
                 gap: '12px'
               }}>
-                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#0077b6" strokeWidth="2">
+                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="var(--accent-primary)" strokeWidth="2">
                   <path d="M9 11l3 3L22 4"></path>
                   <path d="M21 12v7a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h11"></path>
                 </svg>
@@ -2196,7 +2196,7 @@ export default function Checkout({ lang = 'en' }: CheckoutProps) {
                   alignItems: 'center', 
                   gap: '10px',
                   marginBottom: '12px',
-                  color: '#0077b6',
+                  color: 'var(--accent-primary)',
                   fontWeight: '600'
                 }}>
                   <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
@@ -2225,7 +2225,7 @@ export default function Checkout({ lang = 'en' }: CheckoutProps) {
                   alignItems: 'center', 
                   gap: '10px',
                   marginBottom: '12px',
-                  color: '#0077b6',
+                  color: 'var(--accent-primary)',
                   fontWeight: '600'
                 }}>
                   <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
@@ -2254,7 +2254,7 @@ export default function Checkout({ lang = 'en' }: CheckoutProps) {
                   alignItems: 'center', 
                   gap: '10px',
                   marginBottom: '16px',
-                  color: '#0077b6',
+                  color: 'var(--accent-primary)',
                   fontWeight: '600'
                 }}>
                   <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
@@ -2272,7 +2272,7 @@ export default function Checkout({ lang = 'en' }: CheckoutProps) {
                     borderBottom: '1px solid #e2e8f0'
                   }}>
                     <span style={{ color: '#1e293b' }}>{product.title} × {product.quantity}</span>
-                    <span style={{ fontWeight: '600', color: '#0077b6' }}>{formatPrice(product.price * product.quantity, currency)}</span>
+                    <span style={{ fontWeight: '600', color: 'var(--accent-primary)' }}>{formatPrice(product.price * product.quantity, currency)}</span>
                   </div>
                 ))}
               </div>
@@ -2289,7 +2289,7 @@ export default function Checkout({ lang = 'en' }: CheckoutProps) {
                   alignItems: 'center', 
                   gap: '10px',
                   marginBottom: '12px',
-                  color: '#0077b6',
+                  color: 'var(--accent-primary)',
                   fontWeight: '600'
                 }}>
                   <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
@@ -2390,7 +2390,7 @@ export default function Checkout({ lang = 'en' }: CheckoutProps) {
                 alignItems: 'center',
                 gap: '10px'
               }}>
-                <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#0077b6" strokeWidth="2">
+                <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="var(--accent-primary)" strokeWidth="2">
                   <path d="M6 2 3 6v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V6l-3-4Z"></path>
                   <path d="M3 6h18"></path>
                   <path d="M16 10a4 4 0 0 1-8 0"></path>
@@ -2411,7 +2411,7 @@ export default function Checkout({ lang = 'en' }: CheckoutProps) {
                       <div style={{ color: '#1e293b', fontWeight: '500' }}>{product.title}</div>
                       <div style={{ color: '#94a3b8', fontSize: '13px' }}>{t(lang, 'checkout.review.qty')}: {product.quantity}</div>
                     </div>
-                    <span style={{ fontWeight: '600', color: '#0077b6' }}>{formatPrice(product.price * product.quantity, currency)}</span>
+                    <span style={{ fontWeight: '600', color: 'var(--accent-primary)' }}>{formatPrice(product.price * product.quantity, currency)}</span>
                   </div>
                 ))}
               </div>
@@ -2480,7 +2480,7 @@ export default function Checkout({ lang = 'en' }: CheckoutProps) {
                 <span style={{ 
                   fontSize: '1.5rem', 
                   fontWeight: '800',
-                  background: 'linear-gradient(135deg, #0077b6, #023e8a)',
+                  background: 'linear-gradient(135deg, var(--btn-primary-start), var(--btn-primary-end))',
                   WebkitBackgroundClip: 'text',
                   WebkitTextFillColor: 'transparent',
                   backgroundClip: 'text'
@@ -2534,12 +2534,12 @@ export default function Checkout({ lang = 'en' }: CheckoutProps) {
                 <div style={{ 
                   width: '64px', 
                   height: '44px', 
-                  background: 'linear-gradient(135deg, #0077b6, #023e8a)',
+                  background: 'linear-gradient(135deg, var(--btn-primary-start), var(--btn-primary-end))',
                   borderRadius: '8px',
                   display: 'flex',
                   alignItems: 'center',
                   justifyContent: 'center',
-                  boxShadow: '0 2px 8px rgba(0, 119, 182, 0.3)'
+                  boxShadow: '0 2px 8px rgba(225, 6, 44, 0.25)'
                 }}>
                   <svg width="24" height="24" viewBox="0 0 24 24" fill="white">
                     <path d="M12.5 1.5l10 5v1H1.5v-1l10-5h1zM4.5 9h2v7h-2V9zm5 0h2v7h-2V9zm5 0h2v7h-2V9zm5 0h2v7h-2V9zM2.5 17.5h19v2h-19v-2z"/>
@@ -2640,7 +2640,7 @@ export default function Checkout({ lang = 'en' }: CheckoutProps) {
                 textAlign: 'center',
                 boxShadow: '0 2px 10px rgba(0, 0, 0, 0.05)'
               }}>
-                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#0077b6" strokeWidth="2" style={{ marginBottom: '8px' }}>
+                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="var(--accent-primary)" strokeWidth="2" style={{ marginBottom: '8px' }}>
                   <path d="M14 18V6a2 2 0 0 0-2-2H4a2 2 0 0 0-2 2v11a1 1 0 0 0 1 1h2"></path>
                   <path d="M15 18H9"></path>
                   <path d="M19 18h2a1 1 0 0 0 1-1v-3.65a1 1 0 0 0-.22-.624l-3.48-4.35A1 1 0 0 0 17.52 8H14"></path>
@@ -2656,7 +2656,7 @@ export default function Checkout({ lang = 'en' }: CheckoutProps) {
                 textAlign: 'center',
                 boxShadow: '0 2px 10px rgba(0, 0, 0, 0.05)'
               }}>
-                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#0077b6" strokeWidth="2" style={{ marginBottom: '8px' }}>
+                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="var(--accent-primary)" strokeWidth="2" style={{ marginBottom: '8px' }}>
                   <path d="M19 14c1.49-1.46 3-3.21 3-5.5A5.5 5.5 0 0 0 16.5 3c-1.76 0-3 .5-4.5 2-1.5-1.5-2.74-2-4.5-2A5.5 5.5 0 0 0 2 8.5c0 2.3 1.5 4.05 3 5.5l7 7Z"></path>
                 </svg>
                 <div style={{ color: '#64748b', fontSize: '11px', fontWeight: '500' }}>{t(lang, 'checkout.badges.labTested')}</div>
@@ -2668,7 +2668,7 @@ export default function Checkout({ lang = 'en' }: CheckoutProps) {
                 textAlign: 'center',
                 boxShadow: '0 2px 10px rgba(0, 0, 0, 0.05)'
               }}>
-                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#0077b6" strokeWidth="2" style={{ marginBottom: '8px' }}>
+                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="var(--accent-primary)" strokeWidth="2" style={{ marginBottom: '8px' }}>
                   <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path>
                   <polyline points="17,8 12,3 7,8"></polyline>
                   <line x1="12" x2="12" y1="3" y2="15"></line>

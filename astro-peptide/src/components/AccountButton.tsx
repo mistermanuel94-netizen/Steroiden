@@ -99,7 +99,7 @@ export default function AccountButton({ lang = 'en' }: AccountButtonProps) {
               width: '26px',
               height: '26px',
               borderRadius: '50%',
-              background: 'linear-gradient(135deg, #0077b6, #023e8a)',
+              background: 'linear-gradient(135deg, var(--btn-primary-start), var(--btn-primary-end))',
               display: 'flex',
               alignItems: 'center',
               justifyContent: 'center',
@@ -132,7 +132,7 @@ export default function AccountButton({ lang = 'en' }: AccountButtonProps) {
             style={dropdownLinkStyle}
             className="dropdown-link"
           >
-            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#0077b6" strokeWidth="2">
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="var(--accent-primary)" strokeWidth="2">
               <rect width="7" height="9" x="3" y="3" rx="1"></rect>
               <rect width="7" height="5" x="14" y="3" rx="1"></rect>
               <rect width="7" height="9" x="14" y="12" rx="1"></rect>
@@ -146,7 +146,7 @@ export default function AccountButton({ lang = 'en' }: AccountButtonProps) {
             style={dropdownLinkStyle}
             className="dropdown-link"
           >
-            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#0077b6" strokeWidth="2">
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="var(--accent-primary)" strokeWidth="2">
               <path d="M6 2 3 6v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V6l-3-4Z"></path>
               <path d="M3 6h18"></path>
               <path d="M16 10a4 4 0 0 1-8 0"></path>
@@ -159,7 +159,7 @@ export default function AccountButton({ lang = 'en' }: AccountButtonProps) {
             style={dropdownLinkStyle}
             className="dropdown-link"
           >
-            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#0077b6" strokeWidth="2">
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="var(--accent-primary)" strokeWidth="2">
               <path d="M12.22 2h-.44a2 2 0 0 0-2 2v.18a2 2 0 0 1-1 1.73l-.43.25a2 2 0 0 1-2 0l-.15-.08a2 2 0 0 0-2.73.73l-.22.38a2 2 0 0 0 .73 2.73l.15.1a2 2 0 0 1 1 1.72v.51a2 2 0 0 1-1 1.74l-.15.09a2 2 0 0 0-.73 2.73l.22.38a2 2 0 0 0 2.73.73l.15-.08a2 2 0 0 1 2 0l.43.25a2 2 0 0 1 1 1.73V20a2 2 0 0 0 2 2h.44a2 2 0 0 0 2-2v-.18a2 2 0 0 1 1-1.73l.43-.25a2 2 0 0 1 2 0l.15.08a2 2 0 0 0 2.73-.73l.22-.39a2 2 0 0 0-.73-2.73l-.15-.08a2 2 0 0 1-1-1.74v-.5a2 2 0 0 1 1-1.74l.15-.09a2 2 0 0 0 .73-2.73l-.22-.38a2 2 0 0 0-2.73-.73l-.15.08a2 2 0 0 1-2 0l-.43-.25a2 2 0 0 1-1-1.73V4a2 2 0 0 0-2-2z"></path>
               <circle cx="12" cy="12" r="3"></circle>
             </svg>
@@ -222,13 +222,13 @@ export default function AccountButton({ lang = 'en' }: AccountButtonProps) {
             width: '48px',
             height: '48px',
             borderRadius: '50%',
-            background: 'linear-gradient(135deg, rgba(0, 119, 182, 0.1), rgba(0, 150, 199, 0.1))',
+            background: 'linear-gradient(135deg, rgba(225, 6, 44, 0.10), rgba(200, 169, 106, 0.10))',
             display: 'flex',
             alignItems: 'center',
             justifyContent: 'center',
             margin: '0 auto 12px'
           }}>
-            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#0077b6" strokeWidth="2">
+            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="var(--accent-primary)" strokeWidth="2">
               <path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"></path>
               <circle cx="12" cy="7" r="4"></circle>
             </svg>
@@ -242,7 +242,7 @@ export default function AccountButton({ lang = 'en' }: AccountButtonProps) {
           style={{
             display: 'block',
             padding: '12px 16px',
-            background: 'linear-gradient(135deg, #0077b6, #023e8a)',
+            background: 'linear-gradient(135deg, var(--btn-primary-start), var(--btn-primary-end))',
             color: 'white',
             textDecoration: 'none',
             borderRadius: '8px',

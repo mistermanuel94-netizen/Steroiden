@@ -17,7 +17,7 @@ const guides = [
 ---
 
 <Layout 
-  title={`${t(currentLang, 'learnPage.title')} | Peptide Shop`}
+  title={`${t(currentLang, 'learnPage.title')} | Best-Peptides`}
   description={t(currentLang, 'learnPage.description')}
   breadcrumbs={[
     { name: t(currentLang, 'common.home'), url: getLocalizedPath('/', currentLang) },
@@ -76,8 +76,8 @@ const guides = [
     }
     
     .guide-card:hover {
-      border-color: #0077b6;
-      box-shadow: 0 8px 24px rgba(0,119,182,0.1);
+      border-color: var(--accent-primary);
+      box-shadow: 0 8px 24px rgba(225, 6, 44, 0.12);
       transform: translateY(-4px);
     }
     
@@ -95,7 +95,7 @@ const guides = [
     .guide-icon svg {
       width: 28px;
       height: 28px;
-      stroke: #0077b6;
+      stroke: var(--accent-primary);
     }
     
     .guide-title {
@@ -112,7 +112,7 @@ const guides = [
     }
     
     .guide-meta {
-      color: #0077b6;
+      color: var(--accent-primary);
       font-size: 14px;
       font-weight: 600;
     }
@@ -139,7 +139,7 @@ const guides = [
             </div>
             <h2 class="guide-title">{guide.title}</h2>
             <p class="guide-description">{guide.description}</p>
-            <span class="guide-meta">{guide.readTime} →</span>
+            <span class="guide-meta">{guide.readTime} â†’</span>
           </a>
         ))}
       </div>

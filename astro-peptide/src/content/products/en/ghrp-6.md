@@ -8,20 +8,20 @@ urlPath: "/peptides/buy-ghrp-6"
 aliases: ["Growth Hormone Releasing Peptide 6", "GHRP6"]
 cas: "87616-84-0"
 molecular_weight: "873.0 g/mol"
-purity: "≥ 99%"
-storage: "-20°C recommended (research-only)"
-package_sizes: ["10 × 5 mg vials"]
+purity: "â‰¥ 99%"
+storage: "-20Â°C recommended (research-only)"
+package_sizes: ["10 Ã— 5 mg vials"]
 moq: 200
 price: 220
-price_range: "£220 per pack"
+price_range: "Â£220 per pack"
 coa_url: "/coa/ghrp-6.pdf"
-short_description: "Buy GHRP-6. Growth hormone releasing peptide for GH research. ≥99% purity. Fast UK delivery."
+short_description: "Buy GHRP-6. Growth hormone releasing peptide for GH research. â‰¥99% purity. Fast UK delivery."
 category: "growth-hormone"
 tags: ["research-peptide", "ghrp-6-uk", "ghrp", "buy-peptides-uk", "growth-hormone"]
 images: ["/images/products/ghrp-6.png"]
 meta:
   title: "Buy GHRP-6 | GH Peptide | Fast Delivery"
-  description: "Buy GHRP-6. Premium growth hormone releasing peptide for research. ≥99% purity, COA included. Fast UK delivery."
+  description: "Buy GHRP-6. Premium growth hormone releasing peptide for research. â‰¥99% purity, COA included. Fast UK delivery."
 faqs:
   - question: "What is GHRP-6 used for in research?"
     answer: "GHRP-6 is used to study growth hormone secretion, ghrelin receptor activation, appetite regulation, and metabolic effects. It's one of the original synthetic GH secretagogues with well-characterised pharmacology."
@@ -30,9 +30,9 @@ faqs:
   - question: "Does GHRP-6 affect appetite in research models?"
     answer: "Yes, GHRP-6 is known to stimulate appetite in research models through ghrelin receptor activation. This property is useful for studying ghrelin's orexigenic effects."
   - question: "How should GHRP-6 be stored?"
-    answer: "Store lyophilised GHRP-6 at -20°C. Once reconstituted, keep at 2-8°C and use within 4 weeks."
+    answer: "Store lyophilised GHRP-6 at -20Â°C. Once reconstituted, keep at 2-8Â°C and use within 4 weeks."
   - question: "What purity is your GHRP-6?"
-    answer: "Our GHRP-6 is ≥99% pure as verified by HPLC. Each batch includes a Certificate of Analysis."
+    answer: "Our GHRP-6 is â‰¥99% pure as verified by HPLC. Each batch includes a Certificate of Analysis."
   - question: "What is the mechanism of action?"
     answer: "GHRP-6 binds to GHS-R (ghrelin receptors) on pituitary somatotropes, stimulating GH release. It also suppresses somatostatin tone."
   - question: "Can it be combined with GHRH analogs?"
@@ -44,7 +44,7 @@ reviews:
     rating: 5
     date: "2024-12-10"
     title: "Excellent for GH research"
-    content: "Our appetite-GH axis studies require GHRP-6. Peptide Shop provides excellent quality."
+    content: "Our appetite-GH axis studies require GHRP-6. Best-Peptides provides excellent quality."
     verified: true
   - author: "Cambridge GH Lab"
     rating: 5
@@ -120,7 +120,7 @@ reviews:
 
 Unlike more selective peptides such as ipamorelin, GHRP-6 also stimulates appetite and affects cortisol and prolactin levels, making it useful for studying the full spectrum of ghrelin receptor effects.
 
-Peptide Shop supplies **research-grade GHRP-6** with guaranteed ≥99% purity.
+Best-Peptides supplies **research-grade GHRP-6** with guaranteed â‰¥99% purity.
 
 ## How Does GHRP-6 Work?
 
@@ -153,25 +153,25 @@ Peptide Shop supplies **research-grade GHRP-6** with guaranteed ≥99% purity.
 | **CAS Number** | 87616-84-0 |
 | **Molecular Formula** | C46H56N12O6 |
 | **Molecular Weight** | 873.0 g/mol |
-| **Sequence** | His-D-Trp-Ala-Trp-D-Phe-Lys-NH₂ |
-| **Purity** | ≥99% (HPLC) |
+| **Sequence** | His-D-Trp-Ala-Trp-D-Phe-Lys-NHâ‚‚ |
+| **Purity** | â‰¥99% (HPLC) |
 | **Appearance** | White lyophilised powder |
 
 ## Storage
 
 | Condition | Temperature | Duration |
 |-----------|-------------|----------|
-| **Lyophilised** | -20°C | Up to 24 months |
-| **Reconstituted** | 2-8°C | Up to 4 weeks |
+| **Lyophilised** | -20Â°C | Up to 24 months |
+| **Reconstituted** | 2-8Â°C | Up to 4 weeks |
 
 ## Ordering Information
 
 | Size | Price |
 |------|-------|
-| **5 mg** | From £25 |
-| **10 mg** | From £55 |
+| **5 mg** | From Â£25 |
+| **10 mg** | From Â£55 |
 
-**Minimum order: £200** | **10% discount on orders over £200**
+**Minimum order: Â£200** | **10% discount on orders over Â£200**
 
 ## Research Use Statement
 

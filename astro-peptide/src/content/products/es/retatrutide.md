@@ -1,66 +1,66 @@
 ---
 lang: "es"
 id: "peptide-retatrutide"
-title: "Retatrutide Comprar | Triple Agonista para Investigación"
+title: "Retatrutide Comprar | Triple Agonista para InvestigaciÃ³n"
 primary_keyword: "retatrutide comprar"
 search_volume: "720"
 urlPath: "/es/peptides/retatrutide-comprar"
 aliases: ["LY3437943", "Triple G", "GGG Agonista"]
 cas: "2381089-83-2"
 molecular_weight: "4156.48 g/mol"
-purity: "≥ 99%"
-storage: "-20°C recomendado (solo investigación)"
-package_sizes: ["10 × 5 mg viales"]
+purity: "â‰¥ 99%"
+storage: "-20Â°C recomendado (solo investigaciÃ³n)"
+package_sizes: ["10 Ã— 5 mg viales"]
 moq: 200
 price: 2100
-price_range: "€2100 por paquete"
+price_range: "â‚¬2100 por paquete"
 coa_url: "/coa/retatrutide.pdf"
-short_description: "Compre Retatrutide. Triple agonista GLP-1/GIP/Glucagón para investigación metabólica. ≥99% pureza. Envío rápido UE."
+short_description: "Compre Retatrutide. Triple agonista GLP-1/GIP/GlucagÃ³n para investigaciÃ³n metabÃ³lica. â‰¥99% pureza. EnvÃ­o rÃ¡pido UE."
 category: "weight-loss"
-tags: ["péptido-investigación", "triple-agonista", "retatrutide-españa", "comprar-péptidos", "pérdida-de-peso"]
+tags: ["pÃ©ptido-investigaciÃ³n", "triple-agonista", "retatrutide-espaÃ±a", "comprar-pÃ©ptidos", "pÃ©rdida-de-peso"]
 images: ["/images/products/retatrutide.png"]
 meta:
-  title: "Retatrutide Comprar | Péptido Triple Agonista | Envío Rápido"
-  description: "Compre Retatrutide. Premium triple agonista GLP-1/GIP/Glucagón para investigación de pérdida de peso. ≥99% pureza, COA incluido."
+  title: "Retatrutide Comprar | PÃ©ptido Triple Agonista | EnvÃ­o RÃ¡pido"
+  description: "Compre Retatrutide. Premium triple agonista GLP-1/GIP/GlucagÃ³n para investigaciÃ³n de pÃ©rdida de peso. â‰¥99% pureza, COA incluido."
 faqs:
-  - question: "¿Qué hace único al Retatrutide comparado con otros péptidos incretinas?"
-    answer: "Retatrutide es un triple agonista que activa simultáneamente los receptores GLP-1, GIP y glucagón. Esto lo distingue de los agonistas duales como tirzepatida (GIP/GLP-1) y mono-agonistas como semaglutida (solo GLP-1)."
-  - question: "¿Para qué se usa Retatrutide en investigación?"
-    answer: "Retatrutide se usa en investigación metabólica para estudiar efectos de activación de triple receptor sobre homeostasis de glucosa, manejo del peso, gasto energético y metabolismo lipídico hepático."
-  - question: "¿Cómo debe almacenarse Retatrutide?"
-    answer: "Almacene Retatrutide liofilizado a -20°C para estabilidad óptima. Una vez reconstituido, conserve a 2-8°C y use dentro de 3-4 semanas."
-  - question: "¿Cuál es la pureza de su Retatrutide?"
-    answer: "Nuestro Retatrutide es ≥99% puro según verificación por análisis HPLC. Cada lote incluye un Certificado de Análisis."
-  - question: "¿Cómo contribuye el componente glucagón a la investigación?"
-    answer: "El agonismo del receptor de glucagón ofrece oportunidades de investigación únicas para estudiar producción hepática de glucosa, termogénesis y lipólisis."
-  - question: "¿Cuál es la vida media del Retatrutide?"
-    answer: "Retatrutide tiene una vida media extendida de aproximadamente 6 días debido a modificaciones de ácidos grasos que permiten la unión a albúmina."
+  - question: "Â¿QuÃ© hace Ãºnico al Retatrutide comparado con otros pÃ©ptidos incretinas?"
+    answer: "Retatrutide es un triple agonista que activa simultÃ¡neamente los receptores GLP-1, GIP y glucagÃ³n. Esto lo distingue de los agonistas duales como tirzepatida (GIP/GLP-1) y mono-agonistas como semaglutida (solo GLP-1)."
+  - question: "Â¿Para quÃ© se usa Retatrutide en investigaciÃ³n?"
+    answer: "Retatrutide se usa en investigaciÃ³n metabÃ³lica para estudiar efectos de activaciÃ³n de triple receptor sobre homeostasis de glucosa, manejo del peso, gasto energÃ©tico y metabolismo lipÃ­dico hepÃ¡tico."
+  - question: "Â¿CÃ³mo debe almacenarse Retatrutide?"
+    answer: "Almacene Retatrutide liofilizado a -20Â°C para estabilidad Ã³ptima. Una vez reconstituido, conserve a 2-8Â°C y use dentro de 3-4 semanas."
+  - question: "Â¿CuÃ¡l es la pureza de su Retatrutide?"
+    answer: "Nuestro Retatrutide es â‰¥99% puro segÃºn verificaciÃ³n por anÃ¡lisis HPLC. Cada lote incluye un Certificado de AnÃ¡lisis."
+  - question: "Â¿CÃ³mo contribuye el componente glucagÃ³n a la investigaciÃ³n?"
+    answer: "El agonismo del receptor de glucagÃ³n ofrece oportunidades de investigaciÃ³n Ãºnicas para estudiar producciÃ³n hepÃ¡tica de glucosa, termogÃ©nesis y lipÃ³lisis."
+  - question: "Â¿CuÃ¡l es la vida media del Retatrutide?"
+    answer: "Retatrutide tiene una vida media extendida de aproximadamente 6 dÃ­as debido a modificaciones de Ã¡cidos grasos que permiten la uniÃ³n a albÃºmina."
 reviews:
-  - author: "Dr. Carlos Rodríguez"
+  - author: "Dr. Carlos RodrÃ­guez"
     rating: 5
     date: "2024-12-16"
-    title: "Excelente para investigación de triple agonista"
-    content: "Estudiamos los efectos únicos del componente glucagón y Peptide Shop entrega calidad excepcional."
+    title: "Excelente para investigaciÃ³n de triple agonista"
+    content: "Estudiamos los efectos Ãºnicos del componente glucagÃ³n y Best-Peptides entrega calidad excepcional."
     verified: true
-  - author: "Investigación Metabólica Madrid"
+  - author: "InvestigaciÃ³n MetabÃ³lica Madrid"
     rating: 5
     date: "2024-12-10"
-    title: "Péptido calidad premium"
-    content: "Difícil de encontrar Retatrutide confiable. Peptide Shop resolvió esto con excelente pureza y envío rápido."
+    title: "PÃ©ptido calidad premium"
+    content: "DifÃ­cil de encontrar Retatrutide confiable. Best-Peptides resolviÃ³ esto con excelente pureza y envÃ­o rÃ¡pido."
     verified: true
-  - author: "Miguel Fernández"
+  - author: "Miguel FernÃ¡ndez"
     rating: 5
     date: "2024-12-03"
     title: "Excelente producto y servicio"
-    content: "Primer pedido de Retatrutide - impresionado con la calidad. La documentación COA es completa."
+    content: "Primer pedido de Retatrutide - impresionado con la calidad. La documentaciÃ³n COA es completa."
     verified: true
   - author: "Laboratorio Triple Agonista Barcelona"
     rating: 5
     date: "2024-11-26"
     title: "Mejor fuente"
-    content: "Hemos probado varios proveedores. Peptide Shop ofrece la mejor calidad de Retatrutide."
+    content: "Hemos probado varios proveedores. Best-Peptides ofrece la mejor calidad de Retatrutide."
     verified: true
-  - author: "Dra. Ana García"
+  - author: "Dra. Ana GarcÃ­a"
     rating: 5
     date: "2024-11-19"
     title: "Muy buena calidad"
@@ -69,72 +69,72 @@ reviews:
   - author: "Laboratorio Endocrino Valencia"
     rating: 5
     date: "2024-11-12"
-    title: "Excelente para investigación metabólica"
-    content: "El perfil de triple agonista ofrece oportunidades de investigación únicas."
+    title: "Excelente para investigaciÃ³n metabÃ³lica"
+    content: "El perfil de triple agonista ofrece oportunidades de investigaciÃ³n Ãºnicas."
     verified: true
 ---
 
-## ¿Qué es Retatrutide?
+## Â¿QuÃ© es Retatrutide?
 
-**Retatrutide** (LY3437943) es un nuevo triple agonista que actúa simultáneamente sobre los receptores GLP-1, GIP y glucagón. Este péptido de investigación representa una próxima generación de compuestos basados en incretinas para investigación metabólica.
+**Retatrutide** (LY3437943) es un nuevo triple agonista que actÃºa simultÃ¡neamente sobre los receptores GLP-1, GIP y glucagÃ³n. Este pÃ©ptido de investigaciÃ³n representa una prÃ³xima generaciÃ³n de compuestos basados en incretinas para investigaciÃ³n metabÃ³lica.
 
-A diferencia de los agonistas duales como tirzepatida, retatrutide añade activación del receptor de glucagón, permitiendo a los investigadores estudiar efectos termogénicos y lipolíticos junto con la señalización de incretinas.
+A diferencia de los agonistas duales como tirzepatida, retatrutide aÃ±ade activaciÃ³n del receptor de glucagÃ³n, permitiendo a los investigadores estudiar efectos termogÃ©nicos y lipolÃ­ticos junto con la seÃ±alizaciÃ³n de incretinas.
 
-Peptide Shop suministra **Retatrutide de calidad de investigación** con pureza garantizada ≥99%, verificada mediante análisis HPLC completo.
+Best-Peptides suministra **Retatrutide de calidad de investigaciÃ³n** con pureza garantizada â‰¥99%, verificada mediante anÃ¡lisis HPLC completo.
 
-## ¿Cómo funciona Retatrutide?
+## Â¿CÃ³mo funciona Retatrutide?
 
 Retatrutide activa tres sistemas de receptores:
 
 ### Receptor GLP-1
-- **Señalización incretina** - Secreción de insulina glucosa-dependiente
-- **Vaciado gástrico** - Absorción retardada
-- **Regulación del apetito** - Señales de saciedad centrales
+- **SeÃ±alizaciÃ³n incretina** - SecreciÃ³n de insulina glucosa-dependiente
+- **Vaciado gÃ¡strico** - AbsorciÃ³n retardada
+- **RegulaciÃ³n del apetito** - SeÃ±ales de saciedad centrales
 
 ### Receptor GIP
-- **Acción incretina complementaria** - Respuesta insulínica mejorada
-- **Efectos en tejido adiposo** - Regulación de almacenamiento de lípidos
-- **Metabolismo óseo** - Actividad osteoblástica
+- **AcciÃ³n incretina complementaria** - Respuesta insulÃ­nica mejorada
+- **Efectos en tejido adiposo** - RegulaciÃ³n de almacenamiento de lÃ­pidos
+- **Metabolismo Ã³seo** - Actividad osteoblÃ¡stica
 
-### Receptor Glucagón
-- **Termogénesis** - Mayor gasto energético
-- **Lipólisis** - Movilización de grasa
-- **Metabolismo hepático** - Producción de glucosa y manejo de lípidos
+### Receptor GlucagÃ³n
+- **TermogÃ©nesis** - Mayor gasto energÃ©tico
+- **LipÃ³lisis** - MovilizaciÃ³n de grasa
+- **Metabolismo hepÃ¡tico** - ProducciÃ³n de glucosa y manejo de lÃ­pidos
 
-## Aplicaciones de Investigación
+## Aplicaciones de InvestigaciÃ³n
 
-### Investigación Metabólica
-- **Estudios de triple receptor** - Efectos multi-receptor únicos
-- **Mecanismos de pérdida de peso** - Efectos metabólicos integrales
-- **Homeostasis de glucosa** - Efectos combinados de incretina y glucagón
+### InvestigaciÃ³n MetabÃ³lica
+- **Estudios de triple receptor** - Efectos multi-receptor Ãºnicos
+- **Mecanismos de pÃ©rdida de peso** - Efectos metabÃ³licos integrales
+- **Homeostasis de glucosa** - Efectos combinados de incretina y glucagÃ³n
 
 ### Estudios Comparativos
 - **Mono vs dual vs triple agonistas** - Comparaciones de mecanismos
-- **Relaciones dosis-respuesta** - Perfiles de activación óptimos
+- **Relaciones dosis-respuesta** - Perfiles de activaciÃ³n Ã³ptimos
 
 ## Especificaciones
 
-| Especificación | Detalle |
+| EspecificaciÃ³n | Detalle |
 |----------------|---------|
-| **Número CAS** | 2381089-83-2 |
+| **NÃºmero CAS** | 2381089-83-2 |
 | **Peso molecular** | 4156.48 g/mol |
-| **Pureza** | ≥99% (HPLC) |
+| **Pureza** | â‰¥99% (HPLC) |
 | **Apariencia** | Polvo liofilizado blanco |
 | **Solubilidad** | Soluble en agua |
 
 ## Almacenamiento
 
-Almacenar liofilizado a -20°C para estabilidad óptima.
+Almacenar liofilizado a -20Â°C para estabilidad Ã³ptima.
 
-## Información de Pedido
+## InformaciÃ³n de Pedido
 
-| Tamaño | Precio |
+| TamaÃ±o | Precio |
 |--------|--------|
-| **5 mg** | Desde 220€ |
-| **10 mg** | Desde 400€ |
+| **5 mg** | Desde 220â‚¬ |
+| **10 mg** | Desde 400â‚¬ |
 
-**Pedido mínimo: 200€** | **10% de descuento en pedidos superiores a 200€**
+**Pedido mÃ­nimo: 200â‚¬** | **10% de descuento en pedidos superiores a 200â‚¬**
 
-## Declaración de Investigación
+## DeclaraciÃ³n de InvestigaciÃ³n
 
-**Solo para investigación de laboratorio.** No destinado para uso humano o veterinario.
+**Solo para investigaciÃ³n de laboratorio.** No destinado para uso humano o veterinario.

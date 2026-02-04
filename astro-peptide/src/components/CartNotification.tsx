@@ -60,7 +60,7 @@ export default function CartNotification({ lang = 'en' }: CartNotificationProps)
       {/* Success header */}
       <div style={{
         padding: '12px 16px',
-        background: 'linear-gradient(135deg, #0077b6, #023e8a)',
+        background: 'linear-gradient(135deg, var(--btn-primary-start), var(--btn-primary-end))',
         color: 'white',
         display: 'flex',
         alignItems: 'center',
@@ -118,7 +118,7 @@ export default function CartNotification({ lang = 'en' }: CartNotificationProps)
           }}>
             {$notification.title}
           </h4>
-          <p style={{ margin: 0, fontSize: '0.95rem', fontWeight: 700, color: '#0077b6' }}>
+          <p style={{ margin: 0, fontSize: '0.95rem', fontWeight: 700, color: 'var(--accent-primary)' }}>
             £{$notification.price.toFixed(2)}
           </p>
         </div>
@@ -136,8 +136,8 @@ export default function CartNotification({ lang = 'en' }: CartNotificationProps)
             flex: 1,
             padding: '12px 16px',
             background: 'white',
-            color: '#0077b6',
-            border: '2px solid #0077b6',
+            color: 'var(--accent-primary)',
+            border: '2px solid var(--accent-primary)',
             borderRadius: '8px',
             fontWeight: 600,
             fontSize: '0.875rem',
@@ -152,7 +152,7 @@ export default function CartNotification({ lang = 'en' }: CartNotificationProps)
           style={{
             flex: 1,
             padding: '12px 16px',
-            background: 'linear-gradient(135deg, #0077b6, #023e8a)',
+            background: 'linear-gradient(135deg, var(--btn-primary-start), var(--btn-primary-end))',
             color: 'white',
             border: 'none',
             borderRadius: '8px',

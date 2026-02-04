@@ -26,7 +26,7 @@ const contactSchema = {
   "url": Astro.url.toString(),
   "mainEntity": {
     "@type": "Organization",
-    "name": "Peptide Shop",
+    "name": "Best-Peptides",
     "contactPoint": {
       "@type": "ContactPoint",
       "telephone": "+44-123-456-7890",
@@ -37,7 +37,7 @@ const contactSchema = {
 ---
 
 <Layout 
-  title={`${t(lang, 'contactPage.title')} | Peptide Shop`}
+  title={`${t(lang, 'contactPage.title')} | Best-Peptides`}
   description={t(lang, 'contactPage.subtitle')}
   breadcrumbs={breadcrumbs}
   schema={contactSchema}
@@ -179,7 +179,7 @@ const contactSchema = {
                   <button 
                     class="btn btn-main" 
                     type="submit"
-                    style="padding: 16px 40px; background: linear-gradient(90deg, #0077b6, #023e8a); border: none; border-radius: 10px; color: white; font-weight: 700; font-size: 16px; width: 100%; transition: all 0.3s;"
+                    style="padding: 16px 40px; background: linear-gradient(90deg, var(--btn-primary-start), var(--btn-primary-end)); border: none; border-radius: 10px; color: white; font-weight: 700; font-size: 16px; width: 100%; transition: all 0.3s;"
                   >
                     {t(lang, 'contactPage.form.submit')}
                   </button>
@@ -193,8 +193,8 @@ const contactSchema = {
         <div class="col-lg-5">
           <div style="position: sticky; top: 100px;">
             <!-- Email Card -->
-            <div style="background: linear-gradient(135deg, rgba(0, 119, 182, 0.1), rgba(0, 150, 199, 0.1)); border-radius: 10px; padding: 32px; margin-bottom: 24px; border: 2px solid rgba(0, 119, 182, 0.2);">
-              <div style="width: 56px; height: 56px; background: linear-gradient(135deg, #0077b6, #023e8a); border-radius: 10px; display: flex; align-items: center; justify-content: center; margin-bottom: 20px;">
+            <div style="background: linear-gradient(135deg, rgba(227, 27, 35, 0.10), rgba(227, 27, 35, 0.04)); border-radius: 10px; padding: 32px; margin-bottom: 24px; border: 2px solid rgba(227, 27, 35, 0.22);">
+              <div style="width: 56px; height: 56px; background: linear-gradient(135deg, var(--btn-primary-start), var(--btn-primary-end)); border-radius: 10px; display: flex; align-items: center; justify-content: center; margin-bottom: 20px;">
                 <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="2">
                   <rect width="20" height="16" x="2" y="4" rx="2"></rect>
                   <path d="m22 7-8.97 5.7a1.94 1.94 0 0 1-2.06 0L2 7"></path>
@@ -202,7 +202,7 @@ const contactSchema = {
               </div>
               <h3 style="color: #1e293b; font-weight: 700; font-size: 1.25rem; margin-bottom: 8px;">{t(lang, 'contactPage.info.emailTitle')}</h3>
               <p style="color: #64748b; margin-bottom: 12px; font-size: 14px;">{t(lang, 'contactPage.info.emailSubtitle')}</p>
-              <a href="#contact-form" style="color: #0077b6; font-weight: 600; text-decoration: none; font-size: 1.125rem;">
+              <a href="#contact-form" style="color: var(--accent-primary); font-weight: 600; text-decoration: none; font-size: 1.125rem;">
                 {t(lang, 'contactPage.form.submit')}
               </a>
             </div>

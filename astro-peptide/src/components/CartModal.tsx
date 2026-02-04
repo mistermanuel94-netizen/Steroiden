@@ -214,8 +214,8 @@ export default function CartModal({ lang = 'en' }: CartModalProps) {
               <a 
                 href={getLocalizedPath('/peptides/', lang)}
                 onClick={handleClose}
-                className="inline-block py-3 px-6 bg-[#0077b6] text-white font-semibold rounded-lg hover:bg-[#023e8a] no-underline"
-                style={{ backgroundColor: '#0077b6', color: 'white', padding: '12px 24px', borderRadius: '8px', textDecoration: 'none' }}
+                className="inline-block py-3 px-6 bg-[var(--accent-primary)] text-white font-semibold rounded-lg hover:bg-[var(--accent-primary-hover)] no-underline"
+                style={{ backgroundColor: 'var(--accent-primary)', color: 'white', padding: '12px 24px', borderRadius: '8px', textDecoration: 'none' }}
               >
                 {t(lang, 'cart.browseProducts')}
               </a>
@@ -257,7 +257,7 @@ export default function CartModal({ lang = 'en' }: CartModalProps) {
                     </div>
 
                     <div className="flex justify-between items-end mt-2" style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'flex-end', marginTop: '8px' }}>
-                      <p className="m-0 font-bold text-[#0077b6]" style={{ color: '#0077b6', margin: 0 }}>
+                      <p className="m-0 font-bold text-[var(--accent-primary)]" style={{ color: 'var(--accent-primary)', margin: 0 }}>
                         {formatPrice(item.price, currency)}
                       </p>
                       
@@ -306,8 +306,8 @@ export default function CartModal({ lang = 'en' }: CartModalProps) {
                 <a 
                 href={getLocalizedPath('/checkout/', lang)}
                 onClick={handleClose}
-                className="w-full py-3 bg-[#0077b6] text-white font-bold text-center rounded-xl hover:bg-[#023e8a] transition-all no-underline"
-                style={{ display: 'block', width: '100%', padding: '14px', backgroundColor: '#0077b6', color: 'white', borderRadius: '12px', textAlign: 'center', textDecoration: 'none', fontWeight: 700 }}
+                className="w-full py-3 bg-[var(--accent-primary)] text-white font-bold text-center rounded-xl hover:bg-[var(--accent-primary-hover)] transition-all no-underline"
+                style={{ display: 'block', width: '100%', padding: '14px', backgroundColor: 'var(--accent-primary)', color: 'white', borderRadius: '12px', textAlign: 'center', textDecoration: 'none', fontWeight: 700 }}
                 >
                 {t(lang, 'cart.checkout')}
                 </a>

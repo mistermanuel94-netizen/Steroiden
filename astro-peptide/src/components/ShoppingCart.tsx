@@ -87,14 +87,14 @@ export default function ShoppingCart({ lang = 'en' }: ShoppingCartProps) {
               <div style={{ 
                 width: '120px', 
                 height: '120px', 
-                background: 'linear-gradient(135deg, rgba(0, 119, 182, 0.1), rgba(0, 150, 199, 0.1))',
+                background: 'linear-gradient(135deg, rgba(227, 27, 35, 0.10), rgba(227, 27, 35, 0.04))',
                 borderRadius: '50%',
                 display: 'flex',
                 alignItems: 'center',
                 justifyContent: 'center',
                 margin: '0 auto 32px'
               }}>
-                <svg width="56" height="56" viewBox="0 0 24 24" fill="none" stroke="#0077b6" strokeWidth="1.5">
+                <svg width="56" height="56" viewBox="0 0 24 24" fill="none" stroke="var(--accent-primary)" strokeWidth="1.5">
                   <circle cx="8" cy="21" r="1"></circle>
                   <circle cx="19" cy="21" r="1"></circle>
                   <path d="M2.05 2.05h2l2.66 12.42a2 2 0 0 0 2 1.58h9.78a2 2 0 0 0 1.95-1.57l1.65-7.43H5.12"></path>
@@ -112,7 +112,7 @@ export default function ShoppingCart({ lang = 'en' }: ShoppingCartProps) {
                   display: 'inline-flex',
                   alignItems: 'center',
                   gap: '8px',
-                  background: 'linear-gradient(135deg, #0077b6, #023e8a)',
+                  background: 'linear-gradient(135deg, var(--btn-primary-start), var(--btn-primary-end))',
                   color: 'white',
                   padding: '16px 32px',
                   borderRadius: '12px',
@@ -120,7 +120,7 @@ export default function ShoppingCart({ lang = 'en' }: ShoppingCartProps) {
                   textDecoration: 'none',
                   fontSize: '16px',
                   transition: 'all 0.3s ease',
-                  boxShadow: '0 4px 14px rgba(0, 119, 182, 0.4)'
+                  boxShadow: '0 4px 14px rgba(227, 27, 35, 0.35)'
                 }}
               >
                 <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
@@ -134,7 +134,7 @@ export default function ShoppingCart({ lang = 'en' }: ShoppingCartProps) {
             <>
               <div style={{ marginBottom: '16px', display: 'flex', alignItems: 'center', justifyContent: 'space-between' }}>
                 <h4 style={{ color: '#1e293b', fontWeight: '700', margin: 0, display: 'flex', alignItems: 'center', gap: '10px' }}>
-                  <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#0077b6" strokeWidth="2">
+                  <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="var(--accent-primary)" strokeWidth="2">
                     <circle cx="8" cy="21" r="1"></circle>
                     <circle cx="19" cy="21" r="1"></circle>
                     <path d="M2.05 2.05h2l2.66 12.42a2 2 0 0 0 2 1.58h9.78a2 2 0 0 0 1.95-1.57l1.65-7.43H5.12"></path>
@@ -196,8 +196,8 @@ export default function ShoppingCart({ lang = 'en' }: ShoppingCartProps) {
                               display: 'inline-flex',
                               alignItems: 'center',
                               gap: '6px',
-                              background: 'rgba(0, 119, 182, 0.1)',
-                              color: '#0077b6',
+                              background: 'rgba(227, 27, 35, 0.10)',
+                              color: 'var(--accent-primary)',
                               padding: '4px 12px',
                               borderRadius: '20px',
                               fontSize: '13px',
@@ -227,7 +227,7 @@ export default function ShoppingCart({ lang = 'en' }: ShoppingCartProps) {
                         </div>
                         <div style={{ textAlign: 'right' }}>
                           <div style={{ 
-                            color: '#0077b6', 
+                            color: 'var(--accent-primary)', 
                             fontWeight: '800', 
                             fontSize: '1.35rem'
                           }}>
@@ -261,7 +261,7 @@ export default function ShoppingCart({ lang = 'en' }: ShoppingCartProps) {
                                 border: 'none',
                                 background: 'transparent',
                                 cursor: product.quantity > 1 ? 'pointer' : 'not-allowed',
-                                color: product.quantity > 1 ? '#0077b6' : '#cbd5e1',
+                                color: product.quantity > 1 ? 'var(--accent-primary)' : '#cbd5e1',
                                 fontWeight: '700',
                                 fontSize: '18px',
                                 display: 'flex',
@@ -289,7 +289,7 @@ export default function ShoppingCart({ lang = 'en' }: ShoppingCartProps) {
                                 border: 'none',
                                 background: 'transparent',
                                 cursor: 'pointer',
-                                color: '#0077b6',
+                                color: 'var(--accent-primary)',
                                 fontWeight: '700',
                                 fontSize: '18px',
                                 display: 'flex',
@@ -338,7 +338,7 @@ export default function ShoppingCart({ lang = 'en' }: ShoppingCartProps) {
                   display: 'inline-flex',
                   alignItems: 'center',
                   gap: '8px',
-                  color: '#0077b6',
+                  color: 'var(--accent-primary)',
                   fontWeight: '600',
                   textDecoration: 'none',
                   marginTop: '16px',
@@ -369,7 +369,7 @@ export default function ShoppingCart({ lang = 'en' }: ShoppingCartProps) {
                   gap: '10px',
                   fontSize: '1.25rem'
                 }}>
-                  <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#0077b6" strokeWidth="2">
+                  <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="var(--accent-primary)" strokeWidth="2">
                     <path d="M9 5H2v7l6.29 6.29c.94.94 2.48.94 3.42 0l3.58-3.58c.94-.94.94-2.48 0-3.42L9 5Z"></path>
                     <path d="M6 9.01V9"></path>
                     <path d="m15 5 6.3 6.3a2.4 2.4 0 0 1 0 3.4L17 19"></path>
@@ -419,7 +419,7 @@ export default function ShoppingCart({ lang = 'en' }: ShoppingCartProps) {
                   <div className="d-flex justify-content-between align-items-center">
                     <span style={{ color: '#1e293b', fontWeight: '700', fontSize: '1.1rem' }}>{t(lang, 'cart.total')}</span>
                     <span style={{ 
-                      color: '#0077b6', 
+                      color: 'var(--accent-primary)', 
                       fontWeight: '800', 
                       fontSize: '1.5rem'
                     }}>
@@ -447,7 +447,7 @@ export default function ShoppingCart({ lang = 'en' }: ShoppingCartProps) {
                     justifyContent: 'center',
                     gap: '10px',
                     width: '100%',
-                    background: 'linear-gradient(135deg, #0077b6, #023e8a)',
+                    background: 'linear-gradient(135deg, var(--btn-primary-start), var(--btn-primary-end))',
                     color: 'white',
                     padding: '18px 24px',
                     borderRadius: '12px',
@@ -455,7 +455,7 @@ export default function ShoppingCart({ lang = 'en' }: ShoppingCartProps) {
                     textDecoration: 'none',
                     fontSize: '16px',
                     cursor: 'pointer',
-                    boxShadow: '0 4px 14px rgba(0, 119, 182, 0.4)',
+                    boxShadow: '0 4px 14px rgba(227, 27, 35, 0.35)',
                     transition: 'all 0.3s ease'
                   }}
                 >
@@ -494,7 +494,7 @@ export default function ShoppingCart({ lang = 'en' }: ShoppingCartProps) {
                   alignItems: 'center',
                   gap: '10px'
                 }}>
-                  <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#0077b6" strokeWidth="2">
+                  <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="var(--accent-primary)" strokeWidth="2">
                     <path d="M14 18V6a2 2 0 0 0-2-2H4a2 2 0 0 0-2 2v11a1 1 0 0 0 1 1h2"></path>
                     <path d="M15 18H9"></path>
                     <path d="M19 18h2a1 1 0 0 0 1-1v-3.65a1 1 0 0 0-.22-.624l-3.48-4.35A1 1 0 0 0 17.52 8H14"></path>
@@ -515,21 +515,21 @@ export default function ShoppingCart({ lang = 'en' }: ShoppingCartProps) {
                     <div style={{ fontWeight: '600', color: '#1e293b', fontSize: '14px' }}>{t(lang, 'cart.standardDelivery')}</div>
                     <div style={{ color: '#64748b', fontSize: '13px' }}>{t(lang, 'cart.standardDeliveryTime')}</div>
                   </div>
-                  <div style={{ fontWeight: '700', color: '#0077b6' }}>{formatPrice(5.99, currency)}</div>
+                  <div style={{ fontWeight: '700', color: 'var(--accent-primary)' }}>{formatPrice(5.99, currency)}</div>
                 </div>
                 <div style={{ 
                   display: 'flex', 
                   justifyContent: 'space-between',
                   padding: '12px',
-                  background: 'linear-gradient(135deg, rgba(0, 119, 182, 0.05), rgba(0, 150, 199, 0.05))',
+                  background: 'linear-gradient(135deg, rgba(227, 27, 35, 0.05), rgba(227, 27, 35, 0.02))',
                   borderRadius: '8px',
-                  border: '1px solid rgba(0, 119, 182, 0.15)'
+                  border: '1px solid rgba(227, 27, 35, 0.18)'
                 }}>
                   <div>
                     <div style={{ fontWeight: '600', color: '#1e293b', fontSize: '14px', display: 'flex', alignItems: 'center', gap: '6px' }}>
                       {t(lang, 'cart.expressDelivery')}
                       <span style={{ 
-                        background: '#0077b6', 
+                        background: 'var(--btn-primary-start)', 
                         color: 'white', 
                         padding: '2px 8px', 
                         borderRadius: '10px',
@@ -539,7 +539,7 @@ export default function ShoppingCart({ lang = 'en' }: ShoppingCartProps) {
                     </div>
                     <div style={{ color: '#64748b', fontSize: '13px' }}>{t(lang, 'cart.expressDeliveryTime')}</div>
                   </div>
-                  <div style={{ fontWeight: '700', color: '#0077b6' }}>{formatPrice(12.99, currency)}</div>
+                  <div style={{ fontWeight: '700', color: 'var(--accent-primary)' }}>{formatPrice(12.99, currency)}</div>
                 </div>
                 {/* Free delivery note */}
                 <div style={{ 
@@ -574,7 +574,7 @@ export default function ShoppingCart({ lang = 'en' }: ShoppingCartProps) {
                   padding: '16px 12px', 
                   textAlign: 'center'
                 }}>
-                  <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#0077b6" strokeWidth="2" style={{ marginBottom: '8px' }}>
+                  <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="var(--accent-primary)" strokeWidth="2" style={{ marginBottom: '8px' }}>
                     <path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"></path>
                   </svg>
                   <div style={{ color: '#1e293b', fontWeight: '600', fontSize: '11px' }}>{t(lang, 'cart.secureBadge')}</div>

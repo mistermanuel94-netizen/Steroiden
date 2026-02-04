@@ -1,11 +1,11 @@
 ---
 lang: nl
-email: "peptideshop@zohomail.com"
+email: "Best-Peptides@zohomail.com"
 telegram: "@Nebelzee"
 country: "Nederland"
 countryCode: "NL"
 currency: "EUR"
-currencySymbol: "€"
+currencySymbol: "â‚¬"
 seo:
   homeName: "Peptides Kopen Nederland | BPC 157, Semaglutide & Meer"
   homeDescription: "Peptides kopen Nederland - Premium onderzoekspeptiden met 99% HPLC zuiverheid. BPC 157, Semaglutide, Tirzepatide, GHK-Cu & meer. Snelle levering, COA inbegrepen. Peptiden online kopen."
@@ -33,8 +33,8 @@ seo:
       volume: 880
     - keyword: "melanotan 2 kopen"
       volume: 720
-  shopTitle: "Peptide Shop Nederland | Onderzoekspeptiden Kopen Online"
+  shopTitle: "Best-Peptides Nederland | Onderzoekspeptiden Kopen Online"
   shopDescription: "Peptides kopen Nederland - BPC 157, Semaglutide, GHK-Cu, Tirzepatide & meer. 99% HPLC zuiverheid, COA inbegrepen, snelle levering."
-  aboutTitle: "Over Peptide Shop | Betrouwbare Peptiden Leverancier Nederland"
-  aboutDescription: "Leer meer over Peptide Shop Nederland. Premium onderzoekspeptiden met 99% HPLC zuiverheid. BPC 157 kopen, Semaglutide & meer. Vertrouwd door 5000+ onderzoekers."
+  aboutTitle: "Over Best-Peptides | Betrouwbare Peptiden Leverancier Nederland"
+  aboutDescription: "Leer meer over Best-Peptides Nederland. Premium onderzoekspeptiden met 99% HPLC zuiverheid. BPC 157 kopen, Semaglutide & meer. Vertrouwd door 5000+ onderzoekers."
 ---

@@ -118,7 +118,7 @@ const articleSchema = {
   },
   "publisher": {
     "@type": "Organization",
-    "name": "Peptide Shop",
+    "name": "Best-Peptides",
     "logo": {
       "@type": "ImageObject",
       "url": "https://peptide-shop.net/images/logo.png"
@@ -592,7 +592,7 @@ const canonicalUrl = currentLang === 'en'
 
   /* Hero Section */
   .post-hero {
-    background: linear-gradient(135deg, #023e8a 0%, #0077b6 50%, #00b4d8 100%);
+    background: linear-gradient(135deg, var(--btn-primary-end) 0%, var(--btn-primary-start) 50%, var(--btn-primary-end) 100%);
     padding: 4rem 0 3rem;
     position: relative;
     overflow: hidden;
@@ -779,7 +779,7 @@ const canonicalUrl = currentLang === 'en'
     border-bottom: 2px solid #f1f5f9;
   }
 
-  .sidebar-title svg { color: #0077b6; }
+  .sidebar-title svg { color: var(--accent-primary); }
 
   /* TOC */
   .toc-nav {
@@ -799,8 +799,8 @@ const canonicalUrl = currentLang === 'en'
     line-height: 1.4;
   }
 
-  .toc-link:hover { color: #0077b6; }
-  .toc-link.active { color: #0077b6; border-left-color: #0077b6; font-weight: 500; }
+  .toc-link:hover { color: var(--accent-primary); }
+  .toc-link.active { color: var(--accent-primary); border-left-color: var(--accent-primary); font-weight: 500; }
   .toc-link.depth-3 { padding-left: 1.5rem; font-size: 0.8125rem; }
 
   /* Share */
@@ -849,7 +849,7 @@ const canonicalUrl = currentLang === 'en'
     transition: color 0.2s;
   }
 
-  .product-link:hover { color: #0077b6; }
+  .product-link:hover { color: var(--accent-primary); }
   .product-link:last-child { border-bottom: none; }
 
   .view-all-btn {
@@ -859,7 +859,7 @@ const canonicalUrl = currentLang === 'en'
     gap: 0.5rem;
     width: 100%;
     padding: 0.75rem;
-    background: linear-gradient(135deg, #0077b6, #00b4d8);
+    background: linear-gradient(135deg, var(--btn-primary-start), var(--btn-primary-end));
     color: white;
     border-radius: 8px;
     text-decoration: none;
@@ -868,7 +868,7 @@ const canonicalUrl = currentLang === 'en'
     transition: all 0.3s;
   }
 
-  .view-all-btn:hover { transform: translateY(-2px); box-shadow: 0 4px 12px rgba(0, 119, 182, 0.3); color: white; }
+  .view-all-btn:hover { transform: translateY(-2px); box-shadow: 0 4px 12px rgba(227, 27, 35, 0.3); color: white; }
 
   /* Article Content */
   .article-content {
@@ -885,7 +885,7 @@ const canonicalUrl = currentLang === 'en'
   .prose :global(h2) {
     font-size: 1.625rem;
     font-weight: 700;
-    color: #023e8a;
+    color: var(--text-primary);
     margin: 2.5rem 0 1rem;
     padding-bottom: 0.5rem;
     border-bottom: 2px solid #e2e8f0;
@@ -896,7 +896,7 @@ const canonicalUrl = currentLang === 'en'
   .prose :global(h3) {
     font-size: 1.25rem;
     font-weight: 600;
-    color: #0077b6;
+    color: var(--accent-primary);
     margin: 2rem 0 0.75rem;
   }
 
@@ -921,17 +921,17 @@ const canonicalUrl = currentLang === 'en'
   .prose :global(strong) { color: #1e293b; }
 
   .prose :global(a) {
-    color: #0077b6;
+    color: var(--accent-primary);
     text-decoration: underline;
     text-decoration-thickness: 1px;
     text-underline-offset: 2px;
     transition: color 0.2s;
   }
 
-  .prose :global(a:hover) { color: #023e8a; }
+  .prose :global(a:hover) { color: var(--btn-primary-end); }
 
   .prose :global(blockquote) {
-    border-left: 4px solid #0077b6;
+    border-left: 4px solid var(--accent-primary);
     padding: 1rem 1.5rem;
     margin: 1.5rem 0;
     background: #f8fafc;
@@ -989,8 +989,8 @@ const canonicalUrl = currentLang === 'en'
   }
 
   .tag {
-    background: #e8f4fd;
-    color: #0077b6;
+    background: rgba(227, 27, 35, 0.1);
+    color: var(--accent-primary);
     padding: 0.375rem 0.875rem;
     border-radius: 50px;
     font-size: 0.8125rem;
@@ -1012,7 +1012,7 @@ const canonicalUrl = currentLang === 'en'
     width: 72px;
     height: 72px;
     border-radius: 50%;
-    background: linear-gradient(135deg, #0077b6, #00b4d8);
+    background: linear-gradient(135deg, var(--btn-primary-start), var(--btn-primary-end));
     color: white;
     display: flex;
     align-items: center;
@@ -1054,7 +1054,7 @@ const canonicalUrl = currentLang === 'en'
     margin: 0;
   }
 
-  .section-title svg { color: #0077b6; }
+  .section-title svg { color: var(--accent-primary); }
 
   .related-grid {
     display: grid;
@@ -1102,7 +1102,7 @@ const canonicalUrl = currentLang === 'en'
   .related-content { padding: 1.25rem; }
 
   .related-category {
-    color: #0077b6;
+    color: var(--accent-primary);
     font-size: 0.75rem;
     font-weight: 600;
     text-transform: uppercase;
@@ -1123,7 +1123,7 @@ const canonicalUrl = currentLang === 'en'
     transition: color 0.2s;
   }
 
-  .related-title a:hover { color: #0077b6; }
+  .related-title a:hover { color: var(--accent-primary); }
 
   .related-meta { font-size: 0.8125rem; color: #94a3b8; }
 
@@ -1155,18 +1155,18 @@ const canonicalUrl = currentLang === 'en'
     width: 56px;
     height: 56px;
     border-radius: 12px;
-    background: linear-gradient(135deg, #e8f4fd, #d1e9f6);
+    background: rgba(227, 27, 35, 0.1);
     display: flex;
     align-items: center;
     justify-content: center;
-    color: #0077b6;
+    color: var(--accent-primary);
     flex-shrink: 0;
   }
 
   .more-content { flex: 1; min-width: 0; }
 
   .more-category {
-    color: #0077b6;
+    color: var(--accent-primary);
     font-size: 0.75rem;
     font-weight: 600;
     text-transform: uppercase;
@@ -1187,7 +1187,7 @@ const canonicalUrl = currentLang === 'en'
     transition: color 0.2s;
   }
 
-  .more-title a:hover { color: #0077b6; }
+  .more-title a:hover { color: var(--accent-primary); }
 
   .more-excerpt {
     color: #64748b;
@@ -1204,7 +1204,7 @@ const canonicalUrl = currentLang === 'en'
     display: inline-flex;
     align-items: center;
     gap: 0.375rem;
-    color: #0077b6;
+    color: var(--accent-primary);
     font-size: 0.875rem;
     font-weight: 600;
     text-decoration: none;
@@ -1224,7 +1224,7 @@ const canonicalUrl = currentLang === 'en'
     align-items: center;
     gap: 0.625rem;
     background: white;
-    color: #0077b6;
+    color: var(--accent-primary);
     padding: 1rem 2rem;
     border-radius: 50px;
     font-weight: 600;
@@ -1236,7 +1236,7 @@ const canonicalUrl = currentLang === 'en'
   .back-btn:hover {
     transform: translateX(-4px);
     box-shadow: 0 8px 20px rgba(0, 0, 0, 0.12);
-    color: #023e8a;
+    color: var(--btn-primary-end);
   }
 
   /* Responsive */

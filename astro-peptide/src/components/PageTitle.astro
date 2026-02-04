@@ -133,7 +133,7 @@ const {
 
   /* Dark variant (default) - blue gradient with white text */
   .page-title-section.dark {
-    background: linear-gradient(135deg, #023e8a 0%, #0077b6 100%);
+	background: linear-gradient(135deg, var(--btn-primary-end) 0%, var(--btn-primary-start) 100%);
   }
   
   .page-title-section.dark .breadcrumb-item {
@@ -186,7 +186,7 @@ const {
   }
   
   .page-title-section.light .breadcrumb-item a:hover {
-    color: #0077b6 !important;
+	color: var(--accent-primary) !important;
   }
   
   .page-title-section.light .breadcrumb-item.active {

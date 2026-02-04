@@ -53,7 +53,7 @@ const categoryTitle = t(lang, `nav.${categoryKey}` as any) || category;
 
 // SEO Construction (Basic Localization)
 // Ideally these should be in translations.ts, but for now we construct them or default to English structure with translated keywords if available
-const metaTitle = `${t(lang, 'product.buyNow')} ${categoryTitle} | Peptide Shop`;
+const metaTitle = `${t(lang, 'product.buyNow')} ${categoryTitle} | Best-Peptides`;
 const metaDescription = `${t(lang, 'product.buyNow')} ${categoryTitle}. ${t(lang, 'home.heroSubtitle')}`;
 const productCount = filteredProducts.length;
 
@@ -115,7 +115,7 @@ const localizedCategorySlug = translateCategorySlug(category, lang);
             <span class="stat-label">{t(lang, 'cart.items')}</span>
           </div>
           <div class="stat-card">
-            <span class="stat-number">≥99%</span>
+            <span class="stat-number">â‰¥99%</span>
             <span class="stat-label">{t(lang, 'product.purity')}</span>
           </div>
           <div class="stat-card">
@@ -212,7 +212,7 @@ const localizedCategorySlug = translateCategorySlug(category, lang);
     }
 
     .breadcrumb-list a:hover {
-      color: #0077b6;
+      color: var(--accent-primary);
     }
 
     .breadcrumb-list .current {
@@ -260,7 +260,7 @@ const localizedCategorySlug = translateCategorySlug(category, lang);
       align-items: center;
       gap: 6px;
       background: white;
-      color: #0077b6;
+      color: var(--accent-primary);
       padding: 8px 16px;
       border-radius: 50px;
       font-size: 13px;
@@ -270,7 +270,7 @@ const localizedCategorySlug = translateCategorySlug(category, lang);
     }
 
     .trust-badge svg {
-      color: #0077b6;
+      color: var(--accent-primary);
     }
 
     .hero-stats {
@@ -292,7 +292,7 @@ const localizedCategorySlug = translateCategorySlug(category, lang);
       display: block;
       font-size: 1.75rem;
       font-weight: 800;
-      color: #0077b6;
+      color: var(--accent-primary);
       line-height: 1;
       margin-bottom: 4px;
     }

@@ -4,7 +4,7 @@ page: category-supplies
 copy:
   title: "Research Supplies"
   h1: "Buy Peptide Research Supplies UK & Europe"
-  metaTitle: "Buy Bacteriostatic Water UK | Peptide Supplies | Peptide Shop"
+  metaTitle: "Buy Bacteriostatic Water UK | Peptide Supplies | Best-Peptides"
   metaDescription: "Buy bacteriostatic water UK & Europe. USP grade peptide reconstitution supplies. Sterile vials, fast UK & EU delivery."
   primaryKeyword: "buy bacteriostatic water uk"
   searchVolume: "5400"

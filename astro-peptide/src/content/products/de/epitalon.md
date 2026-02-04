@@ -8,124 +8,124 @@ urlPath: "/de/peptides/epitalon-kaufen"
 aliases: ["Epithalon", "Epithalone", "AEDG Peptid"]
 cas: "307297-39-8"
 molecular_weight: "390.3 g/mol"
-purity: "≥ 99%"
-storage: "-20°C empfohlen (nur für Forschung)"
-package_sizes: ["10 × 10 mg Fläschchen"]
+purity: "â‰¥ 99%"
+storage: "-20Â°C empfohlen (nur fÃ¼r Forschung)"
+package_sizes: ["10 Ã— 10 mg FlÃ¤schchen"]
 moq: 200
 price: 200
-price_range: "€200 pro Packung"
+price_range: "â‚¬200 pro Packung"
 coa_url: "/coa/epitalon.pdf"
-short_description: "Epitalon kaufen. Telomerase-aktivierendes Peptid für Langlebigkeitsforschung. ≥99% Reinheit. Schnelle Lieferung in DE & EU."
+short_description: "Epitalon kaufen. Telomerase-aktivierendes Peptid fÃ¼r Langlebigkeitsforschung. â‰¥99% Reinheit. Schnelle Lieferung in DE & EU."
 category: "cognitive"
 tags: ["research-peptide", "epitalon-de", "longevity", "peptide-kaufen-de", "cognitive", "telomerase"]
 images: ["/images/products/epitalon.png"]
 meta:
   title: "Epitalon Kaufen | Langlebigkeitspeptid | Schnelle Lieferung"
-  description: "Epitalon kaufen. Premium Telomerase-Peptid für Forschung. ≥99% Reinheit, COA inklusive. Schnelle Lieferung in DE & EU."
+  description: "Epitalon kaufen. Premium Telomerase-Peptid fÃ¼r Forschung. â‰¥99% Reinheit, COA inklusive. Schnelle Lieferung in DE & EU."
 faqs:
-  - question: "Wofür wird Epitalon in der Forschung verwendet?"
-    answer: "Epitalon wird zur Telomerase-Aktivierung, zellulären Alterung, Melatonin-Regulierung und Langlebigkeitsmechanismen untersucht. Es wurde aus der Zirbeldrüsenforschung entwickelt."
+  - question: "WofÃ¼r wird Epitalon in der Forschung verwendet?"
+    answer: "Epitalon wird zur Telomerase-Aktivierung, zellulÃ¤ren Alterung, Melatonin-Regulierung und Langlebigkeitsmechanismen untersucht. Es wurde aus der ZirbeldrÃ¼senforschung entwickelt."
   - question: "Wie wirkt Epitalon?"
-    answer: "Epitalon aktiviert Berichten zufolge Telomerase, das Enzym, das die Telomerlänge erhält. Es kann auch die Melatonin-Synthese und zirkadiane Rhythmen beeinflussen."
+    answer: "Epitalon aktiviert Berichten zufolge Telomerase, das Enzym, das die TelomerlÃ¤nge erhÃ¤lt. Es kann auch die Melatonin-Synthese und zirkadiane Rhythmen beeinflussen."
   - question: "Was ist der Ursprung von Epitalon?"
-    answer: "Epitalon ist ein synthetisches Tetrapeptid basierend auf Epithalamin, einem Zirbeldrüsenextrakt, das von russischen Forschern wegen seiner Anti-Aging-Eigenschaften untersucht wurde."
+    answer: "Epitalon ist ein synthetisches Tetrapeptid basierend auf Epithalamin, einem ZirbeldrÃ¼senextrakt, das von russischen Forschern wegen seiner Anti-Aging-Eigenschaften untersucht wurde."
   - question: "Wie sollte Epitalon gelagert werden?"
-    answer: "Lagern Sie lyophilisiertes Epitalon bei -20°C. Nach der Rekonstitution bei 2-8°C aufbewahren und innerhalb von 4 Wochen verwenden."
+    answer: "Lagern Sie lyophilisiertes Epitalon bei -20Â°C. Nach der Rekonstitution bei 2-8Â°C aufbewahren und innerhalb von 4 Wochen verwenden."
   - question: "Welche Reinheit hat Ihr Epitalon?"
-    answer: "Unser Epitalon ist ≥99% rein, wie durch HPLC verifiziert. Jede Charge enthält ein Analysezertifikat."
+    answer: "Unser Epitalon ist â‰¥99% rein, wie durch HPLC verifiziert. Jede Charge enthÃ¤lt ein Analysezertifikat."
   - question: "Was sind Telomere?"
-    answer: "Telomere sind schützende DNA-Kappen an den Enden der Chromosomen, die sich bei jeder Zellteilung verkürzen. Telomerase kann sie verlängern."
+    answer: "Telomere sind schÃ¼tzende DNA-Kappen an den Enden der Chromosomen, die sich bei jeder Zellteilung verkÃ¼rzen. Telomerase kann sie verlÃ¤ngern."
   - question: "Wie rekonstituiere ich Epitalon?"
-    answer: "Rekonstituieren Sie in sterilem bakteriostatischem Wasser. Fügen Sie das Lösungsmittel langsam hinzu und schwenken Sie vorsichtig zum Auflösen."
-  - question: "Welche Größen sind verfügbar?"
-    answer: "Epitalon ist in 10mg, 20mg und 50mg Fläschchen erhältlich."
+    answer: "Rekonstituieren Sie in sterilem bakteriostatischem Wasser. FÃ¼gen Sie das LÃ¶sungsmittel langsam hinzu und schwenken Sie vorsichtig zum AuflÃ¶sen."
+  - question: "Welche GrÃ¶ÃŸen sind verfÃ¼gbar?"
+    answer: "Epitalon ist in 10mg, 20mg und 50mg FlÃ¤schchen erhÃ¤ltlich."
 reviews:
   - author: "Dr. Wilhelm Bauer"
     rating: 5
     date: "2024-12-10"
-    title: "Essentiell für Langlebigkeitsforschung"
-    content: "Unsere Telomer-Studien hängen von qualitativ hochwertigem Epitalon ab. Peptide Shop liefert außergewöhnliche Reinheit."
+    title: "Essentiell fÃ¼r Langlebigkeitsforschung"
+    content: "Unsere Telomer-Studien hÃ¤ngen von qualitativ hochwertigem Epitalon ab. Best-Peptides liefert auÃŸergewÃ¶hnliche Reinheit."
     verified: true
-  - author: "München Alterungsforschungslabor"
+  - author: "MÃ¼nchen Alterungsforschungslabor"
     rating: 5
     date: "2024-12-03"
-    title: "Premium Qualität"
+    title: "Premium QualitÃ¤t"
     content: "Telomerase-Aktivierungseffekte in unseren Assays deutlich beobachtbar."
     verified: true
-  - author: "Thomas Müller"
+  - author: "Thomas MÃ¼ller"
     rating: 5
     date: "2024-11-26"
     title: "Ausgezeichnetes Produkt"
-    content: "Schnelle Lieferung, ausgezeichnete Qualität. Zelluläre Alterungsforschung macht gute Fortschritte."
+    content: "Schnelle Lieferung, ausgezeichnete QualitÃ¤t. ZellulÃ¤re Alterungsforschung macht gute Fortschritte."
     verified: true
   - author: "Berlin Langlebigkeitslabor"
     rating: 5
     date: "2024-11-19"
-    title: "Zuverlässiger Lieferant"
-    content: "Konstante Qualität für unsere Zirbeldrüsenforschung."
+    title: "ZuverlÃ¤ssiger Lieferant"
+    content: "Konstante QualitÃ¤t fÃ¼r unsere ZirbeldrÃ¼senforschung."
     verified: true
   - author: "Dr. Helga Fischer"
     rating: 5
     date: "2024-11-12"
     title: "Hervorragende Reinheit"
-    content: "Reinheitsverifizierung bestätigt ausgezeichnete Qualität. Unverzichtbar für unsere Forschung."
+    content: "Reinheitsverifizierung bestÃ¤tigt ausgezeichnete QualitÃ¤t. Unverzichtbar fÃ¼r unsere Forschung."
     verified: true
   - author: "Frankfurt Telomerlabor"
     rating: 5
     date: "2024-11-05"
     title: "Ausgezeichneter Service"
-    content: "Schnelle Lieferung, großartige Qualität für Alterungsstudien."
+    content: "Schnelle Lieferung, groÃŸartige QualitÃ¤t fÃ¼r Alterungsstudien."
     verified: true
   - author: "Anna Schneider"
     rating: 5
     date: "2024-10-29"
     title: "Schnelle Lieferung"
-    content: "Expresslieferung war prompt. Qualität ausgezeichnet."
+    content: "Expresslieferung war prompt. QualitÃ¤t ausgezeichnet."
     verified: true
   - author: "Heidelberg Gerontologie-Labor"
     rating: 5
     date: "2024-10-22"
     title: "Sehr gut"
-    content: "Qualität ist ausgezeichnet für Melatonin-Forschung."
+    content: "QualitÃ¤t ist ausgezeichnet fÃ¼r Melatonin-Forschung."
     verified: true
 ---
 
 ## Was ist Epitalon?
 
-**Epitalon** (Epithalon, AEDG-Peptid) ist ein synthetisches Tetrapeptid basierend auf Epithalamin, einem Zirbeldrüsenextrakt, das umfassend auf seine Wirkung auf die Telomerase-Aktivierung und zelluläre Alterung untersucht wurde. Entwickelt aus jahrzehntelanger russischer Forschung, ist Epitalon zu einem wichtigen Werkzeug in der Langlebigkeits- und Anti-Aging-Forschung geworden.
+**Epitalon** (Epithalon, AEDG-Peptid) ist ein synthetisches Tetrapeptid basierend auf Epithalamin, einem ZirbeldrÃ¼senextrakt, das umfassend auf seine Wirkung auf die Telomerase-Aktivierung und zellulÃ¤re Alterung untersucht wurde. Entwickelt aus jahrzehntelanger russischer Forschung, ist Epitalon zu einem wichtigen Werkzeug in der Langlebigkeits- und Anti-Aging-Forschung geworden.
 
-Das primäre Interesse an dem Peptid liegt in seiner berichteten Fähigkeit, Telomerase zu aktivieren, was möglicherweise die zelluläre Lebensdauer und altersbedingte Veränderungen beeinflusst.
+Das primÃ¤re Interesse an dem Peptid liegt in seiner berichteten FÃ¤higkeit, Telomerase zu aktivieren, was mÃ¶glicherweise die zellulÃ¤re Lebensdauer und altersbedingte VerÃ¤nderungen beeinflusst.
 
-Peptide Shop liefert **forschungsreines Epitalon** mit garantierter ≥99% Reinheit.
+Best-Peptides liefert **forschungsreines Epitalon** mit garantierter â‰¥99% Reinheit.
 
 ## Wie wirkt Epitalon?
 
 ### Telomerase-Aktivierung
 - **hTERT-Expression** - Enzymaktivierung
-- **Telomerverlängerung** - Längenerhaltung
-- **Zelluläre Lebensdauer** - Teilungskapazität
+- **TelomerverlÃ¤ngerung** - LÃ¤ngenerhaltung
+- **ZellulÃ¤re Lebensdauer** - TeilungskapazitÃ¤t
 
-### Zirbeldrüsenfunktion
+### ZirbeldrÃ¼senfunktion
 - **Melatonin-Synthese** - Hormonproduktion
 - **Zirkadianer Rhythmus** - Schlaf-Wach-Zyklen
-- **Antioxidative Wirkung** - Zellulärer Schutz
+- **Antioxidative Wirkung** - ZellulÃ¤rer Schutz
 
 ### Genexpression
 - **Langlebigkeitsgene** - Expressionsmodulation
 - **Reparaturwege** - DNA-Erhaltung
-- **Stressreaktion** - Zelluläre Anpassung
+- **Stressreaktion** - ZellulÃ¤re Anpassung
 
 ## Forschungsanwendungen
 
 ### Alterungsforschung
-- **Telomerbiologie** - Längendynamik
-- **Zelluläre Seneszenz** - Alterungsmechanismen
+- **Telomerbiologie** - LÃ¤ngendynamik
+- **ZellulÃ¤re Seneszenz** - Alterungsmechanismen
 - **Lebensdauerstudien** - Langlebigkeitsfaktoren
 
 ### Zirkadiane Forschung
 - **Melatonin** - Syntheseregulierung
 - **Schlafmuster** - Rhythmuseffekte
-- **Zirbeldrüsenfunktion** - Drüsenbiologie
+- **ZirbeldrÃ¼senfunktion** - DrÃ¼senbiologie
 
 ## Epitalon Spezifikationen
 
@@ -135,26 +135,26 @@ Peptide Shop liefert **forschungsreines Epitalon** mit garantierter ≥99% Reinh
 | **Molekularformel** | C14H22N4O9 |
 | **Molekulargewicht** | 390.3 g/mol |
 | **Sequenz** | Ala-Glu-Asp-Gly |
-| **Reinheit** | ≥99% (HPLC) |
-| **Erscheinungsbild** | Weißes lyophilisiertes Pulver |
+| **Reinheit** | â‰¥99% (HPLC) |
+| **Erscheinungsbild** | WeiÃŸes lyophilisiertes Pulver |
 
 ## Lagerung
 
 | Zustand | Temperatur | Dauer |
 |---------|------------|-------|
-| **Lyophilisiert** | -20°C | Bis zu 24 Monate |
-| **Rekonstituiert** | 2-8°C | Bis zu 4 Wochen |
+| **Lyophilisiert** | -20Â°C | Bis zu 24 Monate |
+| **Rekonstituiert** | 2-8Â°C | Bis zu 4 Wochen |
 
 ## Bestellinformationen
 
-| Größe | Preis |
+| GrÃ¶ÃŸe | Preis |
 |-------|-------|
-| **10 mg** | Ab €50 |
-| **20 mg** | Ab €92 |
-| **50 mg** | Ab €190 |
+| **10 mg** | Ab â‚¬50 |
+| **20 mg** | Ab â‚¬92 |
+| **50 mg** | Ab â‚¬190 |
 
-**Mindestbestellung: €200** | **10% Rabatt auf Bestellungen über €200**
+**Mindestbestellung: â‚¬200** | **10% Rabatt auf Bestellungen Ã¼ber â‚¬200**
 
-## Erklärung zur Forschungsverwendung
+## ErklÃ¤rung zur Forschungsverwendung
 
-**Nur für Laborforschung.** Nicht für den menschlichen oder veterinärmedizinischen Gebrauch bestimmt.
+**Nur fÃ¼r Laborforschung.** Nicht fÃ¼r den menschlichen oder veterinÃ¤rmedizinischen Gebrauch bestimmt.

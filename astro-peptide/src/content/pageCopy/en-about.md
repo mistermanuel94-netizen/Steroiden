@@ -2,11 +2,11 @@
 lang: en
 page: about
 seo:
-  title: "About Peptide Shop UK | Trusted Research Peptide Supplier"
-  description: "Learn about Peptide Shop UK - the best place to buy research peptides. 99% HPLC purity, comprehensive COA, same-day dispatch. Trusted by 5000+ researchers across UK & Europe."
+  title: "About Best-Peptides UK | Trusted Research Peptide Supplier"
+  description: "Learn about Best-Peptides UK - the best place to buy research peptides. 99% HPLC purity, comprehensive COA, same-day dispatch. Trusted by 5000+ researchers across UK & Europe."
   primaryKeyword: "buy peptides uk"
 copy:
-  title: "About Peptide Shop"
+  title: "About Best-Peptides"
   subtitle: "Leading European supplier of premium research peptides with verified purity and complete transparency."
   sections:
     excellence: "Commitment to Scientific Excellence"
@@ -18,9 +18,9 @@ copy:
     quality: "In an industry often plagued by opacity, we stand apart by providing comprehensive analytical data for every batch. We don't just claim purity; we prove it."
   features:
     hplc: "HPLC Analysis"
-    hplcSubtitle: "To verify purity ≥99%"
+    hplcSubtitle: "To verify purity â‰¥99%"
     massSpec: "Mass Spectrometry"
     massSpecSubtitle: "To confirm molecular identity"
     storage: "Strict Storage"
-    storageSubtitle: "All inventory at -20°C"
+    storageSubtitle: "All inventory at -20Â°C"
 ---

@@ -8,35 +8,35 @@ urlPath: "/fr/peptides/acheter-semax"
 aliases: ["Semax", "Analogue ACTH 4-10"]
 cas: "80714-61-0"
 molecular_weight: "813.9 g/mol"
-purity: "≥ 99%"
-storage: "-20°C recommandé (recherche uniquement)"
-package_sizes: ["10 × 5 mg flacons"]
+purity: "â‰¥ 99%"
+storage: "-20Â°C recommandÃ© (recherche uniquement)"
+package_sizes: ["10 Ã— 5 mg flacons"]
 moq: 200
 price: 260
-price_range: "€260 par paquet"
+price_range: "â‚¬260 par paquet"
 coa_url: "/coa/semax.pdf"
-short_description: "Acheter Semax France. Peptide nootropique pour recherche cognitive. ≥99% pureté. Livraison rapide en France."
+short_description: "Acheter Semax France. Peptide nootropique pour recherche cognitive. â‰¥99% puretÃ©. Livraison rapide en France."
 category: "cognitive"
 tags: ["research-peptide", "semax-fr", "nootropique", "acheter-peptides", "cognitif", "neuroprotection"]
 images: ["/images/products/semax.png"]
 meta:
   title: "Acheter Semax | Peptide Cognitif | Livraison Rapide"
-  description: "Acheter Semax France. Peptide nootropique premium pour recherche. ≥99% pureté, COA inclus. Livraison rapide."
+  description: "Acheter Semax France. Peptide nootropique premium pour recherche. â‰¥99% puretÃ©, COA inclus. Livraison rapide."
 faqs:
-  - question: "À quoi sert Semax dans la recherche ?"
-    answer: "Semax est étudié pour l'amélioration cognitive, la neuroprotection, la modulation du BDNF et la régulation des neurotransmetteurs. Il est basé sur l'ACTH(4-10)."
+  - question: "Ã€ quoi sert Semax dans la recherche ?"
+    answer: "Semax est Ã©tudiÃ© pour l'amÃ©lioration cognitive, la neuroprotection, la modulation du BDNF et la rÃ©gulation des neurotransmetteurs. Il est basÃ© sur l'ACTH(4-10)."
   - question: "Comment fonctionne Semax ?"
-    answer: "Semax module les neurotrophines (BDNF, NGF), influence la dopamine et la sérotonine, et affecte l'expression génique liée à la neuroplasticité."
-  - question: "Quelle est la différence entre Semax et Selank ?"
-    answer: "Semax se concentre sur l'amélioration cognitive et la neuroprotection ; Selank est plus anxiolytique. Semax est basé sur l'ACTH ; Selank sur la tuftsin."
+    answer: "Semax module les neurotrophines (BDNF, NGF), influence la dopamine et la sÃ©rotonine, et affecte l'expression gÃ©nique liÃ©e Ã  la neuroplasticitÃ©."
+  - question: "Quelle est la diffÃ©rence entre Semax et Selank ?"
+    answer: "Semax se concentre sur l'amÃ©lioration cognitive et la neuroprotection ; Selank est plus anxiolytique. Semax est basÃ© sur l'ACTH ; Selank sur la tuftsin."
   - question: "Comment conserver Semax ?"
-    answer: "Conservez Semax lyophilisé à -20°C. Une fois reconstitué, gardez à 2-8°C et utilisez dans les 3-4 semaines."
-  - question: "Quelle est la pureté de votre Semax ?"
-    answer: "Notre Semax a une pureté ≥99% vérifiée par HPLC. Chaque lot comprend un Certificat d'Analyse."
+    answer: "Conservez Semax lyophilisÃ© Ã  -20Â°C. Une fois reconstituÃ©, gardez Ã  2-8Â°C et utilisez dans les 3-4 semaines."
+  - question: "Quelle est la puretÃ© de votre Semax ?"
+    answer: "Notre Semax a une puretÃ© â‰¥99% vÃ©rifiÃ©e par HPLC. Chaque lot comprend un Certificat d'Analyse."
   - question: "Qu'est-ce que le BDNF ?"
-    answer: "Le BDNF (Brain-Derived Neurotrophic Factor) est crucial pour la neuroplasticité, l'apprentissage et la mémoire. Semax augmenterait l'expression du BDNF."
+    answer: "Le BDNF (Brain-Derived Neurotrophic Factor) est crucial pour la neuroplasticitÃ©, l'apprentissage et la mÃ©moire. Semax augmenterait l'expression du BDNF."
   - question: "Comment reconstituer Semax ?"
-    answer: "Reconstituez dans de l'eau bactériostatique stérile. Ajoutez le solvant lentement et agitez doucement pour dissoudre."
+    answer: "Reconstituez dans de l'eau bactÃ©riostatique stÃ©rile. Ajoutez le solvant lentement et agitez doucement pour dissoudre."
   - question: "Quelles tailles sont disponibles ?"
     answer: "Semax est disponible en flacons de 5mg, 10mg et 30mg."
 reviews:
@@ -44,157 +44,157 @@ reviews:
     rating: 5
     date: "2024-12-11"
     title: "Essentiel pour la recherche cognitive"
-    content: "Nos études BDNF dépendent d'un Semax de qualité. Peptide Shop offre une pureté exceptionnelle."
+    content: "Nos Ã©tudes BDNF dÃ©pendent d'un Semax de qualitÃ©. Best-Peptides offre une puretÃ© exceptionnelle."
     verified: true
   - author: "Laboratoire de Cognition de Paris"
     rating: 5
     date: "2024-12-04"
-    title: "Qualité premium"
-    content: "Effets d'amélioration cognitive clairement observables dans nos modèles."
+    title: "QualitÃ© premium"
+    content: "Effets d'amÃ©lioration cognitive clairement observables dans nos modÃ¨les."
     verified: true
-  - author: "François Martin"
+  - author: "FranÃ§ois Martin"
     rating: 5
     date: "2024-11-27"
     title: "Excellent produit"
-    content: "Livraison rapide, excellente qualité. La recherche en neuroprotection progresse bien."
+    content: "Livraison rapide, excellente qualitÃ©. La recherche en neuroprotection progresse bien."
     verified: true
   - author: "Laboratoire de Neurosciences de Lyon"
     rating: 5
     date: "2024-11-20"
     title: "Fournisseur fiable"
-    content: "Qualité constante pour nos études sur les neurotrophines."
+    content: "QualitÃ© constante pour nos Ã©tudes sur les neurotrophines."
     verified: true
   - author: "Dr. Sophie Laurent"
     rating: 5
     date: "2024-11-13"
-    title: "Pureté exceptionnelle"
-    content: "La vérification de pureté confirme l'excellente qualité. Essentiel pour notre recherche."
+    title: "PuretÃ© exceptionnelle"
+    content: "La vÃ©rification de puretÃ© confirme l'excellente qualitÃ©. Essentiel pour notre recherche."
     verified: true
   - author: "Laboratoire de Neuropharmacologie de Marseille"
     rating: 5
     date: "2024-11-06"
     title: "Excellent service"
-    content: "Livraison rapide, grande qualité pour les études nootropiques."
+    content: "Livraison rapide, grande qualitÃ© pour les Ã©tudes nootropiques."
     verified: true
   - author: "Marie Leroy"
     rating: 5
     date: "2024-10-30"
     title: "Livraison rapide"
-    content: "La livraison express était rapide. Qualité excellente."
+    content: "La livraison express Ã©tait rapide. QualitÃ© excellente."
     verified: true
-  - author: "Laboratoire de Mémoire de Bordeaux"
+  - author: "Laboratoire de MÃ©moire de Bordeaux"
     rating: 5
     date: "2024-10-23"
-    title: "Très bien"
-    content: "La qualité est excellente pour la recherche sur l'apprentissage et la mémoire."
+    title: "TrÃ¨s bien"
+    content: "La qualitÃ© est excellente pour la recherche sur l'apprentissage et la mÃ©moire."
     verified: true
   - author: "Dr. Philippe Bernard"
     rating: 5
     date: "2024-10-16"
     title: "Peptide de recherche premium"
-    content: "Excellent pour les études de modulation du BDNF."
+    content: "Excellent pour les Ã©tudes de modulation du BDNF."
     verified: true
   - author: "Laboratoire de Cognition de Toulouse"
     rating: 5
     date: "2024-10-09"
-    title: "Qualité fiable"
+    title: "QualitÃ© fiable"
     content: "Plusieurs commandes, constamment excellent."
     verified: true
   - author: "Antoine Moreau"
     rating: 5
     date: "2024-10-02"
-    title: "Excellente expérience"
+    title: "Excellente expÃ©rience"
     content: "Commande facile, livraison rapide."
     verified: true
   - author: "Laboratoire de Neurosciences de Strasbourg"
     rating: 5
     date: "2024-09-25"
     title: "Excellent fournisseur"
-    content: "Semax de haute qualité avec documentation appropriée."
+    content: "Semax de haute qualitÃ© avec documentation appropriÃ©e."
     verified: true
   - author: "Dr. Catherine Petit"
     rating: 4
     date: "2024-09-18"
-    title: "Très bon produit"
-    content: "La recherche sur la neuroplasticité en bénéficie grandement."
+    title: "TrÃ¨s bon produit"
+    content: "La recherche sur la neuroplasticitÃ© en bÃ©nÃ©ficie grandement."
     verified: true
-  - author: "Laboratoire Cérébral de Nantes"
+  - author: "Laboratoire CÃ©rÃ©bral de Nantes"
     rating: 5
     date: "2024-09-11"
-    title: "Qualité premium"
-    content: "Pureté constamment élevée."
+    title: "QualitÃ© premium"
+    content: "PuretÃ© constamment Ã©levÃ©e."
     verified: true
 ---
 
 ## Qu'est-ce que Semax ?
 
-**Semax** est un heptapeptide synthétique développé en Russie, basé sur le fragment ACTH(4-10) de l'hormone adrénocorticotrope. Contrairement à l'ACTH complet, Semax n'a pas d'activité hormonale mais conserve de puissantes propriétés nootropiques et neuroprotectrices.
+**Semax** est un heptapeptide synthÃ©tique dÃ©veloppÃ© en Russie, basÃ© sur le fragment ACTH(4-10) de l'hormone adrÃ©nocorticotrope. Contrairement Ã  l'ACTH complet, Semax n'a pas d'activitÃ© hormonale mais conserve de puissantes propriÃ©tÃ©s nootropiques et neuroprotectrices.
 
-Des recherches approfondies ont démontré les effets de Semax sur la fonction cognitive, l'expression du BDNF et la neuroprotection, ce qui en fait un outil précieux pour la recherche en neurosciences.
+Des recherches approfondies ont dÃ©montrÃ© les effets de Semax sur la fonction cognitive, l'expression du BDNF et la neuroprotection, ce qui en fait un outil prÃ©cieux pour la recherche en neurosciences.
 
-Peptide Shop fournit du **Semax de qualité recherche** avec une pureté garantie ≥99%.
+Best-Peptides fournit du **Semax de qualitÃ© recherche** avec une puretÃ© garantie â‰¥99%.
 
 ## Comment Fonctionne Semax ?
 
 ### Modulation des Neurotrophines
-- **Régulation positive du BDNF** - Neuroplasticité
+- **RÃ©gulation positive du BDNF** - NeuroplasticitÃ©
 - **Effets NGF** - Croissance nerveuse
-- **Activation TrkB** - Signalisation des récepteurs
+- **Activation TrkB** - Signalisation des rÃ©cepteurs
 
 ### Effets sur les Neurotransmetteurs
-- **Modulation de la dopamine** - Motivation, récompense
-- **Effets de la sérotonine** - Régulation de l'humeur
-- **Acétylcholine** - Mémoire, apprentissage
+- **Modulation de la dopamine** - Motivation, rÃ©compense
+- **Effets de la sÃ©rotonine** - RÃ©gulation de l'humeur
+- **AcÃ©tylcholine** - MÃ©moire, apprentissage
 
-### Expression Génique
-- **Gènes précoces immédiats** - c-Fos, Arc
-- **Gènes de plasticité** - Changements synaptiques
-- **Gènes neuroprotecteurs** - Survie cellulaire
+### Expression GÃ©nique
+- **GÃ¨nes prÃ©coces immÃ©diats** - c-Fos, Arc
+- **GÃ¨nes de plasticitÃ©** - Changements synaptiques
+- **GÃ¨nes neuroprotecteurs** - Survie cellulaire
 
 ## Applications de Recherche
 
 ### Recherche Cognitive
-- **Amélioration de l'apprentissage** - Formation de la mémoire
-- **Attention** - Régulation de la concentration
-- **Fonction exécutive** - Prise de décision
+- **AmÃ©lioration de l'apprentissage** - Formation de la mÃ©moire
+- **Attention** - RÃ©gulation de la concentration
+- **Fonction exÃ©cutive** - Prise de dÃ©cision
 
 ### Neuroprotection
-- **Modèles d'AVC** - Recherche sur l'ischémie
-- **Neurodégénératif** - Modèles de maladies
+- **ModÃ¨les d'AVC** - Recherche sur l'ischÃ©mie
+- **NeurodÃ©gÃ©nÃ©ratif** - ModÃ¨les de maladies
 - **Stress oxydatif** - Protection
 
-### Neuroplasticité
+### NeuroplasticitÃ©
 - **Signalisation BDNF** - Voies des facteurs de croissance
-- **Synaptogenèse** - Nouvelles connexions
-- **Amélioration LTP** - Mécanismes de mémoire
+- **SynaptogenÃ¨se** - Nouvelles connexions
+- **AmÃ©lioration LTP** - MÃ©canismes de mÃ©moire
 
-## Spécifications Semax
+## SpÃ©cifications Semax
 
-| Spécification | Détail |
+| SpÃ©cification | DÃ©tail |
 |---------------|--------|
-| **Numéro CAS** | 80714-61-0 |
-| **Poids Moléculaire** | 813.9 g/mol |
-| **Séquence** | Met-Glu-His-Phe-Pro-Gly-Pro |
-| **Pureté** | ≥99% (HPLC) |
-| **Apparence** | Poudre lyophilisée blanche |
+| **NumÃ©ro CAS** | 80714-61-0 |
+| **Poids MolÃ©culaire** | 813.9 g/mol |
+| **SÃ©quence** | Met-Glu-His-Phe-Pro-Gly-Pro |
+| **PuretÃ©** | â‰¥99% (HPLC) |
+| **Apparence** | Poudre lyophilisÃ©e blanche |
 
 ## Stockage
 
-| Condition | Température | Durée |
+| Condition | TempÃ©rature | DurÃ©e |
 |-----------|-------------|-------|
-| **Lyophilisé** | -20°C | Jusqu'à 24 mois |
-| **Reconstitué** | 2-8°C | Jusqu'à 3-4 semaines |
+| **LyophilisÃ©** | -20Â°C | Jusqu'Ã  24 mois |
+| **ReconstituÃ©** | 2-8Â°C | Jusqu'Ã  3-4 semaines |
 
 ## Informations de Commande
 
 | Taille | Prix |
 |--------|------|
-| **5 mg** | À partir de €45 |
-| **10 mg** | À partir de €80 |
-| **30 mg** | À partir de €130 |
+| **5 mg** | Ã€ partir de â‚¬45 |
+| **10 mg** | Ã€ partir de â‚¬80 |
+| **30 mg** | Ã€ partir de â‚¬130 |
 
-**Commande minimum : €200** | **10% de réduction sur les commandes supérieures à €200**
+**Commande minimum : â‚¬200** | **10% de rÃ©duction sur les commandes supÃ©rieures Ã  â‚¬200**
 
-## Déclaration d'Utilisation pour la Recherche
+## DÃ©claration d'Utilisation pour la Recherche
 
-**Pour la recherche en laboratoire uniquement.** Non destiné à un usage humain ou vétérinaire.
+**Pour la recherche en laboratoire uniquement.** Non destinÃ© Ã  un usage humain ou vÃ©tÃ©rinaire.

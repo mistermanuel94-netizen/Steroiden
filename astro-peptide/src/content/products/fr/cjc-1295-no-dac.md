@@ -8,35 +8,35 @@ urlPath: "/fr/peptides/acheter-cjc-1295-no-dac"
 aliases: ["Mod GRF 1-29", "Modified GRF", "CJC-1295 sans DAC"]
 cas: "863288-34-0"
 molecular_weight: "3367.9 g/mol"
-purity: "≥ 99%"
-storage: "-20°C recommandé (recherche uniquement)"
-package_sizes: ["10 × 5 mg flacons"]
+purity: "â‰¥ 99%"
+storage: "-20Â°C recommandÃ© (recherche uniquement)"
+package_sizes: ["10 Ã— 5 mg flacons"]
 moq: 200
 price: 250
-price_range: "€250 par paquet"
+price_range: "â‚¬250 par paquet"
 coa_url: "/coa/cjc-1295-no-dac.pdf"
-short_description: "Acheter CJC-1295 No DAC. Modified GRF 1-29 pour la recherche GH. ≥99% pureté. Livraison rapide UE."
+short_description: "Acheter CJC-1295 No DAC. Modified GRF 1-29 pour la recherche GH. â‰¥99% puretÃ©. Livraison rapide UE."
 category: "growth-hormone"
 tags: ["peptide-recherche", "cjc-1295-fr", "ghrh", "acheter-peptides", "hormone-croissance"]
 images: ["/images/products/cjc-1295-no-dac.png"]
 meta:
   title: "Acheter CJC-1295 No DAC | Mod GRF | Livraison Rapide"
-  description: "Acheter CJC-1295 No DAC (Mod GRF 1-29). Analogue GHRH premium pour la recherche. ≥99% pureté, COA inclus."
+  description: "Acheter CJC-1295 No DAC (Mod GRF 1-29). Analogue GHRH premium pour la recherche. â‰¥99% puretÃ©, COA inclus."
 faqs:
-  - question: "À quoi sert le CJC-1295 No DAC en recherche ?"
-    answer: "Le CJC-1295 No DAC (Modified GRF 1-29) est utilisé pour étudier l'activation des récepteurs GHRH et la libération pulsatile de l'hormone de croissance. C'est un analogue GHRH modifié avec une stabilité améliorée pour les applications de recherche."
-  - question: "Quelle est la différence entre CJC-1295 avec et sans DAC ?"
-    answer: "Le CJC-1295 sans DAC (Mod GRF 1-29) a une demi-vie plus courte et produit une libération pulsatile de GH. Le CJC-1295 avec DAC possède un Drug Affinity Complex pour une durée prolongée, produisant une élévation soutenue de GH."
+  - question: "Ã€ quoi sert le CJC-1295 No DAC en recherche ?"
+    answer: "Le CJC-1295 No DAC (Modified GRF 1-29) est utilisÃ© pour Ã©tudier l'activation des rÃ©cepteurs GHRH et la libÃ©ration pulsatile de l'hormone de croissance. C'est un analogue GHRH modifiÃ© avec une stabilitÃ© amÃ©liorÃ©e pour les applications de recherche."
+  - question: "Quelle est la diffÃ©rence entre CJC-1295 avec et sans DAC ?"
+    answer: "Le CJC-1295 sans DAC (Mod GRF 1-29) a une demi-vie plus courte et produit une libÃ©ration pulsatile de GH. Le CJC-1295 avec DAC possÃ¨de un Drug Affinity Complex pour une durÃ©e prolongÃ©e, produisant une Ã©lÃ©vation soutenue de GH."
   - question: "Comment fonctionne le Mod GRF 1-29 ?"
-    answer: "Il se lie aux récepteurs GHRH sur les somatotropes hypophysaires, stimulant la production de cAMP et la libération de GH. Les modifications aux positions 2, 8, 15 et 27 confèrent une stabilité améliorée."
+    answer: "Il se lie aux rÃ©cepteurs GHRH sur les somatotropes hypophysaires, stimulant la production de cAMP et la libÃ©ration de GH. Les modifications aux positions 2, 8, 15 et 27 confÃ¨rent une stabilitÃ© amÃ©liorÃ©e."
   - question: "Comment conserver le CJC-1295 No DAC ?"
-    answer: "Conserver lyophilisé à -20°C. Une fois reconstitué, garder à 2-8°C et utiliser dans les 2-3 semaines. Les modifications améliorent mais n'éliminent pas la dégradation."
-  - question: "Quelle est la pureté de votre CJC-1295 No DAC ?"
-    answer: "Notre CJC-1295 No DAC est ≥99% pur, vérifié par HPLC. Chaque lot comprend un Certificat d'Analyse avec données de pureté et de spectrométrie de masse."
-  - question: "Peut-il être combiné avec des GHRPs ?"
-    answer: "Oui, les chercheurs étudient souvent le Mod GRF 1-29 avec des GHRPs comme l'Ipamorelin ou le GHRP-6 pour investiguer la synergie GHRH-GHRP. Les deux types de peptides sont disponibles chez Peptide Shop."
+    answer: "Conserver lyophilisÃ© Ã  -20Â°C. Une fois reconstituÃ©, garder Ã  2-8Â°C et utiliser dans les 2-3 semaines. Les modifications amÃ©liorent mais n'Ã©liminent pas la dÃ©gradation."
+  - question: "Quelle est la puretÃ© de votre CJC-1295 No DAC ?"
+    answer: "Notre CJC-1295 No DAC est â‰¥99% pur, vÃ©rifiÃ© par HPLC. Chaque lot comprend un Certificat d'Analyse avec donnÃ©es de puretÃ© et de spectromÃ©trie de masse."
+  - question: "Peut-il Ãªtre combinÃ© avec des GHRPs ?"
+    answer: "Oui, les chercheurs Ã©tudient souvent le Mod GRF 1-29 avec des GHRPs comme l'Ipamorelin ou le GHRP-6 pour investiguer la synergie GHRH-GHRP. Les deux types de peptides sont disponibles chez Best-Peptides."
   - question: "Comment le reconstituer ?"
-    answer: "Reconstituer dans de l'eau bactériostatique stérile. Ajouter le solvant lentement le long de la paroi du flacon et agiter doucement pour dissoudre."
+    answer: "Reconstituer dans de l'eau bactÃ©riostatique stÃ©rile. Ajouter le solvant lentement le long de la paroi du flacon et agiter doucement pour dissoudre."
   - question: "Quelles tailles sont disponibles ?"
     answer: "Le CJC-1295 No DAC est disponible en flacons de 2 mg et 5 mg."
 reviews:
@@ -44,123 +44,123 @@ reviews:
     rating: 5
     date: "2024-12-12"
     title: "Excellent pour la recherche GHRH"
-    content: "Nos études hypophysaires nécessitent des analogues GHRH de haute qualité. Peptide Shop livre d'excellents Mod GRF 1-29."
+    content: "Nos Ã©tudes hypophysaires nÃ©cessitent des analogues GHRH de haute qualitÃ©. Best-Peptides livre d'excellents Mod GRF 1-29."
     verified: true
   - author: "Paris GH Studies"
     rating: 5
     date: "2024-12-05"
-    title: "Qualité premium"
-    content: "La qualité du CJC-1295 est exceptionnelle. Essentiel pour notre recherche de combinaisons sécrétagogues."
+    title: "QualitÃ© premium"
+    content: "La qualitÃ© du CJC-1295 est exceptionnelle. Essentiel pour notre recherche de combinaisons sÃ©crÃ©tagogues."
     verified: true
   - author: "Jean-Luc Martin"
     rating: 5
     date: "2024-11-28"
     title: "Excellent produit"
-    content: "Livraison rapide, qualité excellente. Les études de liaison aux récepteurs GHRH fonctionnent parfaitement."
+    content: "Livraison rapide, qualitÃ© excellente. Les Ã©tudes de liaison aux rÃ©cepteurs GHRH fonctionnent parfaitement."
     verified: true
   - author: "Lyon Endocrine Lab"
     rating: 5
     date: "2024-11-21"
     title: "Fournisseur fiable"
-    content: "Qualité constante pour nos études de synergie GHRH-GHRP."
+    content: "QualitÃ© constante pour nos Ã©tudes de synergie GHRH-GHRP."
     verified: true
-  - author: "Dr. François Bernard"
+  - author: "Dr. FranÃ§ois Bernard"
     rating: 5
     date: "2024-11-14"
-    title: "Pureté exceptionnelle"
-    content: "La pureté vérifiée correspond aux affirmations. Essentiel pour la recherche sur l'hormone de croissance."
+    title: "PuretÃ© exceptionnelle"
+    content: "La puretÃ© vÃ©rifiÃ©e correspond aux affirmations. Essentiel pour la recherche sur l'hormone de croissance."
     verified: true
   - author: "Marseille Peptide Lab"
     rating: 5
     date: "2024-11-07"
     title: "Service excellent"
-    content: "Livraison rapide, excellente qualité. Les modifications offrent une bonne stabilité."
+    content: "Livraison rapide, excellente qualitÃ©. Les modifications offrent une bonne stabilitÃ©."
     verified: true
   - author: "Sophie Lefebvre"
     rating: 5
     date: "2024-10-31"
     title: "Livraison rapide"
-    content: "La livraison express était prompte. Qualité du produit excellente."
+    content: "La livraison express Ã©tait prompte. QualitÃ© du produit excellente."
     verified: true
   - author: "Toulouse GH Research"
     rating: 5
     date: "2024-10-24"
-    title: "Très bien"
-    content: "La qualité est excellente pour les études de libération pulsatile de GH."
+    title: "TrÃ¨s bien"
+    content: "La qualitÃ© est excellente pour les Ã©tudes de libÃ©ration pulsatile de GH."
     verified: true
 ---
 
 ## Qu'est-ce que le CJC-1295 No DAC ?
 
-**CJC-1295 No DAC** (également connu sous le nom de Modified GRF 1-29 ou Mod GRF) est un analogue synthétique de l'hormone de libération de l'hormone de croissance (GHRH) avec des modifications spécifiques d'acides aminés qui améliorent sa stabilité et sa demi-vie. Contrairement au CJC-1295 avec DAC, cette version ne possède pas le Drug Affinity Complex, produisant des schémas de libération de GH pulsatiles plutôt que soutenus.
+**CJC-1295 No DAC** (Ã©galement connu sous le nom de Modified GRF 1-29 ou Mod GRF) est un analogue synthÃ©tique de l'hormone de libÃ©ration de l'hormone de croissance (GHRH) avec des modifications spÃ©cifiques d'acides aminÃ©s qui amÃ©liorent sa stabilitÃ© et sa demi-vie. Contrairement au CJC-1295 avec DAC, cette version ne possÃ¨de pas le Drug Affinity Complex, produisant des schÃ©mas de libÃ©ration de GH pulsatiles plutÃ´t que soutenus.
 
-Le peptide représente les 29 premiers acides aminés de la GHRH avec des modifications aux positions 2, 8, 15 et 27 pour améliorer la résistance à la dégradation enzymatique. Ces modifications en font un outil de recherche plus pratique tout en maintenant l'activité de liaison au récepteur GHRH.
+Le peptide reprÃ©sente les 29 premiers acides aminÃ©s de la GHRH avec des modifications aux positions 2, 8, 15 et 27 pour amÃ©liorer la rÃ©sistance Ã  la dÃ©gradation enzymatique. Ces modifications en font un outil de recherche plus pratique tout en maintenant l'activitÃ© de liaison au rÃ©cepteur GHRH.
 
-Peptide Shop fournit du **CJC-1295 No DAC de qualité recherche** avec une pureté garantie ≥99%, vérifiée par analyse HPLC et spectrométrie de masse complètes.
+Best-Peptides fournit du **CJC-1295 No DAC de qualitÃ© recherche** avec une puretÃ© garantie â‰¥99%, vÃ©rifiÃ©e par analyse HPLC et spectromÃ©trie de masse complÃ¨tes.
 
 ## Comment Fonctionne le CJC-1295 No DAC ?
 
-### Activation des Récepteurs GHRH
-Le peptide se lie aux récepteurs GHRH sur les somatotropes hypophysaires :
-- **Couplage protéine Gs** - Signalisation médiée par récepteur
-- **Élévation du cAMP** - Activation de l'adénylyl cyclase
+### Activation des RÃ©cepteurs GHRH
+Le peptide se lie aux rÃ©cepteurs GHRH sur les somatotropes hypophysaires :
+- **Couplage protÃ©ine Gs** - Signalisation mÃ©diÃ©e par rÃ©cepteur
+- **Ã‰lÃ©vation du cAMP** - Activation de l'adÃ©nylyl cyclase
 - **Activation de PKA** - Cascade kinase en aval
-- **Expression du gène GH** - Transcription améliorée
-- **Libération de GH** - Exocytose stimulée
+- **Expression du gÃ¨ne GH** - Transcription amÃ©liorÃ©e
+- **LibÃ©ration de GH** - Exocytose stimulÃ©e
 
-### Stabilité Modifiée
-Les substitutions clés confèrent une stabilité améliorée :
+### StabilitÃ© ModifiÃ©e
+Les substitutions clÃ©s confÃ¨rent une stabilitÃ© amÃ©liorÃ©e :
 - **Position 2** - Substitution D-Ala
 - **Position 8** - Gln vers Ala
 - **Position 15** - Gly vers Ala
 - **Position 27** - Met vers Leu ou Nle
 
-### Libération Pulsatile vs Soutenue
+### LibÃ©ration Pulsatile vs Soutenue
 Sans DAC, le peptide produit :
-- **Demi-vie plus courte** - Minutes plutôt que jours
-- **Schémas GH pulsatiles** - Imite la physiologie
-- **Synergie GHRP** - Améliorée en combinaison
+- **Demi-vie plus courte** - Minutes plutÃ´t que jours
+- **SchÃ©mas GH pulsatiles** - Imite la physiologie
+- **Synergie GHRP** - AmÃ©liorÃ©e en combinaison
 
 ## Applications de Recherche
 
-### Études de l'Axe GH
-- **Signalisation GHRH** - Pharmacologie des récepteurs
+### Ã‰tudes de l'Axe GH
+- **Signalisation GHRH** - Pharmacologie des rÃ©cepteurs
 - **Fonction hypophysaire** - Biologie des somatotropes
-- **Pulsatilité GH** - Recherche sur les schémas de sécrétion
-- **Mécanismes de rétroaction** - Études régulatrices
+- **PulsatilitÃ© GH** - Recherche sur les schÃ©mas de sÃ©crÃ©tion
+- **MÃ©canismes de rÃ©troaction** - Ã‰tudes rÃ©gulatrices
 
 ### Recherche Combinatoire
-- **Synergie GHRP** - Libération de GH améliorée
+- **Synergie GHRP** - LibÃ©ration de GH amÃ©liorÃ©e
 - **Combinaisons Ipamorelin** - Paradigme populaire
-- **Études GHRP-6** - Recherche comparative
+- **Ã‰tudes GHRP-6** - Recherche comparative
 
-## Spécifications CJC-1295 No DAC
+## SpÃ©cifications CJC-1295 No DAC
 
-| Spécification | Détail |
+| SpÃ©cification | DÃ©tail |
 |---------------|--------|
-| **Numéro CAS** | 863288-34-0 |
-| **Poids Moléculaire** | 3367.9 g/mol |
-| **Pureté** | ≥99% (HPLC) |
-| **Apparence** | Poudre lyophilisée blanche |
-| **Solubilité** | Soluble dans l'eau |
-| **Identité** | Confirmée par spectrométrie de masse |
+| **NumÃ©ro CAS** | 863288-34-0 |
+| **Poids MolÃ©culaire** | 3367.9 g/mol |
+| **PuretÃ©** | â‰¥99% (HPLC) |
+| **Apparence** | Poudre lyophilisÃ©e blanche |
+| **SolubilitÃ©** | Soluble dans l'eau |
+| **IdentitÃ©** | ConfirmÃ©e par spectromÃ©trie de masse |
 
 ## Stockage
 
-| Condition | Température | Durée |
+| Condition | TempÃ©rature | DurÃ©e |
 |-----------|-------------|-------|
-| **Lyophilisé** | -20°C | Jusqu'à 24 mois |
-| **Reconstitué** | 2-8°C | Jusqu'à 2-3 semaines |
+| **LyophilisÃ©** | -20Â°C | Jusqu'Ã  24 mois |
+| **ReconstituÃ©** | 2-8Â°C | Jusqu'Ã  2-3 semaines |
 
 ## Informations de Commande
 
-| Taille | Recommandé Pour |
+| Taille | RecommandÃ© Pour |
 |--------|-----------------|
-| **2 mg** | Études pilotes |
+| **2 mg** | Ã‰tudes pilotes |
 | **5 mg** | Recherche standard |
 
-**Commande minimum : €200** | **10% de réduction sur les commandes supérieures à €200**
+**Commande minimum : â‚¬200** | **10% de rÃ©duction sur les commandes supÃ©rieures Ã  â‚¬200**
 
-## Déclaration d'Utilisation en Recherche
+## DÃ©claration d'Utilisation en Recherche
 
-**Pour la recherche en laboratoire uniquement.** Non destiné à un usage humain ou vétérinaire.
+**Pour la recherche en laboratoire uniquement.** Non destinÃ© Ã  un usage humain ou vÃ©tÃ©rinaire.

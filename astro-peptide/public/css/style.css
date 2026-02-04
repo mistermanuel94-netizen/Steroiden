@@ -5,22 +5,50 @@
 
 /*=== CSS VARIABLES - Consistent Colors ===*/
 :root {
-  --text-primary: #1e293b;
-  --text-secondary: #475569;
+  /* ===== Sport-Luxury Palette ===== */
+  /* Light-first surfaces + premium dark accents */
+
+  /* Text (on light surfaces) */
+  --text-primary: #0b0f14;
+  --text-secondary: #334155;
   --text-muted: #64748b;
-  --text-light: #94a3b8;
-  --accent-primary: #0077b6;
-  --accent-secondary: #90e0ef;
-  --brand-blue: #0077b6;
-  --brand-blue-dark: #023e8a;
-  --brand-blue-light: #0096c7;
-  --brand-cyan: #90e0ef;
-  --success: #10b981;
+  --text-light: #8894a3;
+
+  /* Brand / Accents */
+  --accent-primary: #e1062c; /* Performance Red */
+  --accent-primary-hover: #b80522;
+  --accent-secondary: #c8a96a; /* Champagne Gold */
+  --accent-highlight: #c6ff00; /* Electric Lime (sparingly) */
+
+  /* Legacy aliases (kept for compatibility across styles) */
+  --brand-blue: var(--accent-primary);
+  --brand-blue-dark: var(--accent-primary-hover);
+  --brand-blue-light: #ff2e55;
+  --brand-cyan: var(--accent-highlight);
+
+  /* Status */
+  --success: #16a34a;
   --warning: #f59e0b;
   --danger: #ef4444;
-  --info: #0077b6;
-  --bg-light: #f8fafc;
-  --border-color: #e2e8f0;
+  --info: #38bdf8;
+
+  /* Surfaces */
+  --bg-light: #f5f7fa;
+  --bg-dark: #0b0f14;
+  --surface-dark: #18222e;
+  --surface-dark-2: #121a22;
+
+  /* Borders / rings */
+  --border-color: #d6dce4;
+  --border-dark: #263241;
+  --focus-ring: rgba(198, 255, 0, 0.35);
+  --focus-ring-soft: rgba(225, 6, 44, 0.16);
+
+  /* Buttons */
+  --btn-primary-start: var(--accent-primary);
+  --btn-primary-end: var(--brand-blue-light);
+  --btn-primary-hover-start: var(--accent-primary-hover);
+  --btn-primary-hover-end: #8f041a;
 }
 
 /*=== TYPOGRAPHY - Raleway Font ===*/
@@ -158,7 +186,7 @@ input[type=email], input[type=password], input[type=text], input[type=tel] {
   color: var(--text-primary);
 }
 input[type=email]:focus, input[type=password]:focus, input[type=text]:focus, input[type=tel]:focus {
-  box-shadow: 0 0 0 3px rgba(245, 99, 75, 0.1);
+  box-shadow: 0 0 0 3px var(--focus-ring-soft);
   border: 1px solid var(--accent-primary);
 }
 
@@ -169,7 +197,7 @@ input[type=email]:focus, input[type=password]:focus, input[type=text]:focus, inp
   color: var(--text-primary);
 }
 .form-control:focus {
-  box-shadow: 0 0 0 3px rgba(245, 99, 75, 0.1);
+  box-shadow: 0 0 0 3px var(--focus-ring-soft);
   border: 1px solid var(--accent-primary);
 }
 
@@ -189,23 +217,23 @@ input[type=email]:focus, input[type=password]:focus, input[type=text]:focus, inp
 }
 
 .btn-main, .btn-small, .btn-transparent {
-  background: linear-gradient(90deg, #1a6b4e 0%, #22865f 100%);
+  background: linear-gradient(90deg, var(--btn-primary-start) 0%, var(--btn-primary-end) 100%);
   color: #fff;
 }
 .btn-main:hover, .btn-small:hover, .btn-transparent:hover {
-  background: linear-gradient(90deg, #15503a 0%, #1a6b4e 100%);
+  background: linear-gradient(90deg, var(--btn-primary-hover-start) 0%, var(--btn-primary-hover-end) 100%);
   color: #fff !important;
   transform: translateY(-5px);
 }
 
 .btn-solid-border {
-  border: 2px solid #1a6b4e;
+  border: 2px solid var(--accent-primary);
   background: transparent;
   color: #fff;
 }
 .btn-solid-border:hover {
-  border: 2px solid #1a6b4e;
-  background: #1a6b4e;
+  border: 2px solid var(--accent-primary);
+  background: var(--accent-primary);
 }
 
 .btn-white {
@@ -214,19 +242,19 @@ input[type=email]:focus, input[type=password]:focus, input[type=text]:focus, inp
   color: #232323;
 }
 .btn-white:hover {
-  border: 1px solid #1a6b4e;
-  background: #1a6b4e;
+  border: 1px solid var(--accent-primary);
+  background: var(--accent-primary);
   color: #fff !important;
 }
 
 .btn-transparent {
   background: transparent;
   padding: 0;
-  color: #1a6b4e;
+  color: var(--accent-primary);
 }
 .btn-transparent:hover {
   background: transparent;
-  color: #15503a;
+  color: var(--accent-primary-hover);
 }
 
 .btn-large {
@@ -266,7 +294,7 @@ input[type=email]:focus, input[type=password]:focus, input[type=text]:focus, inp
 }
 
 .bg-primary {
-  background: #1a6b4e !important;
+  background: var(--accent-primary) !important;
 }
 
 .section {
@@ -326,7 +354,7 @@ input[type=email]:focus, input[type=password]:focus, input[type=text]:focus, inp
 }
 
 .text-color {
-  color: #1a6b4e;
+  color: var(--accent-primary);
 }
 
 .text-black {
@@ -356,7 +384,7 @@ a {
 }
 
 a:hover, a:focus {
-  color: #1a6b4e !important;
+  color: var(--accent-primary) !important;
   text-decoration: none !important;
   outline: 0;
 }
@@ -377,7 +405,7 @@ a:hover, a:focus {
   padding: 0px 10px;
 }
 .navbar-nav li.nav-item.active .nav-link {
-  color: #3b82f6 !important;
+  color: var(--accent-primary) !important;
 }
 .navbar-nav .nav-link {
   font-family: "Raleway", sans-serif;
@@ -522,7 +550,7 @@ ul.dropdown-menu li {
   transition: all 0.4s ease 0s;
 }
 .why .card:hover {
-  background: #181a23;
+  background: var(--surface-dark);
 }
 
 .why .card:hover h3,
@@ -541,8 +569,8 @@ ul.dropdown-menu li {
   width: 100%;
   height: 0px;
   transition: all 600ms ease;
-  background: linear-gradient(90deg, #1a6b4e 0%, #22865f 100%);
-  border-color: #1a6b4e;
+  background: linear-gradient(90deg, var(--btn-primary-start) 0%, var(--btn-primary-end) 100%);
+  border-color: var(--accent-primary);
 }
 .hover-style-1 h3, .hover-style-1 p, .hover-style-1 a, .hover-style-1 i, .hover-style-1 h4 {
   position: relative;
@@ -571,7 +599,7 @@ ul.dropdown-menu li {
 }
 
 .course .card-body a h4:hover {
-  color: #1a6b4e;
+  color: var(--accent-primary);
 }
 
 .course-widget li a {
@@ -583,7 +611,7 @@ ul.dropdown-menu li {
   color: #fff;
 }
 .team-content-overlay li a:hover {
-  background: #1a6b4e;
+  background: var(--accent-primary);
 }
 
 .team-item .card-body {

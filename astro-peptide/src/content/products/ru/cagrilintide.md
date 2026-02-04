@@ -1,27 +1,27 @@
 ---
 lang: "ru"
 id: "peptide-cagrilintide"
-title: "Купить Cagrilintide | Research Grade Amylin Analog"
-primary_keyword: "Купить cagrilintide"
+title: "ÐšÑƒÐ¿Ð¸Ñ‚ÑŒ Cagrilintide | Research Grade Amylin Analog"
+primary_keyword: "ÐšÑƒÐ¿Ð¸Ñ‚ÑŒ cagrilintide"
 search_volume: "2900"
 urlPath: "/peptides/buy-cagrilintide"
 aliases:  ["AM833", "NN9838", "Amylin Analog"]
 cas: "2375614-45-8"
 molecular_weight: "3962.4 g/mol"
-purity: "≥ 99%"
-storage: "-20°C рекомендуется (только для исследований)"
-package_sizes:  ["10 × 5 mg vials"]
+purity: "â‰¥ 99%"
+storage: "-20Â°C Ñ€ÐµÐºÐ¾Ð¼ÐµÐ½Ð´ÑƒÐµÑ‚ÑÑ (Ñ‚Ð¾Ð»ÑŒÐºÐ¾ Ð´Ð»Ñ Ð¸ÑÑÐ»ÐµÐ´Ð¾Ð²Ð°Ð½Ð¸Ð¹)"
+package_sizes:  ["10 Ã— 5 mg vials"]
 moq: 200
 price: 1200
-price_range: "£1200 per pack"
+price_range: "Â£1200 per pack"
 coa_url: "/coa/cagrilintide.pdf"
-short_description: "Купить Cagrilintide. Long-acting amylin analog for satiety and metabolic research. ≥99% purity. Fast UK & EU delivery."
+short_description: "ÐšÑƒÐ¿Ð¸Ñ‚ÑŒ Cagrilintide. Long-acting amylin analog for satiety and metabolic research. â‰¥99% purity. Fast UK & EU delivery."
 category: "weight-loss"
-tags:  ["research-Пептид", "cagrilintide-uk", "amylin", "buy-Пептидs-uk", "weight-loss"]
+tags:  ["research-ÐŸÐµÐ¿Ñ‚Ð¸Ð´", "cagrilintide-uk", "amylin", "buy-ÐŸÐµÐ¿Ñ‚Ð¸Ð´s-uk", "weight-loss"]
 images: ["/images/products/cagrilintide.png"]
 meta:
-  title: "Купить Cagrilintide | Amylin Analog | Fast Delivery"
-  description: "Buy Cagrilintide. Premium long-acting amylin analog for weight research. ≥99% purity, COA included. Fast UK & EU delivery."
+  title: "ÐšÑƒÐ¿Ð¸Ñ‚ÑŒ Cagrilintide | Amylin Analog | Fast Delivery"
+  description: "Buy Cagrilintide. Premium long-acting amylin analog for weight research. â‰¥99% purity, COA included. Fast UK & EU delivery."
 faqs:
 - question: "What is Cagrilintide used for in research?"
   answer: "Cagrilintide is used in metabolic research to study amylin receptor signalling, appetite regulation, gastric emptying, and glucagon suppression. It provides a long-acting tool for investigating amylin's role in energy homeostasis."
@@ -30,13 +30,13 @@ faqs:
 - question: "What is amylin's role in metabolism?"
   answer: "Amylin is co-secreted with insulin from pancreatic beta cells. It slows gastric emptying, suppresses glucagon secretion, and promotes satiety through central nervous system actions. Cagrilintide enables research into these pathways."
 - question: "How should Cagrilintide be stored?"
-  answer: "Store lyophilised Cagrilintide at -20°C. Once reconstituted, keep at 2-8°C and use within 3 weeks. The fatty acid modification provides good stability but standard peptide handling applies."
+  answer: "Store lyophilised Cagrilintide at -20Â°C. Once reconstituted, keep at 2-8Â°C and use within 3 weeks. The fatty acid modification provides good stability but standard peptide handling applies."
 - question: "What purity is your Cagrilintide?"
-  answer: "Our Cagrilintide is ≥99% pure as verified by HPLC. Each batch includes a Certificate of Analysis with purity data and mass spectrometry identity confirmation."
+  answer: "Our Cagrilintide is â‰¥99% pure as verified by HPLC. Each batch includes a Certificate of Analysis with purity data and mass spectrometry identity confirmation."
 - question: "How do I reconstitute Cagrilintide?"
   answer: "Reconstitute in sterile bacteriostatic water or appropriate buffer. Add solvent slowly and gently swirl to dissolve. Avoid shaking."
 - question: "Can Cagrilintide be studied with GLP-1 agonists?"
-  answer: "Yes, research often investigates cagrilintide in combination with semaglutide (the 'CagriSema' approach) to study complementary satiety mechanisms. Both peptides are available from Peptide Shop."
+  answer: "Yes, research often investigates cagrilintide in combination with semaglutide (the 'CagriSema' approach) to study complementary satiety mechanisms. Both peptides are available from Best-Peptides."
 - question: "What sizes are available?"
   answer: "Cagrilintide is available in 2mg and 5mg vials suitable for various research scales."
 reviews:
@@ -44,7 +44,7 @@ reviews:
   rating: 5
   date: "2024-12-14"
   title: "Excellent for amylin research"
-  content: "Our satiety research programme requires high-quality cagrilintide. Peptide Shop delivers consistent quality with excellent documentation."
+  content: "Our satiety research programme requires high-quality cagrilintide. Best-Peptides delivers consistent quality with excellent documentation."
   verified: true
 - author: "Bristol Appetite Lab"
   rating: 5
@@ -62,7 +62,7 @@ reviews:
   rating: 5
   date: "2024-11-23"
   title: "Reliable supplier"
-  content: "Consistent quality for our amylin receptor studies. Peptide Shop has become our preferred supplier."
+  content: "Consistent quality for our amylin receptor studies. Best-Peptides has become our preferred supplier."
   verified: true
 - author: "Dr. Robert Clarke"
   rating: 5
@@ -91,7 +91,7 @@ reviews:
 - author: "Dr. Catherine Moore"
   rating: 5
   date: "2024-10-19"
-  title: "Premium Исследовательский пептид"
+  title: "Premium Ð˜ÑÑÐ»ÐµÐ´Ð¾Ð²Ð°Ñ‚ÐµÐ»ÑŒÑÐºÐ¸Ð¹ Ð¿ÐµÐ¿Ñ‚Ð¸Ð´"
   content: "Excellent for studying amylin-GLP-1 synergy. Quality and documentation meet our requirements."
   verified: true
 - author: "Newcastle Satiety Lab"
@@ -140,11 +140,11 @@ reviews:
 
 ## What is Cagrilintide?
 
-**Cagrilintide** (AM833, NN9838) is a long-acting acylated analog of human amylin, a Пептид hormone co-secreted with insulin from pancreatic beta cells. Through fatty acid acylation, cagrilintide achieves an extended Период полураспада enabling once-weekly research dosing, making it an invaluable tool for Исследованиеing amylin's role in satiety and metabolic regulation.
+**Cagrilintide** (AM833, NN9838) is a long-acting acylated analog of human amylin, a ÐŸÐµÐ¿Ñ‚Ð¸Ð´ hormone co-secreted with insulin from pancreatic beta cells. Through fatty acid acylation, cagrilintide achieves an extended ÐŸÐµÑ€Ð¸Ð¾Ð´ Ð¿Ð¾Ð»ÑƒÑ€Ð°ÑÐ¿Ð°Ð´Ð° enabling once-weekly research dosing, making it an invaluable tool for Ð˜ÑÑÐ»ÐµÐ´Ð¾Ð²Ð°Ð½Ð¸Ðµing amylin's role in satiety and metabolic regulation.
 
 Amylin complements insulin's glucose-lowering effects through distinct mechanisms including gastric emptying delay, glucagon suppression, and central satiety signalling. Cagrilintide provides researchers with a stable, long-acting tool to investigate these pathways in extended experimental paradigms.
 
-Пептид Shop supplies **research-grade Cagrilintide** with guaranteed ≥99% purity, verified through comprehensive HPLC and mass spectrometry analysis.
+ÐŸÐµÐ¿Ñ‚Ð¸Ð´ Shop supplies **research-grade Cagrilintide** with guaranteed â‰¥99% purity, verified through comprehensive HPLC and mass spectrometry analysis.
 
 ## How Does Cagrilintide Work?
 
@@ -172,32 +172,32 @@ Cagrilintide is often studied with GLP-1 agonists:
 - **Enhanced efficacy** - Potentially additive effects
 - **CagriSema research** - Combined with semaglutide
 
-## Cagrilintide Пептид Specifications
+## Cagrilintide ÐŸÐµÐ¿Ñ‚Ð¸Ð´ Specifications
 
 | Specification | Detail |
 |--------------|--------|
 | **CAS Number** | 2375614-45-8 |
-| **Молекулярная масса** | 3962.4 g/mol |
-| **Purity** | ≥99% (HPLC) |
-| **Внешний вид** | White lyophilised powder |
-| **Solubility** | Soluble in Вода |
+| **ÐœÐ¾Ð»ÐµÐºÑƒÐ»ÑÑ€Ð½Ð°Ñ Ð¼Ð°ÑÑÐ°** | 3962.4 g/mol |
+| **Purity** | â‰¥99% (HPLC) |
+| **Ð’Ð½ÐµÑˆÐ½Ð¸Ð¹ Ð²Ð¸Ð´** | White lyophilised powder |
+| **Solubility** | Soluble in Ð’Ð¾Ð´Ð° |
 | **Identity** | Confirmed by mass spectrometry |
 
 ## Storage and Handling
 
 | Condition | Temperature | Duration |
 |-----------|-------------|----------|
-| **Lyophilised** | -20°C | Up to 24 months |
-| **восстановленный** | 2-8°C | Up to 3 weeks |
+| **Lyophilised** | -20Â°C | Up to 24 months |
+| **Ð²Ð¾ÑÑÑ‚Ð°Ð½Ð¾Ð²Ð»ÐµÐ½Ð½Ñ‹Ð¹** | 2-8Â°C | Up to 3 weeks |
 
 ## Ordering Information
 
 | Size | Price |
 |------|-------|
-| **2 mg** | From £58 |
-| **5 mg** | From £140 |
+| **2 mg** | From Â£58 |
+| **5 mg** | From Â£140 |
 
-**Minimum order: £200** | **10% discount on orders over £200**
+**Minimum order: Â£200** | **10% discount on orders over Â£200**
 
 ## Research Use Statement
 

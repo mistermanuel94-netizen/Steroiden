@@ -1,114 +1,114 @@
 ---
 lang: "de"
 id: "peptide-cagrilintide"
-title: "Cagrilintide Kaufen | Forschungsqualität Amylin-Analogon"
+title: "Cagrilintide Kaufen | ForschungsqualitÃ¤t Amylin-Analogon"
 primary_keyword: "cagrilintide kaufen"
 search_volume: "2900"
 urlPath: "/de/peptides/cagrilintide-kaufen"
 aliases: ["AM833", "NN9838", "Amylin-Analogon"]
 cas: "2375614-45-8"
 molecular_weight: "3962,4 g/mol"
-purity: "≥ 99%"
-storage: "-20°C empfohlen (nur für Forschungszwecke)"
-package_sizes: ["10 × 5 mg Fläschchen"]
+purity: "â‰¥ 99%"
+storage: "-20Â°C empfohlen (nur fÃ¼r Forschungszwecke)"
+package_sizes: ["10 Ã— 5 mg FlÃ¤schchen"]
 moq: 200
 price: 1400
-price_range: "€1400 pro Packung"
+price_range: "â‚¬1400 pro Packung"
 coa_url: "/coa/cagrilintide.pdf"
-short_description: "Cagrilintide Kaufen. Langwirkendes Amylin-Analogon für Sättigungs- und Stoffwechselforschung. ≥99% Reinheit. Schnelle Lieferung nach Deutschland und EU."
+short_description: "Cagrilintide Kaufen. Langwirkendes Amylin-Analogon fÃ¼r SÃ¤ttigungs- und Stoffwechselforschung. â‰¥99% Reinheit. Schnelle Lieferung nach Deutschland und EU."
 category: "weight-loss"
 tags: ["forschungs-peptid", "cagrilintide-deutschland", "amylin", "peptide-kaufen", "gewichtsverlust"]
 images: ["/images/products/cagrilintide.png"]
 meta:
   title: "Cagrilintide Kaufen | Amylin-Analogon | Schnelle Lieferung"
-  description: "Cagrilintide Kaufen. Premium langwirkendes Amylin-Analogon für Gewichtsforschung. ≥99% Reinheit, COA inklusive. Schnelle Lieferung nach Deutschland und EU."
+  description: "Cagrilintide Kaufen. Premium langwirkendes Amylin-Analogon fÃ¼r Gewichtsforschung. â‰¥99% Reinheit, COA inklusive. Schnelle Lieferung nach Deutschland und EU."
 faqs:
-  - question: "Wofür wird Cagrilintide in der Forschung verwendet?"
-    answer: "Cagrilintide wird in der Stoffwechselforschung verwendet, um Amylin-Rezeptor-Signalwege, Appetitregulation, Magenentleerung und Glucagon-Unterdrückung zu untersuchen. Es bietet ein langwirkendes Werkzeug zur Erforschung der Rolle von Amylin in der Energiehomöostase."
+  - question: "WofÃ¼r wird Cagrilintide in der Forschung verwendet?"
+    answer: "Cagrilintide wird in der Stoffwechselforschung verwendet, um Amylin-Rezeptor-Signalwege, Appetitregulation, Magenentleerung und Glucagon-UnterdrÃ¼ckung zu untersuchen. Es bietet ein langwirkendes Werkzeug zur Erforschung der Rolle von Amylin in der EnergiehomÃ¶ostase."
   - question: "Wie unterscheidet sich Cagrilintide von Pramlintid?"
-    answer: "Cagrilintide ist ein langwirkendes Amylin-Analogon mit einer acylierten Fettsäure-Seitenkette, die wöchentliche Forschungsdosierungen ermöglicht, während Pramlintid häufigere Verabreichung erfordert. Diese verlängerte Wirkdauer ermöglicht verschiedene experimentelle Paradigmen."
+    answer: "Cagrilintide ist ein langwirkendes Amylin-Analogon mit einer acylierten FettsÃ¤ure-Seitenkette, die wÃ¶chentliche Forschungsdosierungen ermÃ¶glicht, wÃ¤hrend Pramlintid hÃ¤ufigere Verabreichung erfordert. Diese verlÃ¤ngerte Wirkdauer ermÃ¶glicht verschiedene experimentelle Paradigmen."
   - question: "Welche Rolle spielt Amylin im Stoffwechsel?"
-    answer: "Amylin wird zusammen mit Insulin aus den Beta-Zellen der Bauchspeicheldrüse sezerniert. Es verlangsamt die Magenentleerung, unterdrückt die Glucagon-Sekretion und fördert die Sättigung durch Wirkungen auf das zentrale Nervensystem. Cagrilintide ermöglicht die Erforschung dieser Signalwege."
+    answer: "Amylin wird zusammen mit Insulin aus den Beta-Zellen der BauchspeicheldrÃ¼se sezerniert. Es verlangsamt die Magenentleerung, unterdrÃ¼ckt die Glucagon-Sekretion und fÃ¶rdert die SÃ¤ttigung durch Wirkungen auf das zentrale Nervensystem. Cagrilintide ermÃ¶glicht die Erforschung dieser Signalwege."
   - question: "Wie sollte Cagrilintide gelagert werden?"
-    answer: "Lagern Sie lyophilisiertes Cagrilintide bei -20°C. Nach der Rekonstitution bei 2-8°C aufbewahren und innerhalb von 3 Wochen verwenden. Die Fettsäuremodifikation sorgt für gute Stabilität, aber Standard-Peptid-Handhabung gilt."
+    answer: "Lagern Sie lyophilisiertes Cagrilintide bei -20Â°C. Nach der Rekonstitution bei 2-8Â°C aufbewahren und innerhalb von 3 Wochen verwenden. Die FettsÃ¤uremodifikation sorgt fÃ¼r gute StabilitÃ¤t, aber Standard-Peptid-Handhabung gilt."
   - question: "Welche Reinheit hat Ihr Cagrilintide?"
-    answer: "Unser Cagrilintide ist ≥99% rein, verifiziert durch HPLC. Jede Charge enthält ein Analysezertifikat mit Reinheitsdaten und Massenspektrometrie-Identitätsbestätigung."
+    answer: "Unser Cagrilintide ist â‰¥99% rein, verifiziert durch HPLC. Jede Charge enthÃ¤lt ein Analysezertifikat mit Reinheitsdaten und Massenspektrometrie-IdentitÃ¤tsbestÃ¤tigung."
   - question: "Wie rekonstituiere ich Cagrilintide?"
-    answer: "Rekonstituieren Sie in sterilem bakteriostatischem Wasser oder geeignetem Puffer. Fügen Sie das Lösungsmittel langsam hinzu und schwenken Sie sanft zum Auflösen. Vermeiden Sie Schütteln."
+    answer: "Rekonstituieren Sie in sterilem bakteriostatischem Wasser oder geeignetem Puffer. FÃ¼gen Sie das LÃ¶sungsmittel langsam hinzu und schwenken Sie sanft zum AuflÃ¶sen. Vermeiden Sie SchÃ¼tteln."
   - question: "Kann Cagrilintide mit GLP-1-Agonisten untersucht werden?"
-    answer: "Ja, die Forschung untersucht Cagrilintide oft in Kombination mit Semaglutid (der 'CagriSema'-Ansatz), um komplementäre Sättigungsmechanismen zu erforschen. Beide Peptide sind bei Peptide Shop erhältlich."
-  - question: "Welche Größen sind verfügbar?"
-    answer: "Cagrilintide ist in 2mg und 5mg Fläschchen erhältlich, geeignet für verschiedene Forschungsmaßstäbe."
+    answer: "Ja, die Forschung untersucht Cagrilintide oft in Kombination mit Semaglutid (der 'CagriSema'-Ansatz), um komplementÃ¤re SÃ¤ttigungsmechanismen zu erforschen. Beide Peptide sind bei Best-Peptides erhÃ¤ltlich."
+  - question: "Welche GrÃ¶ÃŸen sind verfÃ¼gbar?"
+    answer: "Cagrilintide ist in 2mg und 5mg FlÃ¤schchen erhÃ¤ltlich, geeignet fÃ¼r verschiedene ForschungsmaÃŸstÃ¤be."
 reviews:
-  - author: "Dr. Hans Müller"
+  - author: "Dr. Hans MÃ¼ller"
     rating: 5
     date: "2024-12-14"
-    title: "Hervorragend für Amylin-Forschung"
-    content: "Unser Sättigungsforschungsprogramm erfordert hochwertige Cagrilintide. Peptide Shop liefert konstante Qualität mit ausgezeichneter Dokumentation."
+    title: "Hervorragend fÃ¼r Amylin-Forschung"
+    content: "Unser SÃ¤ttigungsforschungsprogramm erfordert hochwertige Cagrilintide. Best-Peptides liefert konstante QualitÃ¤t mit ausgezeichneter Dokumentation."
     verified: true
-  - author: "Universität München Stoffwechsellabor"
+  - author: "UniversitÃ¤t MÃ¼nchen Stoffwechsellabor"
     rating: 5
     date: "2024-12-07"
-    title: "Premium-Qualität"
-    content: "Das langwirkende Profil ist perfekt für unser Versuchsdesign. Qualität ist forschungsgerecht und Service ist ausgezeichnet."
+    title: "Premium-QualitÃ¤t"
+    content: "Das langwirkende Profil ist perfekt fÃ¼r unser Versuchsdesign. QualitÃ¤t ist forschungsgerecht und Service ist ausgezeichnet."
     verified: true
   - author: "Dr. Sabine Weber"
     rating: 5
     date: "2024-11-30"
-    title: "Großartiges Produkt"
-    content: "Erste Bestellung von Cagrilintide - beeindruckt von Qualität und schneller Lieferung. Werde weiter bestellen."
+    title: "GroÃŸartiges Produkt"
+    content: "Erste Bestellung von Cagrilintide - beeindruckt von QualitÃ¤t und schneller Lieferung. Werde weiter bestellen."
     verified: true
   - author: "Berlin Endokrinologie Forschung"
     rating: 5
     date: "2024-11-23"
-    title: "Zuverlässiger Lieferant"
-    content: "Konstante Qualität für unsere Amylin-Rezeptor-Studien. Peptide Shop ist unser bevorzugter Lieferant geworden."
+    title: "ZuverlÃ¤ssiger Lieferant"
+    content: "Konstante QualitÃ¤t fÃ¼r unsere Amylin-Rezeptor-Studien. Best-Peptides ist unser bevorzugter Lieferant geworden."
     verified: true
   - author: "Prof. Klaus Schmidt"
     rating: 5
     date: "2024-11-16"
     title: "Hervorragende Reinheit"
-    content: "Verifizierte Reinheit entspricht den Angaben. Essentiell für unsere vergleichende Sättigungsforschung mit GLP-1-Agonisten."
+    content: "Verifizierte Reinheit entspricht den Angaben. Essentiell fÃ¼r unsere vergleichende SÃ¤ttigungsforschung mit GLP-1-Agonisten."
     verified: true
   - author: "Heidelberg Hormonlabor"
     rating: 5
     date: "2024-11-09"
     title: "Ausgezeichneter Service"
-    content: "Schnelle Lieferung, großartige Qualität, umfassendes COA. Sehr empfehlenswert für seriöse Forschung."
+    content: "Schnelle Lieferung, groÃŸartige QualitÃ¤t, umfassendes COA. Sehr empfehlenswert fÃ¼r seriÃ¶se Forschung."
     verified: true
 ---
 
 ## Was ist Cagrilintide?
 
-**Cagrilintide** (AM833, NN9838) ist ein langwirkendes acyliertes Analogon des humanen Amylins, eines Peptidhormons, das zusammen mit Insulin aus den Beta-Zellen der Bauchspeicheldrüse sezerniert wird. Durch Fettsäureacylierung erreicht Cagrilintide eine verlängerte Halbwertszeit, die einmal wöchentliche Forschungsdosierung ermöglicht, was es zu einem unschätzbaren Werkzeug für die Untersuchung der Rolle von Amylin bei Sättigung und Stoffwechselregulation macht.
+**Cagrilintide** (AM833, NN9838) ist ein langwirkendes acyliertes Analogon des humanen Amylins, eines Peptidhormons, das zusammen mit Insulin aus den Beta-Zellen der BauchspeicheldrÃ¼se sezerniert wird. Durch FettsÃ¤ureacylierung erreicht Cagrilintide eine verlÃ¤ngerte Halbwertszeit, die einmal wÃ¶chentliche Forschungsdosierung ermÃ¶glicht, was es zu einem unschÃ¤tzbaren Werkzeug fÃ¼r die Untersuchung der Rolle von Amylin bei SÃ¤ttigung und Stoffwechselregulation macht.
 
-Amylin ergänzt die glukosesenkenden Wirkungen von Insulin durch verschiedene Mechanismen, einschließlich Verzögerung der Magenentleerung, Glucagon-Unterdrückung und zentrale Sättigungssignalisierung. Cagrilintide bietet Forschern ein stabiles, langwirkendes Werkzeug zur Untersuchung dieser Signalwege in erweiterten experimentellen Paradigmen.
+Amylin ergÃ¤nzt die glukosesenkenden Wirkungen von Insulin durch verschiedene Mechanismen, einschlieÃŸlich VerzÃ¶gerung der Magenentleerung, Glucagon-UnterdrÃ¼ckung und zentrale SÃ¤ttigungssignalisierung. Cagrilintide bietet Forschern ein stabiles, langwirkendes Werkzeug zur Untersuchung dieser Signalwege in erweiterten experimentellen Paradigmen.
 
-Peptide Shop liefert **Forschungsqualität Cagrilintide** mit garantierter ≥99% Reinheit, verifiziert durch umfassende HPLC- und Massenspektrometrie-Analyse.
+Best-Peptides liefert **ForschungsqualitÃ¤t Cagrilintide** mit garantierter â‰¥99% Reinheit, verifiziert durch umfassende HPLC- und Massenspektrometrie-Analyse.
 
 ## Wie funktioniert Cagrilintide?
 
-Cagrilintide aktiviert Amylin-Rezeptoren (AMY1, AMY2, AMY3), die Komplexe des Calcitonin-Rezeptors mit Rezeptor-Aktivität-modifizierenden Proteinen (RAMPs) sind.
+Cagrilintide aktiviert Amylin-Rezeptoren (AMY1, AMY2, AMY3), die Komplexe des Calcitonin-Rezeptors mit Rezeptor-AktivitÃ¤t-modifizierenden Proteinen (RAMPs) sind.
 
-### Sättigungssignalisierung
+### SÃ¤ttigungssignalisierung
 
 Zentrale Wirkungen umfassen:
-- **Area-postrema-Aktivierung** - Wichtiges Sättigungszentrum im Hirnstamm
-- **Mahlzeitgrößenreduktion** - Fördert früheres Beenden des Essens
-- **Schmackhaftigkeitseffekte** - Modifiziert Nahrungspräferenzen in Modellen
-- **Hypothalamus-Signalisierung** - Ergänzt Leptin-Signalwege
+- **Area-postrema-Aktivierung** - Wichtiges SÃ¤ttigungszentrum im Hirnstamm
+- **MahlzeitgrÃ¶ÃŸenreduktion** - FÃ¶rdert frÃ¼heres Beenden des Essens
+- **Schmackhaftigkeitseffekte** - Modifiziert NahrungsprÃ¤ferenzen in Modellen
+- **Hypothalamus-Signalisierung** - ErgÃ¤nzt Leptin-Signalwege
 
 ### Mageneffekte
 
 Periphere Wirkungen umfassen:
-- **Verzögerung der Magenentleerung** - Verlängert Nährstoffabsorption
-- **Glucagon-Unterdrückung** - Reduziert hepatische Glukoseproduktion
-- **Postprandiale Glukosekontrolle** - Glättet glykämische Ausschläge
+- **VerzÃ¶gerung der Magenentleerung** - VerlÃ¤ngert NÃ¤hrstoffabsorption
+- **Glucagon-UnterdrÃ¼ckung** - Reduziert hepatische Glukoseproduktion
+- **Postprandiale Glukosekontrolle** - GlÃ¤ttet glykÃ¤mische AusschlÃ¤ge
 
 ### Kombinationsforschung
 
 Cagrilintide wird oft mit GLP-1-Agonisten untersucht:
-- **Komplementäre Mechanismen** - Verschiedene Sättigungswege
+- **KomplementÃ¤re Mechanismen** - Verschiedene SÃ¤ttigungswege
 - **Verbesserte Wirksamkeit** - Potenziell additive Effekte
 - **CagriSema-Forschung** - Kombiniert mit Semaglutid
 
@@ -118,27 +118,27 @@ Cagrilintide wird oft mit GLP-1-Agonisten untersucht:
 |---------------|--------|
 | **CAS-Nummer** | 2375614-45-8 |
 | **Molekulargewicht** | 3962,4 g/mol |
-| **Reinheit** | ≥99% (HPLC) |
-| **Erscheinung** | Weißes lyophilisiertes Pulver |
-| **Löslichkeit** | Wasserlöslich |
-| **Identität** | Durch Massenspektrometrie bestätigt |
+| **Reinheit** | â‰¥99% (HPLC) |
+| **Erscheinung** | WeiÃŸes lyophilisiertes Pulver |
+| **LÃ¶slichkeit** | WasserlÃ¶slich |
+| **IdentitÃ¤t** | Durch Massenspektrometrie bestÃ¤tigt |
 
 ## Lagerung und Handhabung
 
 | Zustand | Temperatur | Dauer |
 |---------|------------|-------|
-| **Lyophilisiert** | -20°C | Bis zu 24 Monate |
-| **Rekonstituiert** | 2-8°C | Bis zu 3 Wochen |
+| **Lyophilisiert** | -20Â°C | Bis zu 24 Monate |
+| **Rekonstituiert** | 2-8Â°C | Bis zu 3 Wochen |
 
 ## Bestellinformationen
 
-| Größe | Preis |
+| GrÃ¶ÃŸe | Preis |
 |-------|-------|
-| **2 mg** | Ab €68 |
-| **5 mg** | Ab €165 |
+| **2 mg** | Ab â‚¬68 |
+| **5 mg** | Ab â‚¬165 |
 
-**Mindestbestellung: €200** | **10% Rabatt bei Bestellungen über €200**
+**Mindestbestellung: â‚¬200** | **10% Rabatt bei Bestellungen Ã¼ber â‚¬200**
 
-## Erklärung zur Forschungsnutzung
+## ErklÃ¤rung zur Forschungsnutzung
 
-**Nur für Laborforschung.** Nicht für den menschlichen oder tierärztlichen Gebrauch bestimmt.
+**Nur fÃ¼r Laborforschung.** Nicht fÃ¼r den menschlichen oder tierÃ¤rztlichen Gebrauch bestimmt.

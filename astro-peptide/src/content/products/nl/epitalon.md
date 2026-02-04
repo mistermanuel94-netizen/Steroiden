@@ -8,31 +8,31 @@ urlPath: "/nl/peptides/epitalon-kopen"
 aliases: ["Epithalon", "Epithalone", "AEDG Peptide"]
 cas: "307297-39-8"
 molecular_weight: "390.3 g/mol"
-purity: "≥ 99%"
-storage: "-20°C aanbevolen (alleen voor onderzoek)"
-package_sizes: ["10 × 10 mg flacons"]
+purity: "â‰¥ 99%"
+storage: "-20Â°C aanbevolen (alleen voor onderzoek)"
+package_sizes: ["10 Ã— 10 mg flacons"]
 moq: 200
 price: 200
-price_range: "€200 per verpakking"
+price_range: "â‚¬200 per verpakking"
 coa_url: "/coa/epitalon.pdf"
-short_description: "Epitalon kopen. Telomerase-activerend peptide voor levensduuronderzoek. ≥99% zuiverheid. Snelle levering in NL & EU."
+short_description: "Epitalon kopen. Telomerase-activerend peptide voor levensduuronderzoek. â‰¥99% zuiverheid. Snelle levering in NL & EU."
 category: "cognitive"
 tags: ["research-peptide", "epitalon-nl", "longevity", "peptiden-kopen-nl", "cognitive", "telomerase"]
 images: ["/images/products/epitalon.png"]
 meta:
   title: "Epitalon Kopen | Levensduur Peptide | Snelle Levering"
-  description: "Epitalon kopen. Premium telomerase peptide voor onderzoek. ≥99% zuiverheid, COA inbegrepen. Snelle levering in NL & EU."
+  description: "Epitalon kopen. Premium telomerase peptide voor onderzoek. â‰¥99% zuiverheid, COA inbegrepen. Snelle levering in NL & EU."
 faqs:
   - question: "Waarvoor wordt Epitalon gebruikt in onderzoek?"
     answer: "Epitalon wordt bestudeerd voor telomerase-activering, cellulaire veroudering, melatonineregulatie en levensduurmechanismen. Het is ontwikkeld uit pijnappelklieronderzoek."
   - question: "Hoe werkt Epitalon?"
-    answer: "Epitalon activeert naar verluidt telomerase, het enzym dat de telomeerlengte handhaaft. Het kan ook de melatoninesynthese en circadiane ritmes beïnvloeden."
+    answer: "Epitalon activeert naar verluidt telomerase, het enzym dat de telomeerlengte handhaaft. Het kan ook de melatoninesynthese en circadiane ritmes beÃ¯nvloeden."
   - question: "Wat is de oorsprong van Epitalon?"
     answer: "Epitalon is een synthetisch tetrapeptide gebaseerd op epithalamina, een pijnappelklierextract dat door Russische onderzoekers werd bestudeerd vanwege zijn anti-verouderingseigenschappen."
   - question: "Hoe moet Epitalon worden bewaard?"
-    answer: "Bewaar gelyofiliseerd Epitalon bij -20°C. Na reconstitutie bewaren bij 2-8°C en binnen 4 weken gebruiken."
+    answer: "Bewaar gelyofiliseerd Epitalon bij -20Â°C. Na reconstitutie bewaren bij 2-8Â°C en binnen 4 weken gebruiken."
   - question: "Welke zuiverheid heeft jullie Epitalon?"
-    answer: "Onze Epitalon is ≥99% zuiver zoals geverifieerd door HPLC. Elke batch bevat een Certificaat van Analyse."
+    answer: "Onze Epitalon is â‰¥99% zuiver zoals geverifieerd door HPLC. Elke batch bevat een Certificaat van Analyse."
   - question: "Wat zijn telomeren?"
     answer: "Telomeren zijn beschermende DNA-kapjes aan de uiteinden van chromosomen die korter worden bij elke celdeling. Telomerase kan ze verlengen."
   - question: "Hoe reconstitueer ik Epitalon?"
@@ -44,7 +44,7 @@ reviews:
     rating: 5
     date: "2024-12-10"
     title: "Essentieel voor levensduuronderzoek"
-    content: "Onze telomeeronderzoeken zijn afhankelijk van kwaliteits-Epitalon. Peptide Shop levert uitzonderlijke zuiverheid."
+    content: "Onze telomeeronderzoeken zijn afhankelijk van kwaliteits-Epitalon. Best-Peptides levert uitzonderlijke zuiverheid."
     verified: true
   - author: "Amsterdam Verouderingslab"
     rating: 5
@@ -94,9 +94,9 @@ reviews:
 
 **Epitalon** (Epithalon, AEDG-peptide) is een synthetisch tetrapeptide gebaseerd op epithalamina, een pijnappelklierextract dat uitgebreid is bestudeerd vanwege zijn effecten op telomerase-activering en cellulaire veroudering. Ontwikkeld uit tientallen jaren Russisch onderzoek, is Epitalon een belangrijk hulpmiddel geworden in levensduur- en anti-verouderingsonderzoek.
 
-De primaire interesse in het peptide ligt in zijn gerapporteerde vermogen om telomerase te activeren, wat mogelijk de cellulaire levensduur en leeftijdsgerelateerde veranderingen beïnvloedt.
+De primaire interesse in het peptide ligt in zijn gerapporteerde vermogen om telomerase te activeren, wat mogelijk de cellulaire levensduur en leeftijdsgerelateerde veranderingen beÃ¯nvloedt.
 
-Peptide Shop levert **onderzoeksgrade Epitalon** met gegarandeerde ≥99% zuiverheid.
+Best-Peptides levert **onderzoeksgrade Epitalon** met gegarandeerde â‰¥99% zuiverheid.
 
 ## Hoe werkt Epitalon?
 
@@ -135,25 +135,25 @@ Peptide Shop levert **onderzoeksgrade Epitalon** met gegarandeerde ≥99% zuiver
 | **Moleculaire formule** | C14H22N4O9 |
 | **Moleculair gewicht** | 390.3 g/mol |
 | **Sequentie** | Ala-Glu-Asp-Gly |
-| **Zuiverheid** | ≥99% (HPLC) |
+| **Zuiverheid** | â‰¥99% (HPLC) |
 | **Uiterlijk** | Wit gelyofiliseerd poeder |
 
 ## Opslag
 
 | Conditie | Temperatuur | Duur |
 |----------|-------------|------|
-| **Gelyofiliseerd** | -20°C | Tot 24 maanden |
-| **Gereconstitueerd** | 2-8°C | Tot 4 weken |
+| **Gelyofiliseerd** | -20Â°C | Tot 24 maanden |
+| **Gereconstitueerd** | 2-8Â°C | Tot 4 weken |
 
 ## Bestelinformatie
 
 | Formaat | Prijs |
 |---------|-------|
-| **10 mg** | Vanaf €50 |
-| **20 mg** | Vanaf €92 |
-| **50 mg** | Vanaf €190 |
+| **10 mg** | Vanaf â‚¬50 |
+| **20 mg** | Vanaf â‚¬92 |
+| **50 mg** | Vanaf â‚¬190 |
 
-**Minimale bestelling: €200** | **10% korting op bestellingen boven €200**
+**Minimale bestelling: â‚¬200** | **10% korting op bestellingen boven â‚¬200**
 
 ## Verklaring voor onderzoeksgebruik
 

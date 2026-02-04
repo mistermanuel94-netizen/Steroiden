@@ -15,8 +15,8 @@ const productCopy = productUi?.data.copy ?? {};
 const cleanSlug = (slug: string) => slug.replace(/^en\//, '').replace(/^\/peptides\//, '').replace(/^\//, '');
 
 // Page SEO
-const metaTitle = copy.metaTitle ?? "Buy Peptides UK | Research Peptides for Sale | Peptide Shop";
-const metaDescription = copy.metaDescription ?? "Buy peptides UK. Premium Semaglutide, Tirzepatide, BPC-157, Melanotan 2 & more. ≥99% purity, COA included. Fast UK delivery. Trusted by researchers.";
+const metaTitle = copy.metaTitle ?? "Buy Peptides UK | Research Peptides for Sale | Best-Peptides";
+const metaDescription = copy.metaDescription ?? "Buy peptides UK. Premium Semaglutide, Tirzepatide, BPC-157, Melanotan 2 & more. â‰¥99% purity, COA included. Fast UK delivery. Trusted by researchers.";
 const productCount = products.length;
 ---
 
@@ -43,12 +43,12 @@ const productCount = products.length;
         <div class="hero-text">
           <h1 class="hero-title">{copy.heroTitle ?? "Buy Research Peptides UK"}</h1>
           <p class="hero-description">
-            {copy.heroDescription ?? "Explore our complete collection of premium research peptides. From GLP-1 agonists like Semaglutide and Tirzepatide to recovery peptides like BPC-157, all compounds are HPLC-verified with ≥99% purity and include Certificates of Analysis."}
+            {copy.heroDescription ?? "Explore our complete collection of premium research peptides. From GLP-1 agonists like Semaglutide and Tirzepatide to recovery peptides like BPC-157, all compounds are HPLC-verified with â‰¥99% purity and include Certificates of Analysis."}
           </p>
           
           <!-- Trust Badges -->
           <div class="trust-badges">
-            {(copy.trustBadges ?? ["≥99% HPLC Purity", "COA Included", "Fast UK Delivery", "Secure Checkout"]).map((badge: string) => (
+            {(copy.trustBadges ?? ["â‰¥99% HPLC Purity", "COA Included", "Fast UK Delivery", "Secure Checkout"]).map((badge: string) => (
               <span class="trust-badge">
                 <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="20 6 9 17 4 12"></polyline></svg>
                 {badge}
@@ -63,7 +63,7 @@ const productCount = products.length;
             <span class="stat-label">{copy.stats?.productsLabel ?? productCopy.list?.productsLabel ?? "Products"}</span>
           </div>
           <div class="stat-card">
-            <span class="stat-number">≥99%</span>
+            <span class="stat-number">â‰¥99%</span>
             <span class="stat-label">{copy.stats?.purityLabel ?? productCopy.list?.purityLabel ?? "Purity"}</span>
           </div>
           <div class="stat-card">
@@ -115,9 +115,9 @@ const productCount = products.length;
           <!-- SEO Content -->
           <div class="seo-content">
             <h2>{copy.seoContentTitle ?? "Buy Research Peptides UK - Premium Quality Guaranteed"}</h2>
-            <p>{copy.seoContentLead ?? "Peptide Shop is your trusted source for premium research-grade peptides in the United Kingdom. Our extensive catalogue includes popular compounds such as Semaglutide, Tirzepatide, BPC-157, TB-500, Melanotan 2, and many more specialised peptides for scientific research."}</p>
-            <p>{copy.seoContentBody1 ?? "Every peptide we supply undergoes rigorous HPLC testing to verify ≥99% purity. Each order includes a comprehensive Certificate of Analysis (COA) documenting batch purity, identity verification, and quality metrics. Our peptides are stored in optimal conditions and shipped in temperature-controlled packaging to maintain integrity."}</p>
-            <p>{copy.seoContentBody2 ?? "Whether you're conducting metabolic research, tissue repair studies, or molecular investigations, our research-grade compounds meet the highest standards for scientific applications. With fast UK delivery and expert customer support, Peptide Shop is the preferred choice for researchers across the United Kingdom and Europe."}</p>
+            <p>{copy.seoContentLead ?? "Best-Peptides is your trusted source for premium research-grade peptides in the United Kingdom. Our extensive catalogue includes popular compounds such as Semaglutide, Tirzepatide, BPC-157, TB-500, Melanotan 2, and many more specialised peptides for scientific research."}</p>
+            <p>{copy.seoContentBody1 ?? "Every peptide we supply undergoes rigorous HPLC testing to verify â‰¥99% purity. Each order includes a comprehensive Certificate of Analysis (COA) documenting batch purity, identity verification, and quality metrics. Our peptides are stored in optimal conditions and shipped in temperature-controlled packaging to maintain integrity."}</p>
+            <p>{copy.seoContentBody2 ?? "Whether you're conducting metabolic research, tissue repair studies, or molecular investigations, our research-grade compounds meet the highest standards for scientific applications. With fast UK delivery and expert customer support, Best-Peptides is the preferred choice for researchers across the United Kingdom and Europe."}</p>
           </div>
         </div>
       </div>
@@ -212,7 +212,7 @@ const productCount = products.length;
       align-items: center;
       gap: 6px;
       background: white;
-      color: #0077b6;
+      color: var(--accent-primary);
       padding: 8px 16px;
       border-radius: 50px;
       font-size: 13px;
@@ -222,7 +222,7 @@ const productCount = products.length;
     }
 
     .trust-badge svg {
-      color: #0077b6;
+      color: var(--accent-primary);
     }
 
     .hero-stats {
@@ -244,7 +244,7 @@ const productCount = products.length;
       display: block;
       font-size: 1.75rem;
       font-weight: 800;
-      color: #0077b6;
+      color: var(--accent-primary);
       line-height: 1;
       margin-bottom: 4px;
     }
@@ -312,11 +312,11 @@ const productCount = products.length;
 
     .category-link:hover {
       background: #f1f5f9;
-      color: #0077b6;
+      color: var(--accent-primary);
     }
 
     .category-link.active {
-      background: #0077b6;
+      background: var(--accent-primary);
       color: white;
       font-weight: 600;
     }

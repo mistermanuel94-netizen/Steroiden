@@ -8,85 +8,85 @@ urlPath: "/it/peptides/acquista-selank"
 aliases: ["Selank", "TP-7"]
 cas: "129954-34-3"
 molecular_weight: "751.9 g/mol"
-purity: "≥ 99%"
-storage: "-20°C raccomandato (solo ricerca)"
-package_sizes: ["10 × 5 mg fiale"]
+purity: "â‰¥ 99%"
+storage: "-20Â°C raccomandato (solo ricerca)"
+package_sizes: ["10 Ã— 5 mg fiale"]
 moq: 200
 price: 290
-price_range: "€290 per confezione"
+price_range: "â‚¬290 per confezione"
 coa_url: "/coa/selank.pdf"
-short_description: "Acquista Selank. Peptide nootropico ansiolitico per la ricerca cognitiva. ≥99% di purezza. Consegna rapida."
+short_description: "Acquista Selank. Peptide nootropico ansiolitico per la ricerca cognitiva. â‰¥99% di purezza. Consegna rapida."
 category: "cognitive"
 tags: ["peptide-ricerca", "selank-it", "nootropico", "acquista-peptidi", "cognitivo", "ansiolitico"]
 images: ["/images/products/selank.png"]
 meta:
   title: "Acquista Selank | Peptide Nootropico | Consegna Rapida"
-  description: "Acquista Selank. Peptide ansiolitico premium per la ricerca. ≥99% di purezza, COA incluso. Consegna rapida."
+  description: "Acquista Selank. Peptide ansiolitico premium per la ricerca. â‰¥99% di purezza, COA incluso. Consegna rapida."
 faqs:
   - question: "A cosa serve Selank nella ricerca?"
-    answer: "Selank è studiato per effetti ansiolitici, miglioramento cognitivo, modulazione immunitaria e regolazione dei neurotrasmettitori. È basato sul peptide naturale tuftsin."
+    answer: "Selank Ã¨ studiato per effetti ansiolitici, miglioramento cognitivo, modulazione immunitaria e regolazione dei neurotrasmettitori. Ãˆ basato sul peptide naturale tuftsin."
   - question: "Come funziona Selank?"
     answer: "Selank modula i sistemi GABA, serotonina, dopamina e norepinefrina. Influenza anche l'espressione di BDNF e encefaline."
   - question: "In cosa differisce Selank da Semax?"
-    answer: "Selank è principalmente ansiolitico con benefici cognitivi, mentre Semax è più focalizzato sul miglioramento cognitivo. Selank è basato sulla tuftsin; Semax sull'ACTH."
+    answer: "Selank Ã¨ principalmente ansiolitico con benefici cognitivi, mentre Semax Ã¨ piÃ¹ focalizzato sul miglioramento cognitivo. Selank Ã¨ basato sulla tuftsin; Semax sull'ACTH."
   - question: "Come si conserva Selank?"
-    answer: "Conservare il Selank liofilizzato a -20°C. Una volta ricostituito, mantenere a 2-8°C e utilizzare entro 3-4 settimane."
-  - question: "Qual è la purezza del vostro Selank?"
-    answer: "Il nostro Selank è ≥99% puro, verificato tramite HPLC. Ogni lotto include un Certificato di Analisi."
-  - question: "Cos'è la tuftsin?"
-    answer: "La tuftsin è un tetrapeptide immunomodulatore naturale. Selank estende la tuftsin con aminoacidi aggiuntivi per una maggiore stabilità e attività."
+    answer: "Conservare il Selank liofilizzato a -20Â°C. Una volta ricostituito, mantenere a 2-8Â°C e utilizzare entro 3-4 settimane."
+  - question: "Qual Ã¨ la purezza del vostro Selank?"
+    answer: "Il nostro Selank Ã¨ â‰¥99% puro, verificato tramite HPLC. Ogni lotto include un Certificato di Analisi."
+  - question: "Cos'Ã¨ la tuftsin?"
+    answer: "La tuftsin Ã¨ un tetrapeptide immunomodulatore naturale. Selank estende la tuftsin con aminoacidi aggiuntivi per una maggiore stabilitÃ  e attivitÃ ."
   - question: "Come si ricostituisce Selank?"
     answer: "Ricostituire in acqua batteriostatica sterile. Aggiungere il solvente lentamente e agitare delicatamente per dissolvere."
   - question: "Quali formati sono disponibili?"
-    answer: "Selank è disponibile in fiale da 5mg e 10mg."
+    answer: "Selank Ã¨ disponibile in fiale da 5mg e 10mg."
 reviews:
   - author: "Dr. Marco Rossi"
     rating: 5
     date: "2024-12-09"
     title: "Eccellente per la ricerca cognitiva"
-    content: "I nostri studi sull'ansia e la cognizione dipendono da Selank di qualità. Peptide Shop consegna in modo costante."
+    content: "I nostri studi sull'ansia e la cognizione dipendono da Selank di qualitÃ . Best-Peptides consegna in modo costante."
     verified: true
-  - author: "Università di Milano Neuroscienze"
+  - author: "UniversitÃ  di Milano Neuroscienze"
     rating: 5
     date: "2024-12-02"
-    title: "Qualità premium"
-    content: "La qualità di Selank è eccezionale. Effetti di modulazione GABA chiaramente osservabili."
+    title: "QualitÃ  premium"
+    content: "La qualitÃ  di Selank Ã¨ eccezionale. Effetti di modulazione GABA chiaramente osservabili."
     verified: true
   - author: "Giuseppe Bianchi"
     rating: 5
     date: "2024-11-25"
     title: "Prodotto eccellente"
-    content: "Consegna rapida, qualità eccellente. La ricerca ansiolitica procede bene."
+    content: "Consegna rapida, qualitÃ  eccellente. La ricerca ansiolitica procede bene."
     verified: true
   - author: "Roma Laboratorio Neurofarmacologia"
     rating: 5
     date: "2024-11-18"
     title: "Fornitore affidabile"
-    content: "Qualità costante per la nostra ricerca in neuroscienze peptidiche."
+    content: "QualitÃ  costante per la nostra ricerca in neuroscienze peptidiche."
     verified: true
   - author: "Dott.ssa Giulia Conti"
     rating: 5
     date: "2024-11-11"
     title: "Purezza eccezionale"
-    content: "La verifica della purezza conferma un'eccellente qualità."
+    content: "La verifica della purezza conferma un'eccellente qualitÃ ."
     verified: true
   - author: "Firenze Laboratorio Cognizione"
     rating: 5
     date: "2024-11-04"
     title: "Servizio eccellente"
-    content: "Consegna rapida, ottima qualità per studi nootropici."
+    content: "Consegna rapida, ottima qualitÃ  per studi nootropici."
     verified: true
   - author: "Sofia Ferrari"
     rating: 5
     date: "2024-10-28"
     title: "Consegna rapida"
-    content: "La consegna express è stata veloce. Qualità eccellente."
+    content: "La consegna express Ã¨ stata veloce. QualitÃ  eccellente."
     verified: true
   - author: "Napoli Ricerca Ansia"
     rating: 5
     date: "2024-10-21"
     title: "Molto buono"
-    content: "La qualità è eccellente per la ricerca sui recettori GABA."
+    content: "La qualitÃ  Ã¨ eccellente per la ricerca sui recettori GABA."
     verified: true
   - author: "Dr. Alessandro Marino"
     rating: 5
@@ -97,7 +97,7 @@ reviews:
   - author: "Torino Laboratorio Neuroscienze"
     rating: 5
     date: "2024-10-07"
-    title: "Qualità affidabile"
+    title: "QualitÃ  affidabile"
     content: "Ordini multipli, costantemente eccellente."
     verified: true
   - author: "Luca Romano"
@@ -110,17 +110,17 @@ reviews:
     rating: 5
     date: "2024-09-23"
     title: "Fornitore eccellente"
-    content: "Selank di alta qualità con documentazione appropriata."
+    content: "Selank di alta qualitÃ  con documentazione appropriata."
     verified: true
 ---
 
-## Cos'è Selank?
+## Cos'Ã¨ Selank?
 
-**Selank** (TP-7) è un eptapeptide sintetico sviluppato in Russia come analogo modificato della tuftsin, un peptide immunomodulatore naturale. Selank è stato ampiamente studiato per le sue proprietà ansiolitiche, nootropiche e immunomodulatorie.
+**Selank** (TP-7) Ã¨ un eptapeptide sintetico sviluppato in Russia come analogo modificato della tuftsin, un peptide immunomodulatore naturale. Selank Ã¨ stato ampiamente studiato per le sue proprietÃ  ansiolitiche, nootropiche e immunomodulatorie.
 
-A differenza delle benzodiazepine, Selank non produce sedazione né dipendenza, rendendolo uno strumento prezioso per la ricerca sui meccanismi dell'ansia e nuovi approcci terapeutici.
+A differenza delle benzodiazepine, Selank non produce sedazione nÃ© dipendenza, rendendolo uno strumento prezioso per la ricerca sui meccanismi dell'ansia e nuovi approcci terapeutici.
 
-Peptide Shop fornisce **Selank di grado ricerca** con purezza garantita ≥99%.
+Best-Peptides fornisce **Selank di grado ricerca** con purezza garantita â‰¥99%.
 
 ## Come Funziona Selank?
 
@@ -135,7 +135,7 @@ Peptide Shop fornisce **Selank di grado ricerca** con purezza garantita ≥99%.
 - **Norepinefrina** - Regolazione dell'attenzione
 
 ### Neuroprotezione
-- **Espressione BDNF** - Neuroplasticità
+- **Espressione BDNF** - NeuroplasticitÃ 
 - **Encefaline** - Oppioidi endogeni
 - **Antinfiammatorio** - Protezione del SNC
 
@@ -162,24 +162,24 @@ Peptide Shop fornisce **Selank di grado ricerca** con purezza garantita ≥99%.
 | **Numero CAS** | 129954-34-3 |
 | **Peso molecolare** | 751.9 g/mol |
 | **Sequenza** | Thr-Lys-Pro-Arg-Pro-Gly-Pro |
-| **Purezza** | ≥99% (HPLC) |
+| **Purezza** | â‰¥99% (HPLC) |
 | **Aspetto** | Polvere liofilizzata bianca |
 
 ## Conservazione
 
 | Condizione | Temperatura | Durata |
 |------------|-------------|--------|
-| **Liofilizzato** | -20°C | Fino a 24 mesi |
-| **Ricostituito** | 2-8°C | Fino a 3-4 settimane |
+| **Liofilizzato** | -20Â°C | Fino a 24 mesi |
+| **Ricostituito** | 2-8Â°C | Fino a 3-4 settimane |
 
 ## Informazioni per l'Ordine
 
 | Formato | Prezzo |
 |---------|--------|
-| **5 mg** | Da €40 |
-| **10 mg** | Da €85 |
+| **5 mg** | Da â‚¬40 |
+| **10 mg** | Da â‚¬85 |
 
-**Ordine minimo: €200** | **10% di sconto su ordini superiori a €200**
+**Ordine minimo: â‚¬200** | **10% di sconto su ordini superiori a â‚¬200**
 
 ## Dichiarazione di Utilizzo per la Ricerca
 

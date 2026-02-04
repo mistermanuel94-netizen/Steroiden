@@ -210,7 +210,7 @@ export default function ProductCard({ id, title, price, image, slug, category, r
         /* Touch-friendly - no transform on mobile */
         @media (min-width: 992px) {
           .shopcart-product-card:hover {
-            border-color: #0077b6;
+			border-color: var(--accent-primary);
             box-shadow: 0 8px 24px rgba(0, 0, 0, 0.08);
             transform: translateY(-4px);
           }
@@ -337,7 +337,7 @@ export default function ProductCard({ id, title, price, image, slug, category, r
         }
 
         .product-title-link:hover .product-title {
-          color: #0077b6;
+    		color: var(--accent-primary);
         }
 
         .product-category {
@@ -414,9 +414,9 @@ export default function ProductCard({ id, title, price, image, slug, category, r
 
         .package-size {
           font-size: 11px;
-          color: #0077b6;
+      		color: var(--accent-primary);
           font-weight: 500;
-          background: rgba(0, 119, 182, 0.1);
+      		background: rgba(227, 27, 35, 0.10);
           padding: 2px 6px;
           border-radius: 4px;
           display: inline-block;
@@ -447,7 +447,7 @@ export default function ProductCard({ id, title, price, image, slug, category, r
         }
 
         .min-qty {
-          color: #0077b6;
+		color: var(--accent-primary);
           font-weight: 600;
         }
 
@@ -502,7 +502,7 @@ export default function ProductCard({ id, title, price, image, slug, category, r
           width: 100%;
           padding: 10px 12px;
           border-radius: 8px;
-          background: #0077b6;
+          background: var(--btn-primary-start);
           color: white;
           font-size: 13px;
           font-weight: 600;
@@ -514,7 +514,7 @@ export default function ProductCard({ id, title, price, image, slug, category, r
         }
 
         .view-options-btn:active {
-          background: #023e8a;
+    		background: var(--btn-primary-end);
         }
 
         @media (min-width: 576px) {
@@ -526,7 +526,7 @@ export default function ProductCard({ id, title, price, image, slug, category, r
 
         @media (min-width: 992px) {
           .view-options-btn:hover {
-            background: #023e8a;
+			background: var(--btn-primary-end);
             color: white;
           }
         }
@@ -546,14 +546,14 @@ export default function ProductCard({ id, title, price, image, slug, category, r
         }
 
         .add-to-cart-btn:hover {
-          background: #0077b6;
-          border-color: #0077b6;
+    background: var(--btn-primary-start);
+    border-color: var(--btn-primary-start);
           color: white;
         }
 
         .add-to-cart-btn.added {
-          background: #0077b6;
-          border-color: #0077b6;
+    background: var(--btn-primary-start);
+    border-color: var(--btn-primary-start);
           color: white;
         }
       `}</style>

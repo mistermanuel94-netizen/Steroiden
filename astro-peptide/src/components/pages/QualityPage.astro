@@ -14,7 +14,7 @@ const copy = pageCopy?.data.copy ?? {};
 ---
 
 <Layout 
-  title={`${copy.title ?? t(lang, 'qualityPage.title')} | Peptide Shop`}
+  title={`${copy.title ?? t(lang, 'qualityPage.title')} | Best-Peptides`}
   description={copy.description ?? t(lang, 'qualityPage.description')}
   breadcrumbs={[
     { name: t(lang, 'nav.home'), url: getLocalizedPath('/', lang) },
@@ -37,8 +37,8 @@ const copy = pageCopy?.data.copy ?? {};
       <!-- Testing Methods -->
       <div class="row g-4 mb-5">
         <div class="col-md-6">
-          <div style="background: linear-gradient(135deg, rgba(0, 119, 182, 0.05), rgba(0, 150, 199, 0.05)); border-radius: 10px; padding: 40px; height: 100%; border: 2px solid rgba(0, 119, 182, 0.15);">
-            <div style="width: 64px; height: 64px; background: linear-gradient(135deg, #0077b6, #023e8a); border-radius: 10px; display: flex; align-items: center; justify-content: center; margin-bottom: 24px;">
+          <div style="background: linear-gradient(135deg, rgba(227, 27, 35, 0.05), rgba(227, 27, 35, 0.02)); border-radius: 10px; padding: 40px; height: 100%; border: 2px solid rgba(227, 27, 35, 0.18);">
+            <div style="width: 64px; height: 64px; background: linear-gradient(135deg, var(--btn-primary-start), var(--btn-primary-end)); border-radius: 10px; display: flex; align-items: center; justify-content: center; margin-bottom: 24px;">
               <svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="2">
                 <path d="M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z"></path>
                 <polyline points="7.5 4.21 12 6.81 16.5 4.21"></polyline>
@@ -55,10 +55,10 @@ const copy = pageCopy?.data.copy ?? {};
             <div style="background: white; border-radius: 10px; padding: 16px;">
               <div style="display: flex; justify-content: between; align-items: center; margin-bottom: 8px;">
                 <span style="color: #64748b; font-size: 14px; font-weight: 600;">{copy.purityStandard ?? t(lang, 'qualityPage.purityStandard')}</span>
-                <span style="color: #0077b6; font-weight: 700; font-size: 18px;">≥99%</span>
+                <span style="color: var(--accent-primary); font-weight: 700; font-size: 18px;">â‰¥99%</span>
               </div>
-              <div style="background: rgba(0, 119, 182, 0.1); height: 8px; border-radius: 10px; overflow: hidden;">
-                <div style="background: linear-gradient(90deg, #0077b6, #023e8a); width: 99%; height: 100%;"></div>
+              <div style="background: rgba(227, 27, 35, 0.10); height: 8px; border-radius: 10px; overflow: hidden;">
+                <div style="background: linear-gradient(90deg, var(--btn-primary-start), var(--btn-primary-end)); width: 99%; height: 100%;"></div>
               </div>
             </div>
           </div>
@@ -103,48 +103,48 @@ const copy = pageCopy?.data.copy ?? {};
 
             <div class="row g-3">
               <div class="col-md-4">
-                <div style="display: flex; align-items: start; gap: 12px; padding: 16px; background: rgba(0, 119, 182, 0.05); border-radius: 10px;">
-                  <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#0077b6" stroke-width="2" style="flex-shrink: 0; margin-top: 2px;">
+                <div style="display: flex; align-items: start; gap: 12px; padding: 16px; background: rgba(227, 27, 35, 0.05); border-radius: 10px;">
+                  <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="var(--accent-primary)" stroke-width="2" style="flex-shrink: 0; margin-top: 2px;">
                     <polyline points="20 6 9 17 4 12"></polyline>
                   </svg>
                   <span style="color: #1e293b; font-size: 14px; font-weight: 600;">{copy.coaItems?.batchNumber ?? t(lang, 'qualityPage.coaItems.batchNumber')}</span>
                 </div>
               </div>
               <div class="col-md-4">
-                <div style="display: flex; align-items: start; gap: 12px; padding: 16px; background: rgba(0, 119, 182, 0.05); border-radius: 10px;">
-                  <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#0077b6" stroke-width="2" style="flex-shrink: 0; margin-top: 2px;">
+                <div style="display: flex; align-items: start; gap: 12px; padding: 16px; background: rgba(227, 27, 35, 0.05); border-radius: 10px;">
+                  <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="var(--accent-primary)" stroke-width="2" style="flex-shrink: 0; margin-top: 2px;">
                     <polyline points="20 6 9 17 4 12"></polyline>
                   </svg>
                   <span style="color: #1e293b; font-size: 14px; font-weight: 600;">{copy.coaItems?.dateOfAnalysis ?? t(lang, 'qualityPage.coaItems.dateOfAnalysis')}</span>
                 </div>
               </div>
               <div class="col-md-4">
-                <div style="display: flex; align-items: start; gap: 12px; padding: 16px; background: rgba(0, 119, 182, 0.05); border-radius: 10px;">
-                  <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#0077b6" stroke-width="2" style="flex-shrink: 0; margin-top: 2px;">
+                <div style="display: flex; align-items: start; gap: 12px; padding: 16px; background: rgba(227, 27, 35, 0.05); border-radius: 10px;">
+                  <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="var(--accent-primary)" stroke-width="2" style="flex-shrink: 0; margin-top: 2px;">
                     <polyline points="20 6 9 17 4 12"></polyline>
                   </svg>
                   <span style="color: #1e293b; font-size: 14px; font-weight: 600;">{copy.coaItems?.molecularWeight ?? t(lang, 'qualityPage.coaItems.molecularWeight')}</span>
                 </div>
               </div>
               <div class="col-md-4">
-                <div style="display: flex; align-items: start; gap: 12px; padding: 16px; background: rgba(0, 119, 182, 0.05); border-radius: 10px;">
-                  <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#0077b6" stroke-width="2" style="flex-shrink: 0; margin-top: 2px;">
+                <div style="display: flex; align-items: start; gap: 12px; padding: 16px; background: rgba(227, 27, 35, 0.05); border-radius: 10px;">
+                  <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="var(--accent-primary)" stroke-width="2" style="flex-shrink: 0; margin-top: 2px;">
                     <polyline points="20 6 9 17 4 12"></polyline>
                   </svg>
                   <span style="color: #1e293b; font-size: 14px; font-weight: 600;">{copy.coaItems?.hplcChromatogram ?? t(lang, 'qualityPage.coaItems.hplcChromatogram')}</span>
                 </div>
               </div>
               <div class="col-md-4">
-                <div style="display: flex; align-items: start; gap: 12px; padding: 16px; background: rgba(0, 119, 182, 0.05); border-radius: 10px;">
-                  <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#0077b6" stroke-width="2" style="flex-shrink: 0; margin-top: 2px;">
+                <div style="display: flex; align-items: start; gap: 12px; padding: 16px; background: rgba(227, 27, 35, 0.05); border-radius: 10px;">
+                  <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="var(--accent-primary)" stroke-width="2" style="flex-shrink: 0; margin-top: 2px;">
                     <polyline points="20 6 9 17 4 12"></polyline>
                   </svg>
                   <span style="color: #1e293b; font-size: 14px; font-weight: 600;">{copy.coaItems?.physicalAppearance ?? t(lang, 'qualityPage.coaItems.physicalAppearance')}</span>
                 </div>
               </div>
               <div class="col-md-4">
-                <div style="display: flex; align-items: start; gap: 12px; padding: 16px; background: rgba(0, 119, 182, 0.05); border-radius: 10px;">
-                  <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#0077b6" stroke-width="2" style="flex-shrink: 0; margin-top: 2px;">
+                <div style="display: flex; align-items: start; gap: 12px; padding: 16px; background: rgba(227, 27, 35, 0.05); border-radius: 10px;">
+                  <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="var(--accent-primary)" stroke-width="2" style="flex-shrink: 0; margin-top: 2px;">
                     <polyline points="20 6 9 17 4 12"></polyline>
                   </svg>
                   <span style="color: #1e293b; font-size: 14px; font-weight: 600;">{copy.coaItems?.solubilityProfile ?? t(lang, 'qualityPage.coaItems.solubilityProfile')}</span>

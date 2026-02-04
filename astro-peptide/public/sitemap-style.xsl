@@ -34,7 +34,7 @@
             font-size: 14px;
           }
           a {
-            color: #0077b6;
+            color: #e1062c;
             text-decoration: none;
           }
           a:hover {

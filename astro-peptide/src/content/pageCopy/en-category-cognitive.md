@@ -4,7 +4,7 @@ page: category-cognitive
 copy:
   title: "Cognitive & Nootropic Peptides"
   h1: "Buy Cognitive Peptides UK & Europe"
-  metaTitle: "Buy Cognitive Peptides UK | Nootropic Peptides for Sale | Peptide Shop"
+  metaTitle: "Buy Cognitive Peptides UK | Nootropic Peptides for Sale | Best-Peptides"
   metaDescription: "Buy cognitive peptides UK & Europe. Selank, Semax, and nootropic peptides for neuroscience research. 99% purity, fast UK & EU delivery."
   primaryKeyword: "buy cognitive peptides uk"
   searchVolume: "1200"

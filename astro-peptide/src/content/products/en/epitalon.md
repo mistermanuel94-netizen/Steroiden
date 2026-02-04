@@ -8,20 +8,20 @@ urlPath: "/peptides/buy-epitalon"
 aliases: ["Epithalon", "Epithalone", "AEDG Peptide"]
 cas: "307297-39-8"
 molecular_weight: "390.3 g/mol"
-purity: "≥ 99%"
-storage: "-20°C recommended (research-only)"
-package_sizes: ["10 × 10 mg vials"]
+purity: "â‰¥ 99%"
+storage: "-20Â°C recommended (research-only)"
+package_sizes: ["10 Ã— 10 mg vials"]
 moq: 200
 price: 200
-price_range: "£200 per pack"
+price_range: "Â£200 per pack"
 coa_url: "/coa/epitalon.pdf"
-short_description: "Buy Epitalon. Telomerase-activating peptide for longevity research. ≥99% purity. Fast UK & EU delivery."
+short_description: "Buy Epitalon. Telomerase-activating peptide for longevity research. â‰¥99% purity. Fast UK & EU delivery."
 category: "cognitive"
 tags: ["research-peptide", "epitalon-uk", "longevity", "buy-peptides-uk", "cognitive", "telomerase"]
 images: ["/images/products/epitalon.png"]
 meta:
   title: "Buy Epitalon | Longevity Peptide | Fast Delivery"
-  description: "Buy Epitalon. Premium telomerase peptide for research. ≥99% purity, COA included. Fast UK & EU delivery."
+  description: "Buy Epitalon. Premium telomerase peptide for research. â‰¥99% purity, COA included. Fast UK & EU delivery."
 faqs:
   - question: "What is Epitalon used for in research?"
     answer: "Epitalon is studied for telomerase activation, cellular ageing, melatonin regulation, and longevity mechanisms. It was developed from pineal gland research."
@@ -30,9 +30,9 @@ faqs:
   - question: "What is the origin of Epitalon?"
     answer: "Epitalon is a synthetic tetrapeptide based on epithalamin, a pineal gland extract studied by Russian researchers for its anti-ageing properties."
   - question: "How should Epitalon be stored?"
-    answer: "Store lyophilised Epitalon at -20°C. Once reconstituted, keep at 2-8°C and use within 4 weeks."
+    answer: "Store lyophilised Epitalon at -20Â°C. Once reconstituted, keep at 2-8Â°C and use within 4 weeks."
   - question: "What purity is your Epitalon?"
-    answer: "Our Epitalon is ≥99% pure as verified by HPLC. Each batch includes a Certificate of Analysis."
+    answer: "Our Epitalon is â‰¥99% pure as verified by HPLC. Each batch includes a Certificate of Analysis."
   - question: "What are telomeres?"
     answer: "Telomeres are protective DNA caps at chromosome ends that shorten with each cell division. Telomerase can extend them."
   - question: "How do I reconstitute Epitalon?"
@@ -44,7 +44,7 @@ reviews:
     rating: 5
     date: "2024-12-10"
     title: "Essential for longevity research"
-    content: "Our telomere studies depend on quality Epitalon. Peptide Shop delivers exceptional purity."
+    content: "Our telomere studies depend on quality Epitalon. Best-Peptides delivers exceptional purity."
     verified: true
   - author: "Cambridge Ageing Lab"
     rating: 5
@@ -126,7 +126,7 @@ reviews:
 
 The peptide's primary interest lies in its reported ability to activate telomerase, potentially influencing cellular lifespan and age-related changes.
 
-Peptide Shop supplies **research-grade Epitalon** with guaranteed ≥99% purity.
+Best-Peptides supplies **research-grade Epitalon** with guaranteed â‰¥99% purity.
 
 ## How Does Epitalon Work?
 
@@ -165,25 +165,25 @@ Peptide Shop supplies **research-grade Epitalon** with guaranteed ≥99% purity.
 | **Molecular Formula** | C14H22N4O9 |
 | **Molecular Weight** | 390.3 g/mol |
 | **Sequence** | Ala-Glu-Asp-Gly |
-| **Purity** | ≥99% (HPLC) |
+| **Purity** | â‰¥99% (HPLC) |
 | **Appearance** | White lyophilised powder |
 
 ## Storage
 
 | Condition | Temperature | Duration |
 |-----------|-------------|----------|
-| **Lyophilised** | -20°C | Up to 24 months |
-| **Reconstituted** | 2-8°C | Up to 4 weeks |
+| **Lyophilised** | -20Â°C | Up to 24 months |
+| **Reconstituted** | 2-8Â°C | Up to 4 weeks |
 
 ## Ordering Information
 
 | Size | Price |
 |------|-------|
-| **10 mg** | From £42 |
-| **20 mg** | From £78 |
-| **50 mg** | From £160 |
+| **10 mg** | From Â£42 |
+| **20 mg** | From Â£78 |
+| **50 mg** | From Â£160 |
 
-**Minimum order: £200** | **10% discount on orders over £200**
+**Minimum order: Â£200** | **10% discount on orders over Â£200**
 
 ## Research Use Statement
 

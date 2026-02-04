@@ -8,20 +8,20 @@ urlPath: "/peptides/buy-dsip"
 aliases: ["Delta Sleep Inducing Peptide", "DSIP"]
 cas: "62568-57-4"
 molecular_weight: "848.8 g/mol"
-purity: "≥ 99%"
-storage: "-20°C recommended (research-only)"
-package_sizes: ["10 × 5 mg vials"]
+purity: "â‰¥ 99%"
+storage: "-20Â°C recommended (research-only)"
+package_sizes: ["10 Ã— 5 mg vials"]
 moq: 200
 price: 220
-price_range: "£220 per pack"
+price_range: "Â£220 per pack"
 coa_url: "/coa/dsip.pdf"
-short_description: "Buy DSIP. Delta sleep-inducing peptide for sleep research. ≥99% purity. Fast UK & EU delivery."
+short_description: "Buy DSIP. Delta sleep-inducing peptide for sleep research. â‰¥99% purity. Fast UK & EU delivery."
 category: "cognitive"
 tags: ["research-peptide", "dsip-uk", "sleep", "buy-peptides-uk", "cognitive", "nootropic"]
 images: ["/images/products/dsip.png"]
 meta:
   title: "Buy DSIP | Sleep Peptide | Fast Delivery"
-  description: "Buy DSIP. Premium delta sleep-inducing peptide for research. ≥99% purity, COA included. Fast UK & EU delivery."
+  description: "Buy DSIP. Premium delta sleep-inducing peptide for research. â‰¥99% purity, COA included. Fast UK & EU delivery."
 faqs:
   - question: "What is DSIP used for in research?"
     answer: "DSIP is studied for its effects on sleep regulation, circadian rhythms, stress response, and neuroendocrine function. It was originally isolated from rabbit brain."
@@ -30,9 +30,9 @@ faqs:
   - question: "What is the origin of DSIP?"
     answer: "DSIP was first isolated in 1977 from rabbit brain during sleep studies. It's a nonapeptide found in various tissues."
   - question: "How should DSIP be stored?"
-    answer: "Store lyophilised DSIP at -20°C. Once reconstituted, keep at 2-8°C and use within 3-4 weeks."
+    answer: "Store lyophilised DSIP at -20Â°C. Once reconstituted, keep at 2-8Â°C and use within 3-4 weeks."
   - question: "What purity is your DSIP?"
-    answer: "Our DSIP is ≥99% pure as verified by HPLC. Each batch includes a Certificate of Analysis."
+    answer: "Our DSIP is â‰¥99% pure as verified by HPLC. Each batch includes a Certificate of Analysis."
   - question: "Does DSIP affect cortisol?"
     answer: "Research suggests DSIP may modulate stress hormone levels, including potential effects on cortisol and ACTH."
   - question: "How do I reconstitute DSIP?"
@@ -44,7 +44,7 @@ reviews:
     rating: 5
     date: "2024-12-07"
     title: "Excellent for sleep research"
-    content: "Our circadian rhythm studies depend on quality DSIP. Peptide Shop delivers consistently."
+    content: "Our circadian rhythm studies depend on quality DSIP. Best-Peptides delivers consistently."
     verified: true
   - author: "Cambridge Sleep Lab"
     rating: 5
@@ -108,7 +108,7 @@ reviews:
 
 Beyond sleep regulation, DSIP has demonstrated effects on stress response, pain perception, and neuroendocrine function, making it a versatile tool for neuroscience research.
 
-Peptide Shop supplies **research-grade DSIP** with guaranteed ≥99% purity.
+Best-Peptides supplies **research-grade DSIP** with guaranteed â‰¥99% purity.
 
 ## How Does DSIP Work?
 
@@ -146,24 +146,24 @@ Peptide Shop supplies **research-grade DSIP** with guaranteed ≥99% purity.
 | **Molecular Formula** | C35H48N10O15 |
 | **Molecular Weight** | 848.8 g/mol |
 | **Sequence** | Trp-Ala-Gly-Gly-Asp-Ala-Ser-Gly-Glu |
-| **Purity** | ≥99% (HPLC) |
+| **Purity** | â‰¥99% (HPLC) |
 | **Appearance** | White lyophilised powder |
 
 ## Storage
 
 | Condition | Temperature | Duration |
 |-----------|-------------|----------|
-| **Lyophilised** | -20°C | Up to 24 months |
-| **Reconstituted** | 2-8°C | Up to 3-4 weeks |
+| **Lyophilised** | -20Â°C | Up to 24 months |
+| **Reconstituted** | 2-8Â°C | Up to 3-4 weeks |
 
 ## Ordering Information
 
 | Size | Price |
 |------|-------|
-| **2 mg** | From £32 |
-| **5 mg** | From £75 |
+| **2 mg** | From Â£32 |
+| **5 mg** | From Â£75 |
 
-**Minimum order: £200** | **10% discount on orders over £200**
+**Minimum order: Â£200** | **10% discount on orders over Â£200**
 
 ## Research Use Statement
 

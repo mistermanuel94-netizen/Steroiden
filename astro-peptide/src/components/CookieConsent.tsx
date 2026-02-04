@@ -98,7 +98,7 @@ export default function CookieConsent({ lang }: CookieConsentProps) {
         left: 0,
         right: 0,
         zIndex: 9999,
-        background: 'linear-gradient(135deg, rgba(23, 37, 42, 0.98), rgba(30, 45, 52, 0.98))',
+        background: 'linear-gradient(135deg, rgba(11, 15, 20, 0.98), rgba(15, 23, 36, 0.98))',
         backdropFilter: 'blur(10px)',
         color: '#fff',
         padding: '20px 24px',
@@ -143,7 +143,7 @@ export default function CookieConsent({ lang }: CookieConsentProps) {
             <a
               href={privacyUrl}
               style={{
-                color: '#4dd0e1',
+                color: 'var(--accent-secondary)',
                 textDecoration: 'underline',
                 fontWeight: 500,
               }}
@@ -193,21 +193,21 @@ export default function CookieConsent({ lang }: CookieConsentProps) {
               fontWeight: 600,
               borderRadius: '10px',
               border: 'none',
-              background: 'linear-gradient(135deg, #0077b6, #00a8cc)',
+              background: 'linear-gradient(135deg, var(--btn-primary-start), var(--btn-primary-end))',
               color: '#fff',
               cursor: 'pointer',
               transition: 'all 0.2s ease',
               minWidth: '120px',
               minHeight: '48px',
-              boxShadow: '0 4px 12px rgba(0,119,182,0.4)',
+              boxShadow: '0 4px 12px rgba(225, 6, 44, 0.35)',
             }}
             onMouseOver={(e) => {
               e.currentTarget.style.transform = 'translateY(-2px)';
-              e.currentTarget.style.boxShadow = '0 6px 16px rgba(0,119,182,0.5)';
+              e.currentTarget.style.boxShadow = '0 6px 16px rgba(225, 6, 44, 0.45)';
             }}
             onMouseOut={(e) => {
               e.currentTarget.style.transform = 'translateY(0)';
-              e.currentTarget.style.boxShadow = '0 4px 12px rgba(0,119,182,0.4)';
+              e.currentTarget.style.boxShadow = '0 4px 12px rgba(225, 6, 44, 0.35)';
             }}
           >
             {t.accept}

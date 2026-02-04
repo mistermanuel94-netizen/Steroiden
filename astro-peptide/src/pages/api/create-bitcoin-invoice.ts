@@ -61,7 +61,7 @@ export const POST: APIRoute = async ({ request }) => {
           metadata: {
             orderId: orderId,
             buyerEmail: buyerEmail,
-            itemDesc: description || `Peptide Shop Order ${orderId}`
+            itemDesc: description || `Best-Peptides Order ${orderId}`
           },
           checkout: {
             speedPolicy: 'MediumSpeed', // 1 confirmation

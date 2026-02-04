@@ -40,7 +40,7 @@ const bundles = [
       t(lang, 'bundlesPage.features.complete'),
       t(lang, 'bundlesPage.features.popular')
     ],
-    color: "#0077b6"
+    color: "var(--accent-primary)"
   },
   {
     id: "weight-research-stack",
@@ -135,7 +135,7 @@ const bundles = [
 ---
 
 <Layout 
-  title={`${copy.title ?? t(lang, 'bundlesPage.title')} | Peptide Shop`}
+  title={`${copy.title ?? t(lang, 'bundlesPage.title')} | Best-Peptides`}
   description={copy.description ?? t(lang, 'bundlesPage.description')}
   breadcrumbs={[
     { name: t(lang, 'nav.home'), url: getLocalizedPath('/', lang) },
@@ -144,7 +144,7 @@ const bundles = [
 >
   <style>
     .bundles-hero {
-      background: linear-gradient(135deg, #0077b6 0%, #023e8a 100%);
+      background: linear-gradient(135deg, var(--btn-primary-start) 0%, var(--btn-primary-end) 100%);
       padding: 100px 0 80px;
       position: relative;
       overflow: hidden;
@@ -295,7 +295,7 @@ const bundles = [
     }
     
     .product-link:hover {
-      color: #0077b6;
+      color: var(--accent-primary);
     }
     
     .product-size {
@@ -382,7 +382,7 @@ const bundles = [
     }
     
     .add-bundle-btn {
-      background: linear-gradient(135deg, #0077b6, #023e8a);
+      background: linear-gradient(135deg, var(--btn-primary-start), var(--btn-primary-end));
       color: white;
       padding: 14px 28px;
       border-radius: 10px;
@@ -398,7 +398,7 @@ const bundles = [
     
     .add-bundle-btn:hover {
       transform: translateY(-2px);
-      box-shadow: 0 10px 30px rgba(0, 119, 182, 0.3);
+      box-shadow: 0 10px 30px rgba(227, 27, 35, 0.3);
     }
   </style>
 
@@ -436,7 +436,7 @@ const bundles = [
                     <a href={product.href} class="product-link">{product.name}</a>
                     <span class="product-size">{product.size}</span>
                   </div>
-                  <span class="product-price">£{product.price}</span>
+                  <span class="product-price">Â£{product.price}</span>
                 </div>
               ))}
             </div>
@@ -456,9 +456,9 @@ const bundles = [
             
             <div class="bundle-footer">
               <div class="price-block">
-                <span class="original-price">£{bundle.originalPrice}</span>
-                <span class="bundle-price">£{bundle.bundlePrice}</span>
-                <span class="savings-badge">{t(lang, 'bundlesPage.save')} £{bundle.savings}</span>
+                <span class="original-price">Â£{bundle.originalPrice}</span>
+                <span class="bundle-price">Â£{bundle.bundlePrice}</span>
+                <span class="savings-badge">{t(lang, 'bundlesPage.save')} Â£{bundle.savings}</span>
               </div>
               <button 
                 class="add-bundle-btn"
