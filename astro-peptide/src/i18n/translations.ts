@@ -4849,8 +4849,8 @@ export const translations: Record<SupportedLanguage, Translations> = {
         muscleGrowthDesc: 'Achetez des peptides pour la recherche sur la croissance musculaire et la rÃ©cupÃ©ration, y compris BPC-157, TB-500 et les variantes IGF-1. Nos peptides de musculation sont de qualitÃ© recherche avec une puretÃ© de 99%, idÃ©aux pour les Ã©tudes de rÃ©paration tissulaire et de rÃ©gÃ©nÃ©ration. Livraison rapide et prix compÃ©titifs font de nous le choix prÃ©fÃ©rÃ© des chercheurs Ã©tudiant les voies anaboliques.',
         cognitive: 'Peptides nootropiques pour la recherche cognitive',
         cognitiveDesc: 'Neuropeptides pour la recherche cognitive et neurologique : Selank, Semax, Dihexa, BPC-157 et PE-22-28.',
-        growthHormone: 'Peptides d''hormone de croissance — Sécrétagogues',
-        growthHormoneDesc: 'Gamme complète de sécrétagogues de l''hormone de croissance : CJC-1295, Ipamorelin, GHRP-2, GHRP-6, Sermorelin et Tesamorelin.',
+        growthHormone: 'Peptides d\'hormone de croissance — Sécrétagogues',
+        growthHormoneDesc: 'Gamme complète de sécrétagogues de l\'hormone de croissance : CJC-1295, Ipamorelin, GHRP-2, GHRP-6, Sermorelin et Tesamorelin.',
         browseAll: 'Parcourir Tous les Peptides Ã  Vendre',
       },
       cta: {
