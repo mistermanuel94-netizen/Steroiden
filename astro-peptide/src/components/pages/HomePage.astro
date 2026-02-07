@@ -256,22 +256,38 @@ const homeSchema = {
       height: auto;
     }
 
-    /* Shopcart Hero Banner */
+    /* Shopcart Hero Banner — Dark Navy Style */
     .hero-banner {
-      background: linear-gradient(135deg, #f0fdf4 0%, #dcfce7 50%, #d1fae5 100%);
+      background: linear-gradient(135deg, #0a1628 0%, #132240 40%, #1a2d52 70%, #0f1d36 100%);
       position: relative;
       overflow: hidden;
+      min-height: 520px;
+      display: flex;
+      align-items: center;
     }
 
     .hero-banner::before {
       content: '';
       position: absolute;
-      top: -50%;
-      right: -10%;
-      width: 80%;
-      height: 200%;
-      background: radial-gradient(circle, rgba(227, 27, 35, 0.05) 0%, transparent 60%);
+      top: -30%;
+      right: -5%;
+      width: 60%;
+      height: 160%;
+      background: radial-gradient(circle, rgba(227, 27, 35, 0.08) 0%, transparent 60%);
       border-radius: 50%;
+      pointer-events: none;
+    }
+
+    .hero-banner::after {
+      content: '';
+      position: absolute;
+      bottom: -20%;
+      left: -10%;
+      width: 50%;
+      height: 140%;
+      background: radial-gradient(circle, rgba(59, 130, 246, 0.06) 0%, transparent 50%);
+      border-radius: 50%;
+      pointer-events: none;
     }
 
     .hero-content {
@@ -295,9 +311,9 @@ const homeSchema = {
     }
 
     .hero-title {
-      font-size: clamp(24px, 7.5vw, 56px);
+      font-size: clamp(28px, 7.5vw, 56px);
       font-weight: 800;
-      color: var(--shop-secondary);
+      color: #ffffff;
       line-height: 1.1;
       margin-bottom: 24px;
       word-break: break-word;
@@ -306,12 +322,226 @@ const homeSchema = {
       letter-spacing: -0.02em;
     }
 
+    .hero-title .text-shop-primary {
+      color: var(--shop-primary) !important;
+    }
+
+    .hero-trust-lines {
+      margin-bottom: 8px;
+    }
+
+    .hero-trust-line {
+      font-size: clamp(14px, 3.5vw, 17px);
+      color: #c8d6e5;
+      line-height: 1.7;
+      margin-bottom: 4px;
+      max-width: 560px;
+    }
+
+    .hero-trust-check {
+      color: var(--shop-primary);
+      font-weight: 700;
+      margin-right: 8px;
+    }
+
     .hero-subtitle {
       font-size: clamp(15px, 4vw, 18px);
-      color: var(--shop-text-muted);
+      color: #94a3b8;
       max-width: min(520px, 100%);
       margin-bottom: 32px;
       line-height: 1.65;
+    }
+
+    .btn-hero-primary {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      gap: 8px;
+      background: var(--shop-primary);
+      color: white;
+      padding: 16px 36px;
+      border-radius: 8px;
+      font-weight: 700;
+      font-size: 16px;
+      text-decoration: none;
+      transition: all 0.3s ease;
+      border: none;
+      cursor: pointer;
+      min-height: 48px;
+      box-sizing: border-box;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+    }
+
+    .btn-hero-primary:hover {
+      background: #c41620;
+      color: white;
+      transform: translateY(-2px);
+      box-shadow: 0 8px 24px rgba(227, 27, 35, 0.35);
+    }
+
+    .btn-hero-outline {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      gap: 8px;
+      background: transparent;
+      color: #ffffff;
+      padding: 16px 36px;
+      border-radius: 8px;
+      font-weight: 600;
+      font-size: 16px;
+      text-decoration: none;
+      border: 2px solid rgba(255, 255, 255, 0.3);
+      transition: all 0.3s ease;
+      cursor: pointer;
+      min-height: 48px;
+      box-sizing: border-box;
+    }
+
+    .btn-hero-outline:hover {
+      border-color: #ffffff;
+      color: #ffffff;
+      background: rgba(255, 255, 255, 0.1);
+    }
+
+    .hero-social-proof {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      font-size: 14px;
+      color: #94a3b8;
+    }
+
+    .hero-stars {
+      color: #fbbf24;
+      font-size: 16px;
+      letter-spacing: 2px;
+    }
+
+    .hero-social-proof strong {
+      color: #ffffff;
+    }
+
+    /* Hero Product Showcase — 3 vials display */
+    .hero-products-showcase {
+      position: relative;
+      display: flex;
+      align-items: flex-end;
+      justify-content: center;
+      gap: 0;
+      height: 420px;
+      z-index: 2;
+    }
+
+    .hero-product {
+      max-height: 340px;
+      width: auto;
+      object-fit: contain;
+      filter: drop-shadow(0 20px 40px rgba(0, 0, 0, 0.4));
+      transition: transform 0.4s ease;
+      position: absolute;
+    }
+
+    .hero-product-1 {
+      max-height: 300px;
+      left: 10%;
+      bottom: 30px;
+      transform: rotate(-8deg);
+      z-index: 1;
+    }
+
+    .hero-product-2 {
+      max-height: 380px;
+      left: 50%;
+      transform: translateX(-50%);
+      bottom: 20px;
+      z-index: 3;
+    }
+
+    .hero-product-3 {
+      max-height: 300px;
+      right: 10%;
+      bottom: 30px;
+      transform: rotate(8deg);
+      z-index: 1;
+    }
+
+    .hero-product:hover {
+      transform: scale(1.05);
+      z-index: 5;
+    }
+
+    .hero-product-1:hover { transform: rotate(-4deg) scale(1.05); }
+    .hero-product-3:hover { transform: rotate(4deg) scale(1.05); }
+
+    /* Hero Navigation Arrows */
+    .hero-nav {
+      position: absolute;
+      top: 50%;
+      transform: translateY(-50%);
+      background: rgba(255, 255, 255, 0.1);
+      border: 1px solid rgba(255, 255, 255, 0.15);
+      color: rgba(255, 255, 255, 0.7);
+      width: 48px;
+      height: 48px;
+      border-radius: 4px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 28px;
+      cursor: pointer;
+      transition: all 0.3s ease;
+      z-index: 10;
+      line-height: 1;
+    }
+
+    .hero-nav:hover {
+      background: rgba(255, 255, 255, 0.2);
+      color: #ffffff;
+    }
+
+    .hero-nav-prev { left: 20px; }
+    .hero-nav-next { right: 20px; }
+
+    /* Scrolling Ticker Bar */
+    .ticker-bar {
+      background: var(--shop-primary);
+      overflow: hidden;
+      white-space: nowrap;
+      position: relative;
+      padding: 10px 0;
+    }
+
+    .ticker-track {
+      display: inline-flex;
+      animation: ticker-scroll 30s linear infinite;
+      gap: 0;
+    }
+
+    .ticker-item {
+      color: #ffffff;
+      font-size: 14px;
+      font-weight: 600;
+      padding: 0 16px;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+    }
+
+    .ticker-highlight {
+      color: #ffffff;
+      font-weight: 800;
+    }
+
+    .ticker-dot {
+      color: rgba(255, 255, 255, 0.5);
+      padding: 0 8px;
+      font-size: 14px;
+    }
+
+    @keyframes ticker-scroll {
+      0% { transform: translateX(0); }
+      100% { transform: translateX(-50%); }
     }
 
     .btn-shop-primary {
@@ -419,54 +649,6 @@ const homeSchema = {
     }
 
     /* Category Cards - Shopcart Style */
-    .hero-image-wrapper {
-      position: relative;
-    }
-
-    .hero-image-container {
-      position: relative;
-      background: linear-gradient(135deg, rgba(227, 27, 35, 0.1) 0%, rgba(227, 27, 35, 0.05) 100%);
-      border-radius: 24px;
-      padding: 40px;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-    }
-
-    .hero-main-image {
-      max-width: 100%;
-      max-height: 400px;
-      object-fit: contain;
-      filter: drop-shadow(0 20px 40px rgba(0, 0, 0, 0.1));
-    }
-
-    .floating-card {
-      position: absolute;
-      background: white;
-      padding: 16px 24px;
-      border-radius: 12px;
-      box-shadow: 0 8px 24px rgba(0, 0, 0, 0.1);
-    }
-
-    .floating-card-1 {
-      bottom: -10px;
-      left: -20px;
-    }
-
-    .floating-card-2 {
-      top: 20px;
-      right: -10px;
-    }
-
-    .floating-icon {
-      width: 48px;
-      height: 48px;
-      background: var(--shop-primary-light);
-      border-radius: 10px;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-    }
 
     .category-card {
       background: white;
@@ -1192,6 +1374,10 @@ const homeSchema = {
       /* Section padding uses mobile-fixes.css tokens */
       
       /* Hero section - Generous spacing, no overflow */
+      .hero-banner {
+        min-height: auto;
+      }
+
       .hero-banner .section-padding {
         padding-top: 32px;
         padding-bottom: 48px;
@@ -1224,16 +1410,23 @@ const homeSchema = {
       .hero-title br {
         display: none;
       }
+
+      .hero-trust-line {
+        font-size: 14px;
+        line-height: 1.6;
+      }
       
       .hero-subtitle {
         font-size: 15px;
         margin-bottom: 32px;
         line-height: 1.65;
-        color: var(--shop-text-muted);
+        color: #94a3b8;
         max-width: 100%;
       }
       
       /* Buttons - Full width with proper touch targets */
+      .btn-hero-primary,
+      .btn-hero-outline,
       .btn-shop-primary,
       .btn-shop-outline {
         width: 100%;
@@ -1256,16 +1449,31 @@ const homeSchema = {
       }
       
       .btn-shop-primary:active,
-      .btn-shop-outline:active {
+      .btn-shop-outline:active,
+      .btn-hero-primary:active,
+      .btn-hero-outline:active {
         transform: scale(0.98);
         opacity: 0.92;
       }
 
       /* Ensure focus states are visible for accessibility */
       .btn-shop-primary:focus-visible,
-      .btn-shop-outline:focus-visible {
+      .btn-shop-outline:focus-visible,
+      .btn-hero-primary:focus-visible,
+      .btn-hero-outline:focus-visible {
         outline: 3px solid rgba(227, 27, 35, 0.4);
         outline-offset: 2px;
+      }
+
+      /* Hero navigation arrows hidden on mobile */
+      .hero-nav {
+        display: none;
+      }
+
+      /* Ticker bar mobile */
+      .ticker-item {
+        font-size: 12px;
+        padding: 0 12px;
       }
 
       /* Fix Bootstrap row negative margins causing overflow */
@@ -1705,68 +1913,73 @@ const homeSchema = {
     <div class="inner-container section-padding">
       <div class="row align-items-center g-5">
         <div class="col-lg-6 hero-content">
-          <span class="hero-badge">{t('home.heroBadge')}</span>
           <h1 class="hero-title">
             {t('home.heroTitle')}<br>
             <span class="text-shop-primary">{t('home.heroTitleHighlight')}</span>
           </h1>
-          <p class="hero-subtitle">
-            {t('home.heroSubtitle')}
-          </p>
-          <div class="d-flex flex-wrap gap-3">
-            <a href={getLocalizedPath('/peptides/', lang)} class="btn-shop-primary">
+          <div class="hero-trust-lines">
+            <p class="hero-trust-line">
+              <span class="hero-trust-check">✓</span>
+              {t('home.heroSubtitle')}
+            </p>
+            <p class="hero-trust-line">
+              <span class="hero-trust-check">✓</span>
+              {t('home.heroBadge')}
+            </p>
+          </div>
+          <div class="d-flex flex-wrap gap-3 mt-4">
+            <a href={getLocalizedPath('/peptides/', lang)} class="btn-hero-primary">
               {t('home.shopNow')}
               <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
                 <line x1="5" y1="12" x2="19" y2="12"></line>
                 <polyline points="12 5 19 12 12 19"></polyline>
               </svg>
             </a>
-            <a href={getLocalizedPath('/quality/', lang)} class="btn-shop-outline">
+            <a href={getLocalizedPath('/quality/', lang)} class="btn-hero-outline">
               {t('home.viewLabReports')}
             </a>
           </div>
           <!-- Inline social proof -->
-          <div class="d-flex align-items-center gap-3 mt-4" style="font-size: 14px; color: var(--shop-text-muted);">
-            <div class="d-flex">
-              <span style="color: var(--shop-primary); font-size: 16px;">★★★★★</span>
-            </div>
-            <span><strong style="color: var(--shop-secondary);">4.9/5</strong> from 847+ verified reviews</span>
+          <div class="hero-social-proof mt-4">
+            <div class="hero-stars">★★★★★</div>
+            <span><strong>4.9/5</strong> from 847+ verified reviews</span>
           </div>
         </div>
         <div class="col-lg-6 d-none d-lg-block">
-          <div class="hero-image-wrapper">
-            <div class="hero-image-container">
-              <img src="/images/hero-image.webp" alt={t('home.heroTitle') + ' - ' + t('home.heroTitleHighlight') + ' - Best-Peptides'} class="hero-main-image">
-              <!-- Floating Product Cards -->
-              <div class="floating-card floating-card-1">
-                <div class="d-flex align-items-center gap-3">
-                  <div class="floating-icon">
-                    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="var(--accent-primary)" stroke-width="2">
-                      <path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"></path>
-                      <polyline points="9 12 11 14 15 10"></polyline>
-                    </svg>
-                  </div>
-                  <div>
-                    <div style="font-weight: 700; color: #1e293b; font-size: 16px;">99.9% Purity</div>
-                    <div style="font-size: 13px; color: #6b7280;">Lab Verified</div>
-                  </div>
-                </div>
-              </div>
-              <div class="floating-card floating-card-2">
-                <div class="d-flex align-items-center gap-2">
-                  <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="var(--accent-primary)" stroke-width="2">
-                    <rect x="1" y="3" width="15" height="13" rx="2" ry="2"></rect>
-                    <polyline points="16 8 20 8 23 11 23 16 16 16 16 8"></polyline>
-                    <circle cx="5.5" cy="18.5" r="2.5"></circle>
-                    <circle cx="18.5" cy="18.5" r="2.5"></circle>
-                  </svg>
-                  <span style="font-weight: 600; color: #1e293b; font-size: 14px;">24h Dispatch</span>
-                </div>
-              </div>
-            </div>
+          <div class="hero-products-showcase">
+            <img src="/images/products/bpc-157.webp" alt="BPC-157 Research Peptide" class="hero-product hero-product-1" loading="eager">
+            <img src="/images/products/semaglutide.webp" alt="Semaglutide Research Peptide" class="hero-product hero-product-2" loading="eager">
+            <img src="/images/products/tirzepatide.webp" alt="Tirzepatide Research Peptide" class="hero-product hero-product-3" loading="eager">
           </div>
         </div>
       </div>
+    </div>
+    <!-- Hero navigation arrows -->
+    <button class="hero-nav hero-nav-prev" aria-label="Previous">&#8249;</button>
+    <button class="hero-nav hero-nav-next" aria-label="Next">&#8250;</button>
+  </section>
+
+  <!-- SCROLLING TICKER BAR -->
+  <div class="ticker-bar">
+    <div class="ticker-track">
+      <span class="ticker-item"><span class="ticker-highlight">{t('home.ticker.freeShipping')}</span> {t('home.ticker.freeShippingText')}</span>
+      <span class="ticker-dot">•</span>
+      <span class="ticker-item"><span class="ticker-highlight">{t('home.ticker.sameDay')}</span> {t('home.ticker.sameDayText')}</span>
+      <span class="ticker-dot">•</span>
+      <span class="ticker-item"><span class="ticker-highlight">{t('home.ticker.purity')}</span> {t('home.ticker.purityText')}</span>
+      <span class="ticker-dot">•</span>
+      <span class="ticker-item"><span class="ticker-highlight">{t('home.ticker.coa')}</span> {t('home.ticker.coaText')}</span>
+      <span class="ticker-dot">•</span>
+      <span class="ticker-item"><span class="ticker-highlight">{t('home.ticker.freeShipping')}</span> {t('home.ticker.freeShippingText')}</span>
+      <span class="ticker-dot">•</span>
+      <span class="ticker-item"><span class="ticker-highlight">{t('home.ticker.sameDay')}</span> {t('home.ticker.sameDayText')}</span>
+      <span class="ticker-dot">•</span>
+      <span class="ticker-item"><span class="ticker-highlight">{t('home.ticker.purity')}</span> {t('home.ticker.purityText')}</span>
+      <span class="ticker-dot">•</span>
+      <span class="ticker-item"><span class="ticker-highlight">{t('home.ticker.coa')}</span> {t('home.ticker.coaText')}</span>
+      <span class="ticker-dot">•</span>
+    </div>
+  </div>
     </div>
   </section>
 

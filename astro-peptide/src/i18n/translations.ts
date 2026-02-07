@@ -971,6 +971,16 @@ interface Translations {
     heroSubtitle: string;
     shopNow: string;
     viewLabReports: string;
+    ticker: {
+      freeShipping: string;
+      freeShippingText: string;
+      sameDay: string;
+      sameDayText: string;
+      purity: string;
+      purityText: string;
+      coa: string;
+      coaText: string;
+    };
     stats: {
       ordersDelivered: string;
       purityGuarantee: string;
@@ -1914,6 +1924,16 @@ export const translations: Record<SupportedLanguage, Translations> = {
       heroSubtitle: 'Europe\'s trusted source for research-grade peptides. Every batch HPLC-tested, COA-documented, and dispatched within 24 hours. Semaglutide, BPC-157, Tirzepatide & 60+ more compounds in stock.',
       shopNow: 'Browse All Peptides',
       viewLabReports: 'View Lab Reports & COAs',
+      ticker: {
+        freeShipping: 'FREE SHIPPING',
+        freeShippingText: 'on orders over €150',
+        sameDay: 'SAME-DAY DISPATCH',
+        sameDayText: 'when you order before 4PM',
+        purity: '99%+ PURITY',
+        purityText: 'HPLC verified on every batch',
+        coa: 'COA INCLUDED',
+        coaText: 'with every order',
+      },
       stats: {
         ordersDelivered: 'Orders Delivered',
         purityGuarantee: 'HPLC Purity',
@@ -2885,6 +2905,16 @@ export const translations: Record<SupportedLanguage, Translations> = {
       heroSubtitle: 'Hoogzuivere peptiden met batch-COAâ€™s en snelle verwerking.',
       shopNow: 'Shop nu',
       viewLabReports: 'Labrapporten bekijken',
+      ticker: {
+        freeShipping: 'GRATIS VERZENDING',
+        freeShippingText: 'bij bestellingen boven €150',
+        sameDay: 'ZELFDE DAG VERZENDING',
+        sameDayText: 'bij bestelling vóór 16:00',
+        purity: '99%+ ZUIVERHEID',
+        purityText: 'HPLC geverifieerd per batch',
+        coa: 'COA INBEGREPEN',
+        coaText: 'bij elke bestelling',
+      },
       stats: {
         ordersDelivered: 'Bestellingen geleverd',
         purityGuarantee: 'Zuiverheidsgarantie',
@@ -3824,6 +3854,16 @@ export const translations: Record<SupportedLanguage, Translations> = {
       heroSubtitle: 'Peptide online kaufen mit â‰¥98% Reinheit, COA-Zertifikat pro Charge und schnellem Versand nach Deutschland, Ã–sterreich und Schweiz.',
       shopNow: 'Peptide kaufen',
       viewLabReports: 'COA-Zertifikate ansehen',
+      ticker: {
+        freeShipping: 'KOSTENLOSER VERSAND',
+        freeShippingText: 'ab einem Bestellwert von €150',
+        sameDay: 'VERSAND AM SELBEN TAG',
+        sameDayText: 'bei Bestellung vor 16 Uhr',
+        purity: '99%+ REINHEIT',
+        purityText: 'HPLC-verifiziert für jede Charge',
+        coa: 'COA INKLUSIVE',
+        coaText: 'bei jeder Bestellung',
+      },
       stats: {
         ordersDelivered: 'Bestellungen geliefert',
         purityGuarantee: 'Reinheitsgarantie',
@@ -4765,6 +4805,16 @@ export const translations: Record<SupportedLanguage, Translations> = {
       heroSubtitle: 'Peptides de haute puretÃ© avec COA par lot et traitement rapide.',
       shopNow: 'Acheter',
       viewLabReports: 'Voir les rapports',
+      ticker: {
+        freeShipping: 'LIVRAISON GRATUITE',
+        freeShippingText: 'pour les commandes de plus de 150€',
+        sameDay: 'EXPÉDITION LE JOUR MÊME',
+        sameDayText: 'pour toute commande avant 16h',
+        purity: '99%+ PURETÉ',
+        purityText: 'vérifiée par HPLC sur chaque lot',
+        coa: 'COA INCLUS',
+        coaText: 'avec chaque commande',
+      },
       stats: {
         ordersDelivered: 'Commandes livrÃ©es',
         purityGuarantee: 'Garantie de puretÃ©',
@@ -5706,6 +5756,16 @@ export const translations: Record<SupportedLanguage, Translations> = {
       heroSubtitle: 'PÃ©ptidos de alta pureza con COA por lote y envÃ­o rÃ¡pido.',
       shopNow: 'Comprar',
       viewLabReports: 'Ver informes',
+      ticker: {
+        freeShipping: 'ENVÍO GRATUITO',
+        freeShippingText: 'en pedidos superiores a 150€',
+        sameDay: 'ENVÍO EL MISMO DÍA',
+        sameDayText: 'si pides antes de las 16:00',
+        purity: '99%+ PUREZA',
+        purityText: 'verificada por HPLC en cada lote',
+        coa: 'COA INCLUIDO',
+        coaText: 'con cada pedido',
+      },
       stats: {
         ordersDelivered: 'Pedidos entregados',
         purityGuarantee: 'GarantÃ­a de pureza',
@@ -6647,6 +6707,16 @@ export const translations: Record<SupportedLanguage, Translations> = {
       heroSubtitle: 'Peptidi ad alta purezza con COA per lotto e spedizione rapida.',
       shopNow: 'Acquista',
       viewLabReports: 'Vedi report',
+      ticker: {
+        freeShipping: 'SPEDIZIONE GRATUITA',
+        freeShippingText: 'per ordini superiori a €150',
+        sameDay: 'SPEDIZIONE IN GIORNATA',
+        sameDayText: 'per ordini effettuati entro le 16:00',
+        purity: '99%+ PUREZZA',
+        purityText: 'verificata HPLC su ogni lotto',
+        coa: 'COA INCLUSO',
+        coaText: 'con ogni ordine',
+      },
       stats: {
         ordersDelivered: 'Ordini consegnati',
         purityGuarantee: 'Garanzia di purezza',
@@ -7594,6 +7664,16 @@ nav: {
       heroSubtitle: 'Ð’Ñ‹ÑÐ¾ÐºÐ¾Ñ‡Ð¸ÑÑ‚Ñ‹Ðµ Ð¸ÑÑÐ»ÐµÐ´Ð¾Ð²Ð°Ñ‚ÐµÐ»ÑŒÑÐºÐ¸Ðµ Ð¿ÐµÐ¿Ñ‚Ð¸Ð´Ñ‹ Ñ Ð¿Ñ€Ð¾Ð²ÐµÑ€ÐµÐ½Ð½Ñ‹Ð¼Ð¸ COA Ð¸ Ð±Ñ‹ÑÑ‚Ñ€Ð¾Ð¹ Ð¾Ñ‚Ð¿Ñ€Ð°Ð²ÐºÐ¾Ð¹.',
       shopNow: 'ÐšÑƒÐ¿Ð¸Ñ‚ÑŒ ÑÐµÐ¹Ñ‡Ð°Ñ',
       viewLabReports: 'ÐžÑ‚Ñ‡ÐµÑ‚Ñ‹ Ð»Ð°Ð±Ð¾Ñ€Ð°Ñ‚Ð¾Ñ€Ð¸Ð¸',
+      ticker: {
+        freeShipping: 'БЕСПЛАТНАЯ ДОСТАВКА',
+        freeShippingText: 'для заказов от €150',
+        sameDay: 'ОТПРАВКА В ДЕНЬ ЗАКАЗА',
+        sameDayText: 'при заказе до 16:00',
+        purity: '99%+ ЧИСТОТА',
+        purityText: 'проверено ВЭЖХ для каждой партии',
+        coa: 'COA ВКЛЮЧЁН',
+        coaText: 'с каждым заказом',
+      },
       stats: {
         ordersDelivered: 'Ð—Ð°ÐºÐ°Ð·Ð¾Ð² Ð´Ð¾ÑÑ‚Ð°Ð²Ð»ÐµÐ½Ð¾',
         purityGuarantee: 'Ð“Ð°Ñ€Ð°Ð½Ñ‚Ð¸Ñ Ñ‡Ð¸ÑÑ‚Ð¾Ñ‚Ñ‹',
