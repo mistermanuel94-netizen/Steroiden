@@ -2902,7 +2902,7 @@ export const translations: Record<SupportedLanguage, Translations> = {
       heroBadge: 'Europese leverancier voor onderzoek',
       heroTitle: 'Premium',
       heroTitleHighlight: 'onderzoekpeptiden',
-      heroSubtitle: 'Hoogzuivere peptiden met batch-COA's en snelle verwerking.',
+      heroSubtitle: 'Hoogzuivere peptiden met batch-COA\'s en snelle verwerking.',
       shopNow: 'Shop nu',
       viewLabReports: 'Labrapporten bekijken',
       ticker: {
@@ -4197,7 +4197,7 @@ export const translations: Record<SupportedLanguage, Translations> = {
     },
     contactPage: {
       title: 'Nous contacter',
-      subtitle: 'Des questions ou besoin d'un devis ? Notre équipe est là pour aider.',
+      subtitle: 'Des questions ou besoin d\'un devis ? Notre équipe est là pour aider.',
       section: {
         sendMessage: 'Envoyer un message',
       },
@@ -5004,8 +5004,8 @@ export const translations: Record<SupportedLanguage, Translations> = {
       quantity: 'Quantité',
     },
     footer: {
-      newsletter: 'S'abonner à la newsletter',
-      subscribe: 'S'abonner',
+      newsletter: 'S\'abonner à la newsletter',
+      subscribe: 'S\'abonner',
       aboutUs: 'À propos',
       customerService: 'Service client',
       legal: 'Mentions légales',
