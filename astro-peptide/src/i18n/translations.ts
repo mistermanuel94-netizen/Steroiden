@@ -2902,9 +2902,7 @@ export const translations: Record<SupportedLanguage, Translations> = {
       heroBadge: 'Europese leverancier voor onderzoek',
       heroTitle: 'Premium',
       heroTitleHighlight: 'onderzoekpeptiden',
-      heroSubtitle: 'Hoogzuivere peptiden met batch-COA),
-    # ' (U+2018) left single quote  
-    ('‘', s en snelle verwerking.',
+      heroSubtitle: 'Hoogzuivere peptiden met batch-COA's en snelle verwerking.',
       shopNow: 'Shop nu',
       viewLabReports: 'Labrapporten bekijken',
       ticker: {
@@ -4199,9 +4197,7 @@ export const translations: Record<SupportedLanguage, Translations> = {
     },
     contactPage: {
       title: 'Nous contacter',
-      subtitle: 'Des questions ou besoin d),
-    # ' (U+2018) left single quote  
-    ('‘', un devis ? Notre équipe est là pour aider.',
+      subtitle: 'Des questions ou besoin d'un devis ? Notre équipe est là pour aider.',
       section: {
         sendMessage: 'Envoyer un message',
       },
@@ -5008,12 +5004,8 @@ export const translations: Record<SupportedLanguage, Translations> = {
       quantity: 'Quantité',
     },
     footer: {
-      newsletter: 'S),
-    # ' (U+2018) left single quote  
-    ('‘', abonner à la newsletter',
-      subscribe: 'S),
-    # ' (U+2018) left single quote  
-    ('‘', abonner',
+      newsletter: 'S'abonner à la newsletter',
+      subscribe: 'S'abonner',
       aboutUs: 'À propos',
       customerService: 'Service client',
       legal: 'Mentions légales',
@@ -13264,13 +13256,9 @@ export function getLocalizedMetaDescription(productName: string, category: strin
       en: `Buy Cagrilintide. Premium research-grade amylin analog with ≥99% purity. COA included. Fast UK & EU delivery.`,
       nl: `Cagrilintide Kopen. Premium onderzoekspeptide (amylin-analoog) met ≥99% zuiverheid. COA inbegrepen. Snelle levering in NL & EU.`,
       de: `Cagrilintide kaufen. Premium Forschungspeptid (Amylin-Analog) mit ≥99% Reinheit. COA inklusive. Schnelle Lieferung in DE & EU.`,
-      fr: `Acheter Cagrilintide. Peptide de recherche premium (analogue de l),
-    # ' (U+2018) left single quote  
-    ('‘', amyline) avec ≥99% pureté. COA inclus. Livraison rapide FR & UE.`,
+      fr: `Acheter Cagrilintide. Peptide de recherche premium (analogue de l'amyline) avec ≥99% pureté. COA inclus. Livraison rapide FR & UE.`,
       es: `Cagrilintide Comprar. Péptido de investigación premium (análogo de amilina) con ≥99% pureza. COA incluido. Envío rápido ES & UE.`,
-      it: `Acquista Cagrilintide. Peptide di ricerca premium (analogo dell),
-    # ' (U+2018) left single quote  
-    ('‘', amilina) con ≥99% purezza. COA incluso. Spedizione veloce IT & UE.`,
+      it: `Acquista Cagrilintide. Peptide di ricerca premium (analogo dell'amilina) con ≥99% purezza. COA incluso. Spedizione veloce IT & UE.`,
       ru: `Купить Россия | Пептидшоп`
     };
     return metas[lang];

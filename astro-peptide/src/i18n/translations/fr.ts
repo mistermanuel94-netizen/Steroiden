@@ -46,9 +46,7 @@ export const fr: Translations = {
     },
     contactPage: {
       title: 'Nous contacter',
-      subtitle: 'Des questions ou besoin d),
-    # ' (U+2018) left single quote  
-    ('‘', un devis ? Notre équipe est là pour aider.',
+      subtitle: 'Des questions ou besoin d'un devis ? Notre équipe est là pour aider.',
       section: {
         sendMessage: 'Envoyer un message',
       },
@@ -436,12 +434,8 @@ export const fr: Translations = {
       quantity: 'Quantité',
     },
     footer: {
-      newsletter: 'S),
-    # ' (U+2018) left single quote  
-    ('‘', abonner à la newsletter',
-      subscribe: 'S),
-    # ' (U+2018) left single quote  
-    ('‘', abonner',
+      newsletter: 'S'abonner à la newsletter',
+      subscribe: 'S'abonner',
       aboutUs: 'À propos',
       customerService: 'Service client',
       legal: 'Mentions légales',

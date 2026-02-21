@@ -273,9 +273,7 @@ export const nl: Translations = {
       heroBadge: 'Europese leverancier voor onderzoek',
       heroTitle: 'Premium',
       heroTitleHighlight: 'onderzoekpeptiden',
-      heroSubtitle: 'Hoogzuivere peptiden met batch-COA),
-    # ' (U+2018) left single quote  
-    ('‘', s en snelle verwerking.',
+      heroSubtitle: 'Hoogzuivere peptiden met batch-COA's en snelle verwerking.',
       shopNow: 'Shop nu',
       viewLabReports: 'Labrapporten bekijken',
       stats: {
