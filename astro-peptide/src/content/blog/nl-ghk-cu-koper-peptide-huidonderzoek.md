@@ -37,10 +37,10 @@ GHK-Cu (glycyl-L-histidyl-L-lysine koperpeptide) is een natuurlijk voorkomend tr
 
 ### Chemische Structuur
 
-- **Sequentie**: Gly-His-LysÂ·CuÂ²âº
+- **Sequentie**: Gly-His-Lys·Cu²⁺
 - **Molecuulgewicht**: 403.9 Da (als kopercompllex)
 - **CAS-nummer**: 49557-75-7
-- **Zuiverheid**: â‰¥99% (HPLC-geverifieerd)
+- **Zuiverheid**: ≥99% (HPLC-geverifieerd)
 
 ### Koperbinding
 
@@ -48,7 +48,7 @@ Het tripeptide GHK heeft een hoge affiniteit voor koper(II)-ionen:
 
 | Eigenschap | Waarde |
 |------------|--------|
-| Binding constante | 10â»Â¹â¶ M |
+| Binding constante | 10⁻¹⁶ M |
 | Stoichiometrie | 1:1 (GHK:Cu) |
 | pH optimum | 7.4 |
 | Stabiliteit | Hoog in waterige oplossing |
@@ -80,20 +80,20 @@ Recent onderzoek richt zich op:
 - Follikel stimulatie
 - Dermal papilla cellen
 - Haar cyclus modulatie
-- 5Î±-reductase effecten
+- 5α-reductase effecten
 
 ## Laboratorium Protocollen
 
 ### Opslag Richtlijnen
 
 **Lyofiliseerde vorm:**
-- Temperatuur: -20Â°C
+- Temperatuur: -20°C
 - Lichtbescherming: Essentieel
 - Vochtigheid: Droog bewaren
 - Houdbaarheid: 24+ maanden
 
 **Na reconstitutie:**
-- Bewaar bij 2-8Â°C
+- Bewaar bij 2-8°C
 - Gebruik binnen 2-4 weken
 - Bescherm tegen oxidatie
 
@@ -105,7 +105,7 @@ Recent onderzoek richt zich op:
 3. Concentratie: Typisch 1-10 mM stock
 4. Rol zachtjes tot opgelost
 5. Aliquoteer voor eenmalig gebruik
-6. Bewaar aliquots bij -20Â°C
+6. Bewaar aliquots bij -20°C
 ```
 
 ### Stabiliteitsoverwegingen
@@ -122,19 +122,19 @@ GHK-Cu is relatief stabiel, maar let op:
 
 | Celtype | Typische Concentratie | Incubatietijd |
 |---------|----------------------|---------------|
-| Fibroblasten | 0.1-10 ÂµM | 24-72 uur |
-| Keratinocyten | 1-100 ÂµM | 24-48 uur |
-| Endotheelcellen | 0.1-1 ÂµM | 24-72 uur |
+| Fibroblasten | 0.1-10 µM | 24-72 uur |
+| Keratinocyten | 1-100 µM | 24-48 uur |
+| Endotheelcellen | 0.1-1 µM | 24-72 uur |
 
 ### Uitkomstmetingen
 
 Veelgebruikte assays:
 
-- âœ… Collageen ELISA
-- âœ… Proliferatie assays (MTT, WST-1)
-- âœ… Migratie assays (scratch, transwell)
-- âœ… Genexpressie (qPCR)
-- âœ… Western blot voor ECM eiwitten
+- ✅ Collageen ELISA
+- ✅ Proliferatie assays (MTT, WST-1)
+- ✅ Migratie assays (scratch, transwell)
+- ✅ Genexpressie (qPCR)
+- ✅ Western blot voor ECM eiwitten
 
 ## Vergelijking met Andere Koperpeptiden
 
@@ -146,11 +146,11 @@ Veelgebruikte assays:
 
 ## Kwaliteitscriteria
 
-### EssentiÃ«le Analyses
+### Essentiële Analyses
 
 Bij het selecteren van GHK-Cu voor onderzoek:
 
-1. **HPLC zuiverheid**: â‰¥99%
+1. **HPLC zuiverheid**: ≥99%
 2. **Kopergehalte**: Geverifieerd door ICP-MS
 3. **Massaspectrometrie**: Correcte molecuulmassa
 4. **Endotoxine test**: <0.1 EU/mg
@@ -170,9 +170,9 @@ GHK is het tripeptide alleen; GHK-Cu is het koper-gebonden complex. Voor de mees
 
 ### Welke concentraties worden gebruikt in huidonderzoek?
 
-Celstudies gebruiken typisch 0.1-10 ÂµM. Exacte concentraties hangen af van het specifieke onderzoeksmodel.
+Celstudies gebruiken typisch 0.1-10 µM. Exacte concentraties hangen af van het specifieke onderzoeksmodel.
 
-### Hoe beÃ¯nvloedt pH de stabiliteit?
+### Hoe beïnvloedt pH de stabiliteit?
 
 GHK-Cu is het meest stabiel bij fysiologische pH (7.4). Extreme pH-waarden kunnen de koperbinding verstoren.
 

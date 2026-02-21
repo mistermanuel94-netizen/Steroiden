@@ -8,29 +8,29 @@ urlPath: "/nl/peptides/retatrutide-kopen"
 aliases: ["LY3437943", "Triple G", "GGG Agonist"]
 cas: "2381089-83-2"
 molecular_weight: "4156.48 g/mol"
-purity: "â‰¥ 99%"
-storage: "-20Â°C aanbevolen (alleen voor onderzoek)"
-package_sizes: ["10 Ã— 5 mg flacons"]
+purity: "≥ 99%"
+storage: "-20°C aanbevolen (alleen voor onderzoek)"
+package_sizes: ["10 × 5 mg flacons"]
 moq: 200
 price: 2100
-price_range: "â‚¬2100 per pakket"
+price_range: "€2100 per pakket"
 coa_url: "/coa/retatrutide.pdf"
-short_description: "Koop Retatrutide. Drievoudige GLP-1/GIP/Glucagon agonist voor metabolisch onderzoek. â‰¥99% zuiverheid. Snelle EU-levering."
+short_description: "Koop Retatrutide. Drievoudige GLP-1/GIP/Glucagon agonist voor metabolisch onderzoek. ≥99% zuiverheid. Snelle EU-levering."
 category: "weight-loss"
 tags: ["onderzoekspeptide", "drievoudige-agonist", "retatrutide-nederland", "peptiden-kopen", "gewichtsverlies"]
 images: ["/images/products/retatrutide.png"]
 meta:
   title: "Retatrutide Kopen | Drievoudige Agonist Peptide | Snelle Levering"
-  description: "Koop Retatrutide. Premium drievoudige GLP-1/GIP/Glucagon agonist voor gewichtsverlies onderzoek. â‰¥99% zuiverheid, COA inbegrepen."
+  description: "Koop Retatrutide. Premium drievoudige GLP-1/GIP/Glucagon agonist voor gewichtsverlies onderzoek. ≥99% zuiverheid, COA inbegrepen."
 faqs:
   - question: "Wat maakt Retatrutide uniek vergeleken met andere incretine peptiden?"
     answer: "Retatrutide is een drievoudige agonist die GLP-1, GIP en glucagon receptoren gelijktijdig activeert. Dit onderscheidt het van duale agonisten zoals tirzepatide (GIP/GLP-1) en mono-agonisten zoals semaglutide (alleen GLP-1)."
   - question: "Waarvoor wordt Retatrutide gebruikt in onderzoek?"
     answer: "Retatrutide wordt gebruikt in metabolisch onderzoek om drievoudige receptor activatie-effecten te bestuderen op glucosehomeostase, gewichtsbeheersing, energieverbruik, hepatisch lipidemetabolisme en eetlustregulatie."
   - question: "Hoe moet Retatrutide worden bewaard?"
-    answer: "Bewaar gelyofiliseerd Retatrutide op -20Â°C voor optimale stabiliteit. Na reconstitutie bewaren op 2-8Â°C en binnen 3-4 weken gebruiken."
+    answer: "Bewaar gelyofiliseerd Retatrutide op -20°C voor optimale stabiliteit. Na reconstitutie bewaren op 2-8°C en binnen 3-4 weken gebruiken."
   - question: "Wat is de zuiverheid van jullie Retatrutide?"
-    answer: "Onze Retatrutide is â‰¥99% zuiver zoals geverifieerd door HPLC-analyse. Elke batch bevat een Certificaat van Analyse."
+    answer: "Onze Retatrutide is ≥99% zuiver zoals geverifieerd door HPLC-analyse. Elke batch bevat een Certificaat van Analyse."
   - question: "Hoe draagt de glucagon component bij aan onderzoek?"
     answer: "De glucagon receptor agonisme biedt unieke onderzoeksmogelijkheden voor het bestuderen van hepatische glucoseproductie, thermogenese, lipolyse en energieverbruikmechanismen."
   - question: "Wat is de halfwaardetijd van Retatrutide?"
@@ -80,7 +80,7 @@ reviews:
 
 In tegenstelling tot duale agonisten zoals tirzepatide, voegt retatrutide glucagon receptor activatie toe, waardoor onderzoekers thermogene en lipolytische effecten kunnen bestuderen naast incretine signalering.
 
-Best-Peptides levert **onderzoekskwaliteit Retatrutide** met gegarandeerd â‰¥99% zuiverheid, geverifieerd door uitgebreide HPLC-analyse.
+Best-Peptides levert **onderzoekskwaliteit Retatrutide** met gegarandeerd ≥99% zuiverheid, geverifieerd door uitgebreide HPLC-analyse.
 
 ## Hoe Werkt Retatrutide?
 
@@ -118,22 +118,22 @@ Retatrutide activeert drie receptor systemen:
 |--------------|--------|
 | **CAS Nummer** | 2381089-83-2 |
 | **Moleculair Gewicht** | 4156.48 g/mol |
-| **Zuiverheid** | â‰¥99% (HPLC) |
+| **Zuiverheid** | ≥99% (HPLC) |
 | **Uiterlijk** | Wit gelyofiliseerd poeder |
 | **Oplosbaarheid** | Oplosbaar in water |
 
 ## Opslag
 
-Bewaar gelyofiliseerd op -20Â°C voor optimale stabiliteit.
+Bewaar gelyofiliseerd op -20°C voor optimale stabiliteit.
 
 ## Bestelinformatie
 
 | Maat | Prijs |
 |------|-------|
-| **5 mg** | Vanaf â‚¬220 |
-| **10 mg** | Vanaf â‚¬400 |
+| **5 mg** | Vanaf €220 |
+| **10 mg** | Vanaf €400 |
 
-**Minimale bestelling: â‚¬200** | **10% korting op bestellingen boven â‚¬200**
+**Minimale bestelling: €200** | **10% korting op bestellingen boven €200**
 
 ## Onderzoeksverklaring
 

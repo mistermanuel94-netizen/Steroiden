@@ -132,11 +132,11 @@ export const POST: APIRoute = async ({ request, locals }) => {
                   </ul>
                 </div>
                 <div style="background: #1e293b; padding: 20px; text-align: center;">
-                  <p style="color: #94a3b8; margin: 0; font-size: 14px;">Â© 2026 Best-Peptides. All rights reserved.</p>
+                  <p style="color: #94a3b8; margin: 0; font-size: 14px;">© 2026 Best-Peptides. All rights reserved.</p>
                 </div>
               </div>
             `,
-            text: `Thank you for your message, ${data.user_name}!\n\nWe have received your inquiry and will get back to you within 24 hours.\n\nYour Message:\nSubject: ${data.subject || 'General Inquiry'}\n${data.user_message}\n\nIf you have any urgent questions, you can also reach us via:\n- Email: Best-Peptides@zohomail.com\n- Telegram: @Nebelzee\n\nÂ© 2026 Best-Peptides. All rights reserved.`,
+            text: `Thank you for your message, ${data.user_name}!\n\nWe have received your inquiry and will get back to you within 24 hours.\n\nYour Message:\nSubject: ${data.subject || 'General Inquiry'}\n${data.user_message}\n\nIf you have any urgent questions, you can also reach us via:\n- Email: Best-Peptides@zohomail.com\n- Telegram: @Nebelzee\n\n© 2026 Best-Peptides. All rights reserved.`,
           }),
         });
 

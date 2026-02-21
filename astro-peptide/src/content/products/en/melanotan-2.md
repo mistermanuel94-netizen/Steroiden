@@ -8,35 +8,35 @@ urlPath: "/peptides/buy-melanotan-2"
 aliases: ["MT-II", "MT2", "Melanotan II", "Barbie Drug"]
 cas: "121062-08-6"
 molecular_weight: "1024.2 g/mol"
-purity: "â‰¥ 99%"
-storage: "-20Â°C recommended (research-only)"
-package_sizes: ["10 Ã— 10 mg vials"]
+purity: "≥ 99%"
+storage: "-20°C recommended (research-only)"
+package_sizes: ["10 × 10 mg vials"]
 moq: 200
 price: 230
-price_range: "Â£230 per pack"
+price_range: "£230 per pack"
 coa_url: "/coa/peptide-mt2.pdf"
-short_description: "Buy Melanotan 2 UK. Premium MT-2 tanning peptide for melanogenesis research. â‰¥99% purity. Fast UK delivery."
+short_description: "Buy Melanotan 2 UK. Premium MT-2 tanning peptide for melanogenesis research. ≥99% purity. Fast UK delivery."
 category: "tanning"
 tags: ["research-peptide", "melanotan-uk", "tanning-peptide", "buy-peptides-uk", "mt2"]
 images: ["/images/products/melanotan-2.png"]
 meta:
   title: "Buy Melanotan 2 UK | MT-2 Peptide | Fast Delivery"
-  description: "Buy Melanotan 2 UK. Premium MT-2 tanning peptide for research. â‰¥99% purity, COA included. Next day UK delivery."
+  description: "Buy Melanotan 2 UK. Premium MT-2 tanning peptide for research. ≥99% purity, COA included. Next day UK delivery."
 faqs:
   - question: "What is Melanotan 2 used for in research?"
     answer: "Melanotan 2 is primarily used in melanocortin receptor research, studying melanogenesis (skin pigmentation), appetite regulation, sexual function, and energy homeostasis. It's a non-selective agonist of melanocortin receptors MC1, MC3, MC4, and MC5."
   - question: "What is the difference between Melanotan 1 and Melanotan 2?"
     answer: "Melanotan 1 (afamelanotide) is a linear peptide that selectively targets MC1 receptors for pigmentation research. Melanotan 2 is a cyclic peptide that non-selectively activates multiple melanocortin receptors, making it useful for broader research applications including appetite and sexual function studies."
   - question: "How should Melanotan 2 be stored?"
-    answer: "Store lyophilised Melanotan 2 at -20Â°C for long-term stability. Once reconstituted, keep at 2-8Â°C and use within 4 weeks. The cyclic structure provides good stability, but protect from light and avoid repeated freeze-thaw cycles."
+    answer: "Store lyophilised Melanotan 2 at -20°C for long-term stability. Once reconstituted, keep at 2-8°C and use within 4 weeks. The cyclic structure provides good stability, but protect from light and avoid repeated freeze-thaw cycles."
   - question: "What purity is your Melanotan 2?"
-    answer: "Our Melanotan 2 is â‰¥99% pure as verified by HPLC analysis. Each batch includes a Certificate of Analysis with purity data, mass spectrometry identity confirmation, and peptide content analysis."
+    answer: "Our Melanotan 2 is ≥99% pure as verified by HPLC analysis. Each batch includes a Certificate of Analysis with purity data, mass spectrometry identity confirmation, and peptide content analysis."
   - question: "How do I reconstitute Melanotan 2?"
     answer: "Reconstitute Melanotan 2 in sterile bacteriostatic water. Add solvent slowly along the vial wall and gently swirl to dissolve. MT-2 dissolves readily in water. Common research concentrations range from 1-2 mg/mL."
   - question: "What are melanocortin receptors?"
     answer: "Melanocortin receptors (MC1R-MC5R) are G protein-coupled receptors that regulate various physiological processes including pigmentation, appetite, inflammation, and sexual function. Melanotan 2 activates multiple receptor subtypes, making it valuable for diverse research applications."
   - question: "Is Melanotan 2 stable in solution?"
-    answer: "MT-2 has good stability due to its cyclic lactam structure. Reconstituted peptide should be stored refrigerated (2-8Â°C) and used within 4 weeks. For longer storage, prepare aliquots and freeze at -20Â°C."
+    answer: "MT-2 has good stability due to its cyclic lactam structure. Reconstituted peptide should be stored refrigerated (2-8°C) and used within 4 weeks. For longer storage, prepare aliquots and freeze at -20°C."
   - question: "What sizes are available?"
     answer: "Melanotan 2 is available in 10mg and 20mg vials. These sizes are suitable for various research scales. Bulk quantities are available for institutional research - contact us for pricing."
 reviews:
@@ -188,11 +188,11 @@ reviews:
 
 ## What is Melanotan 2?
 
-**Melanotan 2** (MT-2, MT-II) is a synthetic cyclic heptapeptide analogue of alpha-melanocyte stimulating hormone (Î±-MSH). Originally developed at the University of Arizona in the 1980s, this research peptide has become an essential tool for studying melanocortin receptor signalling and the regulation of skin pigmentation.
+**Melanotan 2** (MT-2, MT-II) is a synthetic cyclic heptapeptide analogue of alpha-melanocyte stimulating hormone (α-MSH). Originally developed at the University of Arizona in the 1980s, this research peptide has become an essential tool for studying melanocortin receptor signalling and the regulation of skin pigmentation.
 
-The peptide's cyclic lactam structure provides enhanced stability and receptor binding affinity compared to linear Î±-MSH analogues. Melanotan 2 acts as a non-selective agonist at melanocortin receptors MC1, MC3, MC4, and MC5, enabling researchers to study diverse physiological processes beyond pigmentation.
+The peptide's cyclic lactam structure provides enhanced stability and receptor binding affinity compared to linear α-MSH analogues. Melanotan 2 acts as a non-selective agonist at melanocortin receptors MC1, MC3, MC4, and MC5, enabling researchers to study diverse physiological processes beyond pigmentation.
 
-Best-Peptides supplies **research-grade Melanotan 2** with guaranteed â‰¥99% purity, verified through comprehensive HPLC and mass spectrometry analysis. Each order includes a detailed Certificate of Analysis, ensuring researchers receive properly characterised material for their studies.
+Best-Peptides supplies **research-grade Melanotan 2** with guaranteed ≥99% purity, verified through comprehensive HPLC and mass spectrometry analysis. Each order includes a detailed Certificate of Analysis, ensuring researchers receive properly characterised material for their studies.
 
 ## How Does Melanotan 2 Work?
 
@@ -300,10 +300,10 @@ Both peptides are available from Best-Peptides for comparative research studies.
 | Specification | Detail |
 |--------------|--------|
 | **CAS Number** | 121062-08-6 |
-| **Molecular Formula** | Câ‚…â‚€Hâ‚†â‚‰Nâ‚â‚…Oâ‚‰ |
+| **Molecular Formula** | C₅₀H₆₉Nâ‚₅O₉ |
 | **Molecular Weight** | 1024.2 g/mol |
-| **Sequence** | Ac-Nle-cyclo[Asp-His-D-Phe-Arg-Trp-Lys]-NHâ‚‚ |
-| **Purity** | â‰¥99% (HPLC) |
+| **Sequence** | Ac-Nle-cyclo[Asp-His-D-Phe-Arg-Trp-Lys]-NH₂ |
+| **Purity** | ≥99% (HPLC) |
 | **Appearance** | White to off-white lyophilised powder |
 | **Solubility** | Freely soluble in water |
 | **Identity** | Confirmed by mass spectrometry |
@@ -325,9 +325,9 @@ Melanotan 2 is straightforward to prepare for research use:
 
 | Condition | Temperature | Duration |
 |-----------|-------------|----------|
-| **Lyophilised** | -20Â°C | Up to 36 months |
-| **Reconstituted** | 2-8Â°C | Up to 4 weeks |
-| **Frozen aliquots** | -20Â°C | Up to 6 months |
+| **Lyophilised** | -20°C | Up to 36 months |
+| **Reconstituted** | 2-8°C | Up to 4 weeks |
+| **Frozen aliquots** | -20°C | Up to 6 months |
 
 **Stability note:** The cyclic lactam structure provides excellent stability compared to linear peptides. However, protect from light and use standard peptide handling practices.
 
@@ -336,7 +336,7 @@ Melanotan 2 is straightforward to prepare for research use:
 ### Guaranteed Purity
 
 Every batch undergoes rigorous quality control:
-- â‰¥99% purity by HPLC
+- ≥99% purity by HPLC
 - Identity confirmation by mass spectrometry
 - Peptide content analysis
 - Complete COA documentation
@@ -351,7 +351,7 @@ Every batch undergoes rigorous quality control:
 ### Competitive Pricing
 
 - **Fair prices** for research-grade quality
-- **10% discount** on orders over Â£200
+- **10% discount** on orders over £200
 - **Bulk pricing** available for institutions
 
 ### Research Support
@@ -375,8 +375,8 @@ Bulk quantities available for institutional research.
 
 ### Delivery Options
 
-- **Express UK Delivery** (1-2 working days): Â£12.99
-- **Standard UK Delivery** (3-5 working days): Â£5.99
+- **Express UK Delivery** (1-2 working days): £12.99
+- **Standard UK Delivery** (3-5 working days): £5.99
 
 ## Research Use Statement
 
@@ -386,6 +386,6 @@ Bulk quantities available for institutional research.
 
 Advance your melanocortin research with premium-quality Melanotan 2. Our commitment to purity, documentation, and service supports your most demanding research applications.
 
-**Minimum order: Â£200** | **10% discount on orders over Â£200**
+**Minimum order: £200** | **10% discount on orders over £200**
 
 Select your package size above and add to cart. Questions? Contact our team for assistance.

@@ -82,7 +82,7 @@ async function sendEmail(
 
 function formatCurrency(amount: number, currency: string): string {
   const symbols: Record<string, string> = {
-    GBP: 'Â£', EUR: 'â‚¬', USD: '$'
+    GBP: '£', EUR: '€', USD: '$'
   };
   return `${symbols[currency] || currency}${amount.toFixed(2)}`;
 }
@@ -103,7 +103,7 @@ function generateCustomerEmailHtml(data: OrderEmailData): string {
   
   const bankDetails = isBankTransfer ? `
     <div style="background: #fef3c7; border: 1px solid #f59e0b; border-radius: 8px; padding: 20px; margin: 24px 0;">
-      <h3 style="color: #92400e; margin: 0 0 12px 0; font-size: 16px;">âš ï¸ Payment Required</h3>
+      <h3 style="color: #92400e; margin: 0 0 12px 0; font-size: 16px;">âš ️ Payment Required</h3>
       <p style="color: #78350f; margin: 0 0 16px 0;">Please transfer the exact amount to our bank account:</p>
       <table style="width: 100%; font-size: 14px;">
         <tr><td style="padding: 4px 0; color: #78350f;"><strong>Bank:</strong></td><td style="color: #78350f;">Sparkasse</td></tr>
@@ -176,7 +176,7 @@ function generateCustomerEmailHtml(data: OrderEmailData): string {
     
     <div style="margin-top: 32px; padding-top: 24px; border-top: 1px solid #e2e8f0; text-align: center; color: #64748b; font-size: 14px;">
       <p>Questions? Reply to this email or contact us at Best-Peptides@zohomail.com</p>
-      <p style="margin-top: 16px;">Â© ${new Date().getFullYear()} ${SITE_NAME}. All rights reserved.</p>
+      <p style="margin-top: 16px;">© ${new Date().getFullYear()} ${SITE_NAME}. All rights reserved.</p>
     </div>
   </div>
 </body>

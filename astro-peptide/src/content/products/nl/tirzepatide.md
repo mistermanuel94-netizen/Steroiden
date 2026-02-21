@@ -8,29 +8,29 @@ urlPath: "/nl/peptides/tirzepatide-kopen"
 aliases: ["Mounjaro peptide", "Dual GIP/GLP-1", "LY3298176"]
 cas: "2023788-19-2"
 molecular_weight: "4813.45 g/mol"
-purity: "â‰¥ 99%"
-storage: "-20Â°C aanbevolen (alleen voor onderzoek)"
+purity: "≥ 99%"
+storage: "-20°C aanbevolen (alleen voor onderzoek)"
 package_sizes: ["1 maand pennen"]
 moq: 200
 price: 250
-price_range: "â‚¬250 per maand"
+price_range: "€250 per maand"
 coa_url: "/coa/tirzepatide.pdf"
-short_description: "Tirzepatide kopen in Nederland. Dual GIP/GLP-1 receptor agonist voor gewichtsverliesonderzoek. â‰¥99% zuiverheid geverifieerd. Snelle EU levering."
+short_description: "Tirzepatide kopen in Nederland. Dual GIP/GLP-1 receptor agonist voor gewichtsverliesonderzoek. ≥99% zuiverheid geverifieerd. Snelle EU levering."
 category: "weight-loss"
 tags: ["research-peptide", "gewichtsverlies", "tirzepatide-kopen", "peptiden-nederland", "dual-agonist"]
 images: ["/images/products/tirzepatide.png"]
 meta:
   title: "Tirzepatide Kopen Nederland | Onderzoek Peptide | Snelle Levering"
-  description: "Tirzepatide kopen in Nederland. Premium dual GIP/GLP-1 agonist voor gewichtsverliesonderzoek. â‰¥99% zuiverheid, COA inbegrepen. Snelle EU levering."
+  description: "Tirzepatide kopen in Nederland. Premium dual GIP/GLP-1 agonist voor gewichtsverliesonderzoek. ≥99% zuiverheid, COA inbegrepen. Snelle EU levering."
 faqs:
   - question: "Wat maakt Tirzepatide anders dan Semaglutide?"
     answer: "Tirzepatide is een duale agonist die zowel GIP- als GLP-1-receptoren activeert, terwijl Semaglutide alleen de GLP-1-receptor target. Dit dubbele werkingsmechanisme biedt onderzoekers een uniek instrument voor het bestuderen van de synergetische effecten van incretine-hormoon signalering in metabool onderzoek."
   - question: "Waarvoor wordt Tirzepatide gebruikt in onderzoek?"
-    answer: "Tirzepatide wordt voornamelijk gebruikt in metabool onderzoek om duale incretine-receptor activatie, glucosehomeostase, insulinesecretie en gewichtsbeheersingmechanismen te bestuderen. Onderzoekers onderzoeken hoe de gecombineerde GIP/GLP-1 activiteit eetlust, energieverbruik en bÃ¨tacelfunctie beÃ¯nvloedt."
+    answer: "Tirzepatide wordt voornamelijk gebruikt in metabool onderzoek om duale incretine-receptor activatie, glucosehomeostase, insulinesecretie en gewichtsbeheersingmechanismen te bestuderen. Onderzoekers onderzoeken hoe de gecombineerde GIP/GLP-1 activiteit eetlust, energieverbruik en bètacelfunctie beïnvloedt."
   - question: "Hoe moet Tirzepatide worden bewaard?"
-    answer: "Gelyofiliseerd Tirzepatide moet worden bewaard bij -20Â°C voor optimale langdurige stabiliteit. Na reconstitutie met steriel water of geschikte buffer, bewaren bij 2-8Â°C en binnen 4 weken gebruiken. Vermijd herhaalde vries-dooi cycli en bescherm tegen licht."
+    answer: "Gelyofiliseerd Tirzepatide moet worden bewaard bij -20°C voor optimale langdurige stabiliteit. Na reconstitutie met steriel water of geschikte buffer, bewaren bij 2-8°C en binnen 4 weken gebruiken. Vermijd herhaalde vries-dooi cycli en bescherm tegen licht."
   - question: "Welke zuiverheid heeft uw Tirzepatide?"
-    answer: "Onze Tirzepatide is â‰¥99% zuiver zoals geverifieerd door HPLC-analyse. Elke batch bevat een Analysecertificaat (COA) met zuiverheidsgegevens, massaspectrometrie identiteitsbevestiging en peptide-inhoudsanalyse."
+    answer: "Onze Tirzepatide is ≥99% zuiver zoals geverifieerd door HPLC-analyse. Elke batch bevat een Analysecertificaat (COA) met zuiverheidsgegevens, massaspectrometrie identiteitsbevestiging en peptide-inhoudsanalyse."
   - question: "Hoe reconstitueer ik Tirzepatide?"
     answer: "Reconstitueer Tirzepatide in steriel bacteriostatisch water of een geschikte buffer op uw gewenste concentratie. Voeg oplosmiddel langzaam toe langs de wand van de flacon en draai voorzichtig om op te lossen. Vermijd krachtig schudden dat het peptide kan denatureren."
   - question: "Is dit hetzelfde als Mounjaro?"
@@ -68,7 +68,7 @@ reviews:
     rating: 4
     date: "2024-11-22"
     title: "Zeer goed product over het algemeen"
-    content: "Uitstekende zuiverheid en activiteit. De enige reden voor 4 sterren is dat ik graag een 2,5mg optie zou zien voor initiÃ«le pilotstudies. De productkwaliteit zelf is topklasse."
+    content: "Uitstekende zuiverheid en activiteit. De enige reden voor 4 sterren is dat ik graag een 2,5mg optie zou zien voor initiële pilotstudies. De productkwaliteit zelf is topklasse."
     verified: true
   - author: "Leiden Incretine Lab"
     rating: 5
@@ -84,15 +84,15 @@ reviews:
 
 De structuur van het peptide bevat een gemodificeerde GIP-sequentie met zorgvuldig ontworpen aminozuursubstituties en een C20 vetzuur-diacid zijketen bevestigd aan lysine. Deze modificatie maakt binding aan serumalbumine mogelijk, waardoor de biologische halfwaardetijd wordt verlengd tot ongeveer vijf dagen en onderzoekers aanhoudende duale receptoractivatie kunnen bestuderen.
 
-Best-Peptides levert **onderzoekskwaliteit Tirzepatide** met gegarandeerde â‰¥99% zuiverheid, geverifieerd door uitgebreide HPLC- en massaspectrometrie-analyse. Elke bestelling bevat een gedetailleerd Analysecertificaat om ervoor te zorgen dat onderzoekers correct gekarakteriseerd materiaal ontvangen voor hun studies.
+Best-Peptides levert **onderzoekskwaliteit Tirzepatide** met gegarandeerde ≥99% zuiverheid, geverifieerd door uitgebreide HPLC- en massaspectrometrie-analyse. Elke bestelling bevat een gedetailleerd Analysecertificaat om ervoor te zorgen dat onderzoekers correct gekarakteriseerd materiaal ontvangen voor hun studies.
 
 ## Hoe Werkt Tirzepatide?
 
-Tirzepatide oefent zijn biologische effecten uit door gelijktijdige activatie van GIP- en GLP-1-receptoren, die beide G-eiwit-gekoppelde receptoren zijn die tot expressie komen in verschillende metabool actieve weefsels. Dit duale agonisme creÃ«ert synergetische signaaleffecten die onderzoekers blijven karakteriseren.
+Tirzepatide oefent zijn biologische effecten uit door gelijktijdige activatie van GIP- en GLP-1-receptoren, die beide G-eiwit-gekoppelde receptoren zijn die tot expressie komen in verschillende metabool actieve weefsels. Dit duale agonisme creëert synergetische signaaleffecten die onderzoekers blijven karakteriseren.
 
 ### Duale Incretine Receptor Activatie
 
-De GIP-receptor komt voornamelijk tot expressie in pancreatische bÃ¨tacellen en vetweefsel, terwijl GLP-1-receptoren worden gevonden in pancreatische eilandjes, hersenen, hart en maag-darmkanaal. Door beide receptorsystemen gelijktijdig te activeren, biedt Tirzepatide onderzoekers een uniek instrument voor het bestuderen van:
+De GIP-receptor komt voornamelijk tot expressie in pancreatische bètacellen en vetweefsel, terwijl GLP-1-receptoren worden gevonden in pancreatische eilandjes, hersenen, hart en maag-darmkanaal. Door beide receptorsystemen gelijktijdig te activeren, biedt Tirzepatide onderzoekers een uniek instrument voor het bestuderen van:
 
 - **Synergetische insulinesecretie** - Gecombineerde GIP- en GLP-1-signalering verbetert glucose-afhankelijke insuline-afgifte meer dan elk hormoon alleen bereikt
 - **Verbeterde metabole effecten** - Duale activatie kan de insulinegevoeligheid verbeteren via mechanismen die verschillen van single-agonist peptiden
@@ -112,8 +112,8 @@ Tirzepatide maakt cruciale vergelijkende studies mogelijk tussen:
 
 De duale agonist is waardevol voor het onderzoeken van:
 
-- **Multi-orgaan metabole coÃ¶rdinatie** - Begrijpen hoe duale incretine-signalering het metabolisme van het hele lichaam beÃ¯nvloedt
-- **Insulineresistentiemechanismen** - Bestuderen van potentiÃ«le verbeteringen in perifere insulinegevoeligheid
+- **Multi-orgaan metabole coördinatie** - Begrijpen hoe duale incretine-signalering het metabolisme van het hele lichaam beïnvloedt
+- **Insulineresistentiemechanismen** - Bestuderen van potentiële verbeteringen in perifere insulinegevoeligheid
 - **Hepatische glucoseproductie** - Onderzoeken van effecten op levermetabolisme
 
 ## Tirzepatide vs Semaglutide: Belangrijkste Onderzoeksverschillen
@@ -131,9 +131,9 @@ De duale agonist is waardevol voor het onderzoeken van:
 | Specificatie | Detail |
 |--------------|--------|
 | **CAS Nummer** | 2023788-19-2 |
-| **Moleculaire Formule** | Câ‚‚â‚‚â‚…Hâ‚ƒâ‚„â‚ˆNâ‚„â‚ˆOâ‚†â‚ˆ |
+| **Moleculaire Formule** | C₂₂₅H₃₄₈N₄₈O₆₈ |
 | **Molecuulgewicht** | 4813.45 g/mol |
-| **Zuiverheid** | â‰¥99% (HPLC) |
+| **Zuiverheid** | ≥99% (HPLC) |
 | **Uiterlijk** | Wit tot gebroken wit gelyofiliseerd poeder |
 | **Oplosbaarheid** | Oplosbaar in water; kan voorzichtige verwarming vereisen |
 | **Identiteit** | Bevestigd door massaspectrometrie |
@@ -142,7 +142,7 @@ De duale agonist is waardevol voor het onderzoeken van:
 
 ### Geverifieerde Zuiverheid
 
-Onze Tirzepatide ondergaat strenge kwaliteitstesten met â‰¥99% zuiverheid geverifieerd door HPLC. Massaspectrometrie bevestigt de identiteit en uitgebreide COA's vergezellen elke bestelling.
+Onze Tirzepatide ondergaat strenge kwaliteitstesten met ≥99% zuiverheid geverifieerd door HPLC. Massaspectrometrie bevestigt de identiteit en uitgebreide COA's vergezellen elke bestelling.
 
 ### EU-Gebaseerde Levering
 
@@ -153,7 +153,7 @@ Onze Tirzepatide ondergaat strenge kwaliteitstesten met â‰¥99% zuiverheid ge
 
 ## Bestellen
 
-**Minimale bestelling: â‚¬200** | **10% korting op bestellingen boven â‚¬200**
+**Minimale bestelling: €200** | **10% korting op bestellingen boven €200**
 
 Selecteer uw verpakkingsgrootte hierboven om aan winkelwagen toe te voegen.
 

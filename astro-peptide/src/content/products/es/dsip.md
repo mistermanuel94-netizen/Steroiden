@@ -1,170 +1,170 @@
 ---
 lang: "es"
 id: "peptide-dsip"
-title: "Comprar DSIP | PÃ©ptido Inductor del SueÃ±o Delta"
+title: "Comprar DSIP | Péptido Inductor del Sueño Delta"
 primary_keyword: "comprar dsip"
 search_volume: "2200"
 urlPath: "/es/peptides/dsip-comprar"
 aliases: ["Delta Sleep Inducing Peptide", "DSIP"]
 cas: "62568-57-4"
 molecular_weight: "848.8 g/mol"
-purity: "â‰¥ 99%"
-storage: "-20Â°C recomendado (solo para investigaciÃ³n)"
-package_sizes: ["10 Ã— 5 mg viales"]
+purity: "≥ 99%"
+storage: "-20°C recomendado (solo para investigación)"
+package_sizes: ["10 × 5 mg viales"]
 moq: 200
 price: 220
-price_range: "â‚¬220 por paquete"
+price_range: "€220 por paquete"
 coa_url: "/coa/dsip.pdf"
-short_description: "Comprar DSIP. PÃ©ptido inductor del sueÃ±o delta para investigaciÃ³n del sueÃ±o. â‰¥99% pureza. EnvÃ­o rÃ¡pido a ES & UE."
+short_description: "Comprar DSIP. Péptido inductor del sueño delta para investigación del sueño. ≥99% pureza. Envío rápido a ES & UE."
 category: "cognitive"
 tags: ["research-peptide", "dsip-es", "sleep", "comprar-peptidos", "cognitive", "nootropic"]
 images: ["/images/products/dsip.png"]
 meta:
-  title: "Comprar DSIP | PÃ©ptido del SueÃ±o | EnvÃ­o RÃ¡pido"
-  description: "Comprar DSIP. PÃ©ptido inductor del sueÃ±o delta premium para investigaciÃ³n. â‰¥99% pureza, COA incluido. EnvÃ­o rÃ¡pido a ES & UE."
+  title: "Comprar DSIP | Péptido del Sueño | Envío Rápido"
+  description: "Comprar DSIP. Péptido inductor del sueño delta premium para investigación. ≥99% pureza, COA incluido. Envío rápido a ES & UE."
 faqs:
-  - question: "Â¿Para quÃ© se usa el DSIP en investigaciÃ³n?"
-    answer: "El DSIP se estudia por sus efectos en la regulaciÃ³n del sueÃ±o, ritmos circadianos, respuesta al estrÃ©s y funciÃ³n neuroendocrina. Fue aislado originalmente del cerebro de conejo."
-  - question: "Â¿CÃ³mo funciona el DSIP?"
-    answer: "El DSIP parece modular mÃºltiples sistemas de receptores e influir en el eje hipotalÃ¡mico-hipofisario. Sus mecanismos exactos continÃºan siendo investigados."
-  - question: "Â¿CuÃ¡l es el origen del DSIP?"
-    answer: "El DSIP fue aislado por primera vez en 1977 del cerebro de conejo durante estudios del sueÃ±o. Es un nonapÃ©ptido encontrado en varios tejidos."
-  - question: "Â¿CÃ³mo se debe almacenar el DSIP?"
-    answer: "Almacene el DSIP liofilizado a -20Â°C. Una vez reconstituido, mantener a 2-8Â°C y usar dentro de 3-4 semanas."
-  - question: "Â¿QuÃ© pureza tiene su DSIP?"
-    answer: "Nuestro DSIP tiene â‰¥99% de pureza verificada por HPLC. Cada lote incluye un Certificado de AnÃ¡lisis."
-  - question: "Â¿Afecta el DSIP al cortisol?"
-    answer: "La investigaciÃ³n sugiere que el DSIP puede modular los niveles de hormonas del estrÃ©s, incluyendo efectos potenciales sobre el cortisol y ACTH."
-  - question: "Â¿CÃ³mo reconstituyo el DSIP?"
-    answer: "Reconstituya en agua bacteriostÃ¡tica estÃ©ril. AÃ±ada el solvente lentamente y agite suavemente para disolver."
-  - question: "Â¿QuÃ© tamaÃ±os estÃ¡n disponibles?"
-    answer: "El DSIP estÃ¡ disponible en viales de 2mg y 5mg."
+  - question: "¿Para qué se usa el DSIP en investigación?"
+    answer: "El DSIP se estudia por sus efectos en la regulación del sueño, ritmos circadianos, respuesta al estrés y función neuroendocrina. Fue aislado originalmente del cerebro de conejo."
+  - question: "¿Cómo funciona el DSIP?"
+    answer: "El DSIP parece modular múltiples sistemas de receptores e influir en el eje hipotalámico-hipofisario. Sus mecanismos exactos continúan siendo investigados."
+  - question: "¿Cuál es el origen del DSIP?"
+    answer: "El DSIP fue aislado por primera vez en 1977 del cerebro de conejo durante estudios del sueño. Es un nonapéptido encontrado en varios tejidos."
+  - question: "¿Cómo se debe almacenar el DSIP?"
+    answer: "Almacene el DSIP liofilizado a -20°C. Una vez reconstituido, mantener a 2-8°C y usar dentro de 3-4 semanas."
+  - question: "¿Qué pureza tiene su DSIP?"
+    answer: "Nuestro DSIP tiene ≥99% de pureza verificada por HPLC. Cada lote incluye un Certificado de Análisis."
+  - question: "¿Afecta el DSIP al cortisol?"
+    answer: "La investigación sugiere que el DSIP puede modular los niveles de hormonas del estrés, incluyendo efectos potenciales sobre el cortisol y ACTH."
+  - question: "¿Cómo reconstituyo el DSIP?"
+    answer: "Reconstituya en agua bacteriostática estéril. Añada el solvente lentamente y agite suavemente para disolver."
+  - question: "¿Qué tamaños están disponibles?"
+    answer: "El DSIP está disponible en viales de 2mg y 5mg."
 reviews:
-  - author: "Dr. Francisco GarcÃ­a"
+  - author: "Dr. Francisco García"
     rating: 5
     date: "2024-12-07"
-    title: "Excelente para investigaciÃ³n del sueÃ±o"
+    title: "Excelente para investigación del sueño"
     content: "Nuestros estudios de ritmo circadiano dependen de DSIP de calidad. Best-Peptides entrega consistentemente."
     verified: true
-  - author: "Laboratorio del SueÃ±o de Madrid"
+  - author: "Laboratorio del Sueño de Madrid"
     rating: 5
     date: "2024-11-30"
     title: "Calidad premium"
-    content: "La calidad del DSIP es excepcional para nuestra investigaciÃ³n neuroendocrina."
+    content: "La calidad del DSIP es excepcional para nuestra investigación neuroendocrina."
     verified: true
-  - author: "Carlos MartÃ­nez"
+  - author: "Carlos Martínez"
     rating: 5
     date: "2024-11-23"
     title: "Excelente producto"
-    content: "EnvÃ­o rÃ¡pido, excelente calidad. Los estudios del sueÃ±o progresan bien."
+    content: "Envío rápido, excelente calidad. Los estudios del sueño progresan bien."
     verified: true
   - author: "Laboratorio de Neurociencias de Barcelona"
     rating: 5
     date: "2024-11-16"
     title: "Proveedor fiable"
-    content: "Calidad consistente para nuestra investigaciÃ³n de respuesta al estrÃ©s."
+    content: "Calidad consistente para nuestra investigación de respuesta al estrés."
     verified: true
-  - author: "Dra. MarÃ­a RodrÃ­guez"
+  - author: "Dra. María Rodríguez"
     rating: 5
     date: "2024-11-09"
     title: "Pureza excepcional"
-    content: "La verificaciÃ³n de pureza confirma excelente calidad."
+    content: "La verificación de pureza confirma excelente calidad."
     verified: true
-  - author: "Laboratorio de CronobiologÃ­a de Valencia"
+  - author: "Laboratorio de Cronobiología de Valencia"
     rating: 5
     date: "2024-11-02"
     title: "Excelente servicio"
-    content: "EnvÃ­o rÃ¡pido, gran calidad para estudios circadianos."
+    content: "Envío rápido, gran calidad para estudios circadianos."
     verified: true
-  - author: "SofÃ­a FernÃ¡ndez"
+  - author: "Sofía Fernández"
     rating: 5
     date: "2024-10-26"
-    title: "EnvÃ­o rÃ¡pido"
-    content: "El envÃ­o exprÃ©s fue puntual. Calidad excelente."
+    title: "Envío rápido"
+    content: "El envío exprés fue puntual. Calidad excelente."
     verified: true
-  - author: "InvestigaciÃ³n del SueÃ±o de Sevilla"
+  - author: "Investigación del Sueño de Sevilla"
     rating: 5
     date: "2024-10-19"
     title: "Muy bueno"
-    content: "La calidad es excelente para investigaciÃ³n de arquitectura del sueÃ±o."
+    content: "La calidad es excelente para investigación de arquitectura del sueño."
     verified: true
-  - author: "Dra. Carmen LÃ³pez"
+  - author: "Dra. Carmen López"
     rating: 5
     date: "2024-10-12"
-    title: "PÃ©ptido de investigaciÃ³n premium"
+    title: "Péptido de investigación premium"
     content: "Excelente para estudios neuroendocrinos."
     verified: true
-  - author: "Laboratorio del SueÃ±o de Bilbao"
+  - author: "Laboratorio del Sueño de Bilbao"
     rating: 5
     date: "2024-10-05"
     title: "Calidad fiable"
-    content: "MÃºltiples pedidos, consistentemente excelente."
+    content: "Múltiples pedidos, consistentemente excelente."
     verified: true
 ---
 
-## Â¿QuÃ© es el DSIP?
+## ¿Qué es el DSIP?
 
-**DSIP** (Delta Sleep-Inducing Peptide) es un nonapÃ©ptido aislado por primera vez del cerebro de conejo en 1977 durante la investigaciÃ³n de la fisiologÃ­a del sueÃ±o. El pÃ©ptido fue nombrado por su capacidad para promover patrones de sueÃ±o de ondas delta en modelos de investigaciÃ³n.
+**DSIP** (Delta Sleep-Inducing Peptide) es un nonapéptido aislado por primera vez del cerebro de conejo en 1977 durante la investigación de la fisiología del sueño. El péptido fue nombrado por su capacidad para promover patrones de sueño de ondas delta en modelos de investigación.
 
-MÃ¡s allÃ¡ de la regulaciÃ³n del sueÃ±o, el DSIP ha demostrado efectos en la respuesta al estrÃ©s, la percepciÃ³n del dolor y la funciÃ³n neuroendocrina, convirtiÃ©ndolo en una herramienta versÃ¡til para la investigaciÃ³n en neurociencias.
+Más allá de la regulación del sueño, el DSIP ha demostrado efectos en la respuesta al estrés, la percepción del dolor y la función neuroendocrina, convirtiéndolo en una herramienta versátil para la investigación en neurociencias.
 
-Best-Peptides suministra **DSIP de grado de investigaciÃ³n** con pureza garantizada â‰¥99%.
+Best-Peptides suministra **DSIP de grado de investigación** con pureza garantizada ≥99%.
 
-## Â¿CÃ³mo Funciona el DSIP?
+## ¿Cómo Funciona el DSIP?
 
-### RegulaciÃ³n del SueÃ±o
-- **PromociÃ³n de ondas delta** - Patrones de sueÃ±o profundo
-- **Efectos circadianos** - ModulaciÃ³n del ritmo
-- **Arquitectura del sueÃ±o** - RegulaciÃ³n de etapas
+### Regulación del Sueño
+- **Promoción de ondas delta** - Patrones de sueño profundo
+- **Efectos circadianos** - Modulación del ritmo
+- **Arquitectura del sueño** - Regulación de etapas
 
 ### Neuroendocrino
-- **Efectos en el eje HPA** - Respuesta al estrÃ©s
-- **ModulaciÃ³n del cortisol** - Equilibrio hormonal
+- **Efectos en el eje HPA** - Respuesta al estrés
+- **Modulación del cortisol** - Equilibrio hormonal
 - **Efectos LH/FSH** - Hormonas reproductivas
 
 ### Otros Efectos
-- **Propiedades analgÃ©sicas** - ModulaciÃ³n del dolor
+- **Propiedades analgésicas** - Modulación del dolor
 - **Antioxidante** - Efectos protectores
-- **AdaptaciÃ³n al estrÃ©s** - Resiliencia
+- **Adaptación al estrés** - Resiliencia
 
-## Aplicaciones de InvestigaciÃ³n
+## Aplicaciones de Investigación
 
-### InvestigaciÃ³n del SueÃ±o
-- **Modelos de insomnio** - Mejora del sueÃ±o
-- **Ritmo circadiano** - Estudios de temporizaciÃ³n
-- **Trastornos del sueÃ±o** - InvestigaciÃ³n de disfunciones
+### Investigación del Sueño
+- **Modelos de insomnio** - Mejora del sueño
+- **Ritmo circadiano** - Estudios de temporización
+- **Trastornos del sueño** - Investigación de disfunciones
 
-### InvestigaciÃ³n del EstrÃ©s
-- **Eje HPA** - Respuesta al estrÃ©s
-- **AdaptaciÃ³n** - Mecanismos de resiliencia
+### Investigación del Estrés
+- **Eje HPA** - Respuesta al estrés
+- **Adaptación** - Mecanismos de resiliencia
 
 ## Especificaciones del DSIP
 
-| EspecificaciÃ³n | Detalle |
+| Especificación | Detalle |
 |----------------|---------|
-| **NÃºmero CAS** | 62568-57-4 |
-| **FÃ³rmula Molecular** | C35H48N10O15 |
+| **Número CAS** | 62568-57-4 |
+| **Fórmula Molecular** | C35H48N10O15 |
 | **Peso Molecular** | 848.8 g/mol |
 | **Secuencia** | Trp-Ala-Gly-Gly-Asp-Ala-Ser-Gly-Glu |
-| **Pureza** | â‰¥99% (HPLC) |
+| **Pureza** | ≥99% (HPLC) |
 | **Apariencia** | Polvo liofilizado blanco |
 
 ## Almacenamiento
 
-| CondiciÃ³n | Temperatura | DuraciÃ³n |
+| Condición | Temperatura | Duración |
 |-----------|-------------|----------|
-| **Liofilizado** | -20Â°C | Hasta 24 meses |
-| **Reconstituido** | 2-8Â°C | Hasta 3-4 semanas |
+| **Liofilizado** | -20°C | Hasta 24 meses |
+| **Reconstituido** | 2-8°C | Hasta 3-4 semanas |
 
-## InformaciÃ³n de Pedido
+## Información de Pedido
 
-| TamaÃ±o | Precio |
+| Tamaño | Precio |
 |--------|--------|
-| **2 mg** | Desde â‚¬32 |
-| **5 mg** | Desde â‚¬75 |
+| **2 mg** | Desde €32 |
+| **5 mg** | Desde €75 |
 
-**Pedido mÃ­nimo: â‚¬200** | **10% de descuento en pedidos superiores a â‚¬200**
+**Pedido mínimo: €200** | **10% de descuento en pedidos superiores a €200**
 
-## DeclaraciÃ³n de Uso para InvestigaciÃ³n
+## Declaración de Uso para Investigación
 
-**Solo para investigaciÃ³n de laboratorio.** No destinado para uso humano o veterinario.
+**Solo para investigación de laboratorio.** No destinado para uso humano o veterinario.

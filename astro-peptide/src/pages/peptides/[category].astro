@@ -128,12 +128,12 @@ const seo = categorySEO[category] || {
   title: category.replace(/-/g, ' ').replace(/\b\w/g, (l: string) => l.toUpperCase()) + ' Peptides',
   h1: 'Buy ' + category.replace(/-/g, ' ').replace(/\b\w/g, (l: string) => l.toUpperCase()) + ' Peptides UK',
   metaTitle: `Buy ${category.replace(/-/g, ' ').replace(/\b\w/g, (l: string) => l.toUpperCase())} Peptides UK | Best-Peptides`,
-  metaDescription: `Buy ${category.replace(/-/g, ' ')} peptides UK. Premium research grade with â‰¥99% purity. Fast UK delivery.`,
+  metaDescription: `Buy ${category.replace(/-/g, ' ')} peptides UK. Premium research grade with ≥99% purity. Fast UK delivery.`,
   primaryKeyword: `buy ${category.replace(/-/g, ' ')} peptides uk`,
   searchVolume: '500',
   shortDescription: `Research-grade ${category.replace(/-/g, ' ')} peptides for scientific studies.`,
   longDescription: `Explore our collection of ${category.replace(/-/g, ' ')} research peptides. All products are verified for purity and authenticity.`,
-  benefits: ['â‰¥99% Purity', 'COA Included', 'Fast UK Delivery', 'Lab Verified']
+  benefits: ['≥99% Purity', 'COA Included', 'Fast UK Delivery', 'Lab Verified']
 };
 
 const seoCopy = {
@@ -189,7 +189,7 @@ const productCount = filteredProducts.length;
             <span class="stat-label">{productCopy.list?.productsLabel ?? "Products"}</span>
           </div>
           <div class="stat-card">
-            <span class="stat-number">â‰¥99%</span>
+            <span class="stat-number">≥99%</span>
             <span class="stat-label">{productCopy.list?.purityLabel ?? "Purity"}</span>
           </div>
           <div class="stat-card">
@@ -242,7 +242,7 @@ const productCount = filteredProducts.length;
             <h2 class="text-2xl font-bold text-slate-900 mb-4">{seoCopy.seoSectionTitle ?? `${seoCopy.title} for Research`}</h2>
             <p class="text-slate-600 mb-4">{seoCopy.longDescription}</p>
             <p class="text-slate-600 mb-4">
-              {seoCopy.seoBody1 ?? `At Best-Peptides, we supply premium ${seoCopy.title.toLowerCase()} to researchers, laboratories, and academic institutions across the United Kingdom. Every product undergoes rigorous HPLC testing to ensure â‰¥99% purity, with comprehensive Certificates of Analysis included with each order.`}
+              {seoCopy.seoBody1 ?? `At Best-Peptides, we supply premium ${seoCopy.title.toLowerCase()} to researchers, laboratories, and academic institutions across the United Kingdom. Every product undergoes rigorous HPLC testing to ensure ≥99% purity, with comprehensive Certificates of Analysis included with each order.`}
             </p>
             <p class="text-slate-600">
               {seoCopy.seoBody2 ?? `Our ${seoCopy.title.toLowerCase()} are stored in optimal conditions and shipped in temperature-controlled packaging to maintain integrity. Whether you're conducting metabolic studies, cellular research, or molecular investigations, our research-grade compounds meet the highest standards for scientific applications.`}

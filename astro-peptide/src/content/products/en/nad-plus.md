@@ -8,20 +8,20 @@ urlPath: "/peptides/buy-nad-plus"
 aliases: ["NAD+", "Nicotinamide Adenine Dinucleotide", "NAD"]
 cas: "53-84-9"
 molecular_weight: "663.4 g/mol"
-purity: "â‰¥ 99%"
-storage: "-20Â°C recommended (research-only)"
-package_sizes: ["10 Ã— 500 mg vials"]
+purity: "≥ 99%"
+storage: "-20°C recommended (research-only)"
+package_sizes: ["10 × 500 mg vials"]
 moq: 200
 price: 2500
-price_range: "Â£2500 per pack"
+price_range: "£2500 per pack"
 coa_url: "/coa/nad-plus.pdf"
-short_description: "Buy NAD+. Nicotinamide adenine dinucleotide for cellular research. â‰¥99% purity. Fast UK delivery."
+short_description: "Buy NAD+. Nicotinamide adenine dinucleotide for cellular research. ≥99% purity. Fast UK delivery."
 category: "cognitive"
 tags: ["research-peptide", "nad-uk", "longevity", "buy-peptides-uk", "cognitive", "cellular-energy"]
 images: ["/images/products/nad-plus.png"]
 meta:
   title: "Buy NAD+ | Cellular Energy Research | Fast Delivery"
-  description: "Buy NAD+. Premium NAD+ for cellular and longevity research. â‰¥99% purity, COA included. Fast UK delivery."
+  description: "Buy NAD+. Premium NAD+ for cellular and longevity research. ≥99% purity, COA included. Fast UK delivery."
 faqs:
   - question: "What is NAD+ used for in research?"
     answer: "NAD+ is studied for cellular energy metabolism, sirtuin activation, DNA repair, mitochondrial function, and longevity mechanisms."
@@ -30,9 +30,9 @@ faqs:
   - question: "What are sirtuins?"
     answer: "Sirtuins are NAD+-dependent enzymes that regulate metabolism, stress response, and ageing. Seven sirtuins (SIRT1-7) are found in mammals."
   - question: "How should NAD+ be stored?"
-    answer: "Store lyophilised NAD+ at -20Â°C. Reconstituted solutions should be kept at 2-8Â°C and used promptly due to stability concerns."
+    answer: "Store lyophilised NAD+ at -20°C. Reconstituted solutions should be kept at 2-8°C and used promptly due to stability concerns."
   - question: "What purity is your NAD+?"
-    answer: "Our NAD+ is â‰¥99% pure as verified by HPLC. Each batch includes a Certificate of Analysis."
+    answer: "Our NAD+ is ≥99% pure as verified by HPLC. Each batch includes a Certificate of Analysis."
   - question: "Why do NAD+ levels decline with age?"
     answer: "NAD+ declines due to reduced synthesis and increased consumption by repair enzymes. This decline is associated with age-related changes."
   - question: "How do I reconstitute NAD+?"
@@ -132,7 +132,7 @@ reviews:
 
 Interest in NAD+ has surged due to its central role in ageing research, particularly its relationship with sirtuins and cellular repair mechanisms. NAD+ levels naturally decline with age, driving research into maintaining cellular NAD+ pools.
 
-Best-Peptides supplies **research-grade NAD+** with guaranteed â‰¥99% purity.
+Best-Peptides supplies **research-grade NAD+** with guaranteed ≥99% purity.
 
 ## How Does NAD+ Work?
 
@@ -172,7 +172,7 @@ Best-Peptides supplies **research-grade NAD+** with guaranteed â‰¥99% purity
 | **CAS Number** | 53-84-9 |
 | **Molecular Formula** | C21H27N7O14P2 |
 | **Molecular Weight** | 663.4 g/mol |
-| **Purity** | â‰¥99% (HPLC) |
+| **Purity** | ≥99% (HPLC) |
 | **Appearance** | White to off-white powder |
 | **Solubility** | Soluble in water |
 
@@ -180,18 +180,18 @@ Best-Peptides supplies **research-grade NAD+** with guaranteed â‰¥99% purity
 
 | Condition | Temperature | Duration |
 |-----------|-------------|----------|
-| **Lyophilised** | -20Â°C | Up to 12 months |
-| **Reconstituted** | 2-8Â°C | Use promptly |
+| **Lyophilised** | -20°C | Up to 12 months |
+| **Reconstituted** | 2-8°C | Use promptly |
 
 ## Ordering Information
 
 | Size | Price |
 |------|-------|
-| **100 mg** | From Â£45 |
-| **500 mg** | From Â£95 |
-| **1 g** | From Â£185 |
+| **100 mg** | From £45 |
+| **500 mg** | From £95 |
+| **1 g** | From £185 |
 
-**Minimum order: Â£200** | **10% discount on orders over Â£200**
+**Minimum order: £200** | **10% discount on orders over £200**
 
 ## Research Use Statement
 

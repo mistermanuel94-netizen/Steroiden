@@ -1,27 +1,27 @@
 ---
 lang: "ru"
 id: "peptide-tesofensine"
-title: "ÐšÑƒÐ¿Ð¸Ñ‚ÑŒ Tesofensine UK | Research Grade Triple Reuptake Inhibitor"
-primary_keyword: "ÐšÑƒÐ¿Ð¸Ñ‚ÑŒ tesofensine uk"
+title: "Купить Tesofensine UK | Research Grade Triple Reuptake Inhibitor"
+primary_keyword: "Купить tesofensine uk"
 search_volume: "3200"
 urlPath: "/peptides/buy-tesofensine"
 aliases:  ["NS2330", "Triple Reuptake Inhibitor"]
 cas: "402856-42-2"
 molecular_weight: "382.5 g/mol"
-purity: "â‰¥ 99%"
+purity: "≥ 99%"
 storage: "Room temperature, protected from light"
-package_sizes:  ["60 Ã— 0.5 mg caps"]
+package_sizes:  ["60 × 0.5 mg caps"]
 moq: 200
 price: 240
-price_range: "Â£240 per bottle"
+price_range: "£240 per bottle"
 coa_url: "/coa/tesofensine.pdf"
-short_description: "ÐšÑƒÐ¿Ð¸Ñ‚ÑŒ Tesofensine UK. Triple reuptake inhibitor for weight and neuroscience research. â‰¥99% purity. Ð‘Ñ‹ÑÑ‚Ñ€Ð°Ñ Ð´Ð¾ÑÑ‚Ð°Ð²ÐºÐ°."
+short_description: "Купить Tesofensine UK. Triple reuptake inhibitor for weight and neuroscience research. ≥99% purity. Быстрая доставка."
 category: "weight-loss"
 tags:  ["research-compound", "tesofensine-uk", "weight-loss", "buy-research-uk", "triple-reuptake"]
 images: ["/images/products/tesofensine.png"]
 meta:
-  title: "ÐšÑƒÐ¿Ð¸Ñ‚ÑŒ Tesofensine UK | Triple Reuptake Inhibitor | Fast Delivery"
-  description: "Buy Tesofensine UK. Premium triple reuptake inhibitor for weight research. â‰¥99% purity, COA included. Fast UK delivery."
+  title: "Купить Tesofensine UK | Triple Reuptake Inhibitor | Fast Delivery"
+  description: "Buy Tesofensine UK. Premium triple reuptake inhibitor for weight research. ≥99% purity, COA included. Fast UK delivery."
 faqs:
 - question: "What is Tesofensine used for in research?"
   answer: "Tesofensine is used in neuroscience and obesity research to study triple monoamine reuptake inhibition. It blocks reuptake of norepinephrine, dopamine, and serotonin, enabling research into appetite regulation and energy expenditure mechanisms."
@@ -32,7 +32,7 @@ faqs:
 - question: "How should Tesofensine be stored?"
   answer: "Store Tesofensine at room temperature, protected from light and moisture. Unlike peptides, it doesn't require cold storage. Keep in a cool, dry place."
 - question: "What purity is your Tesofensine?"
-  answer: "Our Tesofensine is â‰¥99% pure as verified by HPLC analysis. Each batch includes a Certificate of Analysis with purity and identity confirmation."
+  answer: "Our Tesofensine is ≥99% pure as verified by HPLC analysis. Each batch includes a Certificate of Analysis with purity and identity confirmation."
 - question: "What is the mechanism of action?"
   answer: "Tesofensine inhibits presynaptic reuptake of norepinephrine, dopamine, and serotonin, increasing synaptic concentrations of these neurotransmitters to affect appetite, satiety, and energy expenditure."
 - question: "How do I prepare Tesofensine for research?"
@@ -122,11 +122,11 @@ reviews:
 
 ## What is Tesofensine?
 
-**Tesofensine** (NS2330) is a triple monoamine reuptake inhibitor that blocks the presynaptic reuptake of norepinephrine, dopamine, and serotonin. Originally developed for neurodegenerative disease research, tesofensine has become an important tool for Ð˜ÑÑÐ»ÐµÐ´Ð¾Ð²Ð°Ð½Ð¸Ðµing the neurological basis of appetite regulation and energy homeostasis.
+**Tesofensine** (NS2330) is a triple monoamine reuptake inhibitor that blocks the presynaptic reuptake of norepinephrine, dopamine, and serotonin. Originally developed for neurodegenerative disease research, tesofensine has become an important tool for Исследованиеing the neurological basis of appetite regulation and energy homeostasis.
 
 Unlike single-target compounds, tesofensine's triple mechanism enables researchers to investigate the complex interplay between monoaminergic systems in controlling food intake and metabolic rate. This makes it valuable for understanding the neuropharmacology of obesity and appetite disorders.
 
-ÐŸÐµÐ¿Ñ‚Ð¸Ð´ Shop supplies **research-grade Tesofensine** with guaranteed â‰¥99% purity, verified through comprehensive HPLC analysis.
+Пептид Shop supplies **research-grade Tesofensine** with guaranteed ≥99% purity, verified through comprehensive HPLC analysis.
 
 ## How Does Tesofensine Work?
 
@@ -166,9 +166,9 @@ Tesofensine increases synaptic concentrations of three key neurotransmitters:
 | Specification | Detail |
 |--------------|--------|
 | **CAS Number** | 402856-42-2 |
-| **ÐœÐ¾Ð»ÐµÐºÑƒÐ»ÑÑ€Ð½Ð°Ñ Ð¼Ð°ÑÑÐ°** | 382.5 g/mol |
-| **Purity** | â‰¥99% (HPLC) |
-| **Ð’Ð½ÐµÑˆÐ½Ð¸Ð¹ Ð²Ð¸Ð´** | White to off-Ð‘ÐµÐ»Ñ‹Ð¹ Ð¿Ð¾Ñ€Ð¾ÑˆÐ¾Ðº |
+| **Молекулярная масса** | 382.5 g/mol |
+| **Purity** | ≥99% (HPLC) |
+| **Внешний вид** | White to off-Белый порошок |
 | **Solubility** | Soluble in DMSO, methanol |
 
 ## Storage
@@ -179,10 +179,10 @@ Store at room temperature, protected from light and moisture.
 
 | Size | Price |
 |------|-------|
-| **10 mg** | From Â£42 |
-| **25 mg** | From Â£95 |
+| **10 mg** | From £42 |
+| **25 mg** | From £95 |
 
-**Minimum order: Â£200** | **10% discount on orders over Â£200**
+**Minimum order: £200** | **10% discount on orders over £200**
 
 ## Research Use Statement
 

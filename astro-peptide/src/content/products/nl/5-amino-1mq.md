@@ -8,12 +8,12 @@ urlPath: "/nl/peptides/5-amino-1mq-kopen"
 aliases: ["5-Amino-1-Methylquinolinium", "NNMT Remmer"]
 cas: "42464-99-1"
 molecular_weight: "240.3 g/mol"
-purity: "â‰¥ 99%"
+purity: "≥ 99%"
 storage: "Kamertemperatuur, beschermd tegen licht"
 package_sizes: ["30 caps"]
 moq: 200
 price: 40
-price_range: "â‚¬47 per fles"
+price_range: "€47 per fles"
 coa_url: "/coa/5-amino-1mq.pdf"
 short_description: "Koop 5-Amino-1MQ. Verkrijgbaar als orale capsules (50mg) of hoogzuiver poeder (99%). NNMT-remmer voor metabolisme- en levensduuronderzoek. Snelle EU-levering."
 category: "weight-loss"
@@ -29,12 +29,12 @@ faqs:
     answer: "5-Amino-1MQ wordt gebruikt om nicotinamide N-methyltransferase (NNMT) remming te bestuderen en de effecten ervan op cellulair metabolisme, NAD+ niveaus, energieverbruik en vetweefsel functie. Het is een belangrijk hulpmiddel voor metabolisch verouderings- en obesitasonderzoek."
   - question: "Wat is NNMT en waarom wordt remming ervan onderzocht?"
     answer: "NNMT is een enzym dat nicotinamide methyleert, waarbij SAM (S-adenosylmethionine) wordt verbruikt. Hoge NNMT-activiteit wordt geassocieerd met obesitas en metabolische disfunctie. Remming kan NAD+ precursors behouden en metabolische functie verbeteren."
-  - question: "Hoe beÃ¯nvloedt 5-Amino-1MQ het NAD+ metabolisme?"
+  - question: "Hoe beïnvloedt 5-Amino-1MQ het NAD+ metabolisme?"
     answer: "Door NNMT te remmen, kan 5-Amino-1MQ nicotinamide behouden voor NAD+ synthese in plaats van methylering. Deze onderzoekstoepassing sluit aan bij NAD+ biologie en cellulair energiemetabolisme."
   - question: "Hoe moet 5-Amino-1MQ worden bewaard?"
     answer: "Bewaar op kamertemperatuur, beschermd tegen licht en vocht. Zowel capsules als poedervorm zijn stabiel bij omgevingstemperatuur wanneer droog gehouden. Capsules moeten in hun originele verpakking worden bewaard."
   - question: "Wat is de zuiverheid van jullie 5-Amino-1MQ?"
-    answer: "Onze 5-Amino-1MQ is â‰¥99% zuiver zoals geverifieerd door HPLC. Zowel capsule- als poedervormen voldoen aan deze zuiverheidsnorm. Elke batch bevat een Certificaat van Analyse met zuiverheis- en identiteitsgegevens."
+    answer: "Onze 5-Amino-1MQ is ≥99% zuiver zoals geverifieerd door HPLC. Zowel capsule- als poedervormen voldoen aan deze zuiverheidsnorm. Elke batch bevat een Certificaat van Analyse met zuiverheis- en identiteitsgegevens."
 reviews:
   - author: "Dr. Willem van Hoorn"
     rating: 5
@@ -78,18 +78,18 @@ reviews:
 
 **5-Amino-1MQ** (5-Amino-1-Methylquinolinium) is een selectieve remmer van nicotinamide N-methyltransferase (NNMT), een enzym dat steeds meer wordt erkend als een belangrijke regulator van cellulair metabolisme, NAD+ homeostase en vetweefsel functie. Deze onderzoeksverbinding is een belangrijk hulpmiddel geworden voor het bestuderen van de kruising van epigenetica, energiemetabolisme en veroudering.
 
-NNMT katalyseert de N-methylering van nicotinamide (een NAD+ precursor) met SAM (S-adenosylmethionine) als methyldonor. Door dit enzym te remmen, stelt 5-Amino-1MQ onderzoekers in staat om te onderzoeken hoe NNMT-modulatie cellulair metabolisme, NAD+ beschikbaarheid en metabolische gezondheid beÃ¯nvloedt.
+NNMT katalyseert de N-methylering van nicotinamide (een NAD+ precursor) met SAM (S-adenosylmethionine) als methyldonor. Door dit enzym te remmen, stelt 5-Amino-1MQ onderzoekers in staat om te onderzoeken hoe NNMT-modulatie cellulair metabolisme, NAD+ beschikbaarheid en metabolische gezondheid beïnvloedt.
 
-Best-Peptides levert **onderzoekskwaliteit 5-Amino-1MQ** met gegarandeerd â‰¥99% zuiverheid, geverifieerd door uitgebreide HPLC-analyse.
+Best-Peptides levert **onderzoekskwaliteit 5-Amino-1MQ** met gegarandeerd ≥99% zuiverheid, geverifieerd door uitgebreide HPLC-analyse.
 
 ## Hoe Werkt 5-Amino-1MQ?
 
-5-Amino-1MQ remt NNMT en beÃ¯nvloedt meerdere metabolische routes:
+5-Amino-1MQ remt NNMT en beïnvloedt meerdere metabolische routes:
 
 ### NAD+ Metabolisme
 - **Nicotinamide behoud** - Minder substraat verbruikt door NNMT
 - **NAD+ precursor beschikbaarheid** - Meer nicotinamide voor salvage pathway
-- **Cellulaire energie** - PotentiÃ«le effecten op mitochondriale functie
+- **Cellulaire energie** - Potentiële effecten op mitochondriale functie
 - **Sirtuin activiteit** - NAD+-afhankelijke deacetylase regulatie
 
 ### Methyleringsbalans
@@ -124,7 +124,7 @@ Best-Peptides levert **onderzoekskwaliteit 5-Amino-1MQ** met gegarandeerd â‰�
 |--------------|--------|
 | **CAS Nummer** | 42464-99-1 |
 | **Moleculair Gewicht** | 240.3 g/mol |
-| **Zuiverheid** | â‰¥99% (HPLC) |
+| **Zuiverheid** | ≥99% (HPLC) |
 | **Uiterlijk** | Wit tot gebroken wit poeder |
 | **Oplosbaarheid** | Oplosbaar in water, DMSO |
 
@@ -136,10 +136,10 @@ Bewaar op kamertemperatuur, beschermd tegen licht en vocht.
 
 | Maat | Prijs |
 |------|-------|
-| **100 mg** | Vanaf â‚¬45 |
-| **250 mg** | Vanaf â‚¬99 |
+| **100 mg** | Vanaf €45 |
+| **250 mg** | Vanaf €99 |
 
-**Minimale bestelling: â‚¬200** | **10% korting op bestellingen boven â‚¬200**
+**Minimale bestelling: €200** | **10% korting op bestellingen boven €200**
 
 ## Onderzoeksverklaring
 

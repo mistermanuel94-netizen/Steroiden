@@ -18,9 +18,9 @@ copy:
     quality: "In an industry often plagued by opacity, we stand apart by providing comprehensive analytical data for every batch. We don't just claim purity; we prove it."
   features:
     hplc: "HPLC Analysis"
-    hplcSubtitle: "To verify purity â‰¥99%"
+    hplcSubtitle: "To verify purity ≥99%"
     massSpec: "Mass Spectrometry"
     massSpecSubtitle: "To confirm molecular identity"
     storage: "Strict Storage"
-    storageSubtitle: "All inventory at -20Â°C"
+    storageSubtitle: "All inventory at -20°C"
 ---

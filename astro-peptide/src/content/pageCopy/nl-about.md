@@ -18,9 +18,9 @@ copy:
     quality: "In een industrie die vaak geplaagd wordt door ondoorzichtigheid, onderscheiden wij ons door uitgebreide analytische gegevens te verstrekken voor elke batch. Wij claimen niet alleen zuiverheid; wij bewijzen het."
   features:
     hplc: "HPLC-Analyse"
-    hplcSubtitle: "Ter verificatie van zuiverheid â‰¥99%"
+    hplcSubtitle: "Ter verificatie van zuiverheid ≥99%"
     massSpec: "Massaspectrometrie"
     massSpecSubtitle: "Ter bevestiging van moleculaire identiteit"
     storage: "Strikte Opslag"
-    storageSubtitle: "Gehele voorraad bij -20Â°C"
+    storageSubtitle: "Gehele voorraad bij -20°C"
 ---

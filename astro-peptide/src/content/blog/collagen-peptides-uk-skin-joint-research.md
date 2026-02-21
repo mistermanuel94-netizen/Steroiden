@@ -105,13 +105,13 @@ For musculoskeletal studies:
 ### Storage
 
 **Lyophilised Form:**
-- Temperature: 4Â°C to -20Â°C
+- Temperature: 4°C to -20°C
 - Humidity: Dry storage
 - Light protection: Recommended
 - Stability: 24+ months
 
 **Dissolved Form:**
-- Store refrigerated (2-8Â°C)
+- Store refrigerated (2-8°C)
 - Prepare fresh when possible
 - Filter sterilise for cell culture
 
@@ -120,9 +120,9 @@ For musculoskeletal studies:
 ```
 Step 1: Dissolve peptides in PBS or media
 Step 2: Concentration: Stock at 0.1-10 mg/mL
-Step 3: Sterile filter (0.22 Âµm)
+Step 3: Sterile filter (0.22 µm)
 Step 4: Aliquot
-Step 5: Store at -20Â°C
+Step 5: Store at -20°C
 Step 6: Avoid freeze-thaw cycles
 ```
 
@@ -132,18 +132,18 @@ Step 6: Avoid freeze-thaw cycles
 
 | Cell Type | Application | Typical Concentration |
 |-----------|-------------|----------------------|
-| Fibroblasts | Collagen synthesis | 10-500 Âµg/mL |
-| Keratinocytes | Skin models | 50-200 Âµg/mL |
-| Chondrocytes | Cartilage studies | 100-1000 Âµg/mL |
-| Osteoblasts | Bone formation | 50-500 Âµg/mL |
+| Fibroblasts | Collagen synthesis | 10-500 µg/mL |
+| Keratinocytes | Skin models | 50-200 µg/mL |
+| Chondrocytes | Cartilage studies | 100-1000 µg/mL |
+| Osteoblasts | Bone formation | 50-500 µg/mL |
 
 ### Readout Methods
 
-- âœ… Procollagen I C-Peptide ELISA
-- âœ… Hydroxyproline assay
-- âœ… Gene expression (COL1A1, COL3A1)
-- âœ… Immunofluorescence
-- âœ… SHG microscopy (Second Harmonic Generation)
+- ✅ Procollagen I C-Peptide ELISA
+- ✅ Hydroxyproline assay
+- ✅ Gene expression (COL1A1, COL3A1)
+- ✅ Immunofluorescence
+- ✅ SHG microscopy (Second Harmonic Generation)
 
 ## Bioactive Collagen Peptides
 
@@ -189,7 +189,7 @@ Consider:
 
 For selecting research-grade collagen peptides:
 
-1. **Purity**: Protein/peptide content â‰¥90%
+1. **Purity**: Protein/peptide content ≥90%
 2. **Molecular Weight**: Defined range (2-6 kDa)
 3. **Amino Acid Profile**: Rich in Gly, Pro, Hyp
 4. **Heavy Metals**: Below thresholds
@@ -217,10 +217,10 @@ Collagen peptides in advanced models:
 
 Collagen peptides combined with:
 
-- âœ… Hyaluronic acid
-- âœ… Elastin peptides
-- âœ… Growth factors
-- âœ… Glycosaminoglycans
+- ✅ Hyaluronic acid
+- ✅ Elastin peptides
+- ✅ Growth factors
+- ✅ Glycosaminoglycans
 
 ## Frequently Asked Questions
 
@@ -234,7 +234,7 @@ Type I collagen is most abundant in skin and is the most commonly used for derma
 
 ### How do I use collagen peptides in cell culture?
 
-Typically as a media supplement at concentrations of 10-500 Âµg/mL, depending on cell type and research objectives.
+Typically as a media supplement at concentrations of 10-500 µg/mL, depending on cell type and research objectives.
 
 ### Are marine collagen peptides different from bovine?
 

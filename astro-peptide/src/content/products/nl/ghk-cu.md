@@ -8,20 +8,20 @@ urlPath: "/nl/peptides/ghk-cu-kopen"
 aliases: ["Koperpeptide", "GHK Koper", "Tripeptide-1"]
 cas: "49557-75-7"
 molecular_weight: "403.9 g/mol"
-purity: "â‰¥ 99%"
-storage: "-20Â°C aanbevolen (alleen voor onderzoek)"
+purity: "≥ 99%"
+storage: "-20°C aanbevolen (alleen voor onderzoek)"
 package_sizes: ["500 mg poeder"]
 moq: 200
 price: 200
-price_range: "â‚¬200 per eenheid"
+price_range: "€200 per eenheid"
 coa_url: "/coa/ghk-cu.pdf"
-short_description: "GHK-Cu kopen. Koperpeptide voor huid- en weefselonderzoek. â‰¥99% zuiverheid. Snelle levering."
+short_description: "GHK-Cu kopen. Koperpeptide voor huid- en weefselonderzoek. ≥99% zuiverheid. Snelle levering."
 category: "muscle-recovery"
 tags: ["research-peptide", "ghk-cu-nl", "copper-peptide", "peptiden-kopen", "huid", "collageen"]
 images: ["/images/products/ghk-cu.png"]
 meta:
   title: "GHK-Cu Kopen | Koperpeptide | Snelle Levering"
-  description: "GHK-Cu kopen. Premium koperpeptide voor onderzoek. â‰¥99% zuiverheid, COA inbegrepen. Snelle levering."
+  description: "GHK-Cu kopen. Premium koperpeptide voor onderzoek. ≥99% zuiverheid, COA inbegrepen. Snelle levering."
 faqs:
   - question: "Waarvoor wordt GHK-Cu gebruikt in onderzoek?"
     answer: "GHK-Cu wordt bestudeerd voor wondgenezing, huidregeneratie, collageensynthese en ontstekingsremmende effecten. Het is een natuurlijk voorkomend tripeptide met koperbinding."
@@ -30,11 +30,11 @@ faqs:
   - question: "Wat is de oorsprong van GHK-Cu?"
     answer: "GHK is een natuurlijk voorkomend tripeptide dat wordt aangetroffen in menselijk plasma, speeksel en urine. De niveaus nemen af met de leeftijd, wat interesse heeft gewekt in de regeneratieve eigenschappen."
   - question: "Hoe moet GHK-Cu worden bewaard?"
-    answer: "Bewaar gelyofiliseerd GHK-Cu bij -20Â°C. Gereconstitueerde oplossingen moeten worden bewaard bij 2-8Â°C en binnen 4 weken worden gebruikt."
+    answer: "Bewaar gelyofiliseerd GHK-Cu bij -20°C. Gereconstitueerde oplossingen moeten worden bewaard bij 2-8°C en binnen 4 weken worden gebruikt."
   - question: "Wat is de zuiverheid van uw GHK-Cu?"
-    answer: "Onze GHK-Cu is â‰¥99% zuiver zoals geverifieerd door HPLC. Elke batch bevat een Analysecertificaat."
-  - question: "Kan GHK-Cu genexpressie beÃ¯nvloeden?"
-    answer: "Onderzoek suggereert dat GHK-Cu de expressie van talrijke genen beÃ¯nvloedt die gerelateerd zijn aan weefselherstel, antioxidantactiviteit en collageenproductie."
+    answer: "Onze GHK-Cu is ≥99% zuiver zoals geverifieerd door HPLC. Elke batch bevat een Analysecertificaat."
+  - question: "Kan GHK-Cu genexpressie beïnvloeden?"
+    answer: "Onderzoek suggereert dat GHK-Cu de expressie van talrijke genen beïnvloedt die gerelateerd zijn aan weefselherstel, antioxidantactiviteit en collageenproductie."
   - question: "Hoe reconstitueer ik GHK-Cu?"
     answer: "Reconstitueer in steriel water. GHK-Cu is zeer oplosbaar en lost gemakkelijk op."
   - question: "Welke maten zijn beschikbaar?"
@@ -118,9 +118,9 @@ reviews:
 
 **GHK-Cu** (Koper Tripeptide-1) is een natuurlijk voorkomend koper-peptidecomplex bestaande uit drie aminozuren (glycine-histidine-lysine) gebonden aan een koperion. GHK-Cu wordt aangetroffen in menselijk plasma, speeksel en urine, en de concentraties nemen natuurlijk af met de leeftijd.
 
-Onderzoeksinteresse in GHK-Cu komt voort uit de opmerkelijke effecten op weefselregeneratie, wondgenezing en genexpressiemodulatie. Studies suggereren dat het meer dan 4.000 genen beÃ¯nvloedt die gerelateerd zijn aan weefselherstel en regeneratie.
+Onderzoeksinteresse in GHK-Cu komt voort uit de opmerkelijke effecten op weefselregeneratie, wondgenezing en genexpressiemodulatie. Studies suggereren dat het meer dan 4.000 genen beïnvloedt die gerelateerd zijn aan weefselherstel en regeneratie.
 
-Best-Peptides levert **onderzoeksgraad GHK-Cu** met gegarandeerde â‰¥99% zuiverheid.
+Best-Peptides levert **onderzoeksgraad GHK-Cu** met gegarandeerde ≥99% zuiverheid.
 
 ## Hoe Werkt GHK-Cu?
 
@@ -136,7 +136,7 @@ Best-Peptides levert **onderzoeksgraad GHK-Cu** met gegarandeerde â‰¥99% zui
 - **Fibronectine** - Weefselstructuur
 
 ### Genexpressie
-- **>4000 genen beÃ¯nvloed** - Brede modulatie
+- **>4000 genen beïnvloed** - Brede modulatie
 - **Herstelroutes** - Upregulatie
 - **Antioxidantgenen** - Verbeterde bescherming
 
@@ -159,7 +159,7 @@ Best-Peptides levert **onderzoeksgraad GHK-Cu** met gegarandeerde â‰¥99% zui
 | **CAS-nummer** | 49557-75-7 |
 | **Molecuulgewicht** | 403.9 g/mol |
 | **Kopergehalte** | ~15.6% |
-| **Zuiverheid** | â‰¥99% (HPLC) |
+| **Zuiverheid** | ≥99% (HPLC) |
 | **Uiterlijk** | Blauw poeder |
 | **Oplosbaarheid** | Zeer oplosbaar in water |
 
@@ -167,18 +167,18 @@ Best-Peptides levert **onderzoeksgraad GHK-Cu** met gegarandeerde â‰¥99% zui
 
 | Conditie | Temperatuur | Duur |
 |----------|-------------|------|
-| **Gelyofiliseerd** | -20Â°C | Tot 24 maanden |
-| **Gereconstitueerd** | 2-8Â°C | Tot 4 weken |
+| **Gelyofiliseerd** | -20°C | Tot 24 maanden |
+| **Gereconstitueerd** | 2-8°C | Tot 4 weken |
 
 ## Bestelinformatie
 
 | Maat | Prijs |
 |------|-------|
-| **50 mg** | Vanaf â‚¬28 |
-| **100 mg** | Vanaf â‚¬50 |
-| **500 mg** | Vanaf â‚¬120 |
+| **50 mg** | Vanaf €28 |
+| **100 mg** | Vanaf €50 |
+| **500 mg** | Vanaf €120 |
 
-**Minimale bestelling: â‚¬200** | **10% korting op bestellingen boven â‚¬200**
+**Minimale bestelling: €200** | **10% korting op bestellingen boven €200**
 
 ## Verklaring voor Onderzoeksgebruik
 

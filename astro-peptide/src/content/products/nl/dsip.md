@@ -8,32 +8,32 @@ urlPath: "/nl/peptides/dsip-kopen"
 aliases: ["Delta Sleep Inducing Peptide", "DSIP"]
 cas: "62568-57-4"
 molecular_weight: "848.8 g/mol"
-purity: "â‰¥ 99%"
-storage: "-20Â°C aanbevolen (alleen voor onderzoek)"
-package_sizes: ["10 Ã— 5 mg flacons"]
+purity: "≥ 99%"
+storage: "-20°C aanbevolen (alleen voor onderzoek)"
+package_sizes: ["10 × 5 mg flacons"]
 moq: 200
 price: 220
-price_range: "â‚¬220 per verpakking"
+price_range: "€220 per verpakking"
 coa_url: "/coa/dsip.pdf"
-short_description: "DSIP kopen. Delta sleep-inducing peptide voor slaaponderzoek. â‰¥99% zuiverheid. Snelle levering in NL & EU."
+short_description: "DSIP kopen. Delta sleep-inducing peptide voor slaaponderzoek. ≥99% zuiverheid. Snelle levering in NL & EU."
 category: "cognitive"
 tags: ["research-peptide", "dsip-nl", "sleep", "peptides-kopen", "cognitive", "nootropic"]
 images: ["/images/products/dsip.png"]
 meta:
   title: "DSIP Kopen | Slaappeptide | Snelle Levering"
-  description: "DSIP kopen. Premium delta sleep-inducing peptide voor onderzoek. â‰¥99% zuiverheid, COA inbegrepen. Snelle levering in NL & EU."
+  description: "DSIP kopen. Premium delta sleep-inducing peptide voor onderzoek. ≥99% zuiverheid, COA inbegrepen. Snelle levering in NL & EU."
 faqs:
   - question: "Waarvoor wordt DSIP gebruikt in onderzoek?"
-    answer: "DSIP wordt bestudeerd voor zijn effecten op slaapregulatie, circadiane ritmes, stressrespons en neuro-endocriene functie. Het werd oorspronkelijk geÃ¯soleerd uit konijnenhersenen."
+    answer: "DSIP wordt bestudeerd voor zijn effecten op slaapregulatie, circadiane ritmes, stressrespons en neuro-endocriene functie. Het werd oorspronkelijk geïsoleerd uit konijnenhersenen."
   - question: "Hoe werkt DSIP?"
-    answer: "DSIP lijkt meerdere receptorsystemen te moduleren en de hypothalamus-hypofyse-as te beÃ¯nvloeden. De exacte mechanismen worden nog onderzocht."
+    answer: "DSIP lijkt meerdere receptorsystemen te moduleren en de hypothalamus-hypofyse-as te beïnvloeden. De exacte mechanismen worden nog onderzocht."
   - question: "Wat is de oorsprong van DSIP?"
-    answer: "DSIP werd voor het eerst geÃ¯soleerd in 1977 uit konijnenhersenen tijdens slaapstudies. Het is een nonapeptide dat in verschillende weefsels wordt aangetroffen."
+    answer: "DSIP werd voor het eerst geïsoleerd in 1977 uit konijnenhersenen tijdens slaapstudies. Het is een nonapeptide dat in verschillende weefsels wordt aangetroffen."
   - question: "Hoe moet DSIP worden bewaard?"
-    answer: "Bewaar gelyofiliseerd DSIP bij -20Â°C. Na reconstitutie bewaren bij 2-8Â°C en binnen 3-4 weken gebruiken."
+    answer: "Bewaar gelyofiliseerd DSIP bij -20°C. Na reconstitutie bewaren bij 2-8°C en binnen 3-4 weken gebruiken."
   - question: "Wat is de zuiverheid van jullie DSIP?"
-    answer: "Onze DSIP is â‰¥99% zuiver zoals geverifieerd door HPLC. Elke batch bevat een analysecertificaat."
-  - question: "BeÃ¯nvloedt DSIP cortisol?"
+    answer: "Onze DSIP is ≥99% zuiver zoals geverifieerd door HPLC. Elke batch bevat een analysecertificaat."
+  - question: "Beïnvloedt DSIP cortisol?"
     answer: "Onderzoek suggereert dat DSIP stresshormoonspiegels kan moduleren, inclusief mogelijke effecten op cortisol en ACTH."
   - question: "Hoe reconstitueer ik DSIP?"
     answer: "Reconstitueer in steriel bacteriostatisch water. Voeg oplosmiddel langzaam toe en draai voorzichtig om op te lossen."
@@ -104,11 +104,11 @@ reviews:
 
 ## Wat is DSIP?
 
-**DSIP** (Delta Sleep-Inducing Peptide) is een nonapeptide dat voor het eerst werd geÃ¯soleerd uit konijnenhersenen in 1977 tijdens onderzoek naar slaapfysiologie. Het peptide werd zo genoemd vanwege zijn vermogen om delta-golfslaappatronen te bevorderen in onderzoeksmodellen.
+**DSIP** (Delta Sleep-Inducing Peptide) is een nonapeptide dat voor het eerst werd geïsoleerd uit konijnenhersenen in 1977 tijdens onderzoek naar slaapfysiologie. Het peptide werd zo genoemd vanwege zijn vermogen om delta-golfslaappatronen te bevorderen in onderzoeksmodellen.
 
 Naast slaapregulatie heeft DSIP effecten aangetoond op stressrespons, pijnperceptie en neuro-endocriene functie, waardoor het een veelzijdig hulpmiddel is voor neurowetenschappelijk onderzoek.
 
-Best-Peptides levert **onderzoekskwaliteit DSIP** met gegarandeerde â‰¥99% zuiverheid.
+Best-Peptides levert **onderzoekskwaliteit DSIP** met gegarandeerde ≥99% zuiverheid.
 
 ## Hoe Werkt DSIP?
 
@@ -146,24 +146,24 @@ Best-Peptides levert **onderzoekskwaliteit DSIP** met gegarandeerde â‰¥99% z
 | **Molecuulformule** | C35H48N10O15 |
 | **Molecuulgewicht** | 848.8 g/mol |
 | **Sequentie** | Trp-Ala-Gly-Gly-Asp-Ala-Ser-Gly-Glu |
-| **Zuiverheid** | â‰¥99% (HPLC) |
+| **Zuiverheid** | ≥99% (HPLC) |
 | **Uiterlijk** | Wit gelyofiliseerd poeder |
 
 ## Opslag
 
 | Conditie | Temperatuur | Duur |
 |----------|-------------|------|
-| **Gelyofiliseerd** | -20Â°C | Tot 24 maanden |
-| **Gereconstitueerd** | 2-8Â°C | Tot 3-4 weken |
+| **Gelyofiliseerd** | -20°C | Tot 24 maanden |
+| **Gereconstitueerd** | 2-8°C | Tot 3-4 weken |
 
 ## Bestelinformatie
 
 | Maat | Prijs |
 |------|-------|
-| **2 mg** | Vanaf â‚¬32 |
-| **5 mg** | Vanaf â‚¬75 |
+| **2 mg** | Vanaf €32 |
+| **5 mg** | Vanaf €75 |
 
-**Minimale bestelling: â‚¬200** | **10% korting op bestellingen boven â‚¬200**
+**Minimale bestelling: €200** | **10% korting op bestellingen boven €200**
 
 ## Verklaring Onderzoeksgebruik
 

@@ -8,20 +8,20 @@ urlPath: "/peptides/buy-semax"
 aliases: ["Semax", "ACTH 4-10 Analogue"]
 cas: "80714-61-0"
 molecular_weight: "813.9 g/mol"
-purity: "â‰¥ 99%"
-storage: "-20Â°C recommended (research-only)"
-package_sizes: ["10 Ã— 5 mg vials"]
+purity: "≥ 99%"
+storage: "-20°C recommended (research-only)"
+package_sizes: ["10 × 5 mg vials"]
 moq: 200
 price: 220
-price_range: "Â£220 per pack"
+price_range: "£220 per pack"
 coa_url: "/coa/semax.pdf"
-short_description: "Buy Semax UK. Nootropic peptide for cognitive research. â‰¥99% purity. Fast UK delivery."
+short_description: "Buy Semax UK. Nootropic peptide for cognitive research. ≥99% purity. Fast UK delivery."
 category: "cognitive"
 tags: ["research-peptide", "semax-uk", "nootropic", "buy-peptides-uk", "cognitive", "neuroprotection"]
 images: ["/images/products/semax.png"]
 meta:
   title: "Buy Semax UK | Cognitive Peptide | Fast Delivery"
-  description: "Buy Semax UK. Premium nootropic peptide for research. â‰¥99% purity, COA included. Fast UK delivery."
+  description: "Buy Semax UK. Premium nootropic peptide for research. ≥99% purity, COA included. Fast UK delivery."
 faqs:
   - question: "What is Semax used for in research?"
     answer: "Semax is studied for cognitive enhancement, neuroprotection, BDNF modulation, and neurotransmitter regulation. It's based on ACTH(4-10)."
@@ -30,9 +30,9 @@ faqs:
   - question: "How is Semax different from Selank?"
     answer: "Semax focuses on cognitive enhancement and neuroprotection; Selank is more anxiolytic. Semax is based on ACTH; Selank on tuftsin."
   - question: "How should Semax be stored?"
-    answer: "Store lyophilised Semax at -20Â°C. Once reconstituted, keep at 2-8Â°C and use within 3-4 weeks."
+    answer: "Store lyophilised Semax at -20°C. Once reconstituted, keep at 2-8°C and use within 3-4 weeks."
   - question: "What purity is your Semax?"
-    answer: "Our Semax is â‰¥99% pure as verified by HPLC. Each batch includes a Certificate of Analysis."
+    answer: "Our Semax is ≥99% pure as verified by HPLC. Each batch includes a Certificate of Analysis."
   - question: "What is BDNF?"
     answer: "BDNF (Brain-Derived Neurotrophic Factor) is crucial for neuroplasticity, learning, and memory. Semax is reported to enhance BDNF expression."
   - question: "How do I reconstitute Semax?"
@@ -132,7 +132,7 @@ reviews:
 
 Extensive research has demonstrated Semax's effects on cognitive function, BDNF expression, and neuroprotection, making it a valuable tool for neuroscience research.
 
-Best-Peptides supplies **research-grade Semax** with guaranteed â‰¥99% purity.
+Best-Peptides supplies **research-grade Semax** with guaranteed ≥99% purity.
 
 ## How Does Semax Work?
 
@@ -175,25 +175,25 @@ Best-Peptides supplies **research-grade Semax** with guaranteed â‰¥99% purit
 | **CAS Number** | 80714-61-0 |
 | **Molecular Weight** | 813.9 g/mol |
 | **Sequence** | Met-Glu-His-Phe-Pro-Gly-Pro |
-| **Purity** | â‰¥99% (HPLC) |
+| **Purity** | ≥99% (HPLC) |
 | **Appearance** | White lyophilised powder |
 
 ## Storage
 
 | Condition | Temperature | Duration |
 |-----------|-------------|----------|
-| **Lyophilised** | -20Â°C | Up to 24 months |
-| **Reconstituted** | 2-8Â°C | Up to 3-4 weeks |
+| **Lyophilised** | -20°C | Up to 24 months |
+| **Reconstituted** | 2-8°C | Up to 3-4 weeks |
 
 ## Ordering Information
 
 | Size | Price |
 |------|-------|
-| **5 mg** | From Â£38 |
-| **10 mg** | From Â£68 |
-| **30 mg** | From Â£110 |
+| **5 mg** | From £38 |
+| **10 mg** | From £68 |
+| **30 mg** | From £110 |
 
-**Minimum order: Â£200** | **10% discount on orders over Â£200**
+**Minimum order: £200** | **10% discount on orders over £200**
 
 ## Research Use Statement
 

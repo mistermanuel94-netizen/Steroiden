@@ -1,144 +1,144 @@
 ---
 lang: "es"
 id: "peptide-cagrilintide"
-title: "Comprar Cagrilintide | AnÃ¡logo de Amilina Calidad InvestigaciÃ³n"
+title: "Comprar Cagrilintide | Análogo de Amilina Calidad Investigación"
 primary_keyword: "comprar cagrilintide"
 search_volume: "2900"
 urlPath: "/es/peptides/cagrilintide-comprar"
-aliases: ["AM833", "NN9838", "AnÃ¡logo de Amilina"]
+aliases: ["AM833", "NN9838", "Análogo de Amilina"]
 cas: "2375614-45-8"
 molecular_weight: "3962,4 g/mol"
-purity: "â‰¥ 99%"
-storage: "-20Â°C recomendado (solo investigaciÃ³n)"
-package_sizes: ["10 Ã— 5 mg viales"]
+purity: "≥ 99%"
+storage: "-20°C recomendado (solo investigación)"
+package_sizes: ["10 × 5 mg viales"]
 moq: 200
 price: 1400
-price_range: "â‚¬1400 por paquete"
+price_range: "€1400 por paquete"
 coa_url: "/coa/cagrilintide.pdf"
-short_description: "Comprar Cagrilintide. AnÃ¡logo de amilina de acciÃ³n prolongada para investigaciÃ³n de saciedad y metabolismo. â‰¥99% pureza. Entrega rÃ¡pida en EspaÃ±a y UE."
+short_description: "Comprar Cagrilintide. Análogo de amilina de acción prolongada para investigación de saciedad y metabolismo. ≥99% pureza. Entrega rápida en España y UE."
 category: "weight-loss"
-tags: ["pÃ©ptido-investigaciÃ³n", "cagrilintide-espaÃ±a", "amilina", "comprar-pÃ©ptidos", "pÃ©rdida-de-peso"]
+tags: ["péptido-investigación", "cagrilintide-españa", "amilina", "comprar-péptidos", "pérdida-de-peso"]
 images: ["/images/products/cagrilintide.png"]
 meta:
-  title: "Comprar Cagrilintide | AnÃ¡logo de Amilina | Entrega RÃ¡pida"
-  description: "Comprar Cagrilintide. AnÃ¡logo de amilina premium de acciÃ³n prolongada para investigaciÃ³n de peso. â‰¥99% pureza, COA incluido. Entrega rÃ¡pida en EspaÃ±a y UE."
+  title: "Comprar Cagrilintide | Análogo de Amilina | Entrega Rápida"
+  description: "Comprar Cagrilintide. Análogo de amilina premium de acción prolongada para investigación de peso. ≥99% pureza, COA incluido. Entrega rápida en España y UE."
 faqs:
-  - question: "Â¿Para quÃ© se utiliza el Cagrilintide en investigaciÃ³n?"
-    answer: "El Cagrilintide se utiliza en investigaciÃ³n metabÃ³lica para estudiar la seÃ±alizaciÃ³n del receptor de amilina, la regulaciÃ³n del apetito, el vaciado gÃ¡strico y la supresiÃ³n del glucagÃ³n. Proporciona una herramienta de acciÃ³n prolongada para investigar el papel de la amilina en la homeostasis energÃ©tica."
-  - question: "Â¿En quÃ© se diferencia el Cagrilintide del pramlintide?"
-    answer: "El Cagrilintide es un anÃ¡logo de amilina de acciÃ³n prolongada con una cadena lateral de Ã¡cido graso acilado que permite dosificaciÃ³n semanal de investigaciÃ³n, mientras que el pramlintide requiere administraciÃ³n mÃ¡s frecuente. Esta duraciÃ³n extendida permite diferentes paradigmas experimentales."
-  - question: "Â¿CuÃ¡l es el papel de la amilina en el metabolismo?"
-    answer: "La amilina se co-secreta con la insulina desde las cÃ©lulas beta pancreÃ¡ticas. Ralentiza el vaciado gÃ¡strico, suprime la secreciÃ³n de glucagÃ³n y promueve la saciedad a travÃ©s de acciones en el sistema nervioso central. El Cagrilintide permite la investigaciÃ³n de estas vÃ­as."
-  - question: "Â¿CÃ³mo debe almacenarse el Cagrilintide?"
-    answer: "Almacene el Cagrilintide liofilizado a -20Â°C. Una vez reconstituido, mantenga a 2-8Â°C y use dentro de 3 semanas. La modificaciÃ³n con Ã¡cido graso proporciona buena estabilidad pero aplica el manejo estÃ¡ndar de pÃ©ptidos."
-  - question: "Â¿QuÃ© pureza tiene su Cagrilintide?"
-    answer: "Nuestro Cagrilintide es â‰¥99% puro, verificado por HPLC. Cada lote incluye un Certificado de AnÃ¡lisis con datos de pureza y confirmaciÃ³n de identidad por espectrometrÃ­a de masas."
-  - question: "Â¿CÃ³mo reconstituyo el Cagrilintide?"
-    answer: "Reconstituya en agua bacteriostÃ¡tica estÃ©ril o tampÃ³n apropiado. AÃ±ada el solvente lentamente y agite suavemente para disolver. Evite sacudir."
-  - question: "Â¿Se puede estudiar el Cagrilintide con agonistas GLP-1?"
-    answer: "SÃ­, la investigaciÃ³n a menudo estudia el cagrilintide en combinaciÃ³n con semaglutida (el enfoque 'CagriSema') para estudiar mecanismos de saciedad complementarios. Ambos pÃ©ptidos estÃ¡n disponibles en Best-Peptides."
-  - question: "Â¿QuÃ© tamaÃ±os estÃ¡n disponibles?"
-    answer: "El Cagrilintide estÃ¡ disponible en viales de 2mg y 5mg, adecuados para varias escalas de investigaciÃ³n."
+  - question: "¿Para qué se utiliza el Cagrilintide en investigación?"
+    answer: "El Cagrilintide se utiliza en investigación metabólica para estudiar la señalización del receptor de amilina, la regulación del apetito, el vaciado gástrico y la supresión del glucagón. Proporciona una herramienta de acción prolongada para investigar el papel de la amilina en la homeostasis energética."
+  - question: "¿En qué se diferencia el Cagrilintide del pramlintide?"
+    answer: "El Cagrilintide es un análogo de amilina de acción prolongada con una cadena lateral de ácido graso acilado que permite dosificación semanal de investigación, mientras que el pramlintide requiere administración más frecuente. Esta duración extendida permite diferentes paradigmas experimentales."
+  - question: "¿Cuál es el papel de la amilina en el metabolismo?"
+    answer: "La amilina se co-secreta con la insulina desde las células beta pancreáticas. Ralentiza el vaciado gástrico, suprime la secreción de glucagón y promueve la saciedad a través de acciones en el sistema nervioso central. El Cagrilintide permite la investigación de estas vías."
+  - question: "¿Cómo debe almacenarse el Cagrilintide?"
+    answer: "Almacene el Cagrilintide liofilizado a -20°C. Una vez reconstituido, mantenga a 2-8°C y use dentro de 3 semanas. La modificación con ácido graso proporciona buena estabilidad pero aplica el manejo estándar de péptidos."
+  - question: "¿Qué pureza tiene su Cagrilintide?"
+    answer: "Nuestro Cagrilintide es ≥99% puro, verificado por HPLC. Cada lote incluye un Certificado de Análisis con datos de pureza y confirmación de identidad por espectrometría de masas."
+  - question: "¿Cómo reconstituyo el Cagrilintide?"
+    answer: "Reconstituya en agua bacteriostática estéril o tampón apropiado. Añada el solvente lentamente y agite suavemente para disolver. Evite sacudir."
+  - question: "¿Se puede estudiar el Cagrilintide con agonistas GLP-1?"
+    answer: "Sí, la investigación a menudo estudia el cagrilintide en combinación con semaglutida (el enfoque 'CagriSema') para estudiar mecanismos de saciedad complementarios. Ambos péptidos están disponibles en Best-Peptides."
+  - question: "¿Qué tamaños están disponibles?"
+    answer: "El Cagrilintide está disponible en viales de 2mg y 5mg, adecuados para varias escalas de investigación."
 reviews:
-  - author: "Dr. Carlos GarcÃ­a"
+  - author: "Dr. Carlos García"
     rating: 5
     date: "2024-12-14"
-    title: "Excelente para investigaciÃ³n de amilina"
-    content: "Nuestro programa de investigaciÃ³n de saciedad requiere cagrilintide de alta calidad. Best-Peptides entrega calidad consistente con excelente documentaciÃ³n."
+    title: "Excelente para investigación de amilina"
+    content: "Nuestro programa de investigación de saciedad requiere cagrilintide de alta calidad. Best-Peptides entrega calidad consistente con excelente documentación."
     verified: true
-  - author: "Universidad de Barcelona Laboratorio MetabÃ³lico"
+  - author: "Universidad de Barcelona Laboratorio Metabólico"
     rating: 5
     date: "2024-12-07"
     title: "Calidad premium"
-    content: "El perfil de acciÃ³n prolongada es perfecto para nuestro diseÃ±o experimental. La calidad es grado investigaciÃ³n y el servicio es excelente."
+    content: "El perfil de acción prolongada es perfecto para nuestro diseño experimental. La calidad es grado investigación y el servicio es excelente."
     verified: true
-  - author: "Dra. MarÃ­a LÃ³pez"
+  - author: "Dra. María López"
     rating: 5
     date: "2024-11-30"
     title: "Gran producto"
-    content: "Primer pedido de Cagrilintide - impresionada con la calidad y entrega rÃ¡pida. ContinuarÃ© pidiendo."
+    content: "Primer pedido de Cagrilintide - impresionada con la calidad y entrega rápida. Continuaré pidiendo."
     verified: true
-  - author: "Madrid InvestigaciÃ³n Endocrina"
+  - author: "Madrid Investigación Endocrina"
     rating: 5
     date: "2024-11-23"
     title: "Proveedor confiable"
     content: "Calidad consistente para nuestros estudios de receptores de amilina. Best-Peptides se ha convertido en nuestro proveedor preferido."
     verified: true
-  - author: "Prof. Antonio FernÃ¡ndez"
+  - author: "Prof. Antonio Fernández"
     rating: 5
     date: "2024-11-16"
     title: "Pureza excepcional"
-    content: "La pureza verificada coincide con las declaraciones. Esencial para nuestra investigaciÃ³n comparativa de saciedad con agonistas GLP-1."
+    content: "La pureza verificada coincide con las declaraciones. Esencial para nuestra investigación comparativa de saciedad con agonistas GLP-1."
     verified: true
   - author: "Valencia Laboratorio Hormonal"
     rating: 5
     date: "2024-11-09"
     title: "Servicio excelente"
-    content: "Entrega rÃ¡pida, excelente calidad, COA completo. Muy recomendado para investigaciÃ³n seria."
+    content: "Entrega rápida, excelente calidad, COA completo. Muy recomendado para investigación seria."
     verified: true
 ---
 
-## Â¿QuÃ© es el Cagrilintide?
+## ¿Qué es el Cagrilintide?
 
-**El Cagrilintide** (AM833, NN9838) es un anÃ¡logo acilado de acciÃ³n prolongada de la amilina humana, una hormona peptÃ­dica co-secretada con la insulina desde las cÃ©lulas beta pancreÃ¡ticas. A travÃ©s de la acilaciÃ³n con Ã¡cido graso, el cagrilintide logra una vida media extendida que permite dosificaciÃ³n de investigaciÃ³n una vez por semana, convirtiÃ©ndolo en una herramienta invaluable para estudiar el papel de la amilina en la saciedad y la regulaciÃ³n metabÃ³lica.
+**El Cagrilintide** (AM833, NN9838) es un análogo acilado de acción prolongada de la amilina humana, una hormona peptídica co-secretada con la insulina desde las células beta pancreáticas. A través de la acilación con ácido graso, el cagrilintide logra una vida media extendida que permite dosificación de investigación una vez por semana, convirtiéndolo en una herramienta invaluable para estudiar el papel de la amilina en la saciedad y la regulación metabólica.
 
-La amilina complementa los efectos hipoglucemiantes de la insulina a travÃ©s de mecanismos distintos que incluyen el retraso del vaciado gÃ¡strico, la supresiÃ³n del glucagÃ³n y la seÃ±alizaciÃ³n central de saciedad. El Cagrilintide proporciona a los investigadores una herramienta estable y de acciÃ³n prolongada para investigar estas vÃ­as en paradigmas experimentales extendidos.
+La amilina complementa los efectos hipoglucemiantes de la insulina a través de mecanismos distintos que incluyen el retraso del vaciado gástrico, la supresión del glucagón y la señalización central de saciedad. El Cagrilintide proporciona a los investigadores una herramienta estable y de acción prolongada para investigar estas vías en paradigmas experimentales extendidos.
 
-Best-Peptides suministra **Cagrilintide de calidad investigaciÃ³n** con pureza garantizada â‰¥99%, verificada mediante anÃ¡lisis completo de HPLC y espectrometrÃ­a de masas.
+Best-Peptides suministra **Cagrilintide de calidad investigación** con pureza garantizada ≥99%, verificada mediante análisis completo de HPLC y espectrometría de masas.
 
-## Â¿CÃ³mo Funciona el Cagrilintide?
+## ¿Cómo Funciona el Cagrilintide?
 
-El Cagrilintide activa los receptores de amilina (AMY1, AMY2, AMY3), que son complejos del receptor de calcitonina con proteÃ­nas modificadoras de la actividad del receptor (RAMPs).
+El Cagrilintide activa los receptores de amilina (AMY1, AMY2, AMY3), que son complejos del receptor de calcitonina con proteínas modificadoras de la actividad del receptor (RAMPs).
 
-### SeÃ±alizaciÃ³n de Saciedad
+### Señalización de Saciedad
 
 Los efectos centrales incluyen:
-- **ActivaciÃ³n del Ã¡rea postrema** - Centro clave de saciedad en el tronco encefÃ¡lico
-- **ReducciÃ³n del tamaÃ±o de comida** - Promueve terminaciÃ³n temprana de la alimentaciÃ³n
+- **Activación del área postrema** - Centro clave de saciedad en el tronco encefálico
+- **Reducción del tamaño de comida** - Promueve terminación temprana de la alimentación
 - **Efectos de palatabilidad** - Modifica preferencias alimentarias en modelos
-- **SeÃ±alizaciÃ³n hipotalÃ¡mica** - Complementa las vÃ­as de leptina
+- **Señalización hipotalámica** - Complementa las vías de leptina
 
-### Efectos GÃ¡stricos
+### Efectos Gástricos
 
-Las acciones perifÃ©ricas incluyen:
-- **Retraso del vaciado gÃ¡strico** - Prolonga la absorciÃ³n de nutrientes
-- **SupresiÃ³n del glucagÃ³n** - Reduce la producciÃ³n hepÃ¡tica de glucosa
-- **Control glucÃ©mico postprandial** - Suaviza las excursiones glucÃ©micas
+Las acciones periféricas incluyen:
+- **Retraso del vaciado gástrico** - Prolonga la absorción de nutrientes
+- **Supresión del glucagón** - Reduce la producción hepática de glucosa
+- **Control glucémico postprandial** - Suaviza las excursiones glucémicas
 
-### InvestigaciÃ³n Combinada
+### Investigación Combinada
 
 El Cagrilintide a menudo se estudia con agonistas GLP-1:
-- **Mecanismos complementarios** - Diferentes vÃ­as de saciedad
+- **Mecanismos complementarios** - Diferentes vías de saciedad
 - **Eficacia mejorada** - Efectos potencialmente aditivos
-- **InvestigaciÃ³n CagriSema** - Combinado con semaglutida
+- **Investigación CagriSema** - Combinado con semaglutida
 
-## Especificaciones del PÃ©ptido Cagrilintide
+## Especificaciones del Péptido Cagrilintide
 
-| EspecificaciÃ³n | Detalle |
+| Especificación | Detalle |
 |----------------|---------|
-| **NÃºmero CAS** | 2375614-45-8 |
+| **Número CAS** | 2375614-45-8 |
 | **Peso Molecular** | 3962,4 g/mol |
-| **Pureza** | â‰¥99% (HPLC) |
+| **Pureza** | ≥99% (HPLC) |
 | **Apariencia** | Polvo liofilizado blanco |
 | **Solubilidad** | Soluble en agua |
-| **Identidad** | Confirmada por espectrometrÃ­a de masas |
+| **Identidad** | Confirmada por espectrometría de masas |
 
 ## Almacenamiento y Manejo
 
-| CondiciÃ³n | Temperatura | DuraciÃ³n |
+| Condición | Temperatura | Duración |
 |-----------|-------------|----------|
-| **Liofilizado** | -20Â°C | Hasta 24 meses |
-| **Reconstituido** | 2-8Â°C | Hasta 3 semanas |
+| **Liofilizado** | -20°C | Hasta 24 meses |
+| **Reconstituido** | 2-8°C | Hasta 3 semanas |
 
-## InformaciÃ³n de Pedido
+## Información de Pedido
 
-| TamaÃ±o | Precio |
+| Tamaño | Precio |
 |--------|--------|
-| **2 mg** | Desde â‚¬68 |
-| **5 mg** | Desde â‚¬165 |
+| **2 mg** | Desde €68 |
+| **5 mg** | Desde €165 |
 
-**Pedido mÃ­nimo: â‚¬200** | **10% de descuento en pedidos superiores a â‚¬200**
+**Pedido mínimo: €200** | **10% de descuento en pedidos superiores a €200**
 
-## DeclaraciÃ³n de Uso en InvestigaciÃ³n
+## Declaración de Uso en Investigación
 
-**Solo para investigaciÃ³n de laboratorio.** No destinado para uso humano o veterinario.
+**Solo para investigación de laboratorio.** No destinado para uso humano o veterinario.

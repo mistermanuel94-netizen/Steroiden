@@ -35,8 +35,8 @@ Lyophilised peptides are the most stable form for storage. Here's how to keep th
 
 ### Temperature Guidelines
 
-- **Short-term (weeks)**: Store at -20Â°C
-- **Long-term (months to years)**: Store at -80Â°C for maximum stability
+- **Short-term (weeks)**: Store at -20°C
+- **Long-term (months to years)**: Store at -80°C for maximum stability
 - **Avoid**: Repeated freeze-thaw cycles
 
 ### Environmental Protection
@@ -64,13 +64,13 @@ When preparing peptides for research use:
 |--------------|-----------------|-------------|
 | BPC-157 | Bacteriostatic water | Sterile saline |
 | TB-500 | Bacteriostatic water | Sterile water |
-| Most peptides | Bacteriostatic water | â€” |
+| Most peptides | Bacteriostatic water | — |
 
 ## Storage After Reconstitution
 
 Once reconstituted, peptide solutions are less stable:
 
-- **Temperature**: Store at 2-8Â°C (standard refrigerator)
+- **Temperature**: Store at 2-8°C (standard refrigerator)
 - **Duration**: Use within 4-6 weeks for optimal activity
 - **Container**: Keep in original sterile vial with rubber septum
 - **Access**: Use fresh, sterile needles for each withdrawal
@@ -98,7 +98,7 @@ BPC-157 (Body Protection Compound-157) has some unique characteristics:
 At Best-Peptides, every batch of BPC-157 includes:
 
 - Certificate of Analysis (COA)
-- HPLC chromatogram showing â‰¥99% purity
+- HPLC chromatogram showing ≥99% purity
 - Mass spectrometry confirmation
 - Batch-specific documentation
 

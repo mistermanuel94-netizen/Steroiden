@@ -1,26 +1,26 @@
 ---
 lang: "ru"
 id: "peptide-5-amino-1mq"
-title: "ÐšÑƒÐ¿Ð¸Ñ‚ÑŒ 5-Amino-1MQ | NNMT Inhibitor for Research"
-primary_keyword: "ÐšÑƒÐ¿Ð¸Ñ‚ÑŒ 5-amino-1mq"
+title: "Купить 5-Amino-1MQ | NNMT Inhibitor for Research"
+primary_keyword: "Купить 5-amino-1mq"
 search_volume: "2400"
 urlPath: "/peptides/buy-5-amino-1mq"
 aliases:  ["5-Amino-1-Methylquinolinium", "NNMT Inhibitor"]
 cas: "42464-99-1"
 molecular_weight: "240.3 g/mol"
-purity: "â‰¥ 99%"
+purity: "≥ 99%"
 storage: "Room temperature, protected from light"
 package_sizes:  ["30 caps"]
 moq: 200
 price: 40
-price_range: "Â£40 per bottle"
+price_range: "£40 per bottle"
 coa_url: "/coa/5-amino-1mq.pdf"
-short_description: "ÐšÑƒÐ¿Ð¸Ñ‚ÑŒ 5-Amino-1MQ. Available as oral capsules (50mg) or high-purity powder (99%). NNMT inhibitor for metabolism and longevity research. Ð‘Ñ‹ÑÑ‚Ñ€Ð°Ñ Ð´Ð¾ÑÑ‚Ð°Ð²ÐºÐ°."
+short_description: "Купить 5-Amino-1MQ. Available as oral capsules (50mg) or high-purity powder (99%). NNMT inhibitor for metabolism and longevity research. Быстрая доставка."
 category: "weight-loss"
 tags:  ["research-compound", "5-amino-1mq-uk", "nnmt-inhibitor", "buy-research-uk", "metabolism", "oral-capsules", "powder"]
 images: ["/images/products/5-amino-1mq.png"]
 meta:
-  title: "ÐšÑƒÐ¿Ð¸Ñ‚ÑŒ 5-Amino-1MQ | Capsules & Powder | Fast Delivery"
+  title: "Купить 5-Amino-1MQ | Capsules & Powder | Fast Delivery"
   description: "Buy 5-Amino-1MQ. Available as oral capsules (50mg) or high-purity powder (99%). Premium NNMT inhibitor for metabolic research. Fast UK delivery."
 faqs:
 - question: "What forms of 5-Amino-1MQ are available?"
@@ -34,11 +34,11 @@ faqs:
 - question: "How should 5-Amino-1MQ be stored?"
   answer: "Store at room temperature, protected from light and moisture. Both capsule and powder forms are stable at ambient conditions when kept dry. Capsules should be kept in their original container."
 - question: "What purity is your 5-Amino-1MQ?"
-  answer: "Our 5-Amino-1MQ is â‰¥99% pure as verified by HPLC. Both capsule and powder forms meet this purity standard. Each batch includes a Certificate of Analysis with purity and identity data."
+  answer: "Our 5-Amino-1MQ is ≥99% pure as verified by HPLC. Both capsule and powder forms meet this purity standard. Each batch includes a Certificate of Analysis with purity and identity data."
 - question: "What is the difference between capsules and powder?"
   answer: "Oral Capsules (50mg) offer precise, pre-measured doses ideal for consistent research protocols. High-Purity Powder (99%) provides flexibility for custom concentration preparation and larger-scale studies."
 - question: "What is the minimum order requirement?"
-  answer: "A minimum purchase of Â£200 is required for 5-Amino-1MQ orders. This applies to any combination of capsules or powder forms."
+  answer: "A minimum purchase of £200 is required for 5-Amino-1MQ orders. This applies to any combination of capsules or powder forms."
 reviews:
 - author: "Dr. Helen Foster"
   rating: 5
@@ -122,11 +122,11 @@ reviews:
 
 ## What is 5-Amino-1MQ?
 
-**5-Amino-1MQ** (5-Amino-1-Methylquinolinium) is a selective inhibitor of nicotinamide N-methyltransferase (NNMT), an enzyme increasingly recognised as a key regulator of cellular metabolism, NAD+ homeostasis, and adipose tissue function. This research compound has emerged as an important tool for Ð˜ÑÑÐ»ÐµÐ´Ð¾Ð²Ð°Ð½Ð¸Ðµing the intersection of epigenetics, energy metabolism, and ageing.
+**5-Amino-1MQ** (5-Amino-1-Methylquinolinium) is a selective inhibitor of nicotinamide N-methyltransferase (NNMT), an enzyme increasingly recognised as a key regulator of cellular metabolism, NAD+ homeostasis, and adipose tissue function. This research compound has emerged as an important tool for Исследованиеing the intersection of epigenetics, energy metabolism, and ageing.
 
 NNMT catalyses the N-methylation of nicotinamide (a NAD+ precursor) using SAM (S-adenosylmethionine) as a methyl donor. By inhibiting this enzyme, 5-Amino-1MQ enables researchers to investigate how NNMT modulation affects cellular metabolism, NAD+ availability, and metabolic health.
 
-ÐŸÐµÐ¿Ñ‚Ð¸Ð´ Shop supplies **research-grade 5-Amino-1MQ** with guaranteed â‰¥99% purity, verified through comprehensive HPLC analysis.
+Пептид Shop supplies **research-grade 5-Amino-1MQ** with guaranteed ≥99% purity, verified through comprehensive HPLC analysis.
 
 ## How Does 5-Amino-1MQ Work?
 
@@ -169,10 +169,10 @@ NNMT catalyses the N-methylation of nicotinamide (a NAD+ precursor) using SAM (S
 | Specification | Detail |
 |--------------|--------|
 | **CAS Number** | 42464-99-1 |
-| **ÐœÐ¾Ð»ÐµÐºÑƒÐ»ÑÑ€Ð½Ð°Ñ Ð¼Ð°ÑÑÐ°** | 240.3 g/mol |
-| **Purity** | â‰¥99% (HPLC) |
-| **Ð’Ð½ÐµÑˆÐ½Ð¸Ð¹ Ð²Ð¸Ð´** | White to off-Ð‘ÐµÐ»Ñ‹Ð¹ Ð¿Ð¾Ñ€Ð¾ÑˆÐ¾Ðº |
-| **Solubility** | Soluble in Ð’Ð¾Ð´Ð°, DMSO |
+| **Молекулярная масса** | 240.3 g/mol |
+| **Purity** | ≥99% (HPLC) |
+| **Внешний вид** | White to off-Белый порошок |
+| **Solubility** | Soluble in Вода, DMSO |
 
 ## Storage
 
@@ -182,10 +182,10 @@ Store at room temperature, protected from light and moisture.
 
 | Size | Price |
 |------|-------|
-| **100 mg** | From Â£38 |
-| **250 mg** | From Â£85 |
+| **100 mg** | From £38 |
+| **250 mg** | From £85 |
 
-**Minimum order: Â£200** | **10% discount on orders over Â£200**
+**Minimum order: £200** | **10% discount on orders over £200**
 
 ## Research Use Statement
 

@@ -5,7 +5,7 @@ telegram: "@Nebelzee"
 country: "Nederland"
 countryCode: "NL"
 currency: "EUR"
-currencySymbol: "â‚¬"
+currencySymbol: "€"
 seo:
   homeName: "Peptides Kopen Nederland | BPC 157, Semaglutide & Meer"
   homeDescription: "Peptides kopen Nederland - Premium onderzoekspeptiden met 99% HPLC zuiverheid. BPC 157, Semaglutide, Tirzepatide, GHK-Cu & meer. Snelle levering, COA inbegrepen. Peptiden online kopen."

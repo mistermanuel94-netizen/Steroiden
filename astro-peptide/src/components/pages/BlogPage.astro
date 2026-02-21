@@ -91,19 +91,19 @@ function formatDate(date: string): string {
 
 // Category icons mapping
 const categoryIcons: Record<string, string> = {
-  'research': 'ðŸ”¬',
-  'lab-techniques': 'ðŸ§ª',
-  'peptide-science': 'âš—ï¸',
-  'buying-guides': 'ðŸ“‹',
-  'product-guides': 'ðŸ“¦',
-  'health-wellness': 'ðŸ’Š',
-  'news': 'ðŸ“°',
-  'tutorials': 'ðŸ“š',
+  'research': '🔬',
+  'lab-techniques': '🧪',
+  'peptide-science': '⚗️',
+  'buying-guides': '📋',
+  'product-guides': '📦',
+  'health-wellness': '💊',
+  'news': '📰',
+  'tutorials': '📚',
 };
 
 function getCategoryIcon(category: string): string {
   const key = category.toLowerCase().replace(/\s+/g, '-');
-  return categoryIcons[key] || 'ðŸ“„';
+  return categoryIcons[key] || '📄';
 }
 ---
 
@@ -282,7 +282,7 @@ function getCategoryIcon(category: string): string {
                     </h4>
                     <div class="list-meta">
                       <span>{post.data.author}</span>
-                      <span class="dot">â€¢</span>
+                      <span class="dot">•</span>
                       <span>{formatDate(post.data.publishDate)}</span>
                     </div>
                   </div>

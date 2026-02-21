@@ -35,7 +35,7 @@ An HPLC chromatogram displays peaks that represent different compounds in your s
 
 ### The Main Peak
 
-The largest peak represents your target peptide. The area under this peak, expressed as a percentage of the total area of all peaks, gives you the purity value. At Best-Peptides, we guarantee â‰¥99% purity, meaning the main peak accounts for at least 99% of the total peak area.
+The largest peak represents your target peptide. The area under this peak, expressed as a percentage of the total area of all peaks, gives you the purity value. At Best-Peptides, we guarantee ≥99% purity, meaning the main peak accounts for at least 99% of the total peak area.
 
 ### Retention Time
 
@@ -53,7 +53,7 @@ Small peaks represent impurities, which may include:
 
 | Purity Level | Typical Use | Quality Assessment |
 |--------------|-------------|-------------------|
-| â‰¥99% | Premium research | Excellent |
+| ≥99% | Premium research | Excellent |
 | 95-98% | Standard research | Good |
 | 90-95% | Preliminary studies | Acceptable |
 | <90% | Not recommended | Poor |
@@ -81,7 +81,7 @@ While HPLC tells you about purity, mass spectrometry (MS) confirms molecular ide
 
 - **Expected mass**: Calculated from sequence
 - **Observed mass**: Measured value
-- **Acceptable variance**: Typically Â±1 Da
+- **Acceptable variance**: Typically ±1 Da
 
 ## Red Flags to Watch For
 
@@ -103,13 +103,13 @@ Higher purity means:
 
 Every peptide we sell undergoes:
 
-1. **HPLC Analysis**: Verified â‰¥99% purity
+1. **HPLC Analysis**: Verified ≥99% purity
 2. **Mass Spectrometry**: Molecular weight confirmation
 3. **Visual Inspection**: Appearance check
 4. **Documentation**: Full COA with chromatogram
 
 ## Conclusion
 
-Understanding HPLC purity and COA reports empowers you to make informed decisions when purchasing research peptides. Always verify that your supplier provides comprehensive analytical documentationâ€”it's the hallmark of a quality-focused company.
+Understanding HPLC purity and COA reports empowers you to make informed decisions when purchasing research peptides. Always verify that your supplier provides comprehensive analytical documentation—it's the hallmark of a quality-focused company.
 
 At Best-Peptides, transparency is our commitment. Every product includes full COA documentation, downloadable directly from the product page.

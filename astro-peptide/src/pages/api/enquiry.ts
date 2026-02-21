@@ -27,15 +27,15 @@ async function sendEnquiryEmail(data: EnquiryData, apiKey: string, ownerEmail: s
   }
 
   const itemsList = data.items.map(item => 
-    `â€¢ ${item.title} x${item.quantity} - Â£${(item.price * item.quantity).toFixed(2)}`
+    `• ${item.title} x${item.quantity} - £${(item.price * item.quantity).toFixed(2)}`
   ).join('\n');
 
   const itemsHtml = data.items.map(item => 
     `<tr>
       <td style="padding: 8px; border-bottom: 1px solid #e5e7eb;">${item.title}</td>
       <td style="padding: 8px; border-bottom: 1px solid #e5e7eb; text-align: center;">${item.quantity}</td>
-      <td style="padding: 8px; border-bottom: 1px solid #e5e7eb; text-align: right;">Â£${item.price.toFixed(2)}</td>
-      <td style="padding: 8px; border-bottom: 1px solid #e5e7eb; text-align: right;">Â£${(item.price * item.quantity).toFixed(2)}</td>
+      <td style="padding: 8px; border-bottom: 1px solid #e5e7eb; text-align: right;">£${item.price.toFixed(2)}</td>
+      <td style="padding: 8px; border-bottom: 1px solid #e5e7eb; text-align: right;">£${(item.price * item.quantity).toFixed(2)}</td>
     </tr>`
   ).join('');
 
@@ -77,14 +77,14 @@ async function sendEnquiryEmail(data: EnquiryData, apiKey: string, ownerEmail: s
               <tfoot>
                 <tr style="background: #f8fafc;">
                   <td colspan="3" style="padding: 10px 8px; text-align: right; font-weight: bold;">Total:</td>
-                  <td style="padding: 10px 8px; text-align: right; font-weight: bold; color: #e1062c;">Â£${total.toFixed(2)}</td>
+                  <td style="padding: 10px 8px; text-align: right; font-weight: bold; color: #e1062c;">£${total.toFixed(2)}</td>
                 </tr>
               </tfoot>
             </table>
-            <p style="color: #6b7280; font-size: 14px;">âœ“ Customer confirmed products are for research purposes only.</p>
+            <p style="color: #6b7280; font-size: 14px;">✓ Customer confirmed products are for research purposes only.</p>
           </div>
         `,
-        text: `New Quote Request\n\nFrom: ${data.name || 'Not provided'}\nEmail: ${data.email}\n${data.institution ? `Institution: ${data.institution}\n` : ''}${data.message ? `Message: ${data.message}\n` : ''}\n\nRequested Items:\n${itemsList}\n\nTotal: Â£${total.toFixed(2)}\n\nâœ“ Customer confirmed products are for research purposes only.`,
+        text: `New Quote Request\n\nFrom: ${data.name || 'Not provided'}\nEmail: ${data.email}\n${data.institution ? `Institution: ${data.institution}\n` : ''}${data.message ? `Message: ${data.message}\n` : ''}\n\nRequested Items:\n${itemsList}\n\nTotal: £${total.toFixed(2)}\n\n✓ Customer confirmed products are for research purposes only.`,
       }),
     });
 

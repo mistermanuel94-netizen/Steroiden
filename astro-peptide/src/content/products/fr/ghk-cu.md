@@ -8,178 +8,178 @@ urlPath: "/fr/peptides/acheter-ghk-cu"
 aliases: ["Peptide de Cuivre", "GHK Cuivre", "Tripeptide-1"]
 cas: "49557-75-7"
 molecular_weight: "403.9 g/mol"
-purity: "â‰¥ 99%"
-storage: "-20Â°C recommandÃ© (recherche uniquement)"
+purity: "≥ 99%"
+storage: "-20°C recommandé (recherche uniquement)"
 package_sizes: ["500 mg poudre"]
 moq: 200
 price: 200
-price_range: "â‚¬200 par unitÃ©"
+price_range: "€200 par unité"
 coa_url: "/coa/ghk-cu.pdf"
-short_description: "Acheter GHK-Cu. Peptide de cuivre pour la recherche cutanÃ©e et tissulaire. â‰¥99% puretÃ©. Livraison rapide."
+short_description: "Acheter GHK-Cu. Peptide de cuivre pour la recherche cutanée et tissulaire. ≥99% pureté. Livraison rapide."
 category: "muscle-recovery"
-tags: ["research-peptide", "ghk-cu-fr", "copper-peptide", "acheter-peptides", "peau", "collagÃ¨ne"]
+tags: ["research-peptide", "ghk-cu-fr", "copper-peptide", "acheter-peptides", "peau", "collagène"]
 images: ["/images/products/ghk-cu.png"]
 meta:
   title: "Acheter GHK-Cu | Peptide de Cuivre | Livraison Rapide"
-  description: "Acheter GHK-Cu. Peptide de cuivre premium pour la recherche. â‰¥99% puretÃ©, COA inclus. Livraison rapide."
+  description: "Acheter GHK-Cu. Peptide de cuivre premium pour la recherche. ≥99% pureté, COA inclus. Livraison rapide."
 faqs:
-  - question: "Ã€ quoi sert le GHK-Cu dans la recherche?"
-    answer: "Le GHK-Cu est Ã©tudiÃ© pour la cicatrisation des plaies, la rÃ©gÃ©nÃ©ration cutanÃ©e, la synthÃ¨se du collagÃ¨ne et les effets anti-inflammatoires. C'est un tripeptide naturel avec liaison au cuivre."
+  - question: "À quoi sert le GHK-Cu dans la recherche?"
+    answer: "Le GHK-Cu est étudié pour la cicatrisation des plaies, la régénération cutanée, la synthèse du collagène et les effets anti-inflammatoires. C'est un tripeptide naturel avec liaison au cuivre."
   - question: "Comment fonctionne le GHK-Cu?"
-    answer: "Le GHK-Cu chÃ©late les ions cuivre et les dÃ©livre aux tissus, stimulant la synthÃ¨se du collagÃ¨ne, la production de glycosaminoglycanes et soutenant les processus de cicatrisation."
+    answer: "Le GHK-Cu chélate les ions cuivre et les délivre aux tissus, stimulant la synthèse du collagène, la production de glycosaminoglycanes et soutenant les processus de cicatrisation."
   - question: "Quelle est l'origine du GHK-Cu?"
-    answer: "Le GHK est un tripeptide naturellement prÃ©sent dans le plasma humain, la salive et l'urine. Les niveaux diminuent avec l'Ã¢ge, ce qui a suscitÃ© l'intÃ©rÃªt pour ses propriÃ©tÃ©s rÃ©gÃ©nÃ©ratives."
+    answer: "Le GHK est un tripeptide naturellement présent dans le plasma humain, la salive et l'urine. Les niveaux diminuent avec l'âge, ce qui a suscité l'intérêt pour ses propriétés régénératives."
   - question: "Comment conserver le GHK-Cu?"
-    answer: "Conservez le GHK-Cu lyophilisÃ© Ã  -20Â°C. Les solutions reconstituÃ©es doivent Ãªtre conservÃ©es Ã  2-8Â°C et utilisÃ©es dans les 4 semaines."
-  - question: "Quelle est la puretÃ© de votre GHK-Cu?"
-    answer: "Notre GHK-Cu est â‰¥99% pur, vÃ©rifiÃ© par HPLC. Chaque lot comprend un Certificat d'Analyse."
-  - question: "Le GHK-Cu peut-il affecter l'expression gÃ©nique?"
-    answer: "La recherche suggÃ¨re que le GHK-Cu influence l'expression de nombreux gÃ¨nes liÃ©s Ã  la rÃ©paration tissulaire, l'activitÃ© antioxydante et la production de collagÃ¨ne."
+    answer: "Conservez le GHK-Cu lyophilisé à -20°C. Les solutions reconstituées doivent être conservées à 2-8°C et utilisées dans les 4 semaines."
+  - question: "Quelle est la pureté de votre GHK-Cu?"
+    answer: "Notre GHK-Cu est ≥99% pur, vérifié par HPLC. Chaque lot comprend un Certificat d'Analyse."
+  - question: "Le GHK-Cu peut-il affecter l'expression génique?"
+    answer: "La recherche suggère que le GHK-Cu influence l'expression de nombreux gènes liés à la réparation tissulaire, l'activité antioxydante et la production de collagène."
   - question: "Comment reconstituer le GHK-Cu?"
-    answer: "Reconstituez dans de l'eau stÃ©rile. Le GHK-Cu est trÃ¨s soluble et se dissout facilement."
+    answer: "Reconstituez dans de l'eau stérile. Le GHK-Cu est très soluble et se dissout facilement."
   - question: "Quelles tailles sont disponibles?"
-    answer: "Le GHK-Cu est disponible en quantitÃ©s de 50mg, 100mg et 500mg."
+    answer: "Le GHK-Cu est disponible en quantités de 50mg, 100mg et 500mg."
 reviews:
   - author: "Dr. Jean-Pierre Martin"
     rating: 5
     date: "2024-12-09"
     title: "Excellent peptide de cuivre"
-    content: "La qualitÃ© du GHK-Cu est exceptionnelle pour notre recherche cutanÃ©e. Effets de synthÃ¨se du collagÃ¨ne clairement observables."
+    content: "La qualité du GHK-Cu est exceptionnelle pour notre recherche cutanée. Effets de synthèse du collagène clairement observables."
     verified: true
   - author: "Laboratoire Dermatologie Paris"
     rating: 5
     date: "2024-12-02"
-    title: "QualitÃ© premium"
-    content: "Les tests de cicatrisation montrent une excellente activitÃ©. QualitÃ© de grade recherche."
+    title: "Qualité premium"
+    content: "Les tests de cicatrisation montrent une excellente activité. Qualité de grade recherche."
     verified: true
-  - author: "FranÃ§ois Dubois"
+  - author: "François Dubois"
     rating: 5
     date: "2024-11-25"
     title: "Excellent produit"
-    content: "Livraison rapide, excellente qualitÃ©. Les Ã©tudes sur les fibroblastes progressent bien."
+    content: "Livraison rapide, excellente qualité. Les études sur les fibroblastes progressent bien."
     verified: true
-  - author: "Laboratoire CutanÃ© Lyon"
+  - author: "Laboratoire Cutané Lyon"
     rating: 5
     date: "2024-11-18"
     title: "Fournisseur fiable"
-    content: "QualitÃ© constante pour notre recherche sur le collagÃ¨ne."
+    content: "Qualité constante pour notre recherche sur le collagène."
     verified: true
-  - author: "Dr. Marie LefÃ¨vre"
+  - author: "Dr. Marie Lefèvre"
     rating: 5
     date: "2024-11-11"
-    title: "PuretÃ© exceptionnelle"
-    content: "Teneur en cuivre et puretÃ© du peptide vÃ©rifiÃ©es. Excellent produit."
+    title: "Pureté exceptionnelle"
+    content: "Teneur en cuivre et pureté du peptide vérifiées. Excellent produit."
     verified: true
   - author: "Laboratoire Tissulaire Marseille"
     rating: 5
     date: "2024-11-04"
     title: "Excellent service"
-    content: "Livraison rapide, excellente qualitÃ©. Les Ã©tudes d'expression gÃ©nique se dÃ©roulent bien."
+    content: "Livraison rapide, excellente qualité. Les études d'expression génique se déroulent bien."
     verified: true
   - author: "Sophie Bernard"
     rating: 5
     date: "2024-10-28"
     title: "Livraison rapide"
-    content: "La livraison express Ã©tait ponctuelle. QualitÃ© excellente."
+    content: "La livraison express était ponctuelle. Qualité excellente."
     verified: true
   - author: "Recherche Cicatrisation Bordeaux"
     rating: 5
     date: "2024-10-21"
-    title: "TrÃ¨s bien"
-    content: "La qualitÃ© est excellente pour la recherche sur la cicatrisation."
+    title: "Très bien"
+    content: "La qualité est excellente pour la recherche sur la cicatrisation."
     verified: true
   - author: "Dr. Catherine Moreau"
     rating: 5
     date: "2024-10-14"
     title: "Peptide de recherche premium"
-    content: "Excellent pour les Ã©tudes sur les fibroblastes et le collagÃ¨ne."
+    content: "Excellent pour les études sur les fibroblastes et le collagène."
     verified: true
-  - author: "Laboratoire CutanÃ© Toulouse"
+  - author: "Laboratoire Cutané Toulouse"
     rating: 5
     date: "2024-10-07"
-    title: "QualitÃ© fiable"
+    title: "Qualité fiable"
     content: "Plusieurs commandes, constamment excellent."
     verified: true
   - author: "Michel Laurent"
     rating: 5
     date: "2024-09-30"
-    title: "Excellente expÃ©rience"
+    title: "Excellente expérience"
     content: "Commande facile, livraison rapide."
     verified: true
-  - author: "Laboratoire RÃ©gÃ©nÃ©ratif Strasbourg"
+  - author: "Laboratoire Régénératif Strasbourg"
     rating: 5
     date: "2024-09-23"
     title: "Excellent fournisseur"
-    content: "GHK-Cu de haute qualitÃ© avec documentation appropriÃ©e."
+    content: "GHK-Cu de haute qualité avec documentation appropriée."
     verified: true
 ---
 
 ## Qu'est-ce que le GHK-Cu?
 
-**GHK-Cu** (Tripeptide de Cuivre-1) est un complexe peptide-cuivre naturel composÃ© de trois acides aminÃ©s (glycine-histidine-lysine) liÃ©s Ã  un ion cuivre. PrÃ©sent dans le plasma humain, la salive et l'urine, les concentrations de GHK-Cu diminuent naturellement avec l'Ã¢ge.
+**GHK-Cu** (Tripeptide de Cuivre-1) est un complexe peptide-cuivre naturel composé de trois acides aminés (glycine-histidine-lysine) liés à un ion cuivre. Présent dans le plasma humain, la salive et l'urine, les concentrations de GHK-Cu diminuent naturellement avec l'âge.
 
-L'intÃ©rÃªt de la recherche pour le GHK-Cu provient de ses effets remarquables sur la rÃ©gÃ©nÃ©ration tissulaire, la cicatrisation des plaies et la modulation de l'expression gÃ©nique. Les Ã©tudes suggÃ¨rent qu'il influence plus de 4 000 gÃ¨nes liÃ©s Ã  la rÃ©paration et Ã  la rÃ©gÃ©nÃ©ration tissulaire.
+L'intérêt de la recherche pour le GHK-Cu provient de ses effets remarquables sur la régénération tissulaire, la cicatrisation des plaies et la modulation de l'expression génique. Les études suggèrent qu'il influence plus de 4 000 gènes liés à la réparation et à la régénération tissulaire.
 
-Best-Peptides fournit du **GHK-Cu de grade recherche** avec une puretÃ© garantie â‰¥99%.
+Best-Peptides fournit du **GHK-Cu de grade recherche** avec une pureté garantie ≥99%.
 
 ## Comment fonctionne le GHK-Cu?
 
-### DÃ©livrance du Cuivre
-- **ChÃ©lation mÃ©tallique** - Liaison stable au cuivre
-- **DÃ©livrance tissulaire** - Transport ciblÃ© du cuivre
-- **Support enzymatique** - Enzymes dÃ©pendantes du cuivre
+### Délivrance du Cuivre
+- **Chélation métallique** - Liaison stable au cuivre
+- **Délivrance tissulaire** - Transport ciblé du cuivre
+- **Support enzymatique** - Enzymes dépendantes du cuivre
 
-### CollagÃ¨ne & MEC
-- **SynthÃ¨se du collagÃ¨ne** - Types I et III
+### Collagène & MEC
+- **Synthèse du collagène** - Types I et III
 - **Glycosaminoglycanes** - Production de MEC
-- **Support de l'Ã©lastine** - Ã‰lasticitÃ© cutanÃ©e
+- **Support de l'élastine** - Élasticité cutanée
 - **Fibronectine** - Structure tissulaire
 
-### Expression GÃ©nique
-- **>4000 gÃ¨nes affectÃ©s** - Modulation large
-- **Voies de rÃ©paration** - RÃ©gulation positive
-- **GÃ¨nes antioxydants** - Protection amÃ©liorÃ©e
+### Expression Génique
+- **>4000 gènes affectés** - Modulation large
+- **Voies de réparation** - Régulation positive
+- **Gènes antioxydants** - Protection améliorée
 
 ## Applications de Recherche
 
-### Recherche CutanÃ©e
-- **Cicatrisation** - RÃ©gÃ©nÃ©ration dermique
-- **Ã‰tudes du vieillissement** - DÃ©clin du collagÃ¨ne
-- **ActivitÃ© des fibroblastes** - Fonction cellulaire
+### Recherche Cutanée
+- **Cicatrisation** - Régénération dermique
+- **Études du vieillissement** - Déclin du collagène
+- **Activité des fibroblastes** - Fonction cellulaire
 
-### RÃ©paration Tissulaire
+### Réparation Tissulaire
 - **Follicule pileux** - Stimulation de la croissance
-- **RÃ©gÃ©nÃ©ration osseuse** - Support des ostÃ©oblastes
-- **RÃ©paration nerveuse** - Ã‰tudes de rÃ©gÃ©nÃ©ration
+- **Régénération osseuse** - Support des ostéoblastes
+- **Réparation nerveuse** - Études de régénération
 
-## SpÃ©cifications du GHK-Cu
+## Spécifications du GHK-Cu
 
-| SpÃ©cification | DÃ©tail |
+| Spécification | Détail |
 |---------------|--------|
-| **NumÃ©ro CAS** | 49557-75-7 |
-| **Poids MolÃ©culaire** | 403.9 g/mol |
+| **Numéro CAS** | 49557-75-7 |
+| **Poids Moléculaire** | 403.9 g/mol |
 | **Teneur en Cuivre** | ~15.6% |
-| **PuretÃ©** | â‰¥99% (HPLC) |
+| **Pureté** | ≥99% (HPLC) |
 | **Apparence** | Poudre bleue |
-| **SolubilitÃ©** | TrÃ¨s soluble dans l'eau |
+| **Solubilité** | Très soluble dans l'eau |
 
 ## Stockage
 
-| Condition | TempÃ©rature | DurÃ©e |
+| Condition | Température | Durée |
 |-----------|-------------|-------|
-| **LyophilisÃ©** | -20Â°C | Jusqu'Ã  24 mois |
-| **ReconstituÃ©** | 2-8Â°C | Jusqu'Ã  4 semaines |
+| **Lyophilisé** | -20°C | Jusqu'à 24 mois |
+| **Reconstitué** | 2-8°C | Jusqu'à 4 semaines |
 
 ## Informations de Commande
 
 | Taille | Prix |
 |--------|------|
-| **50 mg** | Ã€ partir de â‚¬28 |
-| **100 mg** | Ã€ partir de â‚¬50 |
-| **500 mg** | Ã€ partir de â‚¬120 |
+| **50 mg** | À partir de €28 |
+| **100 mg** | À partir de €50 |
+| **500 mg** | À partir de €120 |
 
-**Commande minimum: â‚¬200** | **10% de rÃ©duction sur les commandes supÃ©rieures Ã  â‚¬200**
+**Commande minimum: €200** | **10% de réduction sur les commandes supérieures à €200**
 
-## DÃ©claration d'Utilisation pour la Recherche
+## Déclaration d'Utilisation pour la Recherche
 
-**Pour la recherche en laboratoire uniquement.** Non destinÃ© Ã  un usage humain ou vÃ©tÃ©rinaire.
+**Pour la recherche en laboratoire uniquement.** Non destiné à un usage humain ou vétérinaire.

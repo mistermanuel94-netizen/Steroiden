@@ -8,31 +8,31 @@ urlPath: "/nl/peptides/ghrp-2-kopen"
 aliases: ["Groeihormoon Releasing Peptide 2", "GHRP2", "Pralmorelin"]
 cas: "158861-67-7"
 molecular_weight: "817.9 g/mol"
-purity: "â‰¥ 99%"
-storage: "-20Â°C aanbevolen (alleen voor onderzoek)"
-package_sizes: ["10 Ã— 5 mg flacons"]
+purity: "≥ 99%"
+storage: "-20°C aanbevolen (alleen voor onderzoek)"
+package_sizes: ["10 × 5 mg flacons"]
 moq: 200
 price: 220
-price_range: "â‚¬220 per pakket"
+price_range: "€220 per pakket"
 coa_url: "/coa/ghrp-2.pdf"
-short_description: "GHRP-2 kopen. Groeihormoon releasing peptide voor GH-onderzoek. â‰¥99% zuiverheid. Snelle EU-levering."
+short_description: "GHRP-2 kopen. Groeihormoon releasing peptide voor GH-onderzoek. ≥99% zuiverheid. Snelle EU-levering."
 category: "growth-hormone"
 tags: ["onderzoek-peptide", "ghrp-2-kopen", "ghrp", "peptiden-kopen", "groeihormoon"]
 images: ["/images/products/ghrp-2.png"]
 meta:
   title: "GHRP-2 Kopen | GH Peptide | Snelle Levering"
-  description: "GHRP-2 kopen. Premium groeihormoon releasing peptide voor onderzoek. â‰¥99% zuiverheid, COA inbegrepen."
+  description: "GHRP-2 kopen. Premium groeihormoon releasing peptide voor onderzoek. ≥99% zuiverheid, COA inbegrepen."
 faqs:
   - question: "Waarvoor wordt GHRP-2 gebruikt in onderzoek?"
     answer: "GHRP-2 wordt gebruikt om groeihormoon secretie, ghreline receptor activatie en somatotrofe functie te bestuderen. Het wordt beschouwd als selectiever dan GHRP-6 met minder eetluststimulatie."
   - question: "Wat is het verschil tussen GHRP-2 en GHRP-6?"
-    answer: "GHRP-2 is selectiever voor GH-afgifte met minder eetluststimulatie en lagere cortisol/prolactine-effecten dan GHRP-6, wat het nuttig maakt voor het bestuderen van geÃ¯soleerde GH-secretie."
+    answer: "GHRP-2 is selectiever voor GH-afgifte met minder eetluststimulatie en lagere cortisol/prolactine-effecten dan GHRP-6, wat het nuttig maakt voor het bestuderen van geïsoleerde GH-secretie."
   - question: "Wat is een andere naam voor GHRP-2?"
-    answer: "GHRP-2 staat ook bekend als Pralmorelin en was een van de eerste synthetische GH-secretagogen die klinisch werden bestudeerd voor GH-deficiÃ«ntie onderzoek."
+    answer: "GHRP-2 staat ook bekend als Pralmorelin en was een van de eerste synthetische GH-secretagogen die klinisch werden bestudeerd voor GH-deficiëntie onderzoek."
   - question: "Hoe moet GHRP-2 worden bewaard?"
-    answer: "Bewaar gelyofiliseerd GHRP-2 bij -20Â°C. Na reconstitutie bewaren bij 2-8Â°C en binnen 4 weken gebruiken."
+    answer: "Bewaar gelyofiliseerd GHRP-2 bij -20°C. Na reconstitutie bewaren bij 2-8°C en binnen 4 weken gebruiken."
   - question: "Wat is de zuiverheid van jullie GHRP-2?"
-    answer: "Onze GHRP-2 heeft een zuiverheid van â‰¥99% zoals geverifieerd door HPLC. Elke batch bevat een Certificaat van Analyse."
+    answer: "Onze GHRP-2 heeft een zuiverheid van ≥99% zoals geverifieerd door HPLC. Elke batch bevat een Certificaat van Analyse."
   - question: "Kan het worden gecombineerd met GHRH-analogen?"
     answer: "Ja, GHRP-2 met GHRH-analogen is een veelgebruikte onderzoekscombinatie voor het bestuderen van synergetische GH-afgifte mechanismen."
   - question: "Hoe reconstitueer ik GHRP-2?"
@@ -84,7 +84,7 @@ reviews:
 
 Het verbeterde selectiviteitsprofiel van het peptide maakt het waardevol voor het bestuderen van GH-secretie mechanismen zonder verstorende orexigene effecten.
 
-Best-Peptides levert **onderzoeksgraad GHRP-2** met gegarandeerde â‰¥99% zuiverheid.
+Best-Peptides levert **onderzoeksgraad GHRP-2** met gegarandeerde ≥99% zuiverheid.
 
 ## Hoe Werkt GHRP-2?
 
@@ -113,25 +113,25 @@ Best-Peptides levert **onderzoeksgraad GHRP-2** met gegarandeerde â‰¥99% zui
 | **CAS Nummer** | 158861-67-7 |
 | **Moleculaire Formule** | C45H55N9O6 |
 | **Moleculair Gewicht** | 817.9 g/mol |
-| **Sequentie** | D-Ala-D-Î²-Nal-Ala-Trp-D-Phe-Lys-NHâ‚‚ |
-| **Zuiverheid** | â‰¥99% (HPLC) |
+| **Sequentie** | D-Ala-D-β-Nal-Ala-Trp-D-Phe-Lys-NH₂ |
+| **Zuiverheid** | ≥99% (HPLC) |
 | **Uiterlijk** | Wit gelyofiliseerd poeder |
 
 ## Opslag
 
 | Conditie | Temperatuur | Duur |
 |----------|-------------|------|
-| **Gelyofiliseerd** | -20Â°C | Tot 24 maanden |
-| **Gereconstitueerd** | 2-8Â°C | Tot 4 weken |
+| **Gelyofiliseerd** | -20°C | Tot 24 maanden |
+| **Gereconstitueerd** | 2-8°C | Tot 4 weken |
 
 ## Bestelinformatie
 
 | Grootte | Prijs |
 |---------|-------|
-| **5 mg** | Vanaf â‚¬28 |
-| **10 mg** | Vanaf â‚¬60 |
+| **5 mg** | Vanaf €28 |
+| **10 mg** | Vanaf €60 |
 
-**Minimale bestelling: â‚¬200** | **10% korting op bestellingen boven â‚¬200**
+**Minimale bestelling: €200** | **10% korting op bestellingen boven €200**
 
 ## Verklaring voor Onderzoeksgebruik
 

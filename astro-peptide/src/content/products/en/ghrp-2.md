@@ -8,20 +8,20 @@ urlPath: "/peptides/buy-ghrp-2"
 aliases: ["Growth Hormone Releasing Peptide 2", "GHRP2", "Pralmorelin"]
 cas: "158861-67-7"
 molecular_weight: "817.9 g/mol"
-purity: "â‰¥ 99%"
-storage: "-20Â°C recommended (research-only)"
-package_sizes: ["10 Ã— 5 mg vials"]
+purity: "≥ 99%"
+storage: "-20°C recommended (research-only)"
+package_sizes: ["10 × 5 mg vials"]
 moq: 200
 price: 220
-price_range: "Â£220 per pack"
+price_range: "£220 per pack"
 coa_url: "/coa/ghrp-2.pdf"
-short_description: "Buy GHRP-2 UK. Growth hormone releasing peptide for GH research. â‰¥99% purity. Fast UK delivery."
+short_description: "Buy GHRP-2 UK. Growth hormone releasing peptide for GH research. ≥99% purity. Fast UK delivery."
 category: "growth-hormone"
 tags: ["research-peptide", "ghrp-2-uk", "ghrp", "buy-peptides-uk", "growth-hormone"]
 images: ["/images/products/ghrp-2.png"]
 meta:
   title: "Buy GHRP-2 UK | GH Peptide | Fast Delivery"
-  description: "Buy GHRP-2 UK. Premium growth hormone releasing peptide for research. â‰¥99% purity, COA included."
+  description: "Buy GHRP-2 UK. Premium growth hormone releasing peptide for research. ≥99% purity, COA included."
 faqs:
   - question: "What is GHRP-2 used for in research?"
     answer: "GHRP-2 is used to study growth hormone secretion, ghrelin receptor activation, and somatotrope function. It's considered more selective than GHRP-6 with less appetite stimulation."
@@ -30,9 +30,9 @@ faqs:
   - question: "What is another name for GHRP-2?"
     answer: "GHRP-2 is also known as Pralmorelin and was one of the first synthetic GH secretagogues studied clinically for GH deficiency research."
   - question: "How should GHRP-2 be stored?"
-    answer: "Store lyophilised GHRP-2 at -20Â°C. Once reconstituted, keep at 2-8Â°C and use within 4 weeks."
+    answer: "Store lyophilised GHRP-2 at -20°C. Once reconstituted, keep at 2-8°C and use within 4 weeks."
   - question: "What purity is your GHRP-2?"
-    answer: "Our GHRP-2 is â‰¥99% pure as verified by HPLC. Each batch includes a Certificate of Analysis."
+    answer: "Our GHRP-2 is ≥99% pure as verified by HPLC. Each batch includes a Certificate of Analysis."
   - question: "Can it be combined with GHRH analogs?"
     answer: "Yes, GHRP-2 with GHRH analogs is a common research combination for studying synergistic GH release mechanisms."
   - question: "How do I reconstitute GHRP-2?"
@@ -108,7 +108,7 @@ reviews:
 
 The peptide's improved selectivity profile makes it valuable for studying GH secretion mechanisms without confounding orexigenic effects.
 
-Best-Peptides supplies **research-grade GHRP-2** with guaranteed â‰¥99% purity.
+Best-Peptides supplies **research-grade GHRP-2** with guaranteed ≥99% purity.
 
 ## How Does GHRP-2 Work?
 
@@ -137,25 +137,25 @@ Best-Peptides supplies **research-grade GHRP-2** with guaranteed â‰¥99% puri
 | **CAS Number** | 158861-67-7 |
 | **Molecular Formula** | C45H55N9O6 |
 | **Molecular Weight** | 817.9 g/mol |
-| **Sequence** | D-Ala-D-Î²-Nal-Ala-Trp-D-Phe-Lys-NHâ‚‚ |
-| **Purity** | â‰¥99% (HPLC) |
+| **Sequence** | D-Ala-D-β-Nal-Ala-Trp-D-Phe-Lys-NH₂ |
+| **Purity** | ≥99% (HPLC) |
 | **Appearance** | White lyophilised powder |
 
 ## Storage
 
 | Condition | Temperature | Duration |
 |-----------|-------------|----------|
-| **Lyophilised** | -20Â°C | Up to 24 months |
-| **Reconstituted** | 2-8Â°C | Up to 4 weeks |
+| **Lyophilised** | -20°C | Up to 24 months |
+| **Reconstituted** | 2-8°C | Up to 4 weeks |
 
 ## Ordering Information
 
 | Size | Price |
 |------|-------|
-| **5 mg** | From Â£28 |
-| **10 mg** | From Â£60 |
+| **5 mg** | From £28 |
+| **10 mg** | From £60 |
 
-**Minimum order: Â£200** | **10% discount on orders over Â£200**
+**Minimum order: £200** | **10% discount on orders over £200**
 
 ## Research Use Statement
 

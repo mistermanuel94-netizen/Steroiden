@@ -34,10 +34,10 @@ const clampText = (value: string, min: number, max: number, suffix: string) => {
 	if (!text) return '';
 	if (text.length < min) {
 		const withSuffix = normalizeWhitespace(`${text} ${suffix}`);
-		text = withSuffix.length <= max ? withSuffix : withSuffix.slice(0, max - 1).trimEnd() + 'â€¦';
+		text = withSuffix.length <= max ? withSuffix : withSuffix.slice(0, max - 1).trimEnd() + '…';
 	}
 	if (text.length > max) {
-		text = text.slice(0, max - 1).trimEnd() + 'â€¦';
+		text = text.slice(0, max - 1).trimEnd() + '…';
 	}
 	return text;
 };

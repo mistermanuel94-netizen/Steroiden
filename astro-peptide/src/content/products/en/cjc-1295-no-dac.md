@@ -8,20 +8,20 @@ urlPath: "/peptides/buy-cjc-1295-no-dac"
 aliases: ["Mod GRF 1-29", "Modified GRF", "CJC-1295 without DAC"]
 cas: "863288-34-0"
 molecular_weight: "3367.9 g/mol"
-purity: "â‰¥ 99%"
-storage: "-20Â°C recommended (research-only)"
-package_sizes: ["10 Ã— 5 mg vials"]
+purity: "≥ 99%"
+storage: "-20°C recommended (research-only)"
+package_sizes: ["10 × 5 mg vials"]
 moq: 200
 price: 250
-price_range: "Â£250 per pack"
+price_range: "£250 per pack"
 coa_url: "/coa/cjc-1295-no-dac.pdf"
-short_description: "Buy CJC-1295 No DAC. Modified GRF 1-29 for GH research. â‰¥99% purity. Fast UK & EU delivery."
+short_description: "Buy CJC-1295 No DAC. Modified GRF 1-29 for GH research. ≥99% purity. Fast UK & EU delivery."
 category: "growth-hormone"
 tags: ["research-peptide", "cjc-1295-uk", "ghrh", "buy-peptides-uk", "growth-hormone"]
 images: ["/images/products/cjc-1295-no-dac.png"]
 meta:
   title: "Buy CJC-1295 No DAC | Mod GRF | Fast Delivery"
-  description: "Buy CJC-1295 No DAC (Mod GRF 1-29). Premium GHRH analog for research. â‰¥99% purity, COA included."
+  description: "Buy CJC-1295 No DAC (Mod GRF 1-29). Premium GHRH analog for research. ≥99% purity, COA included."
 faqs:
   - question: "What is CJC-1295 No DAC used for in research?"
     answer: "CJC-1295 No DAC (Modified GRF 1-29) is used to study GHRH receptor activation and pulsatile growth hormone release. It's a modified GHRH analog with enhanced stability for research applications."
@@ -30,9 +30,9 @@ faqs:
   - question: "How does Mod GRF 1-29 work?"
     answer: "It binds to GHRH receptors on pituitary somatotropes, stimulating cAMP production and GH release. The modifications at positions 2, 8, 15, and 27 provide enhanced stability."
   - question: "How should CJC-1295 No DAC be stored?"
-    answer: "Store lyophilised at -20Â°C. Once reconstituted, keep at 2-8Â°C and use within 2-3 weeks. The modifications improve but don't eliminate degradation."
+    answer: "Store lyophilised at -20°C. Once reconstituted, keep at 2-8°C and use within 2-3 weeks. The modifications improve but don't eliminate degradation."
   - question: "What purity is your CJC-1295 No DAC?"
-    answer: "Our CJC-1295 No DAC is â‰¥99% pure as verified by HPLC. Each batch includes a Certificate of Analysis with purity and mass spectrometry data."
+    answer: "Our CJC-1295 No DAC is ≥99% pure as verified by HPLC. Each batch includes a Certificate of Analysis with purity and mass spectrometry data."
   - question: "Can it be combined with GHRPs?"
     answer: "Yes, researchers often study Mod GRF 1-29 with GHRPs like Ipamorelin or GHRP-6 to investigate GHRH-GHRP synergy. Both peptide types are available from Best-Peptides."
   - question: "How do I reconstitute it?"
@@ -138,7 +138,7 @@ reviews:
 
 The peptide represents the first 29 amino acids of GHRH with modifications at positions 2, 8, 15, and 27 to improve resistance to enzymatic degradation. These modifications make it a more practical research tool while maintaining GHRH receptor binding activity.
 
-Best-Peptides supplies **research-grade CJC-1295 No DAC** with guaranteed â‰¥99% purity, verified through comprehensive HPLC and mass spectrometry analysis.
+Best-Peptides supplies **research-grade CJC-1295 No DAC** with guaranteed ≥99% purity, verified through comprehensive HPLC and mass spectrometry analysis.
 
 ## How Does CJC-1295 No DAC Work?
 
@@ -182,7 +182,7 @@ Without DAC, the peptide produces:
 |--------------|--------|
 | **CAS Number** | 863288-34-0 |
 | **Molecular Weight** | 3367.9 g/mol |
-| **Purity** | â‰¥99% (HPLC) |
+| **Purity** | ≥99% (HPLC) |
 | **Appearance** | White lyophilised powder |
 | **Solubility** | Soluble in water |
 | **Identity** | Confirmed by mass spectrometry |
@@ -191,8 +191,8 @@ Without DAC, the peptide produces:
 
 | Condition | Temperature | Duration |
 |-----------|-------------|----------|
-| **Lyophilised** | -20Â°C | Up to 24 months |
-| **Reconstituted** | 2-8Â°C | Up to 2-3 weeks |
+| **Lyophilised** | -20°C | Up to 24 months |
+| **Reconstituted** | 2-8°C | Up to 2-3 weeks |
 
 ## Ordering Information
 
@@ -201,7 +201,7 @@ Without DAC, the peptide produces:
 | **2 mg** | Pilot studies |
 | **5 mg** | Standard research |
 
-**Minimum order: Â£200** | **10% discount on orders over Â£200**
+**Minimum order: £200** | **10% discount on orders over £200**
 
 ## Research Use Statement
 

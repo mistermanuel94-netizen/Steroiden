@@ -1,38 +1,38 @@
 ---
 lang: "nl"
 id: "peptide-semax"
-title: "Semax Kopen | NoÃ¶tropisch Cognitief Peptide"
+title: "Semax Kopen | Noötropisch Cognitief Peptide"
 primary_keyword: "semax kopen"
 search_volume: "1200"
 urlPath: "/nl/peptides/semax-kopen"
 aliases: ["Semax", "ACTH 4-10 Analoog"]
 cas: "80714-61-0"
 molecular_weight: "813.9 g/mol"
-purity: "â‰¥ 99%"
-storage: "-20Â°C aanbevolen (alleen voor onderzoek)"
-package_sizes: ["10 Ã— 5 mg flacons"]
+purity: "≥ 99%"
+storage: "-20°C aanbevolen (alleen voor onderzoek)"
+package_sizes: ["10 × 5 mg flacons"]
 moq: 200
 price: 260
-price_range: "â‚¬260 per pakket"
+price_range: "€260 per pakket"
 coa_url: "/coa/semax.pdf"
-short_description: "Semax kopen Nederland. NoÃ¶tropisch peptide voor cognitief onderzoek. â‰¥99% zuiverheid. Snelle levering in Nederland."
+short_description: "Semax kopen Nederland. Noötropisch peptide voor cognitief onderzoek. ≥99% zuiverheid. Snelle levering in Nederland."
 category: "cognitive"
-tags: ["research-peptide", "semax-nl", "noÃ¶tropisch", "peptiden-kopen", "cognitief", "neuroprotectie"]
+tags: ["research-peptide", "semax-nl", "noötropisch", "peptiden-kopen", "cognitief", "neuroprotectie"]
 images: ["/images/products/semax.png"]
 meta:
   title: "Semax Kopen | Cognitief Peptide | Snelle Levering"
-  description: "Semax kopen Nederland. Premium noÃ¶tropisch peptide voor onderzoek. â‰¥99% zuiverheid, COA inbegrepen. Snelle levering."
+  description: "Semax kopen Nederland. Premium noötropisch peptide voor onderzoek. ≥99% zuiverheid, COA inbegrepen. Snelle levering."
 faqs:
   - question: "Waarvoor wordt Semax gebruikt in onderzoek?"
     answer: "Semax wordt bestudeerd voor cognitieve verbetering, neuroprotectie, BDNF-modulatie en neurotransmitterregulatie. Het is gebaseerd op ACTH(4-10)."
   - question: "Hoe werkt Semax?"
-    answer: "Semax moduleert neurotrofines (BDNF, NGF), beÃ¯nvloedt dopamine en serotonine, en beÃ¯nvloedt genexpressie gerelateerd aan neuroplasticiteit."
+    answer: "Semax moduleert neurotrofines (BDNF, NGF), beïnvloedt dopamine en serotonine, en beïnvloedt genexpressie gerelateerd aan neuroplasticiteit."
   - question: "Hoe verschilt Semax van Selank?"
     answer: "Semax richt zich op cognitieve verbetering en neuroprotectie; Selank is meer anxiolytisch. Semax is gebaseerd op ACTH; Selank op tuftsin."
   - question: "Hoe moet Semax worden bewaard?"
-    answer: "Bewaar gelyofiliseerd Semax bij -20Â°C. Na reconstitutie bewaren bij 2-8Â°C en binnen 3-4 weken gebruiken."
+    answer: "Bewaar gelyofiliseerd Semax bij -20°C. Na reconstitutie bewaren bij 2-8°C en binnen 3-4 weken gebruiken."
   - question: "Welke zuiverheid heeft uw Semax?"
-    answer: "Onze Semax heeft â‰¥99% zuiverheid, geverifieerd door HPLC. Elke batch bevat een Certificaat van Analyse."
+    answer: "Onze Semax heeft ≥99% zuiverheid, geverifieerd door HPLC. Elke batch bevat een Certificaat van Analyse."
   - question: "Wat is BDNF?"
     answer: "BDNF (Brain-Derived Neurotrophic Factor) is cruciaal voor neuroplasticiteit, leren en geheugen. Semax zou de BDNF-expressie verhogen."
   - question: "Hoe reconstitueer ik Semax?"
@@ -74,7 +74,7 @@ reviews:
     rating: 5
     date: "2024-11-06"
     title: "Uitstekende service"
-    content: "Snelle levering, geweldige kwaliteit voor noÃ¶tropische studies."
+    content: "Snelle levering, geweldige kwaliteit voor noötropische studies."
     verified: true
   - author: "Lisa Jansen"
     rating: 5
@@ -128,11 +128,11 @@ reviews:
 
 ## Wat is Semax?
 
-**Semax** is een synthetisch heptapeptide ontwikkeld in Rusland, gebaseerd op het ACTH(4-10) fragment van adrenocorticotroop hormoon. In tegenstelling tot volledig ACTH heeft Semax geen hormonale activiteit maar behoudt het krachtige noÃ¶tropische en neuroprotectieve eigenschappen.
+**Semax** is een synthetisch heptapeptide ontwikkeld in Rusland, gebaseerd op het ACTH(4-10) fragment van adrenocorticotroop hormoon. In tegenstelling tot volledig ACTH heeft Semax geen hormonale activiteit maar behoudt het krachtige noötropische en neuroprotectieve eigenschappen.
 
 Uitgebreid onderzoek heeft de effecten van Semax op cognitieve functie, BDNF-expressie en neuroprotectie aangetoond, waardoor het een waardevol instrument is voor neurowetenschappelijk onderzoek.
 
-Best-Peptides levert **onderzoekskwaliteit Semax** met gegarandeerde â‰¥99% zuiverheid.
+Best-Peptides levert **onderzoekskwaliteit Semax** met gegarandeerde ≥99% zuiverheid.
 
 ## Hoe Werkt Semax?
 
@@ -175,25 +175,25 @@ Best-Peptides levert **onderzoekskwaliteit Semax** met gegarandeerde â‰¥99% 
 | **CAS-nummer** | 80714-61-0 |
 | **Molecuulgewicht** | 813.9 g/mol |
 | **Sequentie** | Met-Glu-His-Phe-Pro-Gly-Pro |
-| **Zuiverheid** | â‰¥99% (HPLC) |
+| **Zuiverheid** | ≥99% (HPLC) |
 | **Uiterlijk** | Wit gelyofiliseerd poeder |
 
 ## Opslag
 
 | Conditie | Temperatuur | Duur |
 |----------|-------------|------|
-| **Gelyofiliseerd** | -20Â°C | Tot 24 maanden |
-| **Gereconstitueerd** | 2-8Â°C | Tot 3-4 weken |
+| **Gelyofiliseerd** | -20°C | Tot 24 maanden |
+| **Gereconstitueerd** | 2-8°C | Tot 3-4 weken |
 
 ## Bestelinformatie
 
 | Maat | Prijs |
 |------|-------|
-| **5 mg** | Vanaf â‚¬45 |
-| **10 mg** | Vanaf â‚¬80 |
-| **30 mg** | Vanaf â‚¬130 |
+| **5 mg** | Vanaf €45 |
+| **10 mg** | Vanaf €80 |
+| **30 mg** | Vanaf €130 |
 
-**Minimale bestelling: â‚¬200** | **10% korting op bestellingen boven â‚¬200**
+**Minimale bestelling: €200** | **10% korting op bestellingen boven €200**
 
 ## Verklaring voor Onderzoeksgebruik
 

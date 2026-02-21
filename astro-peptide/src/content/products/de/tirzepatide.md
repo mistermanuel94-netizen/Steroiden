@@ -1,119 +1,119 @@
 ---
 lang: "de"
 id: "peptide-tirzepatide"
-title: "Tirzepatide Kaufen | ForschungsqualitÃ¤t Dual GIP/GLP-1 Agonist"
+title: "Tirzepatide Kaufen | Forschungsqualität Dual GIP/GLP-1 Agonist"
 primary_keyword: "tirzepatide kaufen"
 search_volume: "3200"
 urlPath: "/de/peptides/tirzepatide-kaufen"
 aliases: ["Mounjaro Peptid", "Dual GIP/GLP-1", "LY3298176"]
 cas: "2023788-19-2"
 molecular_weight: "4813.45 g/mol"
-purity: "â‰¥ 99%"
-storage: "-20Â°C empfohlen (nur fÃ¼r Forschung)"
+purity: "≥ 99%"
+storage: "-20°C empfohlen (nur für Forschung)"
 package_sizes: ["1 Monat Pens"]
 moq: 200
 price: 250
-price_range: "â‚¬250 pro Monat"
+price_range: "€250 pro Monat"
 coa_url: "/coa/tirzepatide.pdf"
-short_description: "Tirzepatide kaufen in Deutschland. Dualer GIP/GLP-1 Rezeptor-Agonist fÃ¼r Gewichtsverlustforschung. â‰¥99% Reinheit verifiziert. Schnelle EU-Lieferung."
+short_description: "Tirzepatide kaufen in Deutschland. Dualer GIP/GLP-1 Rezeptor-Agonist für Gewichtsverlustforschung. ≥99% Reinheit verifiziert. Schnelle EU-Lieferung."
 category: "weight-loss"
 tags: ["research-peptide", "gewichtsverlust", "tirzepatide-kaufen", "peptide-deutschland", "dual-agonist"]
 images: ["/images/products/tirzepatide.png"]
 meta:
   title: "Tirzepatide Kaufen Deutschland | Forschungs-Peptid | Schnelle Lieferung"
-  description: "Tirzepatide kaufen in Deutschland. Premium dualer GIP/GLP-1 Agonist fÃ¼r Gewichtsverlustforschung. â‰¥99% Reinheit, COA inklusive. Schnelle EU-Lieferung."
+  description: "Tirzepatide kaufen in Deutschland. Premium dualer GIP/GLP-1 Agonist für Gewichtsverlustforschung. ≥99% Reinheit, COA inklusive. Schnelle EU-Lieferung."
 faqs:
   - question: "Was unterscheidet Tirzepatide von Semaglutide?"
-    answer: "Tirzepatide ist ein dualer Agonist, der sowohl GIP- als auch GLP-1-Rezeptoren aktiviert, wÃ¤hrend Semaglutide nur den GLP-1-Rezeptor anspricht. Dieser duale Wirkmechanismus bietet Forschern ein einzigartiges Werkzeug zur Untersuchung der synergistischen Effekte der Inkretin-HormonsignalÃ¼bertragung in der Stoffwechselforschung."
-  - question: "WofÃ¼r wird Tirzepatide in der Forschung verwendet?"
-    answer: "Tirzepatide wird hauptsÃ¤chlich in der Stoffwechselforschung verwendet, um duale Inkretin-Rezeptoraktivierung, GlukosehomÃ¶ostase, Insulinsekretion und Gewichtsmanagement-Mechanismen zu untersuchen. Forscher untersuchen, wie die kombinierte GIP/GLP-1-AktivitÃ¤t Appetit, Energieverbrauch und Betazellfunktion beeinflusst."
+    answer: "Tirzepatide ist ein dualer Agonist, der sowohl GIP- als auch GLP-1-Rezeptoren aktiviert, während Semaglutide nur den GLP-1-Rezeptor anspricht. Dieser duale Wirkmechanismus bietet Forschern ein einzigartiges Werkzeug zur Untersuchung der synergistischen Effekte der Inkretin-Hormonsignalübertragung in der Stoffwechselforschung."
+  - question: "Wofür wird Tirzepatide in der Forschung verwendet?"
+    answer: "Tirzepatide wird hauptsächlich in der Stoffwechselforschung verwendet, um duale Inkretin-Rezeptoraktivierung, Glukosehomöostase, Insulinsekretion und Gewichtsmanagement-Mechanismen zu untersuchen. Forscher untersuchen, wie die kombinierte GIP/GLP-1-Aktivität Appetit, Energieverbrauch und Betazellfunktion beeinflusst."
   - question: "Wie sollte Tirzepatide gelagert werden?"
-    answer: "Lyophilisiertes Tirzepatide sollte bei -20Â°C fÃ¼r optimale LangzeitstabilitÃ¤t gelagert werden. Nach der Rekonstitution mit sterilem Wasser oder geeignetem Puffer bei 2-8Â°C lagern und innerhalb von 4 Wochen verwenden. Vermeiden Sie wiederholte Einfrier-Auftau-Zyklen und schÃ¼tzen Sie vor Lichteinwirkung."
+    answer: "Lyophilisiertes Tirzepatide sollte bei -20°C für optimale Langzeitstabilität gelagert werden. Nach der Rekonstitution mit sterilem Wasser oder geeignetem Puffer bei 2-8°C lagern und innerhalb von 4 Wochen verwenden. Vermeiden Sie wiederholte Einfrier-Auftau-Zyklen und schützen Sie vor Lichteinwirkung."
   - question: "Welche Reinheit hat Ihr Tirzepatide?"
-    answer: "Unser Tirzepatide ist â‰¥99% rein, wie durch HPLC-Analyse verifiziert. Jede Charge enthÃ¤lt ein Analysezertifikat (COA) mit Reinheitsdaten, Massenspektrometrie-IdentitÃ¤tsbestÃ¤tigung und Peptidgehaltsanalyse."
+    answer: "Unser Tirzepatide ist ≥99% rein, wie durch HPLC-Analyse verifiziert. Jede Charge enthält ein Analysezertifikat (COA) mit Reinheitsdaten, Massenspektrometrie-Identitätsbestätigung und Peptidgehaltsanalyse."
   - question: "Wie rekonstituiere ich Tirzepatide?"
-    answer: "Rekonstituieren Sie Tirzepatide in sterilem bakteriostatischem Wasser oder einem geeigneten Puffer in Ihrer gewÃ¼nschten Konzentration. FÃ¼gen Sie das LÃ¶sungsmittel langsam entlang der FlÃ¤schchenwand hinzu und schwenken Sie vorsichtig zum AuflÃ¶sen. Vermeiden Sie krÃ¤ftiges SchÃ¼tteln, das das Peptid denaturieren kann."
+    answer: "Rekonstituieren Sie Tirzepatide in sterilem bakteriostatischem Wasser oder einem geeigneten Puffer in Ihrer gewünschten Konzentration. Fügen Sie das Lösungsmittel langsam entlang der Fläschchenwand hinzu und schwenken Sie vorsichtig zum Auflösen. Vermeiden Sie kräftiges Schütteln, das das Peptid denaturieren kann."
   - question: "Ist dies dasselbe wie Mounjaro?"
-    answer: "Nein. Mounjaro ist der Markenname fÃ¼r ein verschreibungspflichtiges Medikament, das Tirzepatide enthÃ¤lt. Unser Produkt ist das reine ForschungsqualitÃ¤ts-Peptid, das ausschlieÃŸlich fÃ¼r Laborforschungszwecke verkauft wird, nicht fÃ¼r den menschlichen Verzehr oder medizinische Behandlung."
+    answer: "Nein. Mounjaro ist der Markenname für ein verschreibungspflichtiges Medikament, das Tirzepatide enthält. Unser Produkt ist das reine Forschungsqualitäts-Peptid, das ausschließlich für Laborforschungszwecke verkauft wird, nicht für den menschlichen Verzehr oder medizinische Behandlung."
   - question: "Wie lang ist die Halbwertszeit von Tirzepatide?"
-    answer: "Tirzepatide hat eine verlÃ¤ngerte Halbwertszeit von etwa 5 Tagen aufgrund seiner C20-FettsÃ¤ure-Diacid-Modifikation, die Albuminbindung ermÃ¶glicht. Diese verlÃ¤ngerte Wirkungsdauer ist wertvoll fÃ¼r die Untersuchung anhaltender dualer Rezeptoraktivierung in Forschungsmodellen."
-  - question: "Welche VerpackungsgrÃ¶ÃŸen sind verfÃ¼gbar?"
-    answer: "Tirzepatide ist in 5mg, 10mg und 15mg FlÃ¤schchen erhÃ¤ltlich. GrÃ¶ÃŸere Mengen sind fÃ¼r institutionelle Forschungsprojekte verfÃ¼gbar - kontaktieren Sie uns fÃ¼r Mengenpreise bei Sonderbestellungen."
+    answer: "Tirzepatide hat eine verlängerte Halbwertszeit von etwa 5 Tagen aufgrund seiner C20-Fettsäure-Diacid-Modifikation, die Albuminbindung ermöglicht. Diese verlängerte Wirkungsdauer ist wertvoll für die Untersuchung anhaltender dualer Rezeptoraktivierung in Forschungsmodellen."
+  - question: "Welche Verpackungsgrößen sind verfügbar?"
+    answer: "Tirzepatide ist in 5mg, 10mg und 15mg Fläschchen erhältlich. Größere Mengen sind für institutionelle Forschungsprojekte verfügbar - kontaktieren Sie uns für Mengenpreise bei Sonderbestellungen."
 reviews:
   - author: "Dr. Klaus Weber"
     rating: 5
     date: "2024-12-18"
-    title: "Hervorragend fÃ¼r Dual-Agonist-Forschung"
+    title: "Hervorragend für Dual-Agonist-Forschung"
     content: "Wir untersuchen GIP/GLP-1-Synergie in unserem Labor und dieses Tirzepatide war perfekt. Die Reinheit entspricht unseren Referenzstandards und die Ergebnisse sind hochgradig reproduzierbar. Schnelle Lieferung nach Deutschland war ein Bonus."
     verified: true
-  - author: "MÃ¼nchen Stoffwechsel-Abteilung"
+  - author: "München Stoffwechsel-Abteilung"
     rating: 5
     date: "2024-12-12"
-    title: "Ãœberlegene QualitÃ¤t Forschungspeptid"
-    content: "Von einem Ãœbersee-Lieferanten zu Best-Peptides gewechselt und der QualitÃ¤tsunterschied ist spÃ¼rbar. Bessere LÃ¶slichkeit, konsistente Ergebnisse und keine ZollverzÃ¶gerungen mehr. Sehr empfehlenswert."
+    title: "Überlegene Qualität Forschungspeptid"
+    content: "Von einem Übersee-Lieferanten zu Best-Peptides gewechselt und der Qualitätsunterschied ist spürbar. Bessere Löslichkeit, konsistente Ergebnisse und keine Zollverzögerungen mehr. Sehr empfehlenswert."
     verified: true
-  - author: "Stefan MÃ¼ller"
+  - author: "Stefan Müller"
     rating: 5
     date: "2024-12-05"
     title: "Premium-Produkt, fairer Preis"
-    content: "Die 10mg FlÃ¤schchen sind perfekt fÃ¼r unsere mittelgroÃŸen Studien. QualitÃ¤t ist auÃŸergewÃ¶hnlich und die COA-Dokumentation ist umfassend. Werden weiterhin bei Best-Peptides bestellen."
+    content: "Die 10mg Fläschchen sind perfekt für unsere mittelgroßen Studien. Qualität ist außergewöhnlich und die COA-Dokumentation ist umfassend. Werden weiterhin bei Best-Peptides bestellen."
     verified: true
   - author: "Berlin Diabetes Forschung"
     rating: 5
     date: "2024-11-28"
-    title: "Konsistente Charge-zu-Charge QualitÃ¤t"
-    content: "Wir fÃ¼hren eine Langzeitstudie durch, die konsistente PeptidqualitÃ¤t erfordert. Best-Peptides hat jedes Mal geliefert. Ihr Tirzepatide verhÃ¤lt sich identisch Ã¼ber Chargen in unseren Glukosetoleranzstudien."
+    title: "Konsistente Charge-zu-Charge Qualität"
+    content: "Wir führen eine Langzeitstudie durch, die konsistente Peptidqualität erfordert. Best-Peptides hat jedes Mal geliefert. Ihr Tirzepatide verhält sich identisch über Chargen in unseren Glukosetoleranzstudien."
     verified: true
   - author: "Dr. Anna Schmidt"
     rating: 4
     date: "2024-11-22"
     title: "Sehr gutes Produkt insgesamt"
-    content: "Ausgezeichnete Reinheit und AktivitÃ¤t. Der einzige Grund fÃ¼r 4 Sterne ist, dass ich gerne eine 2,5mg Option fÃ¼r erste Pilotstudien sehen wÃ¼rde. Die ProduktqualitÃ¤t selbst ist erstklassig."
+    content: "Ausgezeichnete Reinheit und Aktivität. Der einzige Grund für 4 Sterne ist, dass ich gerne eine 2,5mg Option für erste Pilotstudien sehen würde. Die Produktqualität selbst ist erstklassig."
     verified: true
   - author: "Heidelberg Inkretin-Labor"
     rating: 5
     date: "2024-11-15"
-    title: "Beste EU-Quelle fÃ¼r Tirzepatide"
-    content: "Nach dem Testen mehrerer Lieferanten bietet Best-Peptides die beste Kombination aus Reinheit, Preis und Service fÃ¼r Tirzepatide-Forschung. Unverzichtbar fÃ¼r unsere Inkretin-Mechanismus-Studien."
+    title: "Beste EU-Quelle für Tirzepatide"
+    content: "Nach dem Testen mehrerer Lieferanten bietet Best-Peptides die beste Kombination aus Reinheit, Preis und Service für Tirzepatide-Forschung. Unverzichtbar für unsere Inkretin-Mechanismus-Studien."
     verified: true
 ---
 
 ## Was ist Tirzepatide?
 
-**Tirzepatide** ist ein neuartiges synthetisches Peptid, das als dualer Agonist von zwei wichtigen Inkretin-Hormonrezeptoren fungiert: glukoseabhÃ¤ngiges insulinotropes Polypeptid (GIP) und glucagon-Ã¤hnliches Peptid-1 (GLP-1). Dieser einzigartige duale Wirkmechanismus unterscheidet Tirzepatide von Single-Target GLP-1-Rezeptoragonisten wie Semaglutide und macht es zu einem unverzichtbaren Werkzeug fÃ¼r die Stoffwechselforschung.
+**Tirzepatide** ist ein neuartiges synthetisches Peptid, das als dualer Agonist von zwei wichtigen Inkretin-Hormonrezeptoren fungiert: glukoseabhängiges insulinotropes Polypeptid (GIP) und glucagon-ähnliches Peptid-1 (GLP-1). Dieser einzigartige duale Wirkmechanismus unterscheidet Tirzepatide von Single-Target GLP-1-Rezeptoragonisten wie Semaglutide und macht es zu einem unverzichtbaren Werkzeug für die Stoffwechselforschung.
 
-Die Peptidstruktur enthÃ¤lt eine modifizierte GIP-Sequenz mit sorgfÃ¤ltig entwickelten AminosÃ¤uresubstitutionen und einer C20-FettsÃ¤ure-Diacid-Seitenkette, die an Lysin angebracht ist. Diese Modifikation ermÃ¶glicht die Bindung an Serumalbumin, wodurch die biologische Halbwertszeit auf etwa fÃ¼nf Tage verlÃ¤ngert wird und Forscher anhaltende duale Rezeptoraktivierung untersuchen kÃ¶nnen.
+Die Peptidstruktur enthält eine modifizierte GIP-Sequenz mit sorgfältig entwickelten Aminosäuresubstitutionen und einer C20-Fettsäure-Diacid-Seitenkette, die an Lysin angebracht ist. Diese Modifikation ermöglicht die Bindung an Serumalbumin, wodurch die biologische Halbwertszeit auf etwa fünf Tage verlängert wird und Forscher anhaltende duale Rezeptoraktivierung untersuchen können.
 
-Best-Peptides liefert **ForschungsqualitÃ¤t Tirzepatide** mit garantierter â‰¥99% Reinheit, verifiziert durch umfassende HPLC- und Massenspektrometrie-Analyse. Jede Bestellung enthÃ¤lt ein detailliertes Analysezertifikat, um sicherzustellen, dass Forscher ordnungsgemÃ¤ÃŸ charakterisiertes Material fÃ¼r ihre Studien erhalten.
+Best-Peptides liefert **Forschungsqualität Tirzepatide** mit garantierter ≥99% Reinheit, verifiziert durch umfassende HPLC- und Massenspektrometrie-Analyse. Jede Bestellung enthält ein detailliertes Analysezertifikat, um sicherzustellen, dass Forscher ordnungsgemäß charakterisiertes Material für ihre Studien erhalten.
 
 ## Wie funktioniert Tirzepatide?
 
-Tirzepatide Ã¼bt seine biologischen Wirkungen durch gleichzeitige Aktivierung von GIP- und GLP-1-Rezeptoren aus, die beide G-Protein-gekoppelte Rezeptoren sind, die in verschiedenen metabolisch aktiven Geweben exprimiert werden. Dieser duale Agonismus erzeugt synergistische Signaleffekte, die Forscher weiter charakterisieren.
+Tirzepatide übt seine biologischen Wirkungen durch gleichzeitige Aktivierung von GIP- und GLP-1-Rezeptoren aus, die beide G-Protein-gekoppelte Rezeptoren sind, die in verschiedenen metabolisch aktiven Geweben exprimiert werden. Dieser duale Agonismus erzeugt synergistische Signaleffekte, die Forscher weiter charakterisieren.
 
 ### Duale Inkretin-Rezeptor-Aktivierung
 
-Der GIP-Rezeptor wird hauptsÃ¤chlich in pankreatischen Betazellen und Fettgewebe exprimiert, wÃ¤hrend GLP-1-Rezeptoren in Pankreasinseln, Gehirn, Herz und Magen-Darm-Trakt zu finden sind. Durch die gleichzeitige Aktivierung beider Rezeptorsysteme bietet Tirzepatide Forschern ein einzigartiges Werkzeug zur Untersuchung von:
+Der GIP-Rezeptor wird hauptsächlich in pankreatischen Betazellen und Fettgewebe exprimiert, während GLP-1-Rezeptoren in Pankreasinseln, Gehirn, Herz und Magen-Darm-Trakt zu finden sind. Durch die gleichzeitige Aktivierung beider Rezeptorsysteme bietet Tirzepatide Forschern ein einzigartiges Werkzeug zur Untersuchung von:
 
-- **Synergistische Insulinsekretion** - Kombinierte GIP- und GLP-1-SignalÃ¼bertragung verstÃ¤rkt die glukoseabhÃ¤ngige Insulinfreisetzung Ã¼ber das hinaus, was jedes Hormon allein erreicht
-- **Verbesserte metabolische Effekte** - Duale Aktivierung kann die InsulinsensitivitÃ¤t durch Mechanismen verbessern, die sich von Einzelagonisten-Peptiden unterscheiden
-- **Verbesserte Gewichtsergebnisse** - Forschung legt nahe, dass der duale Mechanismus Ã¼berlegene Gewichtsverlusteffekte im Vergleich zu GLP-1-Monoagonisten bieten kann
+- **Synergistische Insulinsekretion** - Kombinierte GIP- und GLP-1-Signalübertragung verstärkt die glukoseabhängige Insulinfreisetzung über das hinaus, was jedes Hormon allein erreicht
+- **Verbesserte metabolische Effekte** - Duale Aktivierung kann die Insulinsensitivität durch Mechanismen verbessern, die sich von Einzelagonisten-Peptiden unterscheiden
+- **Verbesserte Gewichtsergebnisse** - Forschung legt nahe, dass der duale Mechanismus überlegene Gewichtsverlusteffekte im Vergleich zu GLP-1-Monoagonisten bieten kann
 
 ## Forschungsanwendungen von Tirzepatide
 
 ### Vergleichende Inkretin-Forschung
 
-Tirzepatide ermÃ¶glicht entscheidende Vergleichsstudien zwischen:
+Tirzepatide ermöglicht entscheidende Vergleichsstudien zwischen:
 
 - Einzelne GLP-1-Rezeptoragonisten vs. dualer GIP/GLP-1 Agonismus
 - GIP-Rezeptor-spezifische Effekte in der metabolischen Regulation
-- RezeptorselektivitÃ¤tsprofile und ihre physiologischen Konsequenzen
+- Rezeptorselektivitätsprofile und ihre physiologischen Konsequenzen
 
 ### Metabolisches Syndrom Studien
 
-Der duale Agonist ist wertvoll fÃ¼r die Untersuchung von:
+Der duale Agonist ist wertvoll für die Untersuchung von:
 
-- **Multi-Organ metabolische Koordination** - Verstehen, wie duale Inkretin-SignalÃ¼bertragung den GesamtkÃ¶rperstoffwechsel beeinflusst
-- **Insulinresistenz-Mechanismen** - Untersuchung potenzieller Verbesserungen der peripheren InsulinsensitivitÃ¤t
+- **Multi-Organ metabolische Koordination** - Verstehen, wie duale Inkretin-Signalübertragung den Gesamtkörperstoffwechsel beeinflusst
+- **Insulinresistenz-Mechanismen** - Untersuchung potenzieller Verbesserungen der peripheren Insulinsensitivität
 - **Hepatische Glukoseproduktion** - Untersuchung der Auswirkungen auf den Leberstoffwechsel
 
 ## Tirzepatide vs Semaglutide: Wichtige Forschungsunterschiede
@@ -123,7 +123,7 @@ Der duale Agonist ist wertvoll fÃ¼r die Untersuchung von:
 | **Rezeptor-Ziele** | GIP + GLP-1 (dual) | Nur GLP-1 |
 | **Halbwertszeit** | ~5 Tage | ~7 Tage |
 | **Molekulargewicht** | 4813.45 g/mol | 4113.58 g/mol |
-| **FettsÃ¤ure-Modifikation** | C20 Diacid | C18 Diacid |
+| **Fettsäure-Modifikation** | C20 Diacid | C18 Diacid |
 | **Forschungsfokus** | Duale Inkretin-Synergie | GLP-1 spezifische Mechanismen |
 
 ## Tirzepatide Peptid Spezifikationen
@@ -131,32 +131,32 @@ Der duale Agonist ist wertvoll fÃ¼r die Untersuchung von:
 | Spezifikation | Detail |
 |--------------|--------|
 | **CAS-Nummer** | 2023788-19-2 |
-| **Molekularformel** | Câ‚‚â‚‚â‚…Hâ‚ƒâ‚„â‚ˆNâ‚„â‚ˆOâ‚†â‚ˆ |
+| **Molekularformel** | C₂₂₅H₃₄₈N₄₈O₆₈ |
 | **Molekulargewicht** | 4813.45 g/mol |
-| **Reinheit** | â‰¥99% (HPLC) |
-| **Aussehen** | WeiÃŸes bis cremefarbenes lyophilisiertes Pulver |
-| **LÃ¶slichkeit** | LÃ¶slich in Wasser; kann sanftes ErwÃ¤rmen erfordern |
-| **IdentitÃ¤t** | BestÃ¤tigt durch Massenspektrometrie |
+| **Reinheit** | ≥99% (HPLC) |
+| **Aussehen** | Weißes bis cremefarbenes lyophilisiertes Pulver |
+| **Löslichkeit** | Löslich in Wasser; kann sanftes Erwärmen erfordern |
+| **Identität** | Bestätigt durch Massenspektrometrie |
 
-## Warum Best-Peptides fÃ¼r Tirzepatide wÃ¤hlen?
+## Warum Best-Peptides für Tirzepatide wählen?
 
 ### Verifizierte Reinheit
 
-Unser Tirzepatide durchlÃ¤uft strenge QualitÃ¤tsprÃ¼fungen mit â‰¥99% Reinheit, verifiziert durch HPLC. Massenspektrometrie bestÃ¤tigt die IdentitÃ¤t, und umfassende COAs begleiten jede Bestellung.
+Unser Tirzepatide durchläuft strenge Qualitätsprüfungen mit ≥99% Reinheit, verifiziert durch HPLC. Massenspektrometrie bestätigt die Identität, und umfassende COAs begleiten jede Bestellung.
 
 ### EU-basierte Lieferung
 
-- **Schnelle EU-Lieferung** - Keine ZollverzÃ¶gerungen oder Importkomplikationen
-- **Express-Option verfÃ¼gbar** - FÃ¼r dringende Forschungsanforderungen
-- **Temperaturkontrollierter Versand** - ErhÃ¤lt Peptid-IntegritÃ¤t
+- **Schnelle EU-Lieferung** - Keine Zollverzögerungen oder Importkomplikationen
+- **Express-Option verfügbar** - Für dringende Forschungsanforderungen
+- **Temperaturkontrollierter Versand** - Erhält Peptid-Integrität
 - **Diskrete, professionelle Verpackung** - Alle Bestellungen sicher versendet
 
 ## Bestellung
 
-**Mindestbestellung: â‚¬200** | **10% Rabatt auf Bestellungen Ã¼ber â‚¬200**
+**Mindestbestellung: €200** | **10% Rabatt auf Bestellungen über €200**
 
-WÃ¤hlen Sie oben Ihre VerpackungsgrÃ¶ÃŸe, um sie in den Warenkorb zu legen.
+Wählen Sie oben Ihre Verpackungsgröße, um sie in den Warenkorb zu legen.
 
-## ForschungserklÃ¤rung
+## Forschungserklärung
 
-**Dieses Produkt wird ausschlieÃŸlich fÃ¼r Laborforschungszwecke verkauft.** Tirzepatide von Best-Peptides ist nicht fÃ¼r den menschlichen oder veterinÃ¤rmedizinischen Gebrauch bestimmt.
+**Dieses Produkt wird ausschließlich für Laborforschungszwecke verkauft.** Tirzepatide von Best-Peptides ist nicht für den menschlichen oder veterinärmedizinischen Gebrauch bestimmt.

@@ -8,29 +8,29 @@ urlPath: "/peptides/buy-retatrutide"
 aliases: ["LY3437943", "Triple G", "GGG Agonist"]
 cas: "2381089-83-2"
 molecular_weight: "4156.48 g/mol"
-purity: "â‰¥ 99%"
-storage: "-20Â°C recommended (research-only)"
-package_sizes: ["10 Ã— 5 mg vials"]
+purity: "≥ 99%"
+storage: "-20°C recommended (research-only)"
+package_sizes: ["10 × 5 mg vials"]
 moq: 200
 price: 1800
-price_range: "Â£1800 per pack"
+price_range: "£1800 per pack"
 coa_url: "/coa/retatrutide.pdf"
-short_description: "Buy Retatrutide UK. Triple GLP-1/GIP/Glucagon agonist for metabolic research. â‰¥99% purity. Fast UK delivery."
+short_description: "Buy Retatrutide UK. Triple GLP-1/GIP/Glucagon agonist for metabolic research. ≥99% purity. Fast UK delivery."
 category: "weight-loss"
 tags: ["research-peptide", "triple-agonist", "retatrutide-uk", "buy-peptides-uk", "weight-loss"]
 images: ["/images/products/retatrutide.png"]
 meta:
   title: "Buy Retatrutide UK | Triple Agonist Peptide | Fast Delivery"
-  description: "Buy Retatrutide UK. Premium triple GLP-1/GIP/Glucagon agonist for weight loss research. â‰¥99% purity, COA included."
+  description: "Buy Retatrutide UK. Premium triple GLP-1/GIP/Glucagon agonist for weight loss research. ≥99% purity, COA included."
 faqs:
   - question: "What makes Retatrutide unique compared to other incretin peptides?"
     answer: "Retatrutide is a triple agonist that activates GLP-1, GIP, and glucagon receptors simultaneously. This distinguishes it from dual agonists like tirzepatide (GIP/GLP-1) and mono-agonists like semaglutide (GLP-1 only), providing researchers a novel tool for studying multi-receptor metabolic effects."
   - question: "What is Retatrutide used for in research?"
     answer: "Retatrutide is used in metabolic research to study triple receptor activation effects on glucose homeostasis, weight management, energy expenditure, hepatic lipid metabolism, and appetite regulation. The glucagon component adds unique thermogenic and lipolytic research applications."
   - question: "How should Retatrutide be stored?"
-    answer: "Store lyophilised Retatrutide at -20Â°C for optimal stability. Once reconstituted, keep at 2-8Â°C and use within 3-4 weeks. Avoid repeated freeze-thaw cycles and protect from light exposure."
+    answer: "Store lyophilised Retatrutide at -20°C for optimal stability. Once reconstituted, keep at 2-8°C and use within 3-4 weeks. Avoid repeated freeze-thaw cycles and protect from light exposure."
   - question: "What purity is your Retatrutide?"
-    answer: "Our Retatrutide is â‰¥99% pure as verified by HPLC analysis. Each batch includes a Certificate of Analysis with purity data, mass spectrometry identity confirmation, and peptide content analysis."
+    answer: "Our Retatrutide is ≥99% pure as verified by HPLC analysis. Each batch includes a Certificate of Analysis with purity data, mass spectrometry identity confirmation, and peptide content analysis."
   - question: "How does the glucagon component contribute to research?"
     answer: "The glucagon receptor agonism provides unique research opportunities in studying hepatic glucose production, thermogenesis, lipolysis, and energy expenditure mechanisms not achievable with GLP-1/GIP dual agonists alone."
   - question: "What is the half-life of Retatrutide?"
@@ -138,7 +138,7 @@ reviews:
 
 The peptide represents the next evolution beyond dual agonists like tirzepatide, adding glucagon receptor activation to the established GLP-1/GIP dual agonism. This triple receptor engagement enables researchers to study the complex interplay between these metabolic signalling systems and their combined effects on glucose homeostasis, energy expenditure, and body weight regulation.
 
-Best-Peptides supplies **research-grade Retatrutide** with guaranteed â‰¥99% purity, verified through comprehensive HPLC and mass spectrometry analysis. Each order includes a detailed Certificate of Analysis, ensuring researchers receive properly characterised material for their studies.
+Best-Peptides supplies **research-grade Retatrutide** with guaranteed ≥99% purity, verified through comprehensive HPLC and mass spectrometry analysis. Each order includes a detailed Certificate of Analysis, ensuring researchers receive properly characterised material for their studies.
 
 ## How Does Retatrutide Work?
 
@@ -213,7 +213,7 @@ The thermogenic component opens unique research directions:
 |--------------|--------|
 | **CAS Number** | 2381089-83-2 |
 | **Molecular Weight** | 4156.48 g/mol |
-| **Purity** | â‰¥99% (HPLC) |
+| **Purity** | ≥99% (HPLC) |
 | **Appearance** | White to off-white lyophilised powder |
 | **Solubility** | Soluble in water; alkaline buffer recommended |
 | **Identity** | Confirmed by mass spectrometry |
@@ -231,14 +231,14 @@ The thermogenic component opens unique research directions:
 
 | Condition | Temperature | Duration |
 |-----------|-------------|----------|
-| **Lyophilised** | -20Â°C | Up to 24 months |
-| **Reconstituted** | 2-8Â°C | Up to 3-4 weeks |
-| **Frozen aliquots** | -20Â°C | Up to 3 months |
+| **Lyophilised** | -20°C | Up to 24 months |
+| **Reconstituted** | 2-8°C | Up to 3-4 weeks |
+| **Frozen aliquots** | -20°C | Up to 3 months |
 
 ## Why Choose Best-Peptides for Retatrutide?
 
 ### Guaranteed Purity
-- â‰¥99% purity by HPLC
+- ≥99% purity by HPLC
 - Mass spectrometry identity confirmation
 - Comprehensive COA documentation
 
@@ -256,7 +256,7 @@ The thermogenic component opens unique research directions:
 | **5 mg** | Pilot studies |
 | **10 mg** | Standard research projects |
 
-**Minimum order: Â£200** | **10% discount on orders over Â£200**
+**Minimum order: £200** | **10% discount on orders over £200**
 
 ## Research Use Statement
 

@@ -45,7 +45,7 @@ copy:
         - question: "What does HPLC purity mean?"
           answer: "HPLC (High-Performance Liquid Chromatography) purity indicates the percentage of the target peptide in the sample. A 98% HPLC purity means that 98% of the sample consists of the intended peptide, with minimal impurities or degradation products."
         - question: "Are your peptides pharmaceutical grade?"
-          answer: "Our peptides are research-grade with pharmaceutical-level purity (â‰¥98%). They are synthesized using the same methods as pharmaceutical peptides but are intended for research purposes only, not therapeutic use."
+          answer: "Our peptides are research-grade with pharmaceutical-level purity (≥98%). They are synthesized using the same methods as pharmaceutical peptides but are intended for research purposes only, not therapeutic use."
         - question: "How do you ensure batch-to-batch consistency?"
           answer: "We work with ISO-certified manufacturers who follow strict GMP-like protocols. Each batch is independently tested, and we maintain detailed records to ensure consistent quality across all production runs."
     - name: "Ordering & Payment"

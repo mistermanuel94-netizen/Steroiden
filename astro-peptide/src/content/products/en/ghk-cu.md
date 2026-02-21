@@ -8,20 +8,20 @@ urlPath: "/peptides/buy-ghk-cu"
 aliases: ["Copper Peptide", "GHK Copper", "Tripeptide-1"]
 cas: "49557-75-7"
 molecular_weight: "403.9 g/mol"
-purity: "â‰¥ 99%"
-storage: "-20Â°C recommended (research-only)"
+purity: "≥ 99%"
+storage: "-20°C recommended (research-only)"
 package_sizes: ["500 mg powder"]
 moq: 200
 price: 200
-price_range: "Â£200 per unit"
+price_range: "£200 per unit"
 coa_url: "/coa/ghk-cu.pdf"
-short_description: "Buy GHK-Cu UK. Copper peptide for skin and tissue research. â‰¥99% purity. Fast UK delivery."
+short_description: "Buy GHK-Cu UK. Copper peptide for skin and tissue research. ≥99% purity. Fast UK delivery."
 category: "muscle-recovery"
 tags: ["research-peptide", "ghk-cu-uk", "copper-peptide", "buy-peptides-uk", "skin", "collagen"]
 images: ["/images/products/ghk-cu.png"]
 meta:
   title: "Buy GHK-Cu UK | Copper Peptide | Fast Delivery"
-  description: "Buy GHK-Cu UK. Premium copper peptide for research. â‰¥99% purity, COA included. Fast UK delivery."
+  description: "Buy GHK-Cu UK. Premium copper peptide for research. ≥99% purity, COA included. Fast UK delivery."
 faqs:
   - question: "What is GHK-Cu used for in research?"
     answer: "GHK-Cu is studied for wound healing, skin regeneration, collagen synthesis, and anti-inflammatory effects. It's a naturally occurring tripeptide with copper binding."
@@ -30,9 +30,9 @@ faqs:
   - question: "What is the origin of GHK-Cu?"
     answer: "GHK is a naturally occurring tripeptide found in human plasma, saliva, and urine. Levels decline with age, which has generated interest in its regenerative properties."
   - question: "How should GHK-Cu be stored?"
-    answer: "Store lyophilised GHK-Cu at -20Â°C. Reconstituted solutions should be kept at 2-8Â°C and used within 4 weeks."
+    answer: "Store lyophilised GHK-Cu at -20°C. Reconstituted solutions should be kept at 2-8°C and used within 4 weeks."
   - question: "What purity is your GHK-Cu?"
-    answer: "Our GHK-Cu is â‰¥99% pure as verified by HPLC. Each batch includes a Certificate of Analysis."
+    answer: "Our GHK-Cu is ≥99% pure as verified by HPLC. Each batch includes a Certificate of Analysis."
   - question: "Can GHK-Cu affect gene expression?"
     answer: "Research suggests GHK-Cu influences expression of numerous genes related to tissue repair, antioxidant activity, and collagen production."
   - question: "How do I reconstitute GHK-Cu?"
@@ -120,7 +120,7 @@ reviews:
 
 Research interest in GHK-Cu stems from its remarkable effects on tissue regeneration, wound healing, and gene expression modulation. Studies suggest it influences over 4,000 genes related to tissue repair and regeneration.
 
-Best-Peptides supplies **research-grade GHK-Cu** with guaranteed â‰¥99% purity.
+Best-Peptides supplies **research-grade GHK-Cu** with guaranteed ≥99% purity.
 
 ## How Does GHK-Cu Work?
 
@@ -159,7 +159,7 @@ Best-Peptides supplies **research-grade GHK-Cu** with guaranteed â‰¥99% puri
 | **CAS Number** | 49557-75-7 |
 | **Molecular Weight** | 403.9 g/mol |
 | **Copper Content** | ~15.6% |
-| **Purity** | â‰¥99% (HPLC) |
+| **Purity** | ≥99% (HPLC) |
 | **Appearance** | Blue powder |
 | **Solubility** | Highly soluble in water |
 
@@ -167,18 +167,18 @@ Best-Peptides supplies **research-grade GHK-Cu** with guaranteed â‰¥99% puri
 
 | Condition | Temperature | Duration |
 |-----------|-------------|----------|
-| **Lyophilised** | -20Â°C | Up to 24 months |
-| **Reconstituted** | 2-8Â°C | Up to 4 weeks |
+| **Lyophilised** | -20°C | Up to 24 months |
+| **Reconstituted** | 2-8°C | Up to 4 weeks |
 
 ## Ordering Information
 
 | Size | Price |
 |------|-------|
-| **50 mg** | From Â£28 |
-| **100 mg** | From Â£50 |
-| **500 mg** | From Â£120 |
+| **50 mg** | From £28 |
+| **100 mg** | From £50 |
+| **500 mg** | From £120 |
 
-**Minimum order: Â£200** | **10% discount on orders over Â£200**
+**Minimum order: £200** | **10% discount on orders over £200**
 
 ## Research Use Statement
 

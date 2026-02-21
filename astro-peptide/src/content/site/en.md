@@ -5,7 +5,7 @@ telegram: "@Nebelzee"
 country: "United Kingdom"
 countryCode: "GB"
 currency: "GBP"
-currencySymbol: "Â£"
+currencySymbol: "£"
 seo:
   homeName: "Buy Peptides UK | Best Place to Buy Research Peptides Online"
   homeDescription: "Buy peptides UK - best place to buy high-purity research peptides online. Semaglutide, BPC-157, Tirzepatide, Retatrutide & more. 99% HPLC purity, fast UK delivery, COA included. Trusted by 5000+ researchers."

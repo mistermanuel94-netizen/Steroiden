@@ -5,7 +5,7 @@ telegram: "@Nebelzee"
 country: "Italia"
 countryCode: "IT"
 currency: "EUR"
-currencySymbol: "â‚¬"
+currencySymbol: "€"
 seo:
   homeName: "Acquistare Peptidi Italia | BPC 157, Semaglutide & Altro"
   homeDescription: "Acquistare peptidi Italia - Peptidi di ricerca premium con purezza HPLC del 99%. BPC 157, Semaglutide, Tirzepatide, Collagene & altro. Consegna veloce, COA incluso. Peptidi acquisto online."

@@ -68,7 +68,7 @@ The newest addition to the GLP-1 research arsenal, Retatrutide is a triple agoni
 
 When purchasing research peptides, quality is paramount. At Best-Peptides, we ensure:
 
-- **â‰¥99% HPLC Purity**: Every batch tested and verified
+- **≥99% HPLC Purity**: Every batch tested and verified
 - **Certificate of Analysis**: Full documentation included
 - **Proper Storage**: Shipped in temperature-controlled packaging
 - **Fast UK Delivery**: Same-day dispatch before 2pm
@@ -78,7 +78,7 @@ When purchasing research peptides, quality is paramount. At Best-Peptides, we en
 When designing research protocols with GLP-1 agonists, consider:
 
 1. **Reconstitution**: Use bacteriostatic water for multi-use applications
-2. **Storage**: Keep reconstituted peptides at 2-8Â°C
+2. **Storage**: Keep reconstituted peptides at 2-8°C
 3. **Stability**: Most GLP-1 analogs remain stable for 4-6 weeks when reconstituted
 4. **Documentation**: Maintain detailed logs for reproducibility
 

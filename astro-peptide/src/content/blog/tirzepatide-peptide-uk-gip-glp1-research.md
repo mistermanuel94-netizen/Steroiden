@@ -44,7 +44,7 @@ Tirzepatide is a 39-amino acid synthetic peptide with specific modifications:
 | Amino Acids | 39 |
 | Molecular Weight | 4813.5 Da |
 | Modifications | C20 fatty diacid moiety |
-| Purity | â‰¥99% HPLC |
+| Purity | ≥99% HPLC |
 | Form | Lyophilised powder |
 
 ### Sequence Characteristics
@@ -86,11 +86,11 @@ Tirzepatide acts on two key incretin receptors:
 
 Tirzepatide is studied extensively for:
 
-- âœ… Glucose homeostasis
-- âœ… Insulin signalling pathways
-- âœ… Incretin biology
-- âœ… Adipocyte metabolism
-- âœ… Energy expenditure
+- ✅ Glucose homeostasis
+- ✅ Insulin signalling pathways
+- ✅ Incretin biology
+- ✅ Adipocyte metabolism
+- ✅ Energy expenditure
 
 ### Receptor Binding Studies
 
@@ -117,13 +117,13 @@ Tirzepatide enables comparison with:
 
 | Condition | Recommendation |
 |-----------|----------------|
-| Temperature | -20Â°C to -80Â°C |
+| Temperature | -20°C to -80°C |
 | Light | Protection required |
 | Humidity | Dry storage |
 | Stability | 24+ months |
 
 **Reconstituted Form:**
-- Store at 2-8Â°C
+- Store at 2-8°C
 - Use within 2-4 weeks
 - Protect from light
 
@@ -160,12 +160,12 @@ Step 6: Aliquot to minimise freeze-thaw cycles
 
 ### Readout Methods
 
-- âœ… cAMP ELISA/luminescence
-- âœ… Insulin ELISA
-- âœ… Gene expression (qPCR)
-- âœ… Receptor internalisation
-- âœ… Î²-arrestin recruitment
-- âœ… Calcium flux
+- ✅ cAMP ELISA/luminescence
+- ✅ Insulin ELISA
+- ✅ Gene expression (qPCR)
+- ✅ Receptor internalisation
+- ✅ β-arrestin recruitment
+- ✅ Calcium flux
 
 ## Quality Control
 
@@ -173,7 +173,7 @@ Step 6: Aliquot to minimise freeze-thaw cycles
 
 When sourcing Tirzepatide for research:
 
-1. **HPLC Purity**: â‰¥99%
+1. **HPLC Purity**: ≥99%
 2. **Mass Spectrometry**: Correct molecular weight
 3. **Amino Acid Analysis**: Sequence verification
 4. **Endotoxin Testing**: <0.1 EU/mg
@@ -212,10 +212,10 @@ Recommended controls include:
 
 | Condition | Stability |
 |-----------|-----------|
-| -80Â°C lyophilised | >24 months |
-| -20Â°C lyophilised | 18-24 months |
-| 4Â°C reconstituted | 2-4 weeks |
-| 25Â°C | Avoid |
+| -80°C lyophilised | >24 months |
+| -20°C lyophilised | 18-24 months |
+| 4°C reconstituted | 2-4 weeks |
+| 25°C | Avoid |
 
 ### Degradation Pathways
 
@@ -236,7 +236,7 @@ Concentrations depend on your assay. Receptor binding studies typically use 0.1-
 
 ### How stable is reconstituted Tirzepatide?
 
-At 2-8Â°C, reconstituted Tirzepatide remains stable for approximately 2-4 weeks. For longer storage, aliquot and freeze at -20Â°C.
+At 2-8°C, reconstituted Tirzepatide remains stable for approximately 2-4 weeks. For longer storage, aliquot and freeze at -20°C.
 
 ## Conclusion
 

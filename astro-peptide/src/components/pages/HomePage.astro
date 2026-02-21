@@ -2411,7 +2411,7 @@ const homeSchema = {
         {testimonials.map(testimonial => (
           <div class="col-lg-4">
             <div class="testimonial-card">
-              <div class="star-rating mb-3">{'â˜…'.repeat(testimonial.rating)}</div>
+              <div class="star-rating mb-3">{'★'.repeat(testimonial.rating)}</div>
               <p style="font-size: 1rem; line-height: 1.7; color: #374151; margin-bottom: 20px; font-style: italic;">
                 "{testimonial.text}"
               </p>
@@ -2643,7 +2643,7 @@ const homeSchema = {
             <input type="email" class="cta-input" placeholder={t('home.cta.placeholder')}>
             <button type="submit" class="cta-button">{t('home.cta.button')}</button>
           </form>
-          <p class="cta-privacy">ðŸ”’ We respect your privacy. Unsubscribe anytime.</p>
+          <p class="cta-privacy">🔒 We respect your privacy. Unsubscribe anytime.</p>
         </div>
         <div class="cta-decoration">
           <div class="cta-circle cta-circle-1"></div>

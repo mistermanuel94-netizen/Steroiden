@@ -1,136 +1,136 @@
 ---
 lang: "es"
 id: "peptide-melanotan-2"
-title: "Melanotan 2 Comprar | PÃ©ptido de Bronceado MT-2"
+title: "Melanotan 2 Comprar | Péptido de Bronceado MT-2"
 primary_keyword: "melanotan 2 comprar"
 search_volume: "1500"
 urlPath: "/es/peptides/melanotan-2-comprar"
 aliases: ["MT-II", "MT2", "Melanotan II"]
 cas: "121062-08-6"
 molecular_weight: "1024.2 g/mol"
-purity: "â‰¥ 99%"
-storage: "-20Â°C recomendado (solo investigaciÃ³n)"
-package_sizes: ["10 Ã— 10 mg viales"]
+purity: "≥ 99%"
+storage: "-20°C recomendado (solo investigación)"
+package_sizes: ["10 × 10 mg viales"]
 moq: 200
 price: 270
-price_range: "â‚¬270 por paquete"
+price_range: "€270 por paquete"
 coa_url: "/coa/peptide-mt2.pdf"
-short_description: "Compre Melanotan 2. PÃ©ptido de bronceado MT-2 premium para investigaciÃ³n de melanogÃ©nesis. â‰¥99% pureza. EnvÃ­o rÃ¡pido UE."
+short_description: "Compre Melanotan 2. Péptido de bronceado MT-2 premium para investigación de melanogénesis. ≥99% pureza. Envío rápido UE."
 category: "tanning"
-tags: ["pÃ©ptido-investigaciÃ³n", "melanotan-espaÃ±a", "pÃ©ptido-bronceado", "comprar-pÃ©ptidos", "mt2"]
+tags: ["péptido-investigación", "melanotan-españa", "péptido-bronceado", "comprar-péptidos", "mt2"]
 images: ["/images/products/melanotan-2.png"]
 meta:
-  title: "Melanotan 2 Comprar | PÃ©ptido MT-2 | EnvÃ­o RÃ¡pido"
-  description: "Compre Melanotan 2. PÃ©ptido de bronceado MT-2 premium para investigaciÃ³n. â‰¥99% pureza, COA incluido. EnvÃ­o rÃ¡pido UE."
+  title: "Melanotan 2 Comprar | Péptido MT-2 | Envío Rápido"
+  description: "Compre Melanotan 2. Péptido de bronceado MT-2 premium para investigación. ≥99% pureza, COA incluido. Envío rápido UE."
 faqs:
-  - question: "Â¿Para quÃ© se utiliza Melanotan 2 en investigaciÃ³n?"
-    answer: "Melanotan 2 se utiliza principalmente en investigaciÃ³n de receptores de melanocortina, estudiando melanogÃ©nesis (pigmentaciÃ³n de la piel), regulaciÃ³n del apetito, funciÃ³n sexual y homeostasis energÃ©tica."
-  - question: "Â¿CuÃ¡l es la diferencia entre Melanotan 1 y Melanotan 2?"
-    answer: "Melanotan 1 (afamelanotida) es un pÃ©ptido lineal que apunta selectivamente a los receptores MC1 para investigaciÃ³n de pigmentaciÃ³n. Melanotan 2 es un pÃ©ptido cÃ­clico que activa de forma no selectiva mÃºltiples receptores de melanocortina."
-  - question: "Â¿CÃ³mo debe almacenarse Melanotan 2?"
-    answer: "Almacene Melanotan 2 liofilizado a -20Â°C para estabilidad a largo plazo. Una vez reconstituido, mantenga a 2-8Â°C y use dentro de 4 semanas."
-  - question: "Â¿CuÃ¡l es la pureza de su Melanotan 2?"
-    answer: "Nuestro Melanotan 2 es â‰¥99% puro segÃºn verificaciÃ³n por anÃ¡lisis HPLC. Cada lote incluye un Certificado de AnÃ¡lisis con datos de pureza."
-  - question: "Â¿CÃ³mo reconstituyo Melanotan 2?"
-    answer: "Reconstituya Melanotan 2 en agua bacteriostÃ¡tica estÃ©ril. AÃ±ada el solvente lentamente a lo largo de la pared del vial y agite suavemente."
-  - question: "Â¿QuÃ© son los receptores de melanocortina?"
-    answer: "Los receptores de melanocortina (MC1R-MC5R) son receptores acoplados a proteÃ­nas G que regulan diversos procesos fisiolÃ³gicos, incluyendo pigmentaciÃ³n, apetito y funciÃ³n sexual."
+  - question: "¿Para qué se utiliza Melanotan 2 en investigación?"
+    answer: "Melanotan 2 se utiliza principalmente en investigación de receptores de melanocortina, estudiando melanogénesis (pigmentación de la piel), regulación del apetito, función sexual y homeostasis energética."
+  - question: "¿Cuál es la diferencia entre Melanotan 1 y Melanotan 2?"
+    answer: "Melanotan 1 (afamelanotida) es un péptido lineal que apunta selectivamente a los receptores MC1 para investigación de pigmentación. Melanotan 2 es un péptido cíclico que activa de forma no selectiva múltiples receptores de melanocortina."
+  - question: "¿Cómo debe almacenarse Melanotan 2?"
+    answer: "Almacene Melanotan 2 liofilizado a -20°C para estabilidad a largo plazo. Una vez reconstituido, mantenga a 2-8°C y use dentro de 4 semanas."
+  - question: "¿Cuál es la pureza de su Melanotan 2?"
+    answer: "Nuestro Melanotan 2 es ≥99% puro según verificación por análisis HPLC. Cada lote incluye un Certificado de Análisis con datos de pureza."
+  - question: "¿Cómo reconstituyo Melanotan 2?"
+    answer: "Reconstituya Melanotan 2 en agua bacteriostática estéril. Añada el solvente lentamente a lo largo de la pared del vial y agite suavemente."
+  - question: "¿Qué son los receptores de melanocortina?"
+    answer: "Los receptores de melanocortina (MC1R-MC5R) son receptores acoplados a proteínas G que regulan diversos procesos fisiológicos, incluyendo pigmentación, apetito y función sexual."
 reviews:
-  - author: "Dr. Carlos RodrÃ­guez"
+  - author: "Dr. Carlos Rodríguez"
     rating: 5
     date: "2024-12-18"
-    title: "Excelente para investigaciÃ³n de melanocortina"
-    content: "Nuestros estudios de pigmentaciÃ³n requieren MT-2 de alta calidad. Best-Peptides entrega consistentemente - excelente pureza y envÃ­o rÃ¡pido."
+    title: "Excelente para investigación de melanocortina"
+    content: "Nuestros estudios de pigmentación requieren MT-2 de alta calidad. Best-Peptides entrega consistentemente - excelente pureza y envío rápido."
     verified: true
-  - author: "Laboratorio DermatologÃ­a Madrid"
+  - author: "Laboratorio Dermatología Madrid"
     rating: 5
     date: "2024-12-11"
     title: "Calidad premium MT-2"
-    content: "Hemos probado varios proveedores y Best-Peptides ofrece el mejor Melanotan 2 en tÃ©rminos de pureza y valor."
+    content: "Hemos probado varios proveedores y Best-Peptides ofrece el mejor Melanotan 2 en términos de pureza y valor."
     verified: true
-  - author: "Miguel FernÃ¡ndez"
+  - author: "Miguel Fernández"
     rating: 5
     date: "2024-12-05"
-    title: "EnvÃ­o rÃ¡pido, gran producto"
-    content: "Pedido el lunes, recibido el miÃ©rcoles. La calidad del producto es excelente."
+    title: "Envío rápido, gran producto"
+    content: "Pedido el lunes, recibido el miércoles. La calidad del producto es excelente."
     verified: true
   - author: "Estudios Melanocitos Barcelona"
     rating: 5
     date: "2024-11-28"
-    title: "Proveedor de investigaciÃ³n confiable"
-    content: "Pedimos MT-2 desde hace mÃ¡s de un aÃ±o. La calidad constante lote tras lote es crucial para nuestra investigaciÃ³n a largo plazo."
+    title: "Proveedor de investigación confiable"
+    content: "Pedimos MT-2 desde hace más de un año. La calidad constante lote tras lote es crucial para nuestra investigación a largo plazo."
     verified: true
-  - author: "Dra. Ana GarcÃ­a"
+  - author: "Dra. Ana García"
     rating: 5
     date: "2024-11-22"
     title: "Pureza excepcional"
-    content: "AnÃ¡lisis HPLC independiente realizado - la pureza supera el 99% como se indica. Perfecto para nuestra investigaciÃ³n de vÃ­a de melanogÃ©nesis."
+    content: "Análisis HPLC independiente realizado - la pureza supera el 99% como se indica. Perfecto para nuestra investigación de vía de melanogénesis."
     verified: true
-  - author: "InvestigaciÃ³n CutÃ¡nea Valencia"
+  - author: "Investigación Cutánea Valencia"
     rating: 5
     date: "2024-11-15"
     title: "Mejor fuente para MT-2"
-    content: "DespuÃ©s de probar varios proveedores, Best-Peptides ofrece la mejor combinaciÃ³n de calidad, precio y servicio."
+    content: "Después de probar varios proveedores, Best-Peptides ofrece la mejor combinación de calidad, precio y servicio."
     verified: true
 ---
 
-## Â¿QuÃ© es Melanotan 2?
+## ¿Qué es Melanotan 2?
 
-**Melanotan 2** (MT-2) es un pÃ©ptido cÃ­clico sintÃ©tico anÃ¡logo de la hormona estimulante de melanocitos Î± (Î±-MSH). Este pÃ©ptido de investigaciÃ³n es un agonista no selectivo de receptores de melanocortina y se utiliza ampliamente en investigaciÃ³n dermatolÃ³gica y endocrinolÃ³gica.
+**Melanotan 2** (MT-2) es un péptido cíclico sintético análogo de la hormona estimulante de melanocitos α (α-MSH). Este péptido de investigación es un agonista no selectivo de receptores de melanocortina y se utiliza ampliamente en investigación dermatológica y endocrinológica.
 
-MT-2 se une a mÃºltiples subtipos de receptores de melanocortina (MC1R, MC3R, MC4R y MC5R), lo que lo convierte en una herramienta versÃ¡til para estudiar diversos sistemas fisiolÃ³gicos, desde pigmentaciÃ³n hasta metabolismo.
+MT-2 se une a múltiples subtipos de receptores de melanocortina (MC1R, MC3R, MC4R y MC5R), lo que lo convierte en una herramienta versátil para estudiar diversos sistemas fisiológicos, desde pigmentación hasta metabolismo.
 
-Best-Peptides suministra **Melanotan 2 de calidad de investigaciÃ³n** con pureza garantizada â‰¥99%, verificada mediante anÃ¡lisis HPLC y espectrometrÃ­a de masas completos.
+Best-Peptides suministra **Melanotan 2 de calidad de investigación** con pureza garantizada ≥99%, verificada mediante análisis HPLC y espectrometría de masas completos.
 
-## Â¿CÃ³mo funciona Melanotan 2?
+## ¿Cómo funciona Melanotan 2?
 
-Melanotan 2 ejerce sus efectos a travÃ©s de la activaciÃ³n de receptores de melanocortina:
+Melanotan 2 ejerce sus efectos a través de la activación de receptores de melanocortina:
 
-### VÃ­a de MelanogÃ©nesis
-- **ActivaciÃ³n MC1R** - Receptor primario para pigmentaciÃ³n
-- **ProducciÃ³n de melanina** - EstimulaciÃ³n de melanocitos
-- **PigmentaciÃ³n independiente de UV** - InvestigaciÃ³n de pigmentaciÃ³n no solar
+### Vía de Melanogénesis
+- **Activación MC1R** - Receptor primario para pigmentación
+- **Producción de melanina** - Estimulación de melanocitos
+- **Pigmentación independiente de UV** - Investigación de pigmentación no solar
 
-### Efectos MetabÃ³licos
-- **SeÃ±alizaciÃ³n MC4R** - RegulaciÃ³n central del apetito
-- **Balance energÃ©tico** - InvestigaciÃ³n de homeostasis
-- **ComposiciÃ³n corporal** - Estudios metabÃ³licos
+### Efectos Metabólicos
+- **Señalización MC4R** - Regulación central del apetito
+- **Balance energético** - Investigación de homeostasis
+- **Composición corporal** - Estudios metabólicos
 
-## Aplicaciones de InvestigaciÃ³n
+## Aplicaciones de Investigación
 
-### InvestigaciÃ³n DermatolÃ³gica
-- **Trastornos de pigmentaciÃ³n** - Estudios de vitÃ­ligo y albinismo
-- **FotobiologÃ­a** - DaÃ±o UV y protecciÃ³n
-- **BiologÃ­a de melanocitos** - Comportamiento celular
+### Investigación Dermatológica
+- **Trastornos de pigmentación** - Estudios de vitíligo y albinismo
+- **Fotobiología** - Daño UV y protección
+- **Biología de melanocitos** - Comportamiento celular
 
-### InvestigaciÃ³n Endocrina
-- **RegulaciÃ³n del apetito** - Mecanismos centrales
-- **FunciÃ³n sexual** - Efectos mediados por MC4R
-- **Metabolismo energÃ©tico** - Interacciones hormonales
+### Investigación Endocrina
+- **Regulación del apetito** - Mecanismos centrales
+- **Función sexual** - Efectos mediados por MC4R
+- **Metabolismo energético** - Interacciones hormonales
 
 ## Especificaciones
 
-| EspecificaciÃ³n | Detalle |
+| Especificación | Detalle |
 |----------------|---------|
-| **NÃºmero CAS** | 121062-08-6 |
+| **Número CAS** | 121062-08-6 |
 | **Peso molecular** | 1024.2 g/mol |
-| **Pureza** | â‰¥99% (HPLC) |
+| **Pureza** | ≥99% (HPLC) |
 | **Apariencia** | Polvo liofilizado blanco |
 | **Solubilidad** | Soluble en agua |
 
 ## Almacenamiento
 
-Almacenar liofilizado a -20Â°C para estabilidad Ã³ptima. DespuÃ©s de reconstituciÃ³n, conservar a 2-8Â°C.
+Almacenar liofilizado a -20°C para estabilidad óptima. Después de reconstitución, conservar a 2-8°C.
 
-## InformaciÃ³n de Pedido
+## Información de Pedido
 
-| TamaÃ±o | Precio |
+| Tamaño | Precio |
 |--------|--------|
-| **10 mg** | Desde 30â‚¬ |
-| **20 mg** | Desde 55â‚¬ |
+| **10 mg** | Desde 30€ |
+| **20 mg** | Desde 55€ |
 
-**Pedido mÃ­nimo: 200â‚¬** | **10% de descuento en pedidos superiores a 200â‚¬**
+**Pedido mínimo: 200€** | **10% de descuento en pedidos superiores a 200€**
 
-## DeclaraciÃ³n de InvestigaciÃ³n
+## Declaración de Investigación
 
-**Solo para investigaciÃ³n de laboratorio.** No destinado para uso humano o veterinario.
+**Solo para investigación de laboratorio.** No destinado para uso humano o veterinario.

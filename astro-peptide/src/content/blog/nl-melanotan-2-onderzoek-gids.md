@@ -40,7 +40,7 @@ Melanotan 2 is een cyclisch heptapeptide met de volgende kenmerken:
 - **Aminozuursequentie**: Ac-Nle-cyclo[Asp-His-D-Phe-Arg-Trp-Lys]-NH2
 - **Molecuulgewicht**: 1024.2 Da
 - **CAS-nummer**: 121062-08-6
-- **Zuiverheid**: â‰¥99% (HPLC-geverifieerd)
+- **Zuiverheid**: ≥99% (HPLC-geverifieerd)
 
 ## Onderzoekstoepassingen
 
@@ -67,7 +67,7 @@ MT2 wordt in diverse wetenschappelijke contexten bestudeerd:
 
 Voor optimale stabiliteit:
 
-1. **Temperatuur**: -20Â°C tot -80Â°C
+1. **Temperatuur**: -20°C tot -80°C
 2. **Bescherming**: Donker, droog
 3. **Verpakking**: Originele verzegelde ampul
 4. **Houdbaarheid**: Tot 24 maanden lyofiliseerd
@@ -79,12 +79,12 @@ Stap 1: Laat peptide op kamertemperatuur komen (10-15 min)
 Stap 2: Voeg bacteriostatisch water toe (1-2 mL)
 Stap 3: Rol zachtjes - niet schudden
 Stap 4: Controleer op volledige oplossing
-Stap 5: Bewaar bij 2-8Â°C na reconstitutie
+Stap 5: Bewaar bij 2-8°C na reconstitutie
 ```
 
 ### Post-Reconstitutie Stabiliteit
 
-- **Bewaartijd**: 4-6 weken bij 2-8Â°C
+- **Bewaartijd**: 4-6 weken bij 2-8°C
 - **Vermijd**: Herhaalde vries-dooi cycli
 - **Controleer**: Helderheid van oplossing
 
@@ -94,11 +94,11 @@ Bij het selecteren van MT2 voor onderzoek, verifieer:
 
 ### Analytische Vereisten
 
-- âœ… HPLC zuiverheid â‰¥99%
-- âœ… Massaspectrometrie bevestiging
-- âœ… Aminozuuranalyse
-- âœ… Endotoxine testen
-- âœ… Batch-specifieke COA
+- ✅ HPLC zuiverheid ≥99%
+- ✅ Massaspectrometrie bevestiging
+- ✅ Aminozuuranalyse
+- ✅ Endotoxine testen
+- ✅ Batch-specifieke COA
 
 ### Visuele Inspectie
 
@@ -136,7 +136,7 @@ Dit varieert per onderzoeksopzet. Raadpleeg gepubliceerde literatuur voor specif
 
 ### Hoe lang blijft gerecontitueerde MT2 stabiel?
 
-Bij correcte opslag (2-8Â°C) blijft MT2 4-6 weken stabiel. Voor kritieke experimenten wordt vers bereide oplossing aanbevolen.
+Bij correcte opslag (2-8°C) blijft MT2 4-6 weken stabiel. Voor kritieke experimenten wordt vers bereide oplossing aanbevolen.
 
 ### Welke controles zijn nodig voor MT2 experimenten?
 

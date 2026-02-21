@@ -8,33 +8,33 @@ urlPath: "/nl/peptides/tesofensine-kopen"
 aliases: ["NS2330", "Drievoudige Heropnameremmer"]
 cas: "402856-42-2"
 molecular_weight: "382.5 g/mol"
-purity: "â‰¥ 99%"
+purity: "≥ 99%"
 storage: "Kamertemperatuur, beschermd tegen licht"
-package_sizes: ["60 Ã— 0.5 mg caps"]
+package_sizes: ["60 × 0.5 mg caps"]
 moq: 200
 price: 240
-price_range: "â‚¬280 per fles"
+price_range: "€280 per fles"
 coa_url: "/coa/tesofensine.pdf"
-short_description: "Koop Tesofensine. Drievoudige heropnameremmer voor gewichts- en neurowetenschappelijk onderzoek. â‰¥99% zuiverheid. Snelle EU-levering."
+short_description: "Koop Tesofensine. Drievoudige heropnameremmer voor gewichts- en neurowetenschappelijk onderzoek. ≥99% zuiverheid. Snelle EU-levering."
 category: "weight-loss"
 tags: ["onderzoeksverbinding", "tesofensine-nederland", "gewichtsverlies", "onderzoek-kopen", "drievoudige-heropname"]
 images: ["/images/products/tesofensine.png"]
 meta:
   title: "Tesofensine Kopen | Drievoudige Heropnameremmer | Snelle Levering"
-  description: "Koop Tesofensine. Premium drievoudige heropnameremmer voor gewichtsonderzoek. â‰¥99% zuiverheid, COA inbegrepen. Snelle EU-levering."
+  description: "Koop Tesofensine. Premium drievoudige heropnameremmer voor gewichtsonderzoek. ≥99% zuiverheid, COA inbegrepen. Snelle EU-levering."
 faqs:
   - question: "Waarvoor wordt Tesofensine gebruikt in onderzoek?"
     answer: "Tesofensine wordt gebruikt in neurowetenschappelijk en obesitasonderzoek om drievoudige monoamine heropnameremming te bestuderen. Het blokkeert de heropname van norepinefrine, dopamine en serotonine, waardoor onderzoek naar eetlustregulatie en energieverbruikmechanismen mogelijk wordt."
   - question: "Hoe verschilt Tesofensine van traditionele eetlustremmers?"
-    answer: "Tesofensine remt de heropname van drie neurotransmitters (NE, DA, 5-HT) in plaats van voornamelijk Ã©Ã©n systeem te beÃ¯nvloeden. Dit drievoudige mechanisme maakt onderzoek naar complexe monoaminerge eetlustregulatie mogelijk."
+    answer: "Tesofensine remt de heropname van drie neurotransmitters (NE, DA, 5-HT) in plaats van voornamelijk één systeem te beïnvloeden. Dit drievoudige mechanisme maakt onderzoek naar complexe monoaminerge eetlustregulatie mogelijk."
   - question: "Waarvoor werd Tesofensine oorspronkelijk ontwikkeld?"
     answer: "Tesofensine werd aanvankelijk ontwikkeld als mogelijke behandeling voor de ziekte van Parkinson en Alzheimer. Gewichtsverlies waargenomen in trials leidde tot onderzoekstoepassingen voor obesitas."
   - question: "Hoe moet Tesofensine worden bewaard?"
     answer: "Bewaar Tesofensine op kamertemperatuur, beschermd tegen licht en vocht. In tegenstelling tot peptiden is geen koude opslag vereist. Bewaar op een koele, droge plaats."
   - question: "Wat is de zuiverheid van jullie Tesofensine?"
-    answer: "Onze Tesofensine is â‰¥99% zuiver zoals geverifieerd door HPLC-analyse. Elke batch bevat een Certificaat van Analyse met zuiverheis- en identiteitsbevestiging."
+    answer: "Onze Tesofensine is ≥99% zuiver zoals geverifieerd door HPLC-analyse. Elke batch bevat een Certificaat van Analyse met zuiverheis- en identiteitsbevestiging."
   - question: "Wat is het werkingsmechanisme?"
-    answer: "Tesofensine remt de presynaptische heropname van norepinefrine, dopamine en serotonine, waardoor de synaptische concentraties van deze neurotransmitters toenemen om eetlust, verzadiging en energieverbruik te beÃ¯nvloeden."
+    answer: "Tesofensine remt de presynaptische heropname van norepinefrine, dopamine en serotonine, waardoor de synaptische concentraties van deze neurotransmitters toenemen om eetlust, verzadiging en energieverbruik te beïnvloeden."
 reviews:
   - author: "Dr. Willem van Berg"
     rating: 5
@@ -78,9 +78,9 @@ reviews:
 
 **Tesofensine** (NS2330) is een drievoudige monoamine heropnameremmer die de presynaptische heropname van norepinefrine, dopamine en serotonine blokkeert. Oorspronkelijk ontwikkeld voor onderzoek naar neurodegeneratieve ziekten, is tesofensine een belangrijk hulpmiddel geworden voor het bestuderen van de neurologische basis van eetlustregulatie en energiehomeostase.
 
-In tegenstelling tot verbindingen met Ã©Ã©n doelwit, stelt het drievoudige mechanisme van tesofensine onderzoekers in staat om het complexe samenspel tussen monoaminerge systemen bij het reguleren van voedselinname en metabolische snelheid te onderzoeken. Dit maakt het waardevol voor het begrijpen van de neurofarmacologie van obesitas en eetstoornissen.
+In tegenstelling tot verbindingen met één doelwit, stelt het drievoudige mechanisme van tesofensine onderzoekers in staat om het complexe samenspel tussen monoaminerge systemen bij het reguleren van voedselinname en metabolische snelheid te onderzoeken. Dit maakt het waardevol voor het begrijpen van de neurofarmacologie van obesitas en eetstoornissen.
 
-Best-Peptides levert **onderzoekskwaliteit Tesofensine** met gegarandeerd â‰¥99% zuiverheid, geverifieerd door uitgebreide HPLC-analyse.
+Best-Peptides levert **onderzoekskwaliteit Tesofensine** met gegarandeerd ≥99% zuiverheid, geverifieerd door uitgebreide HPLC-analyse.
 
 ## Hoe Werkt Tesofensine?
 
@@ -95,13 +95,13 @@ Tesofensine verhoogt de synaptische concentraties van drie belangrijke neurotran
 ### Dopamine Effecten
 - **Beloningspadmodulatie** - Veranderde voedselbeloning
 - **Motivatie-effecten** - Veranderingen in voedselzoekgedrag
-- **Verzadigingsverbetering** - Eerdere maaltijdbeÃ«indiging
+- **Verzadigingsverbetering** - Eerdere maaltijdbeëindiging
 - **Hedonisch eten** - Verminderde pleziergedreven consumptie
 
 ### Serotonine Effecten
 - **Verzadigingssignalering** - Verbeterde volheidswaarneming
 - **Stemmingseffecten** - Modulatie van emotioneel eten
-- **Koolhydraatvoorkeur** - Veranderde macronutriÃ«ntkeuzes
+- **Koolhydraatvoorkeur** - Veranderde macronutriëntkeuzes
 
 ## Onderzoekstoepassingen
 
@@ -121,7 +121,7 @@ Tesofensine verhoogt de synaptische concentraties van drie belangrijke neurotran
 |--------------|--------|
 | **CAS Nummer** | 402856-42-2 |
 | **Moleculair Gewicht** | 382.5 g/mol |
-| **Zuiverheid** | â‰¥99% (HPLC) |
+| **Zuiverheid** | ≥99% (HPLC) |
 | **Uiterlijk** | Wit tot gebroken wit poeder |
 | **Oplosbaarheid** | Oplosbaar in DMSO, methanol |
 
@@ -133,10 +133,10 @@ Bewaar op kamertemperatuur, beschermd tegen licht en vocht.
 
 | Maat | Prijs |
 |------|-------|
-| **10 mg** | Vanaf â‚¬49 |
-| **25 mg** | Vanaf â‚¬110 |
+| **10 mg** | Vanaf €49 |
+| **25 mg** | Vanaf €110 |
 
-**Minimale bestelling: â‚¬200** | **10% korting op bestellingen boven â‚¬200**
+**Minimale bestelling: €200** | **10% korting op bestellingen boven €200**
 
 ## Onderzoeksverklaring
 
