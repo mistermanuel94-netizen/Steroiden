@@ -1,0 +1,43 @@
+---
+import Layout from '../../../layouts/Layout.astro';
+import { getCollection, getEntry } from 'astro:content';
+import { supportedLanguages, type SupportedLanguage } from '../../../i18n/translations';
+import { getMarket } from '../../../i18n/market';
+
+const { lang: langParam, slug } = Astro.params;
+const lang = (langParam || 'en') as SupportedLanguage;
+
+if (langParam && !supportedLanguages.includes(lang)) {
+  return Astro.redirect('/');
+}
+
+const market = getMarket(lang);
+
+// Try to find the blog post
+let post: any = null;
+try {
+  const allPosts = await getCollection('blog');
+  post = allPosts.find(p => {
+    const postSlug = p.slug.replace(/^(en|nl|de|fr|es|it|ru)\//, '').replace(/^(nl|de|fr|es|it|ru)-/, '');
+    return postSlug === slug && p.data.lang === lang;
+  });
+} catch (e) {}
+
+if (!post) {
+  return Astro.redirect(lang === 'en' ? '/blog/' : `/${lang}/blog/`);
+}
+
+const { Content } = await post.render();
+---
+
+<Layout title={post.data.meta?.title || post.data.title} description={post.data.meta?.description || post.data.description}>
+  <article style="padding: 60px 0; background: #F5F0EB; min-height: 60vh;">
+    <div class="container mx-auto px-4" style="max-width: 800px;">
+      <h1 style="font-size: 2.5rem; font-weight: 800; margin-bottom: 16px;">{post.data.title}</h1>
+      <p style="color: #666; margin-bottom: 32px;">{post.data.publishDate} · {post.data.author}</p>
+      <div class="prose" style="background: white; border-radius: 12px; padding: 32px; border: 1px solid #E0D8D0;">
+        <Content />
+      </div>
+    </div>
+  </article>
+</Layout>

@@ -1,0 +1,266 @@
+#!/usr/bin/env node
+/**
+ * Fix all i18n page files to be language-aware.
+ * Rewrites [lang]/*.astro pages and steroids/*.astro pages 
+ * to properly use language parameters and filter products by language.
+ */
+
+import fs from 'fs';
+import path from 'path';
+
+const PAGES_DIR = path.join('astro-steroid', 'src', 'pages');
+
+// ── Template helpers ────────────────────────────────────────────────────────────
+
+/**
+ * Generate a steroids listing page (used for /steroids/, /de/steroids/, /de/steroids/testosterone/)
+ * @param {string} importDepth - e.g. '../../' or '../../../'
+ * @param {string} langSource - how to get the lang: 'en' for English, 'params' for [lang] pages
+ * @param {boolean} hasCategory - whether to filter by category param
+ * @param {boolean} hasSlug - whether this is a [slug] page (product or category)
+ */
+function steroidsListingPage(importDepth, langSource, { hasCategory = false, hasSlug = false } = {}) {
+  const langDecl = langSource === 'params' 
+    ? `import { supportedLanguages, type SupportedLanguage, getLocalizedPath, translatePackageSize } from '${importDepth}i18n/translations';
+import { getMarket } from '${importDepth}i18n/market';
+
+const { lang: langParam${hasSlug ? ', slug: routeSlug' : ''}${hasCategory ? ', pageSlug' : ''} } = Astro.params;
+const lang = (langParam || 'en') as SupportedLanguage;
+
+// Validate language
+if (langParam && !supportedLanguages.includes(lang)) {
+  return Astro.redirect('/');
+}
+
+const market = getMarket(lang);`
+    : `import { type SupportedLanguage, getLocalizedPath, translatePackageSize } from '${importDepth}i18n/translations';
+import { getMarket } from '${importDepth}i18n/market';
+
+const lang: SupportedLanguage = 'en';
+${hasSlug ? "const { slug: routeSlug } = Astro.params;\n" : ''}${hasCategory ? "const { category: routeCategory } = Astro.params;\n" : ''}const market = getMarket(lang);`;
+
+  // Category filter logic
+  const categoryFilterCode = (hasSlug || hasCategory) ? `
+// Determine if the slug is a category
+const allCategories = [...new Set(products.map(p => p.data.category))];
+const categorySlug = ${hasSlug ? 'routeSlug' : 'routeCategory'} || '';
+const isCategory = allCategories.includes(categorySlug);
+const filteredProducts = isCategory ? products.filter(p => p.data.category === categorySlug) : products;
+const displayProducts = filteredProducts;
+const activeCategory = isCategory ? categorySlug : '';
+const categoryTitle = isCategory ? categorySlug.split('-').map(w => w.charAt(0).toUpperCase() + w.slice(1)).join(' ') : '';` 
+  : `const displayProducts = products;
+const activeCategory = '';
+const categoryTitle = '';`;
+
+  return `---
+import Layout from '${importDepth}layouts/Layout.astro';
+import { getCollection, getEntry } from 'astro:content';
+import ProductCard from '${importDepth}components/ProductCard';
+import Sidebar from '${importDepth}components/Sidebar.astro';
+${langDecl}
+
+const allProducts = await getCollection('products');
+const products = allProducts.filter(p => p.slug.startsWith(\`\${lang}/\`));
+
+// Helper to clean slug - strips language prefix
+const cleanSlug = (slug: string) => slug.replace(/^(en|nl|de|fr|es|it|ru)\\//, '');
+${categoryFilterCode}
+
+const productCount = displayProducts.length;
+const homeUrl = lang === 'en' ? '/' : \`/\${lang}/\`;
+const steroidsUrl = getLocalizedPath('/steroids/', lang);
+
+// SEO
+const pageTitle = categoryTitle 
+  ? \`Buy \${categoryTitle} | Steroiden \${market.marketName}\`
+  : \`Buy Steroids \${market.marketName} | Steroids for Sale | Steroiden\`;
+const pageDescription = categoryTitle
+  ? \`Buy \${categoryTitle} online. Premium quality, COA included. Fast \${market.marketName} delivery. Trusted supplier.\`
+  : \`Buy steroids \${market.marketName}. Premium quality steroids. Fast delivery. Trusted supplier.\`;
+---
+
+<Layout 
+  title={pageTitle} 
+  description={pageDescription}
+  breadcrumbs={[
+    { name: "Home", url: homeUrl },
+    { name: "Steroids", url: steroidsUrl },
+    ...(categoryTitle ? [{ name: categoryTitle, url: '#' }] : [])
+  ]}
+>
+  <section class="peptides-hero">
+    <div class="container mx-auto px-4">
+      <nav class="breadcrumb" aria-label="Breadcrumb">
+        <ol class="breadcrumb-list">
+          <li><a href={homeUrl}>Home</a></li>
+          <li><a href={steroidsUrl}>Steroids</a></li>
+          {categoryTitle && <li><span class="current">{categoryTitle}</span></li>}
+        </ol>
+      </nav>
+
+      <div class="hero-content">
+        <div class="hero-text">
+          <h1 class="hero-title">{categoryTitle ? \`Buy \${categoryTitle}\` : \`Buy Steroids \${market.marketName}\`}</h1>
+          <p class="hero-description">
+            {categoryTitle 
+              ? \`Explore our \${categoryTitle} collection. Premium quality, HPLC-verified purity, COA included.\`
+              : \`Explore our complete collection of premium anabolic steroids. Testosterone, Winstrol, Deca-Durabolin and more.\`}
+          </p>
+          <div class="trust-badges">
+            {["≥99% HPLC Purity", "COA Included", \`Fast \${market.marketName} Delivery\`, "Secure Checkout"].map((badge: string) => (
+              <span class="trust-badge">
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="20 6 9 17 4 12"></polyline></svg>
+                {badge}
+              </span>
+            ))}
+          </div>
+        </div>
+
+        <div class="hero-stats">
+          <div class="stat-card">
+            <span class="stat-number">{productCount}</span>
+            <span class="stat-label">Products</span>
+          </div>
+          <div class="stat-card">
+            <span class="stat-number">≥99%</span>
+            <span class="stat-label">Purity</span>
+          </div>
+          <div class="stat-card">
+            <span class="stat-number">24h</span>
+            <span class="stat-label">Dispatch</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="products-section">
+    <div class="container mx-auto px-4">
+      <div class="products-layout">
+        <Sidebar />
+        <div class="products-main">
+          <div class="products-header">
+            <p class="showing-text">Showing {productCount} {categoryTitle || 'steroids'}</p>
+          </div>
+
+          <div class="products-grid">
+            {displayProducts.map((product) => {
+              const price = product.data.price || product.data.moq || 45;
+              const image = product.data.images[0] || '/images/steroid-default.jpg';
+              const slug = cleanSlug(product.slug);
+              return (
+                <ProductCard 
+                  client:visible
+                  id={product.data.id}
+                  title={product.data.title}
+                  price={price}
+                  image={image}
+                  slug={slug}
+                  category={product.data.category}
+                  reviewCount={product.data.reviews?.length || 0}
+                  packageSize={translatePackageSize(product.data.package_sizes?.[0] || '', lang)}
+                  lang={lang}
+                />
+              );
+            })}
+          </div>
+
+          <div class="seo-content">
+            <h2>{categoryTitle ? \`Buy \${categoryTitle} — Premium Quality\` : \`Buy Steroids \${market.marketName} — Premium Quality Guaranteed\`}</h2>
+            <p>Steroiden is your trusted source for premium anabolic steroids in {market.marketName} and Europe. Every product undergoes rigorous HPLC testing to verify quality and authenticity.</p>
+            <p>Whether you're looking for bulking, cutting, or performance enhancement compounds, Steroiden delivers pharmaceutical-grade products with fast {market.marketName} and European delivery.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+`;
+}
+
+// CSS is the same for all listing pages
+const listingCSS = `  <style>
+    .peptides-hero {
+      background: linear-gradient(135deg, #f0f9ff 0%, #e0f2fe 100%);
+      padding: 40px 0 50px;
+      border-bottom: 1px solid #E0D8D0;
+    }
+    .breadcrumb { margin-bottom: 24px; }
+    .breadcrumb-list {
+      display: flex; align-items: center; gap: 8px;
+      list-style: none; padding: 0; margin: 0; font-size: 14px;
+    }
+    .breadcrumb-list li { display: flex; align-items: center; gap: 8px; }
+    .breadcrumb-list li:not(:last-child)::after { content: '/'; color: #999; }
+    .breadcrumb-list a { color: #555; text-decoration: none; font-weight: 500; transition: color 0.2s; }
+    .breadcrumb-list a:hover { color: var(--accent-primary); }
+    .breadcrumb-list .current { color: #1A1A1A; font-weight: 600; }
+    .hero-content { display: flex; justify-content: space-between; align-items: flex-start; gap: 40px; flex-wrap: wrap; }
+    .hero-text { flex: 1; min-width: 300px; }
+    .hero-title { font-size: 2.5rem; font-weight: 800; color: #1A1A1A; margin-bottom: 16px; line-height: 1.2; }
+    .hero-description { font-size: 1.1rem; color: #555; line-height: 1.7; margin-bottom: 24px; max-width: 650px; }
+    .trust-badges { display: flex; flex-wrap: wrap; gap: 12px; }
+    .trust-badge { display: inline-flex; align-items: center; gap: 6px; background: white; color: var(--accent-primary); padding: 8px 16px; border-radius: 50px; font-size: 13px; font-weight: 600; border: 1px solid #E0D8D0; box-shadow: 0 1px 3px rgba(0,0,0,0.05); }
+    .trust-badge svg { color: var(--accent-primary); }
+    .hero-stats { display: flex; gap: 16px; }
+    .stat-card { background: white; border-radius: 12px; padding: 20px 24px; text-align: center; border: 1px solid #E0D8D0; box-shadow: 0 2px 8px rgba(0,0,0,0.04); min-width: 100px; }
+    .stat-number { display: block; font-size: 1.75rem; font-weight: 800; color: var(--accent-primary); line-height: 1; margin-bottom: 4px; }
+    .stat-label { font-size: 12px; color: #6B6B6B; text-transform: uppercase; letter-spacing: 0.5px; font-weight: 500; }
+    .products-section { background: #F5F0EB; padding: 50px 0 80px; }
+    .products-layout { display: flex; gap: 40px; }
+    .products-main { flex: 1; }
+    .products-header { margin-bottom: 24px; }
+    .showing-text { color: #6B6B6B; font-size: 14px; }
+    .products-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 24px; }
+    .seo-content { margin-top: 60px; background: white; border-radius: 12px; padding: 32px; border: 1px solid #E0D8D0; }
+    .seo-content h2 { font-size: 1.5rem; font-weight: 700; color: #1A1A1A; margin-bottom: 16px; }
+    .seo-content p { color: #555; line-height: 1.8; margin-bottom: 16px; }
+    .seo-content p:last-child { margin-bottom: 0; }
+    @media (max-width: 1024px) { .products-grid { grid-template-columns: repeat(2, 1fr); } }
+    @media (max-width: 768px) {
+      .peptides-hero { padding: 30px 0 40px; }
+      .hero-title { font-size: 1.75rem; }
+      .hero-content { flex-direction: column; }
+      .hero-stats { width: 100%; justify-content: space-between; }
+      .stat-card { flex: 1; padding: 16px 12px; }
+      .stat-number { font-size: 1.5rem; }
+      .trust-badges { gap: 8px; }
+      .trust-badge { padding: 6px 12px; font-size: 12px; }
+      .products-layout { flex-direction: column; }
+      .products-grid { grid-template-columns: repeat(2, 1fr); gap: 16px; }
+    }
+    @media (max-width: 480px) { .products-grid { grid-template-columns: 1fr; } }
+  </style>
+</Layout>
+`;
+
+// ── Generate all page files ─────────────────────────────────────────────────────
+
+const files = [
+  // English steroids pages
+  {
+    path: path.join(PAGES_DIR, 'steroids', 'index.astro'),
+    content: steroidsListingPage('../../', 'en') + listingCSS,
+  },
+  {
+    path: path.join(PAGES_DIR, 'steroids', '[category].astro'),
+    content: steroidsListingPage('../../', 'en', { hasCategory: true }) + listingCSS,
+  },
+  // [lang] steroids pages
+  {
+    path: path.join(PAGES_DIR, '[lang]', '[pageSlug].astro'),
+    content: steroidsListingPage('../../', 'params') + listingCSS,
+  },
+  {
+    path: path.join(PAGES_DIR, '[lang]', '[pageSlug]', '[slug].astro'),
+    content: steroidsListingPage('../../../', 'params', { hasSlug: true }) + listingCSS,
+  },
+];
+
+for (const file of files) {
+  fs.writeFileSync(file.path, file.content, 'utf-8');
+  const rel = path.relative('.', file.path);
+  console.log(`✓ Wrote ${rel}`);
+}
+
+console.log(`\nDone! Updated ${files.length} listing page files.`);

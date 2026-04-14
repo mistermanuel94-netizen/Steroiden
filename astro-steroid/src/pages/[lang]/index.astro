@@ -1,0 +1,16 @@
+---
+import HomePage from '../../components/pages/HomePage.astro';
+import { supportedLanguages, type SupportedLanguage } from '../../i18n/translations';
+
+const { lang } = Astro.params;
+
+// Validate language param
+if (!lang || !supportedLanguages.includes(lang as SupportedLanguage)) {
+  return Astro.redirect('/');
+}
+
+// Set language preference cookie
+Astro.cookies.set('lang_preference', lang, { path: '/', maxAge: 60 * 60 * 24 * 365 });
+---
+
+<HomePage lang={lang as SupportedLanguage} />

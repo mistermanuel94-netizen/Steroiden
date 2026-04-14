@@ -1,7 +1,0 @@
-User-Agent: *
-Allow: /
-Disallow: /api/
-Disallow: /admin/
-Disallow: /account/
-
-Sitemap: https://peptide-shop.net/sitemap.xml
