@@ -1,31 +1,9 @@
 name = "steroiden-site"
-main = "./dist/_worker.js/index.js"
-compatibility_date = "2026-04-14"
-compatibility_flags = ["nodejs_compat"]
+type = "javascript"
 account_id = "9458f06d5395cb027265baf34af95061"
+compatibility_date = "2026-04-14"
 workers_dev = false
-route = "steroideshop.net/*"
 
-[[kv_namespaces]]
-binding = "SESSION"
-id = "40ca79f890a64e8b88c96f6c693c08b5"
-preview_id = "40ca79f890a64e8b88c96f6c693c08b5"
+# For Cloudflare Pages, no main entry point needed for static sites
+# This file mainly holds the account configuration
 
-[vars]
-SITE_URL = "${SITE_URL}"
-BTCPAY_SERVER_URL = "${BTCPAY_SERVER_URL}"
-BTCPAY_STORE_ID = "${BTCPAY_STORE_ID}"
-BTCPAY_API_KEY = "${BTCPAY_API_KEY}"
-BTCPAY_WEBHOOK_SECRET = "${BTCPAY_WEBHOOK_SECRET}"
-BANK_NAME = "${BANK_NAME}"
-BANK_ACCOUNT_HOLDER = "${BANK_ACCOUNT_HOLDER}"
-BANK_IBAN = "${BANK_IBAN}"
-BANK_BIC_SWIFT = "${BANK_BIC_SWIFT}"
-BITCOIN_ADDRESS = "${BITCOIN_ADDRESS}"
-USDT_ADDRESS = "${USDT_ADDRESS}"
-RESEND_API_KEY = "${RESEND_API_KEY}"
-OWNER_EMAIL = "${OWNER_EMAIL}"
-GOOGLE_CLIENT_ID = "${GOOGLE_CLIENT_ID}"
-GOOGLE_CLIENT_SECRET = "${GOOGLE_CLIENT_SECRET}"
-SUPABASE_URL = "${SUPABASE_URL}"
-SUPABASE_KEY = "${SUPABASE_KEY}"
