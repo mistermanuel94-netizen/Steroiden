@@ -4775,7 +4775,7 @@ export const translations: Record<SupportedLanguage, Translations> = {
         q3: 'Fournissez-vous des certificats d\'analyse (COA) ?',
         a3: 'Oui, chaque produit inclut un COA spécifique au lot avec les résultats de tests en laboratoire, le dosage vérifié et les recommandations de stockage.',
         q4: 'Où puis-je acheter des stéroïdes en France et en Europe ?',
-        a4: 'Vous pouvez acheter des stéroïdes anabolisants en ligne chez Steroiden (steroideshop.com) avec une livraison rapide et discrète dans toute l\'Europe.',
+        a4: 'Vous pouvez acheter des stéroïdes anabolisants en ligne chez Steroiden (steroideshop.net) avec une livraison rapide et discrète dans toute l\'Europe.',
         q5: 'Quels modes de paiement acceptez-vous ?',
         a5: 'Nous acceptons les virements bancaires et le Bitcoin (avec 10% de réduction). Toutes les transactions sont traitées de manière sécurisée.',
         q6: 'Comment dois-je stocker mes stéroïdes ?',

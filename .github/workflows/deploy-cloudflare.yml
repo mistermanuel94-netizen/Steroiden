@@ -1,4 +1,4 @@
-name: Deploy Astro to Cloudflare Workers
+name: Deploy Astro to Cloudflare Pages
 
 on:
   push:
@@ -10,14 +10,18 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: read
+      deployments: write
     steps:
       - uses: actions/checkout@v4
+      
       - uses: actions/setup-node@v5
         with:
           node-version: 20
+      
       - name: Install dependencies
         run: npm ci
         working-directory: astro-steroid
+      
       - name: Build Astro
         run: npm run build
         working-directory: astro-steroid
@@ -39,29 +43,12 @@ jobs:
           GOOGLE_CLIENT_SECRET: ${{ secrets.GOOGLE_CLIENT_SECRET }}
           SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
           SUPABASE_KEY: ${{ secrets.SUPABASE_KEY }}
-      - name: Deploy to Cloudflare
-        run: npx wrangler deploy --outdir dist
-        working-directory: astro-steroid
-        env:
-          CF_API_TOKEN: ${{ secrets.CF_API_TOKEN }}
-          CF_ACCOUNT_ID: ${{ secrets.CF_ACCOUNT_ID }}
-          CF_ZONE_ID: ${{ secrets.CF_ZONE_ID }}
-          CF_SESSION_KV_ID: ${{ secrets.CF_SESSION_KV_ID }}
-          CF_WORKER_ROUTE: ${{ secrets.CF_WORKER_ROUTE }}
-          SITE_URL: ${{ secrets.SITE_URL }}
-          BTCPAY_SERVER_URL: ${{ secrets.BTCPAY_SERVER_URL }}
-          BTCPAY_STORE_ID: ${{ secrets.BTCPAY_STORE_ID }}
-          BTCPAY_API_KEY: ${{ secrets.BTCPAY_API_KEY }}
-          BTCPAY_WEBHOOK_SECRET: ${{ secrets.BTCPAY_WEBHOOK_SECRET }}
-          BANK_NAME: ${{ secrets.BANK_NAME }}
-          BANK_ACCOUNT_HOLDER: ${{ secrets.BANK_ACCOUNT_HOLDER }}
-          BANK_IBAN: ${{ secrets.BANK_IBAN }}
-          BANK_BIC_SWIFT: ${{ secrets.BANK_BIC_SWIFT }}
-          BITCOIN_ADDRESS: ${{ secrets.BITCOIN_ADDRESS }}
-          USDT_ADDRESS: ${{ secrets.USDT_ADDRESS }}
-          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
-          OWNER_EMAIL: ${{ secrets.OWNER_EMAIL }}
-          GOOGLE_CLIENT_ID: ${{ secrets.GOOGLE_CLIENT_ID }}
-          GOOGLE_CLIENT_SECRET: ${{ secrets.GOOGLE_CLIENT_SECRET }}
-          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
-          SUPABASE_KEY: ${{ secrets.SUPABASE_KEY }}
+      
+      - name: Deploy to Cloudflare Pages
+        uses: cloudflare/pages-action@v1
+        with:
+          apiToken: ${{ secrets.CF_API_TOKEN }}
+          accountId: ${{ secrets.CF_ACCOUNT_ID }}
+          projectName: steroiden-site
+          directory: astro-steroid/dist
+          gitHubToken: ${{ secrets.GITHUB_TOKEN }}

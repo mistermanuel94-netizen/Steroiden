@@ -61,13 +61,13 @@ npx playwright test tests/mobile-ux.spec.ts --ui
 ### Cloudflare Pages
 1. **Build Settings**:
    - **Framework Preset**: Astro
-   - **Build Command**: `message: Build command detected as 'npm run build'`
+   - **Build Command**: `npm run build`
    - **Output Directory**: `dist`
 2. **Environment Variables**:
-   - Ensure standard node vars are set if needed.
-3. **Adapter Warnings**:
-   - If you see `sharp` warnings: The project is configured to ignore basic sharp errors or use a compatible service. 
-   - Ensure `astro.config.mjs` has the Cloudflare adapter enabled.
+   - Set the required production variables, such as `SITE_URL`, `SUPABASE_URL`, `SUPABASE_KEY`, and `RESEND_API_KEY`.
+3. **Adapter Warning**:
+   - Ensure `astro.config.mjs` is configured for `output: 'static'`.
+   - Do not enable the Cloudflare adapter for Pages static deployment unless you are explicitly deploying a Worker-based backend.
 
 ### Rollback Plan
 If critical issues are found:

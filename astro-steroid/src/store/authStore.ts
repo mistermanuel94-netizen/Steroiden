@@ -264,7 +264,7 @@ export async function loginWithGoogle(returnUrl?: string): Promise<void> {
   
   // Redirect to our OAuth initiation endpoint
   if (isBrowser) {
-    window.location.href = `/api/auth/google?${params.toString()}`;
+    window.location.href = `/api/auth/google/login?${params.toString()}`;
   }
 }
 

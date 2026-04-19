@@ -2,7 +2,7 @@ import type { APIRoute } from 'astro';
 
 // Google OAuth configuration
 const GOOGLE_CLIENT_ID = import.meta.env.GOOGLE_CLIENT_ID || process.env.GOOGLE_CLIENT_ID;
-const SITE_URL = import.meta.env.SITE || 'https://steroideshop.com';
+const SITE_URL = import.meta.env.SITE || 'https://steroideshop.net';
 
 export const GET: APIRoute = async ({ redirect, url }) => {
   if (!GOOGLE_CLIENT_ID) {

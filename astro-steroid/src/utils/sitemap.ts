@@ -1,7 +1,7 @@
 import type { SupportedLanguage } from '../i18n/translations';
 import { getMarket } from '../i18n/market';
 
-export const SITE_URL = 'https://steroideshop.com';
+export const SITE_URL = 'https://steroideshop.net';
 
 export interface SitemapAlternate {
   lang: SupportedLanguage | 'x-default' | string;

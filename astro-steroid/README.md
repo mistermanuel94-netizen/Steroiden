@@ -48,11 +48,24 @@ SUPABASE_KEY=your_supabase_anon_key
 
 ### Cloudflare Pages Deployment
 
-1.  Connect your GitHub repository to Cloudflare Pages.
-2.  **Build Command:** `npm run build`
-3.  **Build Output Directory:** `dist`
-4.  **Environment Variables:** Add the Supabase credentials in the dashboard.
-5.  **Compatibility Flags:** Ensure `nodejs_compat` is enabled if using specific Node APIs in functions.
+This project now builds as a static Astro site. The recommended deployment method is Cloudflare Pages.
+
+1.  Connect your repository to Cloudflare Pages.
+2.  Set the build settings:
+    - **Framework Preset**: Astro
+    - **Build Command**: `npm run build`
+    - **Build Output Directory**: `dist`
+3.  Add the required production environment variables in Pages:
+    - `SITE_URL=https://steroideshop.net`
+    - `SUPABASE_URL`
+    - `SUPABASE_KEY`
+    - `RESEND_API_KEY`
+    - Other API-related variables if your backend integrations are used.
+4.  Deploy the branch.
+
+> Note: Static Pages deployment publishes the generated `dist/` assets only. Server-side API routes under `src/pages/api/*` are not included in the static output, so any form handling or custom backend logic will require a separate API backend or functions deployment.
+
+If you still want a Cloudflare Workers deployment later, the previous `wrangler.toml` configuration is preserved for reference.
 
 ## Enquiry Workflow
 

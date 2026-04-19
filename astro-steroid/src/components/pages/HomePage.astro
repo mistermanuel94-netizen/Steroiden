@@ -349,11 +349,11 @@ const websiteSchema = {
   "@type": "WebSite",
   "name": seoName,
   "description": seoDescription,
-  "url": "https://steroideshop.com",
+  "url": "https://steroideshop.net",
   "inLanguage": ["en-GB", "nl-NL", "de-DE", "fr-FR", "es-ES", "it-IT", "ru-RU"],
   "potentialAction": {
     "@type": "SearchAction",
-    "target": "https://steroideshop.com/steroids?q={search_term_string}",
+    "target": "https://steroideshop.net/steroids?q={search_term_string}",
     "query-input": "required name=search_term_string"
   }
 };
@@ -363,8 +363,8 @@ const organizationSchema = {
   "@type": "Organization",
   "name": "Steroiden",
   "alternateName": `Steroiden ${market.marketName}`,
-  "url": "https://steroideshop.com",
-  "logo": "https://steroideshop.com/favicon.png",
+  "url": "https://steroideshop.net",
+  "logo": "https://steroideshop.net/favicon.png",
   "description": organizationDescription,
   "foundingDate": "2015",
   "areaServed": [
@@ -424,7 +424,7 @@ const itemListSchema = {
     "@type": "ListItem",
     "position": index + 1,
     "name": product.data.title,
-    "url": `https://steroideshop.com/steroids/${cleanSlug(product.slug)}/`
+    "url": `https://steroideshop.net/steroids/${cleanSlug(product.slug)}/`
   }))
 };
 

@@ -2,7 +2,7 @@ import type { APIRoute } from 'astro';
 
 const GOOGLE_CLIENT_ID = import.meta.env.GOOGLE_CLIENT_ID || process.env.GOOGLE_CLIENT_ID;
 const GOOGLE_CLIENT_SECRET = import.meta.env.GOOGLE_CLIENT_SECRET || process.env.GOOGLE_CLIENT_SECRET;
-const SITE_URL = import.meta.env.SITE || 'https://steroideshop.com';
+const SITE_URL = import.meta.env.SITE || 'https://steroideshop.net';
 
 export const GET: APIRoute = async ({ url, redirect, cookies }) => {
   const code = url.searchParams.get('code');

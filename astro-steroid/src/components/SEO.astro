@@ -24,7 +24,7 @@ const langForMeta = supportedLanguages.includes(langProp) ? langProp : currentLa
 const marketForMeta = getMarket(langForMeta);
 
 const canonicalURL = new URL(Astro.url.pathname, Astro.site);
-const siteUrl = Astro.site?.origin || 'https://steroideshop.com';
+const siteUrl = Astro.site?.origin || 'https://steroideshop.net';
 const SITE_NAME = 'Steroiden';
 
 const normalizeWhitespace = (value: string) => value.replace(/\s+/g, ' ').trim();

@@ -68,7 +68,7 @@ export const POST: APIRoute = async ({ request }) => {
             expirationMinutes: 15,
             monitoringMinutes: 60,
             paymentTolerance: 0,
-            redirectURL: `${import.meta.env.SITE_URL || 'https://steroideshop.com'}/order-confirmation?orderId=${orderId}`,
+            redirectURL: `${import.meta.env.SITE_URL || 'https://steroideshop.net'}/order-confirmation?orderId=${orderId}`,
             redirectAutomatically: true,
             defaultLanguage: 'en-GB'
           },

@@ -1,16 +1,12 @@
 import { defineConfig } from 'astro/config';
 import tailwind from '@astrojs/tailwind';
 import react from '@astrojs/react';
-import cloudflare from '@astrojs/cloudflare';
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://steroiden.com',
+  site: 'https://steroideshop.net',
   integrations: [react(), tailwind()],
-  output: 'server', // Hybrid rendering for API endpoints
-  adapter: cloudflare({
-    imageService: 'compile',
-  }),
+  output: 'static',
   legacy: {
     collections: true, // Enable legacy content collections API (type: 'content' + slug)
   },

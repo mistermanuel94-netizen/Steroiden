@@ -1,0 +1,2 @@
+﻿C:\Users\CTech Electronics\Desktop\Steroid\Steroiden\astro-steroid\dist\about\index.html
+C:\Users\CTech Electronics\Desktop\Steroid\Steroiden\astro-steroid\dist\account\dashboard\index.html

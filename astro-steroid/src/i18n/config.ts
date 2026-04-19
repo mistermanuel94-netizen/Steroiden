@@ -1,5 +1,5 @@
 // i18n Configuration
-// Site: steroideshop.com (EN default), /fr, /de, /nl, /es, /it
+// Site: steroideshop.net (EN default), /fr, /de, /nl, /es, /it
 
 import { productSlugTranslations } from './translations';
 

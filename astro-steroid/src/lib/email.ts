@@ -317,10 +317,10 @@ export async function sendWelcomeEmail(email: string, name: string, apiKey?: str
       <h1>Welcome, ${name}!</h1>
       <p>Thank you for creating an account with ${SITE_NAME}.</p>
       <p>You can now log in to track your orders and checkout faster.</p>
-      <p><a href="${import.meta.env.SITE_URL || 'https://steroideshop.com'}/account/login">Login to your account</a></p>
+      <p><a href="${import.meta.env.SITE_URL || 'https://steroideshop.net'}/account/login">Login to your account</a></p>
     </div>
   `;
-  const text = `Welcome, ${name}!\n\nThank you for creating an account with ${SITE_NAME}.\nYou can now log in to track your orders and checkout faster at https://steroideshop.com`;
+  const text = `Welcome, ${name}!\n\nThank you for creating an account with ${SITE_NAME}.\nYou can now log in to track your orders and checkout faster at https://steroideshop.net`;
 
   return sendEmail(email, subject, html, text, finalApiKey);
 }

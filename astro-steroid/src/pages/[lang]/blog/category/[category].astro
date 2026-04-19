@@ -4,6 +4,22 @@ import { getCollection } from 'astro:content';
 import { supportedLanguages, type SupportedLanguage } from '../../../../i18n/translations';
 import { getMarket } from '../../../../i18n/market';
 
+export const prerender = true;
+
+export async function getStaticPaths() {
+  const posts = await getCollection('blog');
+  const categoriesByLang = posts.reduce<Record<string, Set<string>>>((acc, post) => {
+    const lang = post.data.lang;
+    if (!acc[lang]) acc[lang] = new Set();
+    acc[lang].add(post.data.category);
+    return acc;
+  }, {});
+
+  return Object.entries(categoriesByLang).flatMap(([lang, categories]) =>
+    Array.from(categories).map((category) => ({ params: { lang, category } }))
+  );
+}
+
 const { lang: langParam, category } = Astro.params;
 const lang = (langParam || 'en') as SupportedLanguage;
 

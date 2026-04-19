@@ -1,8 +1,21 @@
 ---
 import Layout from '../../../layouts/Layout.astro';
-import { getCollection, getEntry } from 'astro:content';
+import { getCollection } from 'astro:content';
 import { supportedLanguages, type SupportedLanguage } from '../../../i18n/translations';
 import { getMarket } from '../../../i18n/market';
+
+export const prerender = true;
+
+export async function getStaticPaths() {
+  const posts = await getCollection('blog');
+  return posts.map((post) => {
+    const slug = post.slug
+      .replace(/^(en|nl|de|fr|es|it|ru)\//, '')
+      .replace(/^(nl|de|fr|es|it|ru)-/, '');
+
+    return { params: { lang: post.data.lang, slug } };
+  });
+}
 
 const { lang: langParam, slug } = Astro.params;
 const lang = (langParam || 'en') as SupportedLanguage;

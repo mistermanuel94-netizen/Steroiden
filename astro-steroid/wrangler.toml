@@ -1,16 +1,15 @@
 name = "steroiden-site"
-main = "./dist/index.js"
+main = "./dist/_worker.js/index.js"
 compatibility_date = "2026-04-14"
-compatibility_flags = []
-account_id = "${CF_ACCOUNT_ID}"
-zone_id = "${CF_ZONE_ID}"
+compatibility_flags = ["nodejs_compat"]
+account_id = "9458f06d5395cb027265baf34af95061"
 workers_dev = false
-route = "${CF_WORKER_ROUTE}"
+route = "steroideshop.net/*"
 
 [[kv_namespaces]]
 binding = "SESSION"
-id = "${CF_SESSION_KV_ID}"
-preview_id = "${CF_SESSION_KV_ID}"
+id = "40ca79f890a64e8b88c96f6c693c08b5"
+preview_id = "40ca79f890a64e8b88c96f6c693c08b5"
 
 [vars]
 SITE_URL = "${SITE_URL}"

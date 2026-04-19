@@ -10,6 +10,19 @@ import Sidebar from '../../components/Sidebar.astro';
 import { type SupportedLanguage, getLocalizedPath, translatePackageSize, cleanProductTitle, translateCategory, t } from '../../i18n/translations';
 import { getMarket } from '../../i18n/market';
 
+export const prerender = true;
+
+export async function getStaticPaths() {
+  const products = await getCollection('products');
+  const categorySlugs = [...new Set(products.map((product) => product.data.category))];
+  const productSlugs = products.map((product) => product.slug.replace(/^(en|nl|de|fr|es|it|ru)\//, ''));
+
+  return [
+    ...categorySlugs.map((category) => ({ params: { category } })),
+    ...productSlugs.map((slug) => ({ params: { category: slug } })),
+  ];
+}
+
 const lang: SupportedLanguage = 'en';
 const { category: routeCategory } = Astro.params;
 const market = getMarket(lang);
