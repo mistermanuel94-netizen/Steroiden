@@ -4,6 +4,15 @@ import { getCollection } from 'astro:content';
 import { supportedLanguages, type SupportedLanguage } from '../../../i18n/translations';
 import { getMarket } from '../../../i18n/market';
 
+export async function getStaticPaths() {
+  return supportedLanguages
+    .filter(lang => lang !== 'en')
+    .map(lang => ({
+      params: { lang },
+      props: { lang }
+    }));
+}
+
 const { lang: langParam } = Astro.params;
 const lang = (langParam || 'en') as SupportedLanguage;
 

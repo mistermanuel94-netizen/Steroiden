@@ -6,6 +6,26 @@ import Sidebar from '../../components/Sidebar.astro';
 import { supportedLanguages, type SupportedLanguage, getLocalizedPath, translatePackageSize } from '../../i18n/translations';
 import { getMarket } from '../../i18n/market';
 
+export async function getStaticPaths() {
+  const allProducts = await getCollection('products');
+  
+  // We want to generate /:lang/:pageSlug
+  // pageSlug here represents top-level sections like 'steroids'
+  const paths = [];
+  
+  for (const lang of supportedLanguages) {
+    if (lang === 'en') continue; // Handled by root pages
+    
+    // Add 'steroids' section
+    paths.push({
+      params: { lang, pageSlug: 'steroids' },
+      props: { lang }
+    });
+  }
+  
+  return paths;
+}
+
 const { lang: langParam } = Astro.params;
 const lang = (langParam || 'en') as SupportedLanguage;
 
